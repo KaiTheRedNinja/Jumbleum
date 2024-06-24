@@ -35,6 +35,15 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "This is a collection of notes on various topics.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "code" : [
             "x^2 + y^2 = z^2"
           ],
