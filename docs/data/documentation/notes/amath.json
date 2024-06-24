@@ -124,7 +124,26 @@
 },
 "doc://Notes/documentation/Notes/Binomial-expansions": {
   "abstract" : [
-
+    {
+      "text" : "Binomial expansions help expand expressions of the form ",
+      "type" : "text"
+    },
+    {
+      "code" : "(a+b)^n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " where ",
+      "type" : "text"
+    },
+    {
+      "code" : "n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " is a positive integer",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
   "images" : [

@@ -12,6 +12,8 @@ Basic computing technology and systems, concepts, algorithms, techniques and too
 
 ## Overview
 
+Most of the notes in Computing are from Michael de Beyer's Holy Grail computing textbook.
+
 ## Topics
 
 ### Data and Information

@@ -4,6 +4,8 @@
     @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
+Binomial expansions help expand expressions of the form `(a+b)^n` where `n` is a positive integer
+
 ## Overview
 - Use of the Binomial Theorem
 - Use of the notations n! and nCr

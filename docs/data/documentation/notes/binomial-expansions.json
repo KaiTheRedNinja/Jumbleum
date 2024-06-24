@@ -1,4 +1,26 @@
 {
+  "abstract" : [
+    {
+      "text" : "Binomial expansions help expand expressions of the form ",
+      "type" : "text"
+    },
+    {
+      "code" : "(a+b)^n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " where ",
+      "type" : "text"
+    },
+    {
+      "code" : "n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " is a positive integer",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [

@@ -1,0 +1,782 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Computing",
+        "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Intellectual Property"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Definitions",
+          "level" : 2,
+          "text" : "Definitions",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Intellectual property",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Creations of the mind that have value but can exist purely as data with no physical form.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Copyright",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - The legal right of owners to control the use and distribu- tion of their intellectual property.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Licence",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Official description of activities that are authorised or forbidden by the owner of intellectual property.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Types-of-Software-Licences",
+          "level" : 2,
+          "text" : "Types of Software Licences",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are several types of software licences in order to avoid infringing copyright laws.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "tabs" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Software where the legal protections that are typically granted to intellectual property have either expired, surrendered or",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "are simply inapplicable. Not protected by copyright, anybody can legally copy, modify and distribute public domain software.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "It may not always come with source code, though most do.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Public Domain Software"
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Software where users are given freedom to change, copy, study and share the software and its source code.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The term “free” refers to free to use, not free of charge.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Similar to public domain software, but is still protected under copy- right and the copyright owners may use",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "this protection to require that the software must always be distributed with source code, attribution to the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "original authors must be provided or any modifications must use a similar licence if distributed.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Other types of copyrighted works such as books, photographs and music can be licensed in a similar manner using",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Creative Commons (CC) licences. Note that CC licences grant users freedom to copy, modify and distribute copyrighted",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "works, CC licences are not designed for software and should not be used for this purpose. It can, however, be",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "used to license content that is delivered using software. Higher- education course materials such sa videos and",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "notes created by univer- sities and distributed for free on the Internet, aka open courseware often use CC licences.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Free and Open Source Software (FOSS)"
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Higher-education course materials such sa videos and notes created by universities and distributed for free on the Internet.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Open Courseware"
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Commercial software for which most of the legal protections under copyright are retained.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Unlike FOSS, it is usually not legal to copy, modify or distribute proprietary software. The terms and",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "conditions for which the propri- etary software may or may not be used under copyright protection law are usually",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "communicated to users through an End User License Agree- ment (EULA) contract that the user must accept to use",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "the software.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The source code for proprietary software is usually kept secret.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Although it seems super restrictive compared to FOSS, it is im- portant to remember that software is a form of",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "intellectual property and it is the right of the owner to be compensated for the use of the property.6. An example",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "of proprietary software is Windows OS, where unauthorised copying is illegal and the majority of source code is kept",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "secret.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Proprietary Software"
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Proprietary software that is available for use at no cost.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Some freeware are “lite” versions of proprietary software, allowing users to try a limited version of the software",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "while promoting the full version.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Freeware"
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Demonstration software that is distributed for free but for a specific evaluation period only.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "After the evaluation period, the program expires and the user can no longer access the program unless the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "user pays a registration fee.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The source code for freeware and shareware is usually kept secret and modifying the software is usually illegal.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "However, it may be legal to copy and distribute freeware and shareware. Adobe Reader and Skype are examples of",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "freeware, and Camtasia Studio and WinRAR are examples of shareware.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "Shareware"
+            }
+          ],
+          "type" : "tabNavigator"
+        },
+        {
+          "anchor" : "Software-Piracy",
+          "level" : 2,
+          "text" : "Software Piracy",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Software piracy is the crime of copying, distributing or using proprietary software illegally. Despite being illegal, it is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "prevalent and can take place in many forms.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Installing multiple copies of proprietary software without purchasing addi- tional licences or sharing proprietary software",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with unlicensed users is con- sidered software piracy and can result in similar legal repercussions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Software piracy causes significant loss of revenue for the owners of intellectual property, which leads to higher prices for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "legitimate buyers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Cracks are programs that modify proprietary software so that the software cannot detect that it is being used illegally.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Software piracy is an example of copyright infringement, which is the use or distribution of copyrighted work without the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "permission of the copyright owner. While software piracy is specific to software, copyright infringement can occur for any",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "copyrighted materials, such as pictures on the Internet, which is equivalent to theft.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Although all of this sounds extremely based and redpilled, we are legally required to condemn it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Plagiarism",
+          "level" : 2,
+          "text" : "Plagiarism",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Plagiarism is the cat of passing off someone else’s original work as your own, aka the act of claiming to be the author of a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "piece of work without providing proper credit or attribution to the actual author.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Unlike copyright infringement, plagiarism may not always be illegal, but it is nevertheless an act of dishonestly and is usually",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a punishable offence in academia.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Plagiarism can still occur when the original owner of a piece of work consents to letting someone else use it as their own.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To avoid plagiarism, you can use ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "citations",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " to give proper credit to the original authors of any reproduced materials in published",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "books, websites and articles.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+        "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+        "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+        "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+        "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life"
+      ]
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Authorisation": {
+  "abstract" : [
+    {
+      "text" : "Once the user is authenticated, the ability of a computer to control the access of data and resources by that user is",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "called access ",
+      "type" : "text"
+    },
+    {
+      "inlineContent" : [
+        {
+          "text" : "control\/authorisation",
+          "type" : "text"
+        }
+      ],
+      "type" : "strong"
+    },
+    {
+      "text" : ". Computers provide access control through a variety of means.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Authorisation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/authorisation"
+},
+"doc://Notes/documentation/Notes/Computing": {
+  "abstract" : [
+    {
+      "text" : "Basic computing technology and systems, concepts, algorithms, techniques and tools",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Computing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/computing"
+},
+"doc://Notes/documentation/Notes/Data-Corruption": {
+  "abstract" : [
+    {
+      "inlineContent" : [
+        {
+          "text" : "Data corruption",
+          "type" : "text"
+        }
+      ],
+      "type" : "strong"
+    },
+    {
+      "text" : " occurs when computer data is made unusable by errors or alterations. This can happen during the",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "reading, writing or transmission of data.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Data Corruption",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/data-corruption"
+},
+"doc://Notes/documentation/Notes/Ethical-Social-Economic-issues": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Ethical Social Economic issues",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ethical-social-economic-issues"
+},
+"doc://Notes/documentation/Notes/Impact-of-Technology-on-Everyday-Life": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Impact of Technology on Everyday Life",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/impact-of-technology-on-everyday-life"
+},
+"doc://Notes/documentation/Notes/Threats-to-Privacy-and-Security": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Threats to Privacy and Security",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/threats-to-privacy-and-security"
+},
+"doc://Notes/documentation/Notes/Unauthorised-Access": {
+  "abstract" : [
+    {
+      "text" : "A situation where data owned by someone is used by someone else without permission.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Unauthorised Access",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/unauthorised-access"
+}
+}
+}

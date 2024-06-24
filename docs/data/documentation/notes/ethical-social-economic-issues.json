@@ -13,10 +13,98 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "collectionGroup",
     "title" : "Ethical Social Economic issues"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "How data can be kept safe",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Effects of threats to privacy and security",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Ethical issues and the sharing of information",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Comparing impacts of applications of technology",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Plagiarism and software piracy",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -35,9 +123,36 @@
       ],
       "title" : "Data and Information"
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+        "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+        "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+        "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+        "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property",
+        "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life"
+      ]
+    }
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -52,6 +167,41 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Authorisation": {
+  "abstract" : [
+    {
+      "text" : "Once the user is authenticated, the ability of a computer to control the access of data and resources by that user is",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "called access ",
+      "type" : "text"
+    },
+    {
+      "inlineContent" : [
+        {
+          "text" : "control\/authorisation",
+          "type" : "text"
+        }
+      ],
+      "type" : "strong"
+    },
+    {
+      "text" : ". Computers provide access control through a variety of means.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Authorisation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/authorisation"
+},
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
@@ -65,6 +215,37 @@
   "title" : "Computing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"
+},
+"doc://Notes/documentation/Notes/Data-Corruption": {
+  "abstract" : [
+    {
+      "inlineContent" : [
+        {
+          "text" : "Data corruption",
+          "type" : "text"
+        }
+      ],
+      "type" : "strong"
+    },
+    {
+      "text" : " occurs when computer data is made unusable by errors or alterations. This can happen during the",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "reading, writing or transmission of data.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Data Corruption",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/data-corruption"
 },
 "doc://Notes/documentation/Notes/Data-Management": {
   "abstract" : [
@@ -87,6 +268,53 @@
   "title" : "Data Representation",
   "type" : "topic",
   "url" : "\/documentation\/notes\/data-representation"
+},
+"doc://Notes/documentation/Notes/Impact-of-Technology-on-Everyday-Life": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Impact of Technology on Everyday Life",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/impact-of-technology-on-everyday-life"
+},
+"doc://Notes/documentation/Notes/Intellectual-Property": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Intellectual Property",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/intellectual-property"
+},
+"doc://Notes/documentation/Notes/Threats-to-Privacy-and-Security": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Threats to Privacy and Security",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/threats-to-privacy-and-security"
+},
+"doc://Notes/documentation/Notes/Unauthorised-Access": {
+  "abstract" : [
+    {
+      "text" : "A situation where data owned by someone is used by someone else without permission.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Unauthorised Access",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/unauthorised-access"
 }
 }
 }
