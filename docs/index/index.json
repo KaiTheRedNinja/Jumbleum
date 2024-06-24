@@ -13,6 +13,10 @@
           {
             "children" : [
               {
+                "title" : "Numbers and Algebra",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/numbers-and-their-operations",
                 "title" : "Numbers and their Operations",
                 "type" : "article"
@@ -58,6 +62,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Geometry and Measurement",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/angles-triangles-and-polygons",
                 "title" : "Angles triangles and polygons",
                 "type" : "article"
@@ -93,6 +101,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Statistics and Probability",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/data-handling-and-analysis",
                 "title" : "Data handling and analysis",
                 "type" : "article"
@@ -109,6 +121,10 @@
           },
           {
             "children" : [
+              {
+                "title" : "Algebra",
+                "type" : "groupMarker"
+              },
               {
                 "path" : "\/documentation\/notes\/quadratic-functions",
                 "title" : "Quadratic functions",
@@ -140,6 +156,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Geometry and Trigonometry",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/trig-functions-identities-and-equations",
                 "title" : "Trig functions identities and equations",
                 "type" : "article"
@@ -153,6 +173,10 @@
                 "path" : "\/documentation\/notes\/proofs-in-plane-geometry",
                 "title" : "Proofs in plane geometry",
                 "type" : "article"
+              },
+              {
+                "title" : "Calculus",
+                "type" : "groupMarker"
               },
               {
                 "path" : "\/documentation\/notes\/differentiation-and-integration",
@@ -302,6 +326,10 @@
           {
             "children" : [
               {
+                "title" : "Data and Information",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/data-management",
                 "title" : "Data Management",
                 "type" : "article"
@@ -317,6 +345,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Systems and Communication",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/computer-architecture",
                 "title" : "Computer Architecture",
                 "type" : "article"
@@ -330,6 +362,10 @@
                 "path" : "\/documentation\/notes\/problem-analysis",
                 "title" : "Problem Analysis",
                 "type" : "article"
+              },
+              {
+                "title" : "Abstraction and Algorithms",
+                "type" : "groupMarker"
               },
               {
                 "path" : "\/documentation\/notes\/algorithm-design",
@@ -354,9 +390,17 @@
           {
             "children" : [
               {
+                "title" : "Systems",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/electronic-systems",
                 "title" : "Electronic Systems",
                 "type" : "article"
+              },
+              {
+                "title" : "Fundamentals of Electronics",
+                "type" : "groupMarker"
               },
               {
                 "path" : "\/documentation\/notes\/current-electricity",
@@ -384,6 +428,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Analogue Electronics",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/semiconductor-diodes",
                 "title" : "Semiconductor Diodes",
                 "type" : "article"
@@ -397,6 +445,10 @@
                 "path" : "\/documentation\/notes\/bipolar-junction-transistors",
                 "title" : "Bipolar Junction Transistors",
                 "type" : "article"
+              },
+              {
+                "title" : "Digital Electronics",
+                "type" : "groupMarker"
               },
               {
                 "path" : "\/documentation\/notes\/introduction-to-digital-electronics",
@@ -424,6 +476,10 @@
                 "type" : "article"
               },
               {
+                "title" : "Engineering Design Process",
+                "type" : "groupMarker"
+              },
+              {
                 "path" : "\/documentation\/notes\/engineering-design-process",
                 "title" : "Engineering design process",
                 "type" : "article"
@@ -438,9 +494,31 @@
             "type" : "groupMarker"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/exploring-citizenship-and-governance",
+                "title" : "Exploring Citizenship and Governance",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/living-in-a-diverse-society",
+                "title" : "Living in a Diverse Society",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/being-part-of-a-globalised-world",
+                "title" : "Being Part of a Globalised World",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/exam-questions",
+                "title" : "Exam Questions",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/social-studies",
             "title" : "Social Studies",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "children" : [
@@ -505,30 +583,6 @@
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "symbol"
-          },
-          {
-            "title" : "Articles",
-            "type" : "groupMarker"
-          },
-          {
-            "path" : "\/documentation\/notes\/being-part-of-a-globalised-world",
-            "title" : "Being Part of a Globalised World",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/exam-questions",
-            "title" : "Exam Questions",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/exploring-citizenship-and-governance",
-            "title" : "Exploring Citizenship and Governance",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/living-in-a-diverse-society",
-            "title" : "Living in a Diverse Society",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

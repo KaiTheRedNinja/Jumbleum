@@ -27,17 +27,13 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Data-and-Information",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
-        "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
-        "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
-        "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
-        "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
-        "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
-        "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
-        "doc:\/\/Notes\/documentation\/Notes\/Program-Testing"
-      ]
+        "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues"
+      ],
+      "title" : "Data and Information"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -57,28 +53,6 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Algorithm-Design": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Algorithm Design",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/algorithm-design"
-},
-"doc://Notes/documentation/Notes/Computer-Architecture": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Computer Architecture",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/computer-architecture"
-},
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
@@ -92,17 +66,6 @@
   "title" : "Computing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"
-},
-"doc://Notes/documentation/Notes/Data-Communications": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Data Communications",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/data-communications"
 },
 "doc://Notes/documentation/Notes/Data-Management": {
   "abstract" : [
@@ -125,39 +88,6 @@
   "title" : "Ethical Social Economic issues",
   "type" : "topic",
   "url" : "\/documentation\/notes\/ethical-social-economic-issues"
-},
-"doc://Notes/documentation/Notes/Problem-Analysis": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Problem Analysis",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/problem-analysis"
-},
-"doc://Notes/documentation/Notes/Program-Development": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Program Development",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/program-development"
-},
-"doc://Notes/documentation/Notes/Program-Testing": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Program-Testing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Program Testing",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/program-testing"
 }
 }
 }

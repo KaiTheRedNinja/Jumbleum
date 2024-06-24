@@ -64,7 +64,7 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
+      "anchor" : "Numbers-and-Algebra",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
         "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
@@ -74,17 +74,30 @@
         "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
         "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
         "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
-        "doc:\/\/Notes\/documentation\/Notes\/Matrices",
+        "doc:\/\/Notes\/documentation\/Notes\/Matrices"
+      ],
+      "title" : "Numbers and Algebra"
+    },
+    {
+      "anchor" : "Geometry-and-Measurement",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
         "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
         "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
         "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
         "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
         "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
-        "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+        "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D"
+      ],
+      "title" : "Geometry and Measurement"
+    },
+    {
+      "anchor" : "Statistics-and-Probability",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
         "doc:\/\/Notes\/documentation\/Notes\/Probability"
-      ]
+      ],
+      "title" : "Statistics and Probability"
     }
   ],
   "topicSectionsStyle" : "compactGrid"

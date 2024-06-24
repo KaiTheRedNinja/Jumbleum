@@ -2,7 +2,8 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
       ]
     ]
   },
@@ -24,6 +25,16 @@
   "sections" : [
 
   ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+      ]
+    }
+  ],
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
@@ -40,6 +51,53 @@
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Being Part of a Globalised World",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
+},
+"doc://Notes/documentation/Notes/Exam-Questions": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Exam Questions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exam-questions"
+},
+"doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Exploring Citizenship and Governance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exploring-citizenship-and-governance"
+},
+"doc://Notes/documentation/Notes/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Social Studies",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/social-studies"
 }
 }
 }

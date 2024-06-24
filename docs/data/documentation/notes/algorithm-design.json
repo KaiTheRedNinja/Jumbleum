@@ -27,17 +27,13 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Abstraction-and-Algorithms",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
-        "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
-        "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
-        "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
-        "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
-        "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
         "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
         "doc:\/\/Notes\/documentation\/Notes\/Program-Testing"
-      ]
+      ],
+      "title" : "Abstraction and Algorithms"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -57,17 +53,6 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Computer-Architecture": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Computer Architecture",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/computer-architecture"
-},
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
@@ -81,61 +66,6 @@
   "title" : "Computing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"
-},
-"doc://Notes/documentation/Notes/Data-Communications": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Data Communications",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/data-communications"
-},
-"doc://Notes/documentation/Notes/Data-Management": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Data Management",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/data-management"
-},
-"doc://Notes/documentation/Notes/Data-Representation": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Data Representation",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/data-representation"
-},
-"doc://Notes/documentation/Notes/Ethical-Social-Economic-issues": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Ethical Social Economic issues",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/ethical-social-economic-issues"
-},
-"doc://Notes/documentation/Notes/Problem-Analysis": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Problem Analysis",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/problem-analysis"
 },
 "doc://Notes/documentation/Notes/Program-Development": {
   "abstract" : [

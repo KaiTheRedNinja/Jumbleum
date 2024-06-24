@@ -1,5 +1,13 @@
 # Physics
 
+@Metadata {
+    @CallToAction(
+        url: "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf",
+        purpose: link,
+        label: "Curriculum"
+    )
+}
+
 Physics
 
 ## Overview

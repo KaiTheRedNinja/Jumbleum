@@ -18,8 +18,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Social Studies"
   },
   "primaryContentSections" : [
@@ -30,72 +29,20 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
-                      "isActive" : true,
-                      "type" : "reference"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
-                      "isActive" : true,
-                      "type" : "reference"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
-                      "isActive" : true,
-                      "type" : "reference"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
-                      "isActive" : true,
-                      "type" : "reference"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
     }
   ],
+  "sampleCodeDownload" : {
+    "action" : {
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+      "isActive" : true,
+      "overridingTitle" : "Curriculum (pg 1-15)",
+      "type" : "reference"
+    },
+    "kind" : "sampleDownload"
+  },
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -112,6 +59,17 @@
         "doc:\/\/Notes\/documentation\/Notes\/Geography"
       ],
       "title" : "Humanities"
+    }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+        "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+      ]
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -188,6 +146,12 @@
   "title" : "Living in a Diverse Society",
   "type" : "topic",
   "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf": {
+  "checksum" : null,
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+  "type" : "download",
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf"
 }
 }
 }

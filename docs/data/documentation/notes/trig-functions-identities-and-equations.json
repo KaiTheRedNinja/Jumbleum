@@ -27,18 +27,13 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Geometry-and-Trigonometry",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
-        "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
-        "doc:\/\/Notes\/documentation\/Notes\/Surds",
-        "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
-        "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
-        "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions",
         "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
-        "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry",
-        "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration"
-      ]
+        "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry"
+      ],
+      "title" : "Geometry and Trigonometry"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -72,17 +67,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
 },
-"doc://Notes/documentation/Notes/Binomial-expansions": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Binomial expansions",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/binomial-expansions"
-},
 "doc://Notes/documentation/Notes/Coordinate-geometry-in-two-dimensions": {
   "abstract" : [
 
@@ -94,50 +78,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/coordinate-geometry-in-two-dimensions"
 },
-"doc://Notes/documentation/Notes/Differentiation-and-integration": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Differentiation and integration",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/differentiation-and-integration"
-},
-"doc://Notes/documentation/Notes/Equations-and-Inequalities-A": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Equations and Inequalities A",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/equations-and-inequalities-a"
-},
-"doc://Notes/documentation/Notes/Exponential-and-Logarithmic-functions": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Exponential and Logarithmic functions",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/exponential-and-logarithmic-functions"
-},
-"doc://Notes/documentation/Notes/Polymomials-and-partial-fractions": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Polymomials and partial fractions",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/polymomials-and-partial-fractions"
-},
 "doc://Notes/documentation/Notes/Proofs-in-plane-geometry": {
   "abstract" : [
 
@@ -148,28 +88,6 @@
   "title" : "Proofs in plane geometry",
   "type" : "topic",
   "url" : "\/documentation\/notes\/proofs-in-plane-geometry"
-},
-"doc://Notes/documentation/Notes/Quadratic-functions": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Quadratic functions",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/quadratic-functions"
-},
-"doc://Notes/documentation/Notes/Surds": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Surds",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Surds",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/surds"
 }
 }
 }

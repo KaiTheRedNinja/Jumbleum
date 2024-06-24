@@ -2,7 +2,7 @@
 
 @Metadata {
     @CallToAction(
-        url: "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf",
+        url: "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf#page=16",
         purpose: link,
         label: "Curriculum (pg 16-43)"
     )

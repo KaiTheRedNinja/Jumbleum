@@ -27,6 +27,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Numbers-and-Algebra",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
@@ -36,17 +37,9 @@
         "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
         "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
         "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
-        "doc:\/\/Notes\/documentation\/Notes\/Matrices",
-        "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
-        "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
-        "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
-        "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
-        "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
-        "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
-        "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
-        "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
-        "doc:\/\/Notes\/documentation\/Notes\/Probability"
-      ]
+        "doc:\/\/Notes\/documentation\/Notes\/Matrices"
+      ],
+      "title" : "Numbers and Algebra"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -76,50 +69,6 @@
   "title" : "Algebraic expressions and formulae",
   "type" : "topic",
   "url" : "\/documentation\/notes\/algebraic-expressions-and-formulae"
-},
-"doc://Notes/documentation/Notes/Angles-triangles-and-polygons": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Angles triangles and polygons",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/angles-triangles-and-polygons"
-},
-"doc://Notes/documentation/Notes/Congruence-and-similarity": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Congruence and similarity",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/congruence-and-similarity"
-},
-"doc://Notes/documentation/Notes/Coordinate-Geometry": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Coordinate Geometry",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/coordinate-geometry"
-},
-"doc://Notes/documentation/Notes/Data-handling-and-analysis": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Data handling and analysis",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/data-handling-and-analysis"
 },
 "doc://Notes/documentation/Notes/Emath": {
   "abstract" : [
@@ -168,17 +117,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/matrices"
 },
-"doc://Notes/documentation/Notes/Mensuration": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Mensuration",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/mensuration"
-},
 "doc://Notes/documentation/Notes/Numbers-and-their-Operations": {
   "abstract" : [
 
@@ -201,39 +139,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/percentage"
 },
-"doc://Notes/documentation/Notes/Probability": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Probability",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Probability",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/probability"
-},
-"doc://Notes/documentation/Notes/Properties-of-circles": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Properties of circles",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/properties-of-circles"
-},
-"doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Pythagoras Theorem and Trigonometry",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/pythagoras-theorem-and-trigonometry"
-},
 "doc://Notes/documentation/Notes/Ratio-and-Proportion": {
   "abstract" : [
 
@@ -255,17 +160,6 @@
   "title" : "Set language and notation",
   "type" : "topic",
   "url" : "\/documentation\/notes\/set-language-and-notation"
-},
-"doc://Notes/documentation/Notes/Vectors-in-2D": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Vectors in 2D",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/vectors-in-2d"
 }
 }
 }

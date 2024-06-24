@@ -63,24 +63,49 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
+      "anchor" : "Systems",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems",
+        "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems"
+      ],
+      "title" : "Systems"
+    },
+    {
+      "anchor" : "Fundamentals-of-Electronics",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
         "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
         "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
-        "doc:\/\/Notes\/documentation\/Notes\/Capacitors",
+        "doc:\/\/Notes\/documentation\/Notes\/Capacitors"
+      ],
+      "title" : "Fundamentals of Electronics"
+    },
+    {
+      "anchor" : "Analogue-Electronics",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
         "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
-        "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
+        "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors"
+      ],
+      "title" : "Analogue Electronics"
+    },
+    {
+      "anchor" : "Digital-Electronics",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
         "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
         "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
-        "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
+        "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits"
+      ],
+      "title" : "Digital Electronics"
+    },
+    {
+      "anchor" : "Engineering-Design-Process",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Engineering-design-process"
-      ]
+      ],
+      "title" : "Engineering Design Process"
     }
   ],
   "topicSectionsStyle" : "compactGrid"

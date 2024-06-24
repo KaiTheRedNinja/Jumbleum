@@ -14,12 +14,17 @@ Computing
 
 ## Topics
 
+### Data and Information
 - <doc:Data-Management>
 - <doc:Data-Representation>
 - <doc:Ethical-Social-Economic-issues>
+
+### Systems and Communication
 - <doc:Computer-Architecture>
 - <doc:Data-Communications>
 - <doc:Problem-Analysis>
+
+### Abstraction and Algorithms
 - <doc:Algorithm-Design>
 - <doc:Program-Development>
 - <doc:Program-Testing>

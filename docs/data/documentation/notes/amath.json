@@ -64,19 +64,32 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
+      "anchor" : "Algebra",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
         "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
         "doc:\/\/Notes\/documentation\/Notes\/Surds",
         "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
         "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
-        "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions",
+        "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions"
+      ],
+      "title" : "Algebra"
+    },
+    {
+      "anchor" : "Geometry-and-Trigonometry",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
         "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
-        "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry",
+        "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry"
+      ],
+      "title" : "Geometry and Trigonometry"
+    },
+    {
+      "anchor" : "Calculus",
+      "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration"
-      ]
+      ],
+      "title" : "Calculus"
     }
   ],
   "topicSectionsStyle" : "compactGrid"

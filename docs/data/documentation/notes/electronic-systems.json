@@ -25,27 +25,6 @@
   "sections" : [
 
   ],
-  "seeAlsoSections" : [
-    {
-      "generated" : true,
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
-        "doc:\/\/Notes\/documentation\/Notes\/Resistors",
-        "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
-        "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
-        "doc:\/\/Notes\/documentation\/Notes\/Capacitors",
-        "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
-        "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
-        "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
-        "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
-        "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
-        "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
-        "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
-        "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
-        "doc:\/\/Notes\/documentation\/Notes\/Engineering-design-process"
-      ]
-    }
-  ],
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
@@ -63,94 +42,6 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Alternating-Current": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Alternating Current",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/alternating-current"
-},
-"doc://Notes/documentation/Notes/Basic-logic-gates": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Basic logic gates",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/basic-logic-gates"
-},
-"doc://Notes/documentation/Notes/Bipolar-Junction-Transistors": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Bipolar Junction Transistors",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/bipolar-junction-transistors"
-},
-"doc://Notes/documentation/Notes/Capacitors": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Capacitors",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Capacitors",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/capacitors"
-},
-"doc://Notes/documentation/Notes/Circuit-Theories": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Circuit Theories",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/circuit-theories"
-},
-"doc://Notes/documentation/Notes/Combinational-Logic-Circuits": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Combinational Logic Circuits",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/combinational-logic-circuits"
-},
-"doc://Notes/documentation/Notes/Comparator-timer-and-counter-circuits": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Comparator timer and counter circuits",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits"
-},
-"doc://Notes/documentation/Notes/Current-Electricity": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Current Electricity",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/current-electricity"
-},
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [
     {
@@ -164,72 +55,6 @@
   "title" : "Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronics"
-},
-"doc://Notes/documentation/Notes/Engineering-design-process": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Engineering-design-process",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Engineering design process",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/engineering-design-process"
-},
-"doc://Notes/documentation/Notes/Input-and-output-transducers": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Input and output transducers",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/input-and-output-transducers"
-},
-"doc://Notes/documentation/Notes/Introduction-to-Digital-Electronics": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Introduction to Digital Electronics",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/introduction-to-digital-electronics"
-},
-"doc://Notes/documentation/Notes/Resistors": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Resistors",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/resistors"
-},
-"doc://Notes/documentation/Notes/Semiconductor-Diodes": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Semiconductor Diodes",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/semiconductor-diodes"
-},
-"doc://Notes/documentation/Notes/Set-Reset-Memory-Latches": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Set-Reset Memory Latches",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/set-reset-memory-latches"
 }
 }
 }

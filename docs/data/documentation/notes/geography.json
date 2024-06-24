@@ -36,7 +36,7 @@
   ],
   "sampleCodeDownload" : {
     "action" : {
-      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf#page=16",
       "isActive" : true,
       "overridingTitle" : "Curriculum (pg 16-43)",
       "type" : "reference"
@@ -160,7 +160,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Social Studies",
   "type" : "topic",
   "url" : "\/documentation\/notes\/social-studies"
@@ -220,11 +220,11 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/tourism-development"
 },
-"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf": {
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf#page=16": {
   "checksum" : null,
-  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf#page=16",
   "type" : "download",
-  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf"
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf#page=16"
 }
 }
 }

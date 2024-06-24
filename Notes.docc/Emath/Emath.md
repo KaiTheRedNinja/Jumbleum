@@ -13,6 +13,7 @@ Emath
 ## Overview
 
 ## Topics
+### Numbers and Algebra
 - <doc:Numbers-and-their-Operations>
 - <doc:Ratio-and-Proportion>
 - <doc:Percentage>
@@ -22,6 +23,8 @@ Emath
 - <doc:Equations-and-Inequalities-E>
 - <doc:Set-language-and-notation>
 - <doc:Matrices>
+
+### Geometry and Measurement
 - <doc:Angles-triangles-and-polygons>
 - <doc:Congruence-and-similarity>
 - <doc:Properties-of-circles>
@@ -29,5 +32,7 @@ Emath
 - <doc:Mensuration>
 - <doc:Coordinate-Geometry>
 - <doc:Vectors-in-2D>
+
+### Statistics and Probability
 - <doc:Data-handling-and-analysis>
 - <doc:Probability>
