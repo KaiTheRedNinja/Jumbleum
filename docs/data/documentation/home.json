@@ -113,7 +113,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronics"
@@ -127,7 +127,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Emath",
   "type" : "topic",
   "url" : "\/documentation\/notes\/emath"

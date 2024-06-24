@@ -18,8 +18,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Emath"
   },
   "primaryContentSections" : [
@@ -30,250 +29,20 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Numbers and their Operations",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Ratio and Proportion",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Percentage",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Rate and Speed",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Algebraic expressions and formulae",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Functions and Graphs",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Equations and Inequalities",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Set language and notation",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Matrices",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Angles, triangles and polygons",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Congruence and similarity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Properties of circles",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Pythagoras’ Theorem and Trigonometry",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Mensuration",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Coordinate Geometry",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Vectors in 2D",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Data handling and analysis",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Probability",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
     }
   ],
+  "sampleCodeDownload" : {
+    "action" : {
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4052_y24_sy.pdf",
+      "isActive" : true,
+      "overridingTitle" : "Curriculum",
+      "type" : "reference"
+    },
+    "kind" : "sampleDownload"
+  },
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -293,6 +62,31 @@
       "title" : "Mathematics"
     }
   ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
+        "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
+        "doc:\/\/Notes\/documentation\/Notes\/Percentage",
+        "doc:\/\/Notes\/documentation\/Notes\/Rate-and-Speed",
+        "doc:\/\/Notes\/documentation\/Notes\/Algebraic-expressions-and-formulae",
+        "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
+        "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
+        "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
+        "doc:\/\/Notes\/documentation\/Notes\/Matrices",
+        "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
+        "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+        "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+        "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+        "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+        "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+        "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+        "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
+        "doc:\/\/Notes\/documentation\/Notes\/Probability"
+      ]
+    }
+  ],
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
@@ -310,6 +104,17 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Algebraic-expressions-and-formulae": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algebraic-expressions-and-formulae",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Algebraic expressions and formulae",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/algebraic-expressions-and-formulae"
+},
 "doc://Notes/documentation/Notes/Amath": {
   "abstract" : [
     {
@@ -324,6 +129,116 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
 },
+"doc://Notes/documentation/Notes/Angles-triangles-and-polygons": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Angles triangles and polygons",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/angles-triangles-and-polygons"
+},
+"doc://Notes/documentation/Notes/Congruence-and-similarity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Congruence and similarity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/congruence-and-similarity"
+},
+"doc://Notes/documentation/Notes/Coordinate-Geometry": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Coordinate Geometry",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/coordinate-geometry"
+},
+"doc://Notes/documentation/Notes/Data-handling-and-analysis": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Data handling and analysis",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/data-handling-and-analysis"
+},
+"doc://Notes/documentation/Notes/Equations-and-Inequalities-E": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Equations and Inequalities E",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/equations-and-inequalities-e"
+},
+"doc://Notes/documentation/Notes/Functions-and-Graphs": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Functions and Graphs",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/functions-and-graphs"
+},
+"doc://Notes/documentation/Notes/Matrices": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Matrices",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Matrices",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/matrices"
+},
+"doc://Notes/documentation/Notes/Mensuration": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Mensuration",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mensuration"
+},
+"doc://Notes/documentation/Notes/Numbers-and-their-Operations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Numbers and their Operations",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/numbers-and-their-operations"
+},
+"doc://Notes/documentation/Notes/Percentage": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Percentage",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Percentage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/percentage"
+},
 "doc://Notes/documentation/Notes/Physics": {
   "abstract" : [
     {
@@ -337,6 +252,89 @@
   "title" : "Physics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/physics"
+},
+"doc://Notes/documentation/Notes/Probability": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Probability",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Probability",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/probability"
+},
+"doc://Notes/documentation/Notes/Properties-of-circles": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Properties of circles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/properties-of-circles"
+},
+"doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Pythagoras Theorem and Trigonometry",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/pythagoras-theorem-and-trigonometry"
+},
+"doc://Notes/documentation/Notes/Rate-and-Speed": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Rate-and-Speed",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Rate and Speed",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/rate-and-speed"
+},
+"doc://Notes/documentation/Notes/Ratio-and-Proportion": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ratio and Proportion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ratio-and-proportion"
+},
+"doc://Notes/documentation/Notes/Set-language-and-notation": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Set language and notation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/set-language-and-notation"
+},
+"doc://Notes/documentation/Notes/Vectors-in-2D": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vectors in 2D",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/vectors-in-2d"
+},
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4052_y24_sy.pdf": {
+  "checksum" : null,
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4052_y24_sy.pdf",
+  "type" : "download",
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4052_y24_sy.pdf"
 }
 }
 }

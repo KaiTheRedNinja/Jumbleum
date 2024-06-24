@@ -14,7 +14,7 @@ Amath
 
 ## Topics
 - <doc:Quadratic-functions>
-- <doc:Equations-and-Inequalities>
+- <doc:Equations-and-Inequalities-A>
 - <doc:Surds>
 - <doc:Polymomials-and-partial-fractions>
 - <doc:Binomial-expansions>

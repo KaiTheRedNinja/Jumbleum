@@ -158,7 +158,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronics"

@@ -11,9 +11,101 @@
             "type" : "groupMarker"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/numbers-and-their-operations",
+                "title" : "Numbers and their Operations",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/ratio-and-proportion",
+                "title" : "Ratio and Proportion",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/percentage",
+                "title" : "Percentage",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/rate-and-speed",
+                "title" : "Rate and Speed",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/algebraic-expressions-and-formulae",
+                "title" : "Algebraic expressions and formulae",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/functions-and-graphs",
+                "title" : "Functions and Graphs",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/equations-and-inequalities-e",
+                "title" : "Equations and Inequalities E",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/set-language-and-notation",
+                "title" : "Set language and notation",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/matrices",
+                "title" : "Matrices",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/angles-triangles-and-polygons",
+                "title" : "Angles triangles and polygons",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/congruence-and-similarity",
+                "title" : "Congruence and similarity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/properties-of-circles",
+                "title" : "Properties of circles",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/pythagoras-theorem-and-trigonometry",
+                "title" : "Pythagoras Theorem and Trigonometry",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/mensuration",
+                "title" : "Mensuration",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/coordinate-geometry",
+                "title" : "Coordinate Geometry",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/vectors-in-2d",
+                "title" : "Vectors in 2D",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/data-handling-and-analysis",
+                "title" : "Data handling and analysis",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/probability",
+                "title" : "Probability",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/emath",
             "title" : "Emath",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "children" : [
@@ -23,8 +115,8 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/notes\/equations-and-inequalities",
-                "title" : "Equations and Inequalities",
+                "path" : "\/documentation\/notes\/equations-and-inequalities-a",
+                "title" : "Equations and Inequalities A",
                 "type" : "article"
               },
               {
@@ -134,9 +226,86 @@
             "type" : "symbol"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/electronic-systems",
+                "title" : "Electronic Systems",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/current-electricity",
+                "title" : "Current Electricity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/resistors",
+                "title" : "Resistors",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/circuit-theories",
+                "title" : "Circuit Theories",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/alternating-current",
+                "title" : "Alternating Current",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/capacitors",
+                "title" : "Capacitors",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/semiconductor-diodes",
+                "title" : "Semiconductor Diodes",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/input-and-output-transducers",
+                "title" : "Input and output transducers",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/bipolar-junction-transistors",
+                "title" : "Bipolar Junction Transistors",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/introduction-to-digital-electronics",
+                "title" : "Introduction to Digital Electronics",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/basic-logic-gates",
+                "title" : "Basic logic gates",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/combinational-logic-circuits",
+                "title" : "Combinational Logic Circuits",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/set-reset-memory-latches",
+                "title" : "Set-Reset Memory Latches",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/comparator-timer-and-counter-circuits",
+                "title" : "Comparator timer and counter circuits",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/engineering-design-process",
+                "title" : "Engineering design process",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/electronics",
             "title" : "Electronics",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "title" : "Humanities",
