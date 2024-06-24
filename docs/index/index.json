@@ -146,6 +146,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/binomial-expansions",
                 "title" : "Binomial expansions",
                 "type" : "article"
@@ -590,6 +591,22 @@
         "type" : "module"
       }
     ]
+  },
+  "references" : {
+    "Checkmark.png" : {
+      "alt" : null,
+      "identifier" : "Checkmark.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Checkmark.png"
+        }
+      ]
+    }
   },
   "schemaVersion" : {
     "major" : 0,

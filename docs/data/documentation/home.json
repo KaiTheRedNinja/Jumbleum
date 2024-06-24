@@ -33,6 +33,62 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Each subject has multiple topic. Generally, the ",
+              "type" : "text"
+            },
+            {
+              "code" : "Overview",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " of each topic will be a summary of the topic, followed by either",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A list of subtopics in ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "Topics",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ". The subtopics will be a list of links to the notes for that subtopic.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sections for each subtopic. The sections will contain the notes for that subtopic.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"

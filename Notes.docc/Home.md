@@ -10,6 +10,10 @@ Notes. A lot of them.
 
 ## Overview
 
+Each subject has multiple topic. Generally, the `Overview` of each topic will be a summary of the topic, followed by either
+- A list of subtopics in `Topics`. The subtopics will be a list of links to the notes for that subtopic.
+- Sections for each subtopic. The sections will contain the notes for that subtopic.
+
 ## Topics
 ### Mathematics
 - <doc:Emath>
