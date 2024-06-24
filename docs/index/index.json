@@ -1,0 +1,19 @@
+{
+  "includedArchiveIdentifiers" : [
+    "Documentation"
+  ],
+  "interfaceLanguages" : {
+    "swift" : [
+      {
+        "path" : "\/documentation\/home",
+        "title" : "Everything Notes",
+        "type" : "module"
+      }
+    ]
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 1,
+    "patch" : 2
+  }
+}

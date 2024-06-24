@@ -12,6 +12,7 @@ all: local deploy
 prebuild:
 	@echo "Setting environment variables"
 	@export DOCC_JSON_PRETTYPRINT="YES"
+	@export DOCC_HTML_DIR="/Users/kaitay/Documents/Notes/Everything/dist"
 
 # Build for local environment
 local: prebuild

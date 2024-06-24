@@ -13,3 +13,7 @@
 Notes. A lot of them.
 
 ## Overview
+
+```math
+x^2 + y^2 = z^2
+```

@@ -1,0 +1,57 @@
+{
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Documentation\/documentation\/Home"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "color" : {
+      "standardColorIdentifier" : "purple"
+    },
+    "role" : "collection",
+    "roleHeading" : "Notes",
+    "title" : "Everything Notes"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "x^2 + y^2 = z^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSectionsStyle" : "compactGrid"
+}
