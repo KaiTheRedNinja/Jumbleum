@@ -10,7 +10,6 @@ Notes. A lot of them.
 
 ## Overview
 
-
 ## Topics
 ### Mathematics
 - <doc:Emath>

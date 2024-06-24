@@ -10,6 +10,15 @@ To build the notes, CD to the parent directory of Documentation.docc and run the
  - `make run` to run the local version of the portfolio.
  - `make commit msg="commit msg here"` to build deploy version and commit
 
+Note that we use a custom build of `swift-docc-render`, which provides LaTeX support and other features not 
+present in the default version of `swift-docc-render`. It sometimes doesn't apply itself, so if you encounter
+issues, run these commands in the terminal:
+```shell
+export DOCC_HTML_DIR="/Users/kaitay/Documents/Notes/Everything/dist"
+xcrun docc convert . --transform-for-static-hosting
+make run
+```
+
 Visit http://localhost:8000/documentation/home/ to view the portfolio locally.
 
 Note that by default, the script produces TWO versions of the portfolio. 
