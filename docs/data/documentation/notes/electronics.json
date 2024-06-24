@@ -1,26 +1,26 @@
 {
   "abstract" : [
     {
-      "text" : "Emath",
+      "text" : "Electronics",
       "type" : "text"
     }
   ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Documentation\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Emath"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Electronics"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Emath"
+    "title" : "Electronics"
   },
   "primaryContentSections" : [
     {
@@ -38,7 +38,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Numbers and their Operations",
+                      "text" : "Electronic Systems",
                       "type" : "text"
                     }
                   ],
@@ -51,7 +51,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Ratio and Proportion",
+                      "text" : "Current Electricity",
                       "type" : "text"
                     }
                   ],
@@ -64,7 +64,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Percentage",
+                      "text" : "Resistors",
                       "type" : "text"
                     }
                   ],
@@ -77,7 +77,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Rate and Speed",
+                      "text" : "Circuit Theories",
                       "type" : "text"
                     }
                   ],
@@ -90,7 +90,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Algebraic expressions and formulae",
+                      "text" : "Alternating Current",
                       "type" : "text"
                     }
                   ],
@@ -103,7 +103,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Functions and Graphs",
+                      "text" : "Capacitors",
                       "type" : "text"
                     }
                   ],
@@ -116,7 +116,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Equations and Inequalities",
+                      "text" : "Semiconductor Diodes",
                       "type" : "text"
                     }
                   ],
@@ -129,7 +129,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Set language and notation",
+                      "text" : "Input and output transducers",
                       "type" : "text"
                     }
                   ],
@@ -142,7 +142,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Matrices",
+                      "text" : "Bipolar Junction Transistors",
                       "type" : "text"
                     }
                   ],
@@ -155,7 +155,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Angles, triangles and polygons",
+                      "text" : "Introduction to Digital Electronics",
                       "type" : "text"
                     }
                   ],
@@ -168,7 +168,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Congruence and similarity",
+                      "text" : "Basic logic gates",
                       "type" : "text"
                     }
                   ],
@@ -181,7 +181,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Properties of circles",
+                      "text" : "Combinational Logic Circuits",
                       "type" : "text"
                     }
                   ],
@@ -194,7 +194,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Pythagoras’ Theorem and Trigonometry",
+                      "text" : "Set-Reset Memory Latches",
                       "type" : "text"
                     }
                   ],
@@ -207,7 +207,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Mensuration",
+                      "text" : "Voltage comparator, timer, and counter circuits",
                       "type" : "text"
                     }
                   ],
@@ -220,46 +220,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Coordinate Geometry",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Vectors in 2D",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Data handling and analysis",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Probability",
+                      "text" : "Engineering design process",
                       "type" : "text"
                     }
                   ],
@@ -284,59 +245,44 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Mathematics",
+      "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Physics"
+        "doc:\/\/Notes\/documentation\/Notes\/Computing"
       ],
-      "title" : "Mathematics"
+      "title" : "Applied Subjects"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Amath": {
-  "abstract" : [
-    {
-      "text" : "Amath",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Amath",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/amath"
-},
-"doc://Documentation/documentation/Documentation/Physics": {
-  "abstract" : [
-    {
-      "text" : "Physics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Physics",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Physics",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/physics"
-},
-"doc://Documentation/documentation/Home": {
+"doc://Notes/documentation/Home": {
   "abstract" : [
     {
       "text" : "Notes. A lot of them.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Computing": {
+  "abstract" : [
+    {
+      "text" : "Computing",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Computing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/computing"
 }
 }
 }

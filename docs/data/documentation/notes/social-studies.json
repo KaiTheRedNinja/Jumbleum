@@ -8,13 +8,13 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Documentation\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Social-Studies"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
   },
   "kind" : "article",
   "metadata" : {
@@ -105,7 +105,7 @@
       "anchor" : "Humanities",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Geography"
+        "doc:\/\/Notes\/documentation\/Notes\/Geography"
       ],
       "title" : "Humanities"
     }
@@ -113,33 +113,33 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Geography": {
-  "abstract" : [
-    {
-      "text" : "Geography",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Geography",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Geography",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/geography"
-},
-"doc://Documentation/documentation/Home": {
+"doc://Notes/documentation/Home": {
   "abstract" : [
     {
       "text" : "Notes. A lot of them.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Geography": {
+  "abstract" : [
+    {
+      "text" : "Geography",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Geography",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography"
 }
 }
 }

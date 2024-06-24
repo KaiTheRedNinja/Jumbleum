@@ -1,26 +1,26 @@
 {
   "abstract" : [
     {
-      "text" : "Electronics",
+      "text" : "Computing",
       "type" : "text"
     }
   ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Documentation\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Electronics"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Computing"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Electronics"
+    "title" : "Computing"
   },
   "primaryContentSections" : [
     {
@@ -38,7 +38,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Electronic Systems",
+                      "text" : "Data Management",
                       "type" : "text"
                     }
                   ],
@@ -51,7 +51,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Current Electricity",
+                      "text" : "Data Representation",
                       "type" : "text"
                     }
                   ],
@@ -64,7 +64,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Resistors",
+                      "text" : "Ethical, Social, Economic issues",
                       "type" : "text"
                     }
                   ],
@@ -77,7 +77,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Circuit Theories",
+                      "text" : "Computer Architecture",
                       "type" : "text"
                     }
                   ],
@@ -90,7 +90,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Alternating Current",
+                      "text" : "Data Communications",
                       "type" : "text"
                     }
                   ],
@@ -103,7 +103,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Capacitors",
+                      "text" : "Problem Analysis",
                       "type" : "text"
                     }
                   ],
@@ -116,7 +116,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Semiconductor Diodes",
+                      "text" : "Algorithm Design",
                       "type" : "text"
                     }
                   ],
@@ -129,7 +129,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Input and output transducers",
+                      "text" : "Program Development",
                       "type" : "text"
                     }
                   ],
@@ -142,85 +142,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Bipolar Junction Transistors",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Introduction to Digital Electronics",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Basic logic gates",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Combinational Logic Circuits",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Set-Reset Memory Latches",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Voltage comparator, timer, and counter circuits",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Engineering design process",
+                      "text" : "Program Testing",
                       "type" : "text"
                     }
                   ],
@@ -248,7 +170,7 @@
       "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Computing"
+        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
       ],
       "title" : "Applied Subjects"
     }
@@ -256,33 +178,33 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Computing": {
-  "abstract" : [
-    {
-      "text" : "Computing",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Computing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Computing",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/computing"
-},
-"doc://Documentation/documentation/Home": {
+"doc://Notes/documentation/Home": {
   "abstract" : [
     {
       "text" : "Notes. A lot of them.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Electronics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronics"
 }
 }
 }

@@ -14,7 +14,7 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Home"
+    "url" : "doc:\/\/Notes\/documentation\/Home"
   },
   "kind" : "article",
   "metadata" : {
@@ -50,25 +50,25 @@
     {
       "anchor" : "Mathematics",
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Physics"
+        "doc:\/\/Notes\/documentation\/Notes\/Emath",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
       ],
       "title" : "Mathematics"
     },
     {
       "anchor" : "Applied-Subjects",
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Computing",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Electronics"
+        "doc:\/\/Notes\/documentation\/Notes\/Computing",
+        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
       ],
       "title" : "Applied Subjects"
     },
     {
       "anchor" : "Humanities",
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Social-Studies",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Geography"
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+        "doc:\/\/Notes\/documentation\/Notes\/Geography"
       ],
       "title" : "Humanities"
     }
@@ -76,103 +76,103 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Amath": {
+"doc://Notes/documentation/Notes/Amath": {
   "abstract" : [
     {
       "text" : "Amath",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
   "kind" : "article",
   "role" : "article",
   "title" : "Amath",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/amath"
+  "url" : "\/documentation\/notes\/amath"
 },
-"doc://Documentation/documentation/Documentation/Computing": {
+"doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
       "text" : "Computing",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Computing",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
   "kind" : "article",
   "role" : "article",
   "title" : "Computing",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/computing"
+  "url" : "\/documentation\/notes\/computing"
 },
-"doc://Documentation/documentation/Documentation/Electronics": {
+"doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [
     {
       "text" : "Electronics",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Electronics",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
   "kind" : "article",
   "role" : "article",
   "title" : "Electronics",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/electronics"
+  "url" : "\/documentation\/notes\/electronics"
 },
-"doc://Documentation/documentation/Documentation/Emath": {
+"doc://Notes/documentation/Notes/Emath": {
   "abstract" : [
     {
       "text" : "Emath",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
   "kind" : "article",
   "role" : "article",
   "title" : "Emath",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/emath"
+  "url" : "\/documentation\/notes\/emath"
 },
-"doc://Documentation/documentation/Documentation/Geography": {
+"doc://Notes/documentation/Notes/Geography": {
   "abstract" : [
     {
       "text" : "Geography",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Geography",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
   "kind" : "article",
   "role" : "article",
   "title" : "Geography",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/geography"
+  "url" : "\/documentation\/notes\/geography"
 },
-"doc://Documentation/documentation/Documentation/Physics": {
+"doc://Notes/documentation/Notes/Physics": {
   "abstract" : [
     {
       "text" : "Physics",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Physics",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "kind" : "article",
   "role" : "article",
   "title" : "Physics",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/physics"
+  "url" : "\/documentation\/notes\/physics"
 },
-"doc://Documentation/documentation/Documentation/Social-Studies": {
+"doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [
     {
       "text" : "Social Studies",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Social-Studies",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
   "kind" : "article",
   "role" : "article",
   "title" : "Social Studies",
   "type" : "topic",
-  "url" : "\/documentation\/documentation\/social-studies"
+  "url" : "\/documentation\/notes\/social-studies"
 }
 }
 }

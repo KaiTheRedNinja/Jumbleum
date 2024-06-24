@@ -1,26 +1,26 @@
 {
   "abstract" : [
     {
-      "text" : "Computing",
+      "text" : "Geography",
       "type" : "text"
     }
   ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Documentation\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Computing"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Geography"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Computing"
+    "title" : "Geography"
   },
   "primaryContentSections" : [
     {
@@ -32,13 +32,22 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Natural Geography",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Data Management",
+                      "text" : "Thinking Geographically",
                       "type" : "text"
                     }
                   ],
@@ -51,7 +60,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Data Representation",
+                      "text" : "Sustainable Development",
                       "type" : "text"
                     }
                   ],
@@ -64,7 +73,34 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Ethical, Social, Economic issues",
+                      "text" : "Geographical Methods",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Tourism",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Tourism Activity",
                       "type" : "text"
                     }
                   ],
@@ -77,7 +113,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Computer Architecture",
+                      "text" : "Tourism Development",
                       "type" : "text"
                     }
                   ],
@@ -90,7 +126,34 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Data Communications",
+                      "text" : "Sustainable Tourism Development",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Plate tectonics",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Plate Tectonics",
                       "type" : "text"
                     }
                   ],
@@ -103,7 +166,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Problem Analysis",
+                      "text" : "Earthquakes and Volcanoes",
                       "type" : "text"
                     }
                   ],
@@ -116,33 +179,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Algorithm Design",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Program Development",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Program Testing",
+                      "text" : "Disaster Risk Management",
                       "type" : "text"
                     }
                   ],
@@ -167,44 +204,44 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Applied-Subjects",
+      "anchor" : "Humanities",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Electronics"
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
       ],
-      "title" : "Applied Subjects"
+      "title" : "Humanities"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Electronics": {
-  "abstract" : [
-    {
-      "text" : "Electronics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Electronics",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Electronics",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/electronics"
-},
-"doc://Documentation/documentation/Home": {
+"doc://Notes/documentation/Home": {
   "abstract" : [
     {
       "text" : "Notes. A lot of them.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Social Studies",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/social-studies"
 }
 }
 }

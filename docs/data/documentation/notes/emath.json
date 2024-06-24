@@ -1,26 +1,26 @@
 {
   "abstract" : [
     {
-      "text" : "Physics",
+      "text" : "Emath",
       "type" : "text"
     }
   ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Documentation\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Documentation\/documentation\/Documentation\/Physics"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Emath"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Physics"
+    "title" : "Emath"
   },
   "primaryContentSections" : [
     {
@@ -32,49 +32,13 @@
           "type" : "heading"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "I. Measurement",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Physical Quantities, Units and Measurement",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "II. Newtonian Mechanics",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Kinematics",
+                      "text" : "Numbers and their Operations",
                       "type" : "text"
                     }
                   ],
@@ -87,7 +51,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Dynamics",
+                      "text" : "Ratio and Proportion",
                       "type" : "text"
                     }
                   ],
@@ -100,7 +64,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Turning Effect of Forces",
+                      "text" : "Percentage",
                       "type" : "text"
                     }
                   ],
@@ -113,7 +77,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Pressure",
+                      "text" : "Rate and Speed",
                       "type" : "text"
                     }
                   ],
@@ -126,34 +90,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Energy",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "III. Thermal Physics",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Kinetic Particle Model of Matter",
+                      "text" : "Algebraic expressions and formulae",
                       "type" : "text"
                     }
                   ],
@@ -166,7 +103,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Thermal Processes",
+                      "text" : "Functions and Graphs",
                       "type" : "text"
                     }
                   ],
@@ -179,34 +116,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Thermal Properties of Matter",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "IV. Waves",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "General Properties of Waves",
+                      "text" : "Equations and Inequalities",
                       "type" : "text"
                     }
                   ],
@@ -219,7 +129,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Electromagnetic Spectrum",
+                      "text" : "Set language and notation",
                       "type" : "text"
                     }
                   ],
@@ -232,34 +142,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Light",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "V. Electricity and Magnetism",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Static Electricity",
+                      "text" : "Matrices",
                       "type" : "text"
                     }
                   ],
@@ -272,7 +155,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Current of Electricity",
+                      "text" : "Angles, triangles and polygons",
                       "type" : "text"
                     }
                   ],
@@ -285,7 +168,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "D.C. Circuits",
+                      "text" : "Congruence and similarity",
                       "type" : "text"
                     }
                   ],
@@ -298,7 +181,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Practical Electricity",
+                      "text" : "Properties of circles",
                       "type" : "text"
                     }
                   ],
@@ -311,7 +194,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Magnetism",
+                      "text" : "Pythagoras’ Theorem and Trigonometry",
                       "type" : "text"
                     }
                   ],
@@ -324,7 +207,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Electromagnetism",
+                      "text" : "Mensuration",
                       "type" : "text"
                     }
                   ],
@@ -337,34 +220,46 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Electromagnetic Induction",
+                      "text" : "Coordinate Geometry",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
                 }
               ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "VI. Radioactivity",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
+            },
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Radioactivity",
+                      "text" : "Vectors in 2D",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Data handling and analysis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Probability",
                       "type" : "text"
                     }
                   ],
@@ -392,8 +287,8 @@
       "anchor" : "Mathematics",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
-        "doc:\/\/Documentation\/documentation\/Documentation\/Amath"
+        "doc:\/\/Notes\/documentation\/Notes\/Amath",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
       ],
       "title" : "Mathematics"
     }
@@ -401,47 +296,47 @@
   "topicSectionsStyle" : "compactGrid"
 , 
 "references": {
-"doc://Documentation/documentation/Documentation/Amath": {
-  "abstract" : [
-    {
-      "text" : "Amath",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Amath",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/amath"
-},
-"doc://Documentation/documentation/Documentation/Emath": {
-  "abstract" : [
-    {
-      "text" : "Emath",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Emath",
-  "type" : "topic",
-  "url" : "\/documentation\/documentation\/emath"
-},
-"doc://Documentation/documentation/Home": {
+"doc://Notes/documentation/Home": {
   "abstract" : [
     {
       "text" : "Notes. A lot of them.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Documentation\/documentation\/Home",
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Amath",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Physics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
 }
 }
 }

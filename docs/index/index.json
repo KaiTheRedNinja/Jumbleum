@@ -1,6 +1,6 @@
 {
   "includedArchiveIdentifiers" : [
-    "Documentation"
+    "Notes"
   ],
   "interfaceLanguages" : {
     "swift" : [
@@ -11,17 +11,17 @@
             "type" : "groupMarker"
           },
           {
-            "path" : "\/documentation\/documentation\/emath",
+            "path" : "\/documentation\/notes\/emath",
             "title" : "Emath",
             "type" : "article"
           },
           {
-            "path" : "\/documentation\/documentation\/amath",
+            "path" : "\/documentation\/notes\/amath",
             "title" : "Amath",
             "type" : "article"
           },
           {
-            "path" : "\/documentation\/documentation\/physics",
+            "path" : "\/documentation\/notes\/physics",
             "title" : "Physics",
             "type" : "article"
           },
@@ -30,12 +30,12 @@
             "type" : "groupMarker"
           },
           {
-            "path" : "\/documentation\/documentation\/computing",
+            "path" : "\/documentation\/notes\/computing",
             "title" : "Computing",
             "type" : "article"
           },
           {
-            "path" : "\/documentation\/documentation\/electronics",
+            "path" : "\/documentation\/notes\/electronics",
             "title" : "Electronics",
             "type" : "article"
           },
@@ -44,12 +44,12 @@
             "type" : "groupMarker"
           },
           {
-            "path" : "\/documentation\/documentation\/social-studies",
+            "path" : "\/documentation\/notes\/social-studies",
             "title" : "Social Studies",
             "type" : "article"
           },
           {
-            "path" : "\/documentation\/documentation\/geography",
+            "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "article"
           }
