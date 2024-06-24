@@ -33,22 +33,6 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "This is a collection of notes on various topics.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "x^2 + y^2 = z^2"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
         }
       ],
       "kind" : "content"
@@ -62,5 +46,133 @@
   "sections" : [
 
   ],
+  "topicSections" : [
+    {
+      "anchor" : "Mathematics",
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Physics"
+      ],
+      "title" : "Mathematics"
+    },
+    {
+      "anchor" : "Applied-Subjects",
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Computing",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Electronics"
+      ],
+      "title" : "Applied Subjects"
+    },
+    {
+      "anchor" : "Humanities",
+      "identifiers" : [
+        "doc:\/\/Documentation\/documentation\/Documentation\/Social-Studies",
+        "doc:\/\/Documentation\/documentation\/Documentation\/Geography"
+      ],
+      "title" : "Humanities"
+    }
+  ],
   "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"doc://Documentation/documentation/Documentation/Amath": {
+  "abstract" : [
+    {
+      "text" : "Amath",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Amath",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/amath"
+},
+"doc://Documentation/documentation/Documentation/Computing": {
+  "abstract" : [
+    {
+      "text" : "Computing",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Computing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Computing",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/computing"
+},
+"doc://Documentation/documentation/Documentation/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Electronics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Electronics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/electronics"
+},
+"doc://Documentation/documentation/Documentation/Emath": {
+  "abstract" : [
+    {
+      "text" : "Emath",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Emath",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Emath",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/emath"
+},
+"doc://Documentation/documentation/Documentation/Geography": {
+  "abstract" : [
+    {
+      "text" : "Geography",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Geography",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Geography",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/geography"
+},
+"doc://Documentation/documentation/Documentation/Physics": {
+  "abstract" : [
+    {
+      "text" : "Physics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Physics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/physics"
+},
+"doc://Documentation/documentation/Documentation/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Social Studies",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Documentation\/documentation\/Documentation\/Social-Studies",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/documentation\/social-studies"
+}
+}
 }

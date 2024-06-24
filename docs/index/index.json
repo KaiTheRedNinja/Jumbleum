@@ -5,6 +5,55 @@
   "interfaceLanguages" : {
     "swift" : [
       {
+        "children" : [
+          {
+            "title" : "Mathematics",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/documentation\/emath",
+            "title" : "Emath",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/documentation\/amath",
+            "title" : "Amath",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/documentation\/physics",
+            "title" : "Physics",
+            "type" : "article"
+          },
+          {
+            "title" : "Applied Subjects",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/documentation\/computing",
+            "title" : "Computing",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/documentation\/electronics",
+            "title" : "Electronics",
+            "type" : "article"
+          },
+          {
+            "title" : "Humanities",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/documentation\/social-studies",
+            "title" : "Social Studies",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/documentation\/geography",
+            "title" : "Geography",
+            "type" : "article"
+          }
+        ],
         "path" : "\/documentation\/home",
         "title" : "Everything Notes",
         "type" : "module"
