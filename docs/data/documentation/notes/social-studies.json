@@ -136,7 +136,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Geography",
   "type" : "topic",
   "url" : "\/documentation\/notes\/geography"

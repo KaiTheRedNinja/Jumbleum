@@ -1,0 +1,1 @@
+# Turning Effect of Forces

@@ -165,9 +165,135 @@
             "type" : "symbol"
           },
           {
+            "children" : [
+              {
+                "title" : "I. Measurement",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/physical-quantities-units-and-measurement",
+                "title" : "Physical Quantities Units and Measurement",
+                "type" : "article"
+              },
+              {
+                "title" : "II. Newtonian Mechanics",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/kinematics",
+                "title" : "Kinematics",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/dynamics",
+                "title" : "Dynamics",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/turning-effect-of-forces",
+                "title" : "Turning Effect of Forces",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/pressure",
+                "title" : "Pressure",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/energy",
+                "title" : "Energy",
+                "type" : "article"
+              },
+              {
+                "title" : "III. Thermal Physics",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/kinetic-particle-model-of-matter",
+                "title" : "Kinetic Particle Model of Matter",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/thermal-processes",
+                "title" : "Thermal Processes",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/thermal-properties-of-matter",
+                "title" : "Thermal Properties of Matter",
+                "type" : "article"
+              },
+              {
+                "title" : "IV. Waves",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/general-properties-of-waves",
+                "title" : "General Properties of Waves",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/electromagnetic-spectrum",
+                "title" : "Electromagnetic Spectrum",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/light",
+                "title" : "Light",
+                "type" : "article"
+              },
+              {
+                "title" : "V. Electricity and Magnetism",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/static-electricity",
+                "title" : "Static Electricity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/current-of-electricity",
+                "title" : "Current of Electricity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/d.c.-circuits",
+                "title" : "D.C. Circuits",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/practical-electricity",
+                "title" : "Practical Electricity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/magnetism",
+                "title" : "Magnetism",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/electromagnetism",
+                "title" : "Electromagnetism",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/electromagnetic-induction",
+                "title" : "Electromagnetic Induction",
+                "type" : "article"
+              },
+              {
+                "title" : "VI. Radioactivity",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/radioactivity",
+                "title" : "Radioactivity",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/physics",
             "title" : "Physics",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "title" : "Applied Subjects",
@@ -317,9 +443,68 @@
             "type" : "article"
           },
           {
+            "children" : [
+              {
+                "title" : "Natural Geography",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/thinking-geographically",
+                "title" : "Thinking Geographically",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/sustainable-development",
+                "title" : "Sustainable Development",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/geographical-methods",
+                "title" : "Geographical Methods",
+                "type" : "article"
+              },
+              {
+                "title" : "Tourism",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/tourism-activity",
+                "title" : "Tourism Activity",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/tourism-development",
+                "title" : "Tourism Development",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/sustainable-tourism-development",
+                "title" : "Sustainable Tourism Development",
+                "type" : "article"
+              },
+              {
+                "title" : "Plate tectonics",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/plate-tectonics",
+                "title" : "Plate Tectonics",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/earthquakes-and-volcanoes",
+                "title" : "Earthquakes and Volcanoes",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/disaster-risk-management",
+                "title" : "Disaster Risk Management",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
-            "type" : "article"
+            "type" : "symbol"
           }
         ],
         "path" : "\/documentation\/home",

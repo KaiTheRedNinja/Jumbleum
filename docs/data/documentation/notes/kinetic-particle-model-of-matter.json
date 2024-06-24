@@ -1,0 +1,93 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Kinetic Particle Model of Matter"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "III-Thermal-Physics",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
+        "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter"
+      ],
+      "title" : "III. Thermal Physics"
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Everything Notes",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Physics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
+},
+"doc://Notes/documentation/Notes/Thermal-Processes": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thermal Processes",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thermal-processes"
+},
+"doc://Notes/documentation/Notes/Thermal-Properties-of-Matter": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thermal Properties of Matter",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thermal-properties-of-matter"
+}
+}
+}

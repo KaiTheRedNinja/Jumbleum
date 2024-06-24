@@ -248,7 +248,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Physics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/physics"

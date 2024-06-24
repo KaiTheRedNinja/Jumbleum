@@ -1,0 +1,93 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Geography"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Disaster-Risk-Management"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Disaster Risk Management"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Plate-tectonics",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
+        "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes"
+      ],
+      "title" : "Plate tectonics"
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Everything Notes",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Earthquakes-and-Volcanoes": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Earthquakes and Volcanoes",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/earthquakes-and-volcanoes"
+},
+"doc://Notes/documentation/Notes/Geography": {
+  "abstract" : [
+    {
+      "text" : "Geography",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Geography",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography"
+},
+"doc://Notes/documentation/Notes/Plate-Tectonics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Plate Tectonics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/plate-tectonics"
+}
+}
+}

@@ -18,8 +18,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Geography"
   },
   "primaryContentSections" : [
@@ -30,170 +29,20 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Natural Geography",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Thinking Geographically",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Sustainable Development",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Geographical Methods",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Tourism",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Tourism Activity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Tourism Development",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Sustainable Tourism Development",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Plate tectonics",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Plate Tectonics",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Earthquakes and Volcanoes",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Disaster Risk Management",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
     }
   ],
+  "sampleCodeDownload" : {
+    "action" : {
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+      "isActive" : true,
+      "overridingTitle" : "Curriculum (pg 16-43)",
+      "type" : "reference"
+    },
+    "kind" : "sampleDownload"
+  },
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -210,6 +59,35 @@
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
       ],
       "title" : "Humanities"
+    }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Natural-Geography",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
+        "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
+        "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods"
+      ],
+      "title" : "Natural Geography"
+    },
+    {
+      "anchor" : "Tourism",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
+        "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
+        "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Tourism-Development"
+      ],
+      "title" : "Tourism"
+    },
+    {
+      "anchor" : "Plate-tectonics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
+        "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
+        "doc:\/\/Notes\/documentation\/Notes\/Disaster-Risk-Management"
+      ],
+      "title" : "Plate tectonics"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -229,6 +107,50 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Disaster-Risk-Management": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Disaster-Risk-Management",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Disaster Risk Management",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/disaster-risk-management"
+},
+"doc://Notes/documentation/Notes/Earthquakes-and-Volcanoes": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Earthquakes and Volcanoes",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/earthquakes-and-volcanoes"
+},
+"doc://Notes/documentation/Notes/Geographical-Methods": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Geographical Methods",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geographical-methods"
+},
+"doc://Notes/documentation/Notes/Plate-Tectonics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Plate Tectonics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/plate-tectonics"
+},
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [
     {
@@ -242,6 +164,67 @@
   "title" : "Social Studies",
   "type" : "topic",
   "url" : "\/documentation\/notes\/social-studies"
+},
+"doc://Notes/documentation/Notes/Sustainable-Development": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Sustainable Development",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/sustainable-development"
+},
+"doc://Notes/documentation/Notes/Sustainable-Tourism-Development": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Tourism-Development",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Sustainable Tourism Development",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/sustainable-tourism-development"
+},
+"doc://Notes/documentation/Notes/Thinking-Geographically": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thinking Geographically",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thinking-geographically"
+},
+"doc://Notes/documentation/Notes/Tourism-Activity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Tourism Activity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/tourism-activity"
+},
+"doc://Notes/documentation/Notes/Tourism-Development": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Tourism Development",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/tourism-development"
+},
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf": {
+  "checksum" : null,
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+  "type" : "download",
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf"
 }
 }
 }

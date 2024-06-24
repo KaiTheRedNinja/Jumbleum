@@ -1,20 +1,30 @@
 # Geography
 
+@Metadata {
+    @CallToAction(
+        url: "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf",
+        purpose: link,
+        label: "Curriculum (pg 16-43)"
+    )
+}
+
 Geography
 
 ## Overview
 
-Natural Geography
-- Thinking Geographically
-- Sustainable Development
-- Geographical Methods
+## Topics
 
-Tourism
-- Tourism Activity
-- Tourism Development
-- Sustainable Tourism Development
+### Natural Geography
+- <doc:Thinking-Geographically>
+- <doc:Sustainable-Development>
+- <doc:Geographical-Methods>
 
-Plate tectonics
-- Plate Tectonics
-- Earthquakes and Volcanoes
-- Disaster Risk Management
+### Tourism
+- <doc:Tourism-Activity>
+- <doc:Tourism-Development>
+- <doc:Sustainable-Tourism-Development>
+
+### Plate tectonics
+- <doc:Plate-Tectonics>
+- <doc:Earthquakes-and-Volcanoes>
+- <doc:Disaster-Risk-Management>

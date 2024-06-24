@@ -18,8 +18,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Physics"
   },
   "primaryContentSections" : [
@@ -30,350 +29,6 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "I. Measurement",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Physical Quantities, Units and Measurement",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "II. Newtonian Mechanics",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Kinematics",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Dynamics",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Turning Effect of Forces",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Pressure",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Energy",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "III. Thermal Physics",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Kinetic Particle Model of Matter",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Thermal Processes",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Thermal Properties of Matter",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "IV. Waves",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "General Properties of Waves",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Electromagnetic Spectrum",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Light",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "V. Electricity and Magnetism",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Static Electricity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Current of Electricity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "D.C. Circuits",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Practical Electricity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Magnetism",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Electromagnetism",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Electromagnetic Induction",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "VI. Radioactivity",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Radioactivity",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -396,6 +51,64 @@
         "doc:\/\/Notes\/documentation\/Notes\/Amath"
       ],
       "title" : "Mathematics"
+    }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "I-Measurement",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement"
+      ],
+      "title" : "I. Measurement"
+    },
+    {
+      "anchor" : "II-Newtonian-Mechanics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
+        "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
+        "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces",
+        "doc:\/\/Notes\/documentation\/Notes\/Pressure",
+        "doc:\/\/Notes\/documentation\/Notes\/Energy"
+      ],
+      "title" : "II. Newtonian Mechanics"
+    },
+    {
+      "anchor" : "III-Thermal-Physics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
+        "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
+        "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter"
+      ],
+      "title" : "III. Thermal Physics"
+    },
+    {
+      "anchor" : "IV-Waves",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
+        "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
+        "doc:\/\/Notes\/documentation\/Notes\/Light"
+      ],
+      "title" : "IV. Waves"
+    },
+    {
+      "anchor" : "V-Electricity-and-Magnetism",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+        "doc:\/\/Notes\/documentation\/Notes\/Practical-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Magnetism",
+        "doc:\/\/Notes\/documentation\/Notes\/Electromagnetism",
+        "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction"
+      ],
+      "title" : "V. Electricity and Magnetism"
+    },
+    {
+      "anchor" : "VI-Radioactivity",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Radioactivity"
+      ],
+      "title" : "VI. Radioactivity"
     }
   ],
   "topicSectionsStyle" : "compactGrid"
@@ -429,6 +142,72 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
 },
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current of Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "D.C. Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits"
+},
+"doc://Notes/documentation/Notes/Dynamics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Dynamics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/dynamics"
+},
+"doc://Notes/documentation/Notes/Electromagnetic-Induction": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electromagnetic Induction",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electromagnetic-induction"
+},
+"doc://Notes/documentation/Notes/Electromagnetic-Spectrum": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electromagnetic Spectrum",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electromagnetic-spectrum"
+},
+"doc://Notes/documentation/Notes/Electromagnetism": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetism",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electromagnetism",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electromagnetism"
+},
 "doc://Notes/documentation/Notes/Emath": {
   "abstract" : [
     {
@@ -442,6 +221,160 @@
   "title" : "Emath",
   "type" : "topic",
   "url" : "\/documentation\/notes\/emath"
+},
+"doc://Notes/documentation/Notes/Energy": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/energy"
+},
+"doc://Notes/documentation/Notes/General-Properties-of-Waves": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "General Properties of Waves",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/general-properties-of-waves"
+},
+"doc://Notes/documentation/Notes/Kinematics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/kinematics"
+},
+"doc://Notes/documentation/Notes/Kinetic-Particle-Model-of-Matter": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinetic Particle Model of Matter",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/kinetic-particle-model-of-matter"
+},
+"doc://Notes/documentation/Notes/Light": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Light",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Light",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/light"
+},
+"doc://Notes/documentation/Notes/Magnetism": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Magnetism",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Magnetism",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/magnetism"
+},
+"doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physical Quantities Units and Measurement",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement"
+},
+"doc://Notes/documentation/Notes/Practical-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Practical-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Practical Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/practical-electricity"
+},
+"doc://Notes/documentation/Notes/Pressure": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pressure",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Pressure",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/pressure"
+},
+"doc://Notes/documentation/Notes/Radioactivity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Radioactivity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Radioactivity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/radioactivity"
+},
+"doc://Notes/documentation/Notes/Static-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Static Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/static-electricity"
+},
+"doc://Notes/documentation/Notes/Thermal-Processes": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thermal Processes",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thermal-processes"
+},
+"doc://Notes/documentation/Notes/Thermal-Properties-of-Matter": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thermal Properties of Matter",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thermal-properties-of-matter"
+},
+"doc://Notes/documentation/Notes/Turning-Effect-of-Forces": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Turning Effect of Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/turning-effect-of-forces"
 }
 }
 }

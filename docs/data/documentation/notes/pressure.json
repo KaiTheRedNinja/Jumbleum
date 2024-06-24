@@ -1,0 +1,117 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Pressure"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Pressure"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "II-Newtonian-Mechanics",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
+        "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
+        "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces",
+        "doc:\/\/Notes\/documentation\/Notes\/Energy"
+      ],
+      "title" : "II. Newtonian Mechanics"
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Everything Notes",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Dynamics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Dynamics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/dynamics"
+},
+"doc://Notes/documentation/Notes/Energy": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/energy"
+},
+"doc://Notes/documentation/Notes/Kinematics": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/kinematics"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Physics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
+},
+"doc://Notes/documentation/Notes/Turning-Effect-of-Forces": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Turning Effect of Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/turning-effect-of-forces"
+}
+}
+}

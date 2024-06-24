@@ -1,0 +1,141 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Electromagnetic Induction"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "V-Electricity-and-Magnetism",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+        "doc:\/\/Notes\/documentation\/Notes\/Practical-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Magnetism",
+        "doc:\/\/Notes\/documentation\/Notes\/Electromagnetism"
+      ],
+      "title" : "V. Electricity and Magnetism"
+    }
+  ],
+  "topicSectionsStyle" : "compactGrid"
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Everything Notes",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current of Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "D.C. Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits"
+},
+"doc://Notes/documentation/Notes/Electromagnetism": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetism",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electromagnetism",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electromagnetism"
+},
+"doc://Notes/documentation/Notes/Magnetism": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Magnetism",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Magnetism",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/magnetism"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Physics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
+},
+"doc://Notes/documentation/Notes/Practical-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Practical-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Practical Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/practical-electricity"
+},
+"doc://Notes/documentation/Notes/Static-Electricity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Static Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/static-electricity"
+}
+}
+}
