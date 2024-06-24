@@ -140,7 +140,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -260,9 +260,34 @@
 },
 "doc://Notes/documentation/Notes/Data-Representation": {
   "abstract" : [
-
+    {
+      "text" : "Data representation is the way data is stored and processed in a computer system. Data can be represented in different",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "ways, such as numbers, text, images, audio, and video. Each type of data has its own representation format, which determines",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "how it is stored and processed by the computer.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Data Representation",

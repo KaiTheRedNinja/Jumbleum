@@ -336,6 +336,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/data-representation",
                 "title" : "Data Representation",
                 "type" : "article"
@@ -627,7 +628,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
