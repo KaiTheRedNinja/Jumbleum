@@ -1,4 +1,4 @@
-# Everything Notes
+# Jumbleum
 
 @Metadata {
     @TitleHeading("Notes")
@@ -6,7 +6,7 @@
     @PageColor(purple)
 }
 
-Notes. A lot of them.
+Notes. A lot of them. A jumble colosseum of notes. Jumbleum.
 
 ## Overview
 

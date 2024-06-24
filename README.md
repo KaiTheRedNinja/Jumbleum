@@ -14,7 +14,7 @@ Note that we use a custom build of `swift-docc-render`, which provides LaTeX sup
 present in the default version of `swift-docc-render`. It sometimes doesn't apply itself, so if you encounter
 issues, run these commands in the terminal:
 ```shell
-export DOCC_HTML_DIR="/Users/kaitay/Documents/Notes/Everything/dist"
+export DOCC_HTML_DIR="/path/to/this/directory/dist"
 xcrun docc convert . --transform-for-static-hosting
 make run
 ```

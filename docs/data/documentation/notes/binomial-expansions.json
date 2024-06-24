@@ -605,14 +605,14 @@
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
-      "text" : "Notes. A lot of them.",
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
       "type" : "text"
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Home",
   "kind" : "article",
   "role" : "collection",
-  "title" : "Everything Notes",
+  "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
 },

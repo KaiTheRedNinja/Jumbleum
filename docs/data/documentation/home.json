@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Notes. A lot of them.",
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
       "type" : "text"
     }
   ],
@@ -23,7 +23,7 @@
     },
     "role" : "collection",
     "roleHeading" : "Notes",
-    "title" : "Everything Notes"
+    "title" : "Jumbleum"
   },
   "primaryContentSections" : [
     {
