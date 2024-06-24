@@ -8,7 +8,7 @@
     )
 }
 
-Social Studies
+Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours
 
 ## Overview
 

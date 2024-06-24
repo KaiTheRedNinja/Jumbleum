@@ -8,7 +8,7 @@
     )
 }
 
-Computing
+Basic computing technology and systems, concepts, algorithms, techniques and tools
 
 ## Overview
 

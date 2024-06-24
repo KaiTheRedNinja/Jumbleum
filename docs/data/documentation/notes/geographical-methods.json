@@ -35,8 +35,7 @@
       ],
       "title" : "Natural Geography"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -56,7 +55,7 @@
 "doc://Notes/documentation/Notes/Geography": {
   "abstract" : [
     {
-      "text" : "Geography",
+      "text" : "Humanities, social and natural sciences",
       "type" : "text"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Electronics",
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
       "type" : "text"
     }
   ],
@@ -107,8 +107,7 @@
       ],
       "title" : "Engineering Design Process"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -205,7 +204,7 @@
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
-      "text" : "Computing",
+      "text" : "Basic computing technology and systems, concepts, algorithms, techniques and tools",
       "type" : "text"
     }
   ],

@@ -35,8 +35,7 @@
       ],
       "title" : "Abstraction and Algorithms"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -67,7 +66,7 @@
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
-      "text" : "Computing",
+      "text" : "Basic computing technology and systems, concepts, algorithms, techniques and tools",
       "type" : "text"
     }
   ],

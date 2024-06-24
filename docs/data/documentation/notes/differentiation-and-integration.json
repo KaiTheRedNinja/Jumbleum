@@ -24,8 +24,7 @@
   },
   "sections" : [
 
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -45,7 +44,7 @@
 "doc://Notes/documentation/Notes/Amath": {
   "abstract" : [
     {
-      "text" : "Amath",
+      "text" : "Strong algebraic manipulation and mathematical reasoning skills",
       "type" : "text"
     }
   ],

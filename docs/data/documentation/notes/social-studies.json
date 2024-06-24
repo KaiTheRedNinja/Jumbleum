@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Social Studies",
+      "text" : "Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours",
       "type" : "text"
     }
   ],
@@ -71,8 +71,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
       ]
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -125,7 +124,7 @@
 "doc://Notes/documentation/Notes/Geography": {
   "abstract" : [
     {
-      "text" : "Geography",
+      "text" : "Humanities, social and natural sciences",
       "type" : "text"
     }
   ],

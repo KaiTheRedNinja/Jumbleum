@@ -8,7 +8,7 @@
     )
 }
 
-Electronics
+Fundamental workings of electronic components, systems, and ideas of engineering design
 
 ## Overview
 

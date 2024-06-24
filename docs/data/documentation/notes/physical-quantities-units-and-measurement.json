@@ -24,8 +24,7 @@
   },
   "sections" : [
 
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -45,7 +44,7 @@
 "doc://Notes/documentation/Notes/Physics": {
   "abstract" : [
     {
-      "text" : "Physics",
+      "text" : "Energy, matter, and their interrelationships",
       "type" : "text"
     }
   ],

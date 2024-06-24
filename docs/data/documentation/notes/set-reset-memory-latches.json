@@ -37,8 +37,7 @@
       ],
       "title" : "Digital Electronics"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -91,7 +90,7 @@
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [
     {
-      "text" : "Electronics",
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
       "type" : "text"
     }
   ],

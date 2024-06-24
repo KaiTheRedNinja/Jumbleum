@@ -34,8 +34,7 @@
       ],
       "title" : "Statistics and Probability"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -55,7 +54,7 @@
 "doc://Notes/documentation/Notes/Emath": {
   "abstract" : [
     {
-      "text" : "Emath",
+      "text" : "Fundamental mathematical knowledge and skills",
       "type" : "text"
     }
   ],

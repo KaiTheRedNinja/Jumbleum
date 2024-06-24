@@ -8,7 +8,7 @@
     )
 }
 
-Geography
+Humanities, social and natural sciences
 
 ## Overview
 

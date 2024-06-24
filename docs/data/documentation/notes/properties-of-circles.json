@@ -39,8 +39,7 @@
       ],
       "title" : "Geometry and Measurement"
     }
-  ],
-  "topicSectionsStyle" : "compactGrid"
+  ]
 , 
 "references": {
 "doc://Notes/documentation/Home": {
@@ -93,7 +92,7 @@
 "doc://Notes/documentation/Notes/Emath": {
   "abstract" : [
     {
-      "text" : "Emath",
+      "text" : "Fundamental mathematical knowledge and skills",
       "type" : "text"
     }
   ],

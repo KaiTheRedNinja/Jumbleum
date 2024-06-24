@@ -8,7 +8,7 @@
     )
 }
 
-Emath
+Fundamental mathematical knowledge and skills
 
 ## Overview
 

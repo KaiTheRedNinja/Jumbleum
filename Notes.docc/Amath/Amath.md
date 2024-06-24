@@ -8,7 +8,7 @@
     )
 }
 
-Amath
+Strong algebraic manipulation and mathematical reasoning skills
 
 ## Overview
 
