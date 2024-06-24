@@ -1,47 +1,21 @@
 {
-  "abstract" : [
-    {
-      "text" : "Amath",
-      "type" : "text"
-    }
-  ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Amath"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions"
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "collectionGroup",
-    "title" : "Amath"
-  },
-  "primaryContentSections" : [
-    {
-      "content" : [
-        {
-          "anchor" : "Overview",
-          "level" : 2,
-          "text" : "Overview",
-          "type" : "heading"
-        }
-      ],
-      "kind" : "content"
-    }
-  ],
-  "sampleCodeDownload" : {
-    "action" : {
-      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4049_y24_sy.pdf",
-      "isActive" : true,
-      "overridingTitle" : "Curriculum",
-      "type" : "reference"
-    },
-    "kind" : "sampleDownload"
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Quadratic functions"
   },
   "schemaVersion" : {
     "major" : 0,
@@ -53,20 +27,8 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Mathematics",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Emath",
-        "doc:\/\/Notes\/documentation\/Notes\/Physics"
-      ],
-      "title" : "Mathematics"
-    }
-  ],
-  "topicSections" : [
-    {
-      "anchor" : "Topics",
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
         "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities",
         "doc:\/\/Notes\/documentation\/Notes\/Surds",
         "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
@@ -95,6 +57,20 @@
   "title" : "Everything Notes",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Amath",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
 },
 "doc://Notes/documentation/Notes/Binomial-expansions": {
   "abstract" : [
@@ -129,20 +105,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/differentiation-and-integration"
 },
-"doc://Notes/documentation/Notes/Emath": {
-  "abstract" : [
-    {
-      "text" : "Emath",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Emath",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/emath"
-},
 "doc://Notes/documentation/Notes/Equations-and-Inequalities": {
   "abstract" : [
 
@@ -164,20 +126,6 @@
   "title" : "Exponential and Logarithmic functions",
   "type" : "topic",
   "url" : "\/documentation\/notes\/exponential-and-logarithmic-functions"
-},
-"doc://Notes/documentation/Notes/Physics": {
-  "abstract" : [
-    {
-      "text" : "Physics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Physics",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/physics"
 },
 "doc://Notes/documentation/Notes/Polymomials-and-partial-fractions": {
   "abstract" : [
@@ -201,17 +149,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/proofs-in-plane-geometry"
 },
-"doc://Notes/documentation/Notes/Quadratic-functions": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Quadratic functions",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/quadratic-functions"
-},
 "doc://Notes/documentation/Notes/Surds": {
   "abstract" : [
 
@@ -233,12 +170,6 @@
   "title" : "Trig functions identities and equations",
   "type" : "topic",
   "url" : "\/documentation\/notes\/trig-functions-identities-and-equations"
-},
-"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf": {
-  "checksum" : null,
-  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4049_y24_sy.pdf",
-  "type" : "download",
-  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/4049_y24_sy.pdf"
 }
 }
 }

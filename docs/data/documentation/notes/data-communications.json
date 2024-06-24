@@ -1,47 +1,21 @@
 {
-  "abstract" : [
-    {
-      "text" : "Computing",
-      "type" : "text"
-    }
-  ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Computing"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Computing"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Data-Communications"
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "collectionGroup",
-    "title" : "Computing"
-  },
-  "primaryContentSections" : [
-    {
-      "content" : [
-        {
-          "anchor" : "Overview",
-          "level" : 2,
-          "text" : "Overview",
-          "type" : "heading"
-        }
-      ],
-      "kind" : "content"
-    }
-  ],
-  "sampleCodeDownload" : {
-    "action" : {
-      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/7155_y24_sy.pdf",
-      "isActive" : true,
-      "overridingTitle" : "Curriculum",
-      "type" : "reference"
-    },
-    "kind" : "sampleDownload"
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Data Communications"
   },
   "schemaVersion" : {
     "major" : 0,
@@ -53,23 +27,12 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Applied-Subjects",
       "generated" : true,
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
-      ],
-      "title" : "Applied Subjects"
-    }
-  ],
-  "topicSections" : [
-    {
-      "anchor" : "Topics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
         "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
         "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
         "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
-        "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
         "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
         "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
         "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
@@ -116,16 +79,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/computer-architecture"
 },
-"doc://Notes/documentation/Notes/Data-Communications": {
+"doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
-
+    {
+      "text" : "Computing",
+      "type" : "text"
+    }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
   "kind" : "article",
-  "role" : "article",
-  "title" : "Data Communications",
+  "role" : "collectionGroup",
+  "title" : "Computing",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/data-communications"
+  "url" : "\/documentation\/notes\/computing"
 },
 "doc://Notes/documentation/Notes/Data-Management": {
   "abstract" : [
@@ -148,20 +114,6 @@
   "title" : "Data Representation",
   "type" : "topic",
   "url" : "\/documentation\/notes\/data-representation"
-},
-"doc://Notes/documentation/Notes/Electronics": {
-  "abstract" : [
-    {
-      "text" : "Electronics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Electronics",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/electronics"
 },
 "doc://Notes/documentation/Notes/Ethical-Social-Economic-issues": {
   "abstract" : [
@@ -206,12 +158,6 @@
   "title" : "Program Testing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/program-testing"
-},
-"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7155_y24_sy.pdf": {
-  "checksum" : null,
-  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/7155_y24_sy.pdf",
-  "type" : "download",
-  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/7155_y24_sy.pdf"
 }
 }
 }

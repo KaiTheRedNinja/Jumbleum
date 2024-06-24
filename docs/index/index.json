@@ -16,9 +16,61 @@
             "type" : "article"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/quadratic-functions",
+                "title" : "Quadratic functions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/equations-and-inequalities",
+                "title" : "Equations and Inequalities",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/surds",
+                "title" : "Surds",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/polymomials-and-partial-fractions",
+                "title" : "Polymomials and partial fractions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/binomial-expansions",
+                "title" : "Binomial expansions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/exponential-and-logarithmic-functions",
+                "title" : "Exponential and Logarithmic functions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/trig-functions-identities-and-equations",
+                "title" : "Trig functions identities and equations",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/coordinate-geometry-in-two-dimensions",
+                "title" : "Coordinate geometry in two dimensions",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/proofs-in-plane-geometry",
+                "title" : "Proofs in plane geometry",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/differentiation-and-integration",
+                "title" : "Differentiation and integration",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/amath",
             "title" : "Amath",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "path" : "\/documentation\/notes\/physics",
@@ -30,9 +82,56 @@
             "type" : "groupMarker"
           },
           {
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/data-management",
+                "title" : "Data Management",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/data-representation",
+                "title" : "Data Representation",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/ethical-social-economic-issues",
+                "title" : "Ethical Social Economic issues",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/computer-architecture",
+                "title" : "Computer Architecture",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/data-communications",
+                "title" : "Data Communications",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/problem-analysis",
+                "title" : "Problem Analysis",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/algorithm-design",
+                "title" : "Algorithm Design",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/program-development",
+                "title" : "Program Development",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/program-testing",
+                "title" : "Program Testing",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/computing",
             "title" : "Computing",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "path" : "\/documentation\/notes\/electronics",

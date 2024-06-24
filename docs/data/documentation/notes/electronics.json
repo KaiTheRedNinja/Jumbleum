@@ -279,7 +279,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Computing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"

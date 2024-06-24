@@ -424,7 +424,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Amath",
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
