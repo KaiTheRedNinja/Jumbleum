@@ -8,6 +8,11 @@ Data representation is the way data is stored and processed in a computer system
 ways, such as numbers, text, images, audio, and video. Each type of data has its own representation format, which determines 
 how it is stored and processed by the computer.
 
+## Overview
+- Binary representations of whole numbers
+- Conversion between number systems
+- Uses for hex
+
 ## Bases
 
 In everyday life, we mostly use the Base-10 number system, also known as decimal, or denary.
