@@ -505,6 +505,30 @@
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/being-part-of-a-globalised-world",
+            "title" : "Being Part of a Globalised World",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/exam-questions",
+            "title" : "Exam Questions",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/exploring-citizenship-and-governance",
+            "title" : "Exploring Citizenship and Governance",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/living-in-a-diverse-society",
+            "title" : "Living in a Diverse Society",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

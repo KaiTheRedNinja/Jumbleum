@@ -4,7 +4,7 @@ Social Studies
 
 ## Overview
 
-- Exploring Citizenship and Governance
-- Living in a Diverse Society
-- Being Part of a Globalised World
-- Exam Questions
+- <doc:Exploring-Citizenship-and-Governance>
+- <doc:Living-in-a-Diverse-Society>
+- <doc:Being-Part-of-a-Globalised-World>
+- <doc:Exam-Questions>
