@@ -23,9 +23,9 @@ local: prebuild
 
 # Build for deployment
 deploy: prebuild
-	xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Portfolio"
-	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Portfolio/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/index.html
-	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Portfolio/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/documentation/index.html
+	xcrun docc convert . --transform-for-static-hosting --output-dir docs --hosting-base-path "Jumbleum"
+	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Jumbleum/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/index.html
+	@echo "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><meta http-equiv=\"refresh\" content=\"0;url=/Jumbleum/documentation/home\"><title>Redirecting...</title></head><body><p>If you are not redirected automatically, follow this <a href=\"/Portfolio/documentation/home\">link</a>.</p></body></html>" > docs/documentation/index.html
 	@cp -a docs/images/Notes/. docs/images/
 
 # Run the program
