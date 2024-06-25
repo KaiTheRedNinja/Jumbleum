@@ -303,7 +303,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "2FA is stronger than a singular password as it is more difficult for an in- truder to both guess a password and steal",
+                      "text" : "2FA is stronger than a singular password as it is more difficult for an intruder to both guess a password and steal",
                       "type" : "text"
                     },
                     {
@@ -336,7 +336,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "transmission process. If the secret algo- rithm used to generate OTPs is poorly chosen or accidentally revealed, an",
+                      "text" : "transmission process. If the secret algorithm used to generate OTPs is poorly chosen or accidentally revealed, an",
                       "type" : "text"
                     },
                     {
@@ -402,7 +402,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "The use of biometric identification is more secure as the physical character- istics measured are typically unique to the",
+                      "text" : "The use of biometric identification is more secure as the physical characteristics measured are typically unique to the",
                       "type" : "text"
                     },
                     {

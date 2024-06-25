@@ -4,7 +4,7 @@ IP, licenses, and different types of software
 
 ## Definitions
 - `Intellectual property` - Creations of the mind that have value but can exist purely as data with no physical form.
-- `Copyright` - The legal right of owners to control the use and distribu- tion of their intellectual property.
+- `Copyright` - The legal right of owners to control the use and distribution of their intellectual property.
 - `Licence` - Official description of activities that are authorised or forbidden by the owner of intellectual property.
 
 ## Types of Software Licences
@@ -23,15 +23,15 @@ There are several types of software licences in order to avoid infringing copyri
         
         The term "free" refers to free to use, not free of charge.
 
-        Similar to public domain software, but is still protected under copy- right and the copyright owners may use 
+        Similar to public domain software, but is still protected under copyright and the copyright owners may use 
         this protection to require that the software must always be distributed with source code, attribution to the 
         original authors must be provided or any modifications must use a similar licence if distributed.
         
         Other types of copyrighted works such as books, photographs and music can be licensed in a similar manner using 
         Creative Commons (CC) licences. Note that CC licences grant users freedom to copy, modify and distribute copyrighted 
         works, CC licences are not designed for software and should not be used for this purpose. It can, however, be 
-        used to license content that is delivered using software. Higher- education course materials such sa videos and 
-        notes created by univer- sities and distributed for free on the Internet, aka open courseware often use CC licences.
+        used to license content that is delivered using software. Highereducation course materials such sa videos and 
+        notes created by universities and distributed for free on the Internet, aka open courseware often use CC licences.
     }
 
     @Tab("Open Courseware") {
@@ -42,13 +42,13 @@ There are several types of software licences in order to avoid infringing copyri
         Commercial software for which most of the legal protections under copyright are retained.
 
         Unlike FOSS, it is usually not legal to copy, modify or distribute proprietary software. The terms and 
-        conditions for which the propri- etary software may or may not be used under copyright protection law are usually 
-        communicated to users through an End User License Agree- ment (EULA) contract that the user must accept to use 
+        conditions for which the proprietary software may or may not be used under copyright protection law are usually 
+        communicated to users through an End User License Agreement (EULA) contract that the user must accept to use 
         the software.
         
         The source code for proprietary software is usually kept secret.
         
-        Although it seems super restrictive compared to FOSS, it is im- portant to remember that software is a form of 
+        Although it seems super restrictive compared to FOSS, it is important to remember that software is a form of 
         intellectual property and it is the right of the owner to be compensated for the use of the property.6. An example 
         of proprietary software is Windows OS, where unauthorised copying is illegal and the majority of source code is kept 
         secret.
@@ -77,8 +77,8 @@ There are several types of software licences in order to avoid infringing copyri
 Software piracy is the crime of copying, distributing or using proprietary software illegally. Despite being illegal, it is 
 prevalent and can take place in many forms.
 
-Installing multiple copies of proprietary software without purchasing addi- tional licences or sharing proprietary software 
-with unlicensed users is con- sidered software piracy and can result in similar legal repercussions.
+Installing multiple copies of proprietary software without purchasing additional licences or sharing proprietary software 
+with unlicensed users is considered software piracy and can result in similar legal repercussions.
 
 Software piracy causes significant loss of revenue for the owners of intellectual property, which leads to higher prices for 
 legitimate buyers.

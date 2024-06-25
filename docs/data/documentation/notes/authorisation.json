@@ -134,7 +134,7 @@
               "type" : "strong"
             },
             {
-              "text" : " that al- low them to override the permissions for certain",
+              "text" : " that allow them to override the permissions for certain",
               "type" : "text"
             },
             {
@@ -176,7 +176,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Authentication for the administrator must be especially strong, as an in- truder that successfully claims to be the",
+              "text" : "Authentication for the administrator must be especially strong, as an intruder that successfully claims to be the",
               "type" : "text"
             },
             {
@@ -184,7 +184,7 @@
               "type" : "text"
             },
             {
-              "text" : "administrator can bypass file per- missions entirely.",
+              "text" : "administrator can bypass file permissions entirely.",
               "type" : "text"
             }
           ],
@@ -201,7 +201,7 @@
               "type" : "text"
             },
             {
-              "text" : "directly without going through the op- erating system. To prevent such unauthorised access, it is necessary to use encryption.",
+              "text" : "directly without going through the operating system. To prevent such unauthorised access, it is necessary to use encryption.",
               "type" : "text"
             }
           ],
@@ -233,7 +233,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Computers connected to a network are naturally more susceptible to intru- sion as unauthorised access can occur",
+              "text" : "Computers connected to a network are naturally more susceptible to intrusion as unauthorised access can occur",
               "type" : "text"
             },
             {
@@ -326,7 +326,7 @@
               "type" : "text"
             },
             {
-              "text" : "requests for data from anonymous users on the Internet. This prevents in- truders from gaining access to the",
+              "text" : "requests for data from anonymous users on the Internet. This prevents intruders from gaining access to the",
               "type" : "text"
             },
             {
@@ -406,7 +406,7 @@
               "type" : "text"
             },
             {
-              "text" : "network are generally trusted and expected to keep information on the network con- fidential, there are usually",
+              "text" : "network are generally trusted and expected to keep information on the network confidential, there are usually",
               "type" : "text"
             },
             {
@@ -504,13 +504,10 @@
           "type" : "paragraph"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "##f Understanding of Privacy Policies",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
+          "anchor" : "Understanding-of-Privacy-Policies",
+          "level" : 2,
+          "text" : "Understanding of Privacy Policies",
+          "type" : "heading"
         },
         {
           "inlineContent" : [

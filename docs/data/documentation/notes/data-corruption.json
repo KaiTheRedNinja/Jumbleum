@@ -66,7 +66,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "If the corrupted data is not needed to read other data, only that data it- self is lost. This is more likely",
+              "text" : "If the corrupted data is not needed to read other data, only that data itself is lost. This is more likely",
               "type" : "text"
             },
             {
@@ -324,7 +324,7 @@
                                 {
                                   "inlineContent" : [
                                     {
-                                      "text" : "Set up a backup power supply, or uninterruptible power sup- ply (UPS) so storage devices can complete any write operations in case of a power failure.",
+                                      "text" : "Set up a backup power supply, or uninterruptible power supply (UPS) so storage devices can complete any write operations in case of a power failure.",
                                       "type" : "text"
                                     }
                                   ],

@@ -30,3 +30,6 @@ Most of the notes in Computing are from Michael de Beyer's Holy Grail computing 
 - <doc:Algorithm-Design>
 - <doc:Program-Development>
 - <doc:Program-Testing>
+
+### Computing+
+- <doc:Networks-Extended>

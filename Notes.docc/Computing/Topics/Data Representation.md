@@ -21,12 +21,12 @@ uses 0 and 1 as the only digits.
 Another number system often used when working with computers is Base-16, or hexadecimal. It has 16 distinct digits, 0-9 
 and A-F. A-F represents the numbers 10-15.
 
-These are not the only numerical bases, you can theoretically have any num- ber system with any number. The examples 
+These are not the only numerical bases, you can theoretically have any number system with any number. The examples 
 below are not tested, and are here for enrichment.
 
 Base-8, octal, is used to represent Unix File Permissions (and was used in the early days of computing).
 
-Base-60, sexagesimal, is used in measuring time, angles (in degrees), bear- ings, and geographic coordinates.
+Base-60, sexagesimal, is used in measuring time, angles (in degrees), bearings, and geographic coordinates.
 
 ## Applications of Number Systems
 
@@ -46,7 +46,7 @@ each component of the colour. These codes are used to represent colours in websi
 For computers to communicate/exchange data over a network, they must be able to locate each other so that transmitted 
 data cn be directed to the correct destination.
 
-This is done by giving each computer a unique name in the form of a se- quence of bytes called a network address.
+This is done by giving each computer a unique name in the form of a sequence of bytes called a network address.
 
 The Internet is an example of a computer network, each computer on the Internet has an IP address, serving as its network 
 address on the internet.
@@ -66,7 +66,7 @@ There are 2 versions of IP used today, IP version 4 and IP version 6.
     - Hexadecimal is used for representation as using decimal would take up a maximum of 3 × 16 = 48 digits, which is inconvenient.
 
 ### MAC Address
-Media Access Control (MAC) address – A sequence of bytes (usu- ally permanent in nature) that is used to identify a particular 
+Media Access Control (MAC) address – A sequence of bytes (usually permanent in nature) that is used to identify a particular 
 network interface controller.
 
 It is a permanent way to locate or identify a specific computer or device, as the IP address of a computer may change each time 
@@ -79,7 +79,7 @@ The format for a MAC address is NN-NN-NN-DD-DD-DD, where NN-NN-NN is the manufac
 device’s serial number.
 
 ### ASCII and Unicode
-ASCII is a standard that defines how numbers are used to represent com- mon characters that can be typed using a keyboard, 
+ASCII is a standard that defines how numbers are used to represent common characters that can be typed using a keyboard, 
 such as uppercase and lowercase letters. Only 128 distinct characters can be represented as ASCII codes are defined to be 
 exactly 7 bits long.
 
@@ -91,7 +91,7 @@ The last ASCII code, 127, is used to represent the special input of typing the d
 Hexadecimal digits are often used to express these codes as only 2 digits are needed, which is more compact than 3 decimal digits 
 or 7 binary digits.
 
-An expanded standard called Unicode is used to represent other charac- ters, such as Mandarin characters. It uses numbers to 
+An expanded standard called Unicode is used to represent other characters, such as Mandarin characters. It uses numbers to 
 represent characters like ASCII, but are not as restrictive in the number of bits they must be defined as. The number of bits 
 used to represent each character can range from 8-32 bits, allowing over a million unique characters from many different written 
 languages all over the world, making it preferable over ASCII.

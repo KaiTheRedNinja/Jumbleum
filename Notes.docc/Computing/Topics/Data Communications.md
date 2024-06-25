@@ -18,7 +18,7 @@ Networks and the way computers talk to each other
 - Computer network 
     - A system of 2+ computers/devices that are connected together by a transmission medium for the exchange of data.
 - Transmission medium 
-    - A means of connecting 2+ computers to- gether so that they may exchange data and interact with each other, such as via:
+    - A means of connecting 2+ computers together so that they may exchange data and interact with each other, such as via:
         - Copper cables
         - Radio waves (wifi/bluetooth) 
         - Light pulses (optical fibres)
@@ -55,7 +55,7 @@ Networks and the way computers talk to each other
 
 @TabNavigator {
     @Tab("Local Area Network (LAN)") { 
-        - A network of computing devices con- nected within a small geographical area, typically within the same building, such as a home, school, or office.
+        - A network of computing devices connected within a small geographical area, typically within the same building, such as a home, school, or office.
         - LANs typically provide faster data transfer than other networks, due to the small number of connections supported and close proximity of devices.
     }
 
@@ -65,7 +65,7 @@ Networks and the way computers talk to each other
     }
 
     @Tab("Wide Area Network (WAN)") {
-        - A network of computing devices covering a large-scale geographical area, typically across multiple geo- graphical locations.
+        - A network of computing devices covering a large-scale geographical area, typically across multiple geographical locations.
         - A WAN generally consists of multiple smaller networks such as LANs or MANs.
         - A WAN is not limited to a single geographical location and can span long distances via long-range transmission 
         media such as telephone lines, fibre optic cables or satellite links.
@@ -111,7 +111,7 @@ and area easy to configure and manage.
 
 | Factor | Wired | Wireless |
 |--------|-------|----------|
-| Cost   | Initially cheaper, becomes more expensive as network grows in size due to the cost of cables. | Initially expensive due to cost of wireless network- ing equipment but becomes more cost-effective as network grows in size. |
+| Cost   | Initially cheaper, becomes more expensive as network grows in size due to the cost of cables. | Initially expensive due to cost of wireless networking equipment but becomes more cost-effective as network grows in size. |
 | Bandwidth (Speed of transmission) | Faster and higher bandwidth as cables provide dedicated connection. | Generally slower and lower bandwidth due to possible interference from radio waves or microwaves; varies according to user location in relation to network. |
 | Reliability | More reliable as data transmission is unaffected by interference. | Less reliable due to potential interference from radio waves and microwaves or blockage from physical obstructions. |
 | Security | More secure as the network is less susceptible to interception and hacking. | Less secure due to possible intrusion by hackers. |
@@ -128,7 +128,7 @@ Computers in a network are generally classified as either clients or servers.
     - Employees in offices or students in schools would normally use client computers to do their work.
 - Server 
     - A computer that shares resources and responds to requests from devices and other servers on the network.
-    - They usually have higher capacity and are more powerful than a client as it needs to manage resources and services. These might in- clude:
+    - They usually have higher capacity and are more powerful than a client as it needs to manage resources and services. These might include:
         - Providing central storage of files 
         - Sharing hardware such as printers 
         - Controlling logins and network access
@@ -143,14 +143,14 @@ Computers can be organised in either a **client-server** or **peer-to-peer** net
 - Peer-to-peer (P2P) 
     - A computer network where all computers are considered as equals and the load is distributed among all computers.
     - Each computer in the network is able to act as both a client and a server, communicating directly with other computers.
-    - Users are able to share files and resources located on their comput- ers as well as access shared resources found on other computers in the network.
+    - Users are able to share files and resources located on their computers as well as access shared resources found on other computers in the network.
 
 ### Comparison of Client-Server and Peer-to-Peer Networks
 
 Advantages of client-server networks:
 - Centralised control of data and resources.
 - Easy to schedule backups of all shared files at regular intervals.
-- Security may be enhanced with the use of specialised software or oper- ating system features that are designed for servers.
+- Security may be enhanced with the use of specialised software or operating system features that are designed for servers.
 Disadvantages of client-server networks:
 - Higher initial cost due to the need for a server.
 - Administrative costs needed for the maintenance of server and clients.
@@ -173,15 +173,15 @@ Disadvantages of P2P networks:
 
 ## Network Identifiers
 
-Networks typically have many computers and programs using them at any given time. In order to identify the different networks, computers and pro- grams, they need to be given names and describe their functions.
+Networks typically have many computers and programs using them at any given time. In order to identify the different networks, computers and programs, they need to be given names and describe their functions.
 
 - Network address translation
-    - A method of mapping multiple pri- vate addresses inside a local network to a public IP address before transferring the information onto the internet.
+    - A method of mapping multiple private addresses inside a local network to a public IP address before transferring the information onto the internet.
 - Port numbers
     - A number that is used together with an IP address to uniquely identify a program that is running on a network.
     - Each program that is active on the network must be identifiable by one or more unique combinations of an IP address and a port number. 
     Both clients and servers can run programs that use port numbers to identify themselves.
-    - A computing device can run multiple programs at the same time. For exam- ple, a single computer can run both a web server program with port 
+    - A computing device can run multiple programs at the same time. For example, a single computer can run both a web server program with port 
     number 80 and a mail server program with port number 143. All port numbers are assigned in a range from 0 to 65,535.
 - Service Set Identifiers (SSID)
     - A 32-byte string that identifies a wireless access point and all devices connected to it.
@@ -189,7 +189,7 @@ Networks typically have many computers and programs using them at any given time
 
 ## Network Hardware
 - Network interface controller 
-    - A hardware component that pro- vides the hardware interface to enable the transfer of data between a device and a network.
+    - A hardware component that provides the hardware interface to enable the transfer of data between a device and a network.
     - A NIC may connect to a network physically or wirelessly.
     - Most devices are equipped with a built-in NIC.
     - Each NIC has a unique 48-bit MAC address that can be used to uniquely identify the particular computer or device.
@@ -200,10 +200,10 @@ Networks typically have many computers and programs using them at any given time
     - A hub acts like a loudspeaker as it broadcasts the data to all its connected devices without limiting the 
     data to only the specific device it was intended for.
 - Packet 
-    - A unit of broken-up data containing a header with informa- tion about the source and destination addresses 
+    - A unit of broken-up data containing a header with information about the source and destination addresses 
     that are needed for transmission.
 - Network switch
-    - A device that constructs a single network by con- necting multiple similar networks together.
+    - A device that constructs a single network by connecting multiple similar networks together.
     - Switches are typically used to connect multiple LANs that use the same protocol so that the connected network 
     can cover a larger physical area.
     - Unlike a hub that simple repeats all data to all connected devices, a switch uses MAC addresses to keep track 
@@ -212,7 +212,7 @@ Networks typically have many computers and programs using them at any given time
 - Router 
     - A device that forwards packets between separate networks.
     - While a switch combines multiple similar networks that use the same protocol into a single network, a router 
-    keeps the connected net- works (which may use fundamentally different protocols) separate and forwards packets 
+    keeps the connected networks (which may use fundamentally different protocols) separate and forwards packets 
     between them using Internet protocols.
     - In order for a router to forward packets between different networks using Internet protocols, both the device 
     sending the packet and the device receiving the packet must be identified using IP addresses.
@@ -265,8 +265,8 @@ All the data is passed around in the same direction (like a circle).
 If a failure occurs in the cable or if a computer breaks down, the entire network will fail to function.
 
 Advantages:
-- Can operate over larger dis- tances and handle more data that a bus topology.
-- Data packets that are sent be- tween two computers will pass through intermediate comput- ers, hence a central 
+- Can operate over larger distances and handle more data that a bus topology.
+- Data packets that are sent between two computers will pass through intermediate computers, hence a central 
 server is not required to manage the network.
 
 Disadvantages:
@@ -276,10 +276,10 @@ Disadvantages:
 ### Star Topology
 In the star topology, network hardware such as a hub or switch is at the centre of the network with connections to all the other computers.
 
-The computers will send data to the central network hardware and the hard- ware forwards the data to the intended destination.
+The computers will send data to the central network hardware and the hardware forwards the data to the intended destination.
 
 Advantages:
-- The load on each section of ca- bling is reduced as each computer uses a separate cable from the rest.
+- The load on each section of cabling is reduced as each computer uses a separate cable from the rest.
 - If a fault occurs at a computer or cable, it is easy to isolate the fault and do a replacement without affecting the rest of the network.
 Disadvantages:
 - Uses more cabling than other topologies, hence more expensive.
@@ -308,7 +308,7 @@ the source:
     - A type of parity check system in which the sum of 1-bits in each packet (including the parity bit) is even.
 
 Take the following 7-bit packet: 1010001.
-There are 3 1-bits in the data string. In an even parity system, the par- ity bit 1 would be added (11010001), and 
+There are 3 1-bits in the data string. In an even parity system, the parity bit 1 would be added (11010001), and 
 in an odd parity system, the parity bit 0 would be added (01010001).
 
 There a some limitations to parity checks.

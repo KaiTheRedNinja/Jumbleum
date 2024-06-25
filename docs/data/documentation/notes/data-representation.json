@@ -134,7 +134,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "These are not the only numerical bases, you can theoretically have any num- ber system with any number. The examples",
+              "text" : "These are not the only numerical bases, you can theoretically have any number system with any number. The examples",
               "type" : "text"
             },
             {
@@ -160,7 +160,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Base-60, sexagesimal, is used in measuring time, angles (in degrees), bear- ings, and geographic coordinates.",
+              "text" : "Base-60, sexagesimal, is used in measuring time, angles (in degrees), bearings, and geographic coordinates.",
               "type" : "text"
             }
           ],
@@ -264,7 +264,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "This is done by giving each computer a unique name in the form of a se- quence of bytes called a network address.",
+              "text" : "This is done by giving each computer a unique name in the form of a sequence of bytes called a network address.",
               "type" : "text"
             }
           ],
@@ -443,7 +443,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Media Access Control (MAC) address – A sequence of bytes (usu- ally permanent in nature) that is used to identify a particular",
+              "text" : "Media Access Control (MAC) address – A sequence of bytes (usually permanent in nature) that is used to identify a particular",
               "type" : "text"
             },
             {
@@ -517,7 +517,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "ASCII is a standard that defines how numbers are used to represent com- mon characters that can be typed using a keyboard,",
+              "text" : "ASCII is a standard that defines how numbers are used to represent common characters that can be typed using a keyboard,",
               "type" : "text"
             },
             {
@@ -585,7 +585,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "An expanded standard called Unicode is used to represent other charac- ters, such as Mandarin characters. It uses numbers to",
+              "text" : "An expanded standard called Unicode is used to represent other characters, such as Mandarin characters. It uses numbers to",
               "type" : "text"
             },
             {

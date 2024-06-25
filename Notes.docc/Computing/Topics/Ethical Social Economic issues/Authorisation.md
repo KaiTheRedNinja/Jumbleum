@@ -13,25 +13,25 @@ they do not accidentally (or intentionally) change its contents.
 Typically, users can only change the permissions for any file or folder they own. However, most OSs allow for a 
 special user called an **administrator**, who can override the permissions for almost any file or folder.
 
-A normal user may also be given special **administrator rights** that al- low them to override the permissions for certain 
+A normal user may also be given special **administrator rights** that allow them to override the permissions for certain 
 files or folders, just like an administrator.
 
 Managing permissions and administrative rights can be a complex task, and it is possible to accidentally grant access 
 to a file or administrative rights to an unauthorised user. Such a user can then make use of such mistakes to gain 
 unauthorised access to data and resources.
 
-Authentication for the administrator must be especially strong, as an in- truder that successfully claims to be the 
-administrator can bypass file per- missions entirely.
+Authentication for the administrator must be especially strong, as an intruder that successfully claims to be the 
+administrator can bypass file permissions entirely.
 
 File permissions do not prevent an intruder with physical access to a storage device from accessing files or folders 
-directly without going through the op- erating system. To prevent such unauthorised access, it is necessary to use encryption.
+directly without going through the operating system. To prevent such unauthorised access, it is necessary to use encryption.
 
 File permissions can be used as access control for both computers connected to a network and computers that are not 
 connected to a network, but are shared by multiple users.
 
 ## Firewalls
 
-Computers connected to a network are naturally more susceptible to intru- sion as unauthorised access can occur 
+Computers connected to a network are naturally more susceptible to intrusion as unauthorised access can occur 
 without the physical presence of an intruder.
 
 Hence, computers connected to a network usually require another layer of access control called a **firewall**.
@@ -42,7 +42,7 @@ on a set of rules configured by an administrator.
 
 When properly configured, a firewall can protect computers within a network from unauthorised access. They can 
 be configured to block the transmission of data (aka **traffic**) between unauthorised senders and receivers, especially 
-requests for data from anonymous users on the Internet. This prevents in- truders from gaining access to the 
+requests for data from anonymous users on the Internet. This prevents intruders from gaining access to the 
 computers within a network.
 
 Since firewalls can also block traffic based on the type of application that is transmitting the data, it can 
@@ -53,7 +53,7 @@ that allows intruders to gain unauthorised access.
 
 A properly configured firewall allows for a private network (aka **intranet**) to be set up such that all external 
 traffic is blocked and only authenticated and authorised users are able to access it. Since the users on a private 
-network are generally trusted and expected to keep information on the network con- fidential, there are usually 
+network are generally trusted and expected to keep information on the network confidential, there are usually 
 fewer concerns about unauthorised access when sharing data on a private network.
 
 Conversely, a public network such as the Internet allows anyone to connect to it and share data. Since public 
@@ -72,7 +72,7 @@ would still be unable to use the accessed data without knowing the secret key.
 
 Fun fact: A website uses encryption if its address starts with ”https://” and a padlock icon appears next to its address.
 
-##f Understanding of Privacy Policies
+## Understanding of Privacy Policies
 
 Unauthorised access can occur indirectly due to the actions of 3rd-party users or services.
 

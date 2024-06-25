@@ -61,7 +61,7 @@
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " - The legal right of owners to control the use and distribu- tion of their intellectual property.",
+                      "text" : " - The legal right of owners to control the use and distribution of their intellectual property.",
                       "type" : "text"
                     }
                   ],
@@ -160,7 +160,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Similar to public domain software, but is still protected under copy- right and the copyright owners may use",
+                      "text" : "Similar to public domain software, but is still protected under copyright and the copyright owners may use",
                       "type" : "text"
                     },
                     {
@@ -209,7 +209,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "used to license content that is delivered using software. Higher- education course materials such sa videos and",
+                      "text" : "used to license content that is delivered using software. Highereducation course materials such sa videos and",
                       "type" : "text"
                     },
                     {
@@ -217,7 +217,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "notes created by univer- sities and distributed for free on the Internet, aka open courseware often use CC licences.",
+                      "text" : "notes created by universities and distributed for free on the Internet, aka open courseware often use CC licences.",
                       "type" : "text"
                     }
                   ],
@@ -262,7 +262,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "conditions for which the propri- etary software may or may not be used under copyright protection law are usually",
+                      "text" : "conditions for which the proprietary software may or may not be used under copyright protection law are usually",
                       "type" : "text"
                     },
                     {
@@ -270,7 +270,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "communicated to users through an End User License Agree- ment (EULA) contract that the user must accept to use",
+                      "text" : "communicated to users through an End User License Agreement (EULA) contract that the user must accept to use",
                       "type" : "text"
                     },
                     {
@@ -296,7 +296,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Although it seems super restrictive compared to FOSS, it is im- portant to remember that software is a form of",
+                      "text" : "Although it seems super restrictive compared to FOSS, it is important to remember that software is a form of",
                       "type" : "text"
                     },
                     {
@@ -445,7 +445,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Installing multiple copies of proprietary software without purchasing addi- tional licences or sharing proprietary software",
+              "text" : "Installing multiple copies of proprietary software without purchasing additional licences or sharing proprietary software",
               "type" : "text"
             },
             {
@@ -453,7 +453,7 @@
               "type" : "text"
             },
             {
-              "text" : "with unlicensed users is con- sidered software piracy and can result in similar legal repercussions.",
+              "text" : "with unlicensed users is considered software piracy and can result in similar legal repercussions.",
               "type" : "text"
             }
           ],

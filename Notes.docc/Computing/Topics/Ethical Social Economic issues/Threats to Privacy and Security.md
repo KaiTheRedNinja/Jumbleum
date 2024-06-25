@@ -6,7 +6,7 @@ Things that can threaten privacy and security, and how to defend against them
 
 @TabNavigator {
     @Tab("Cookie") {
-        - A small file used by websites to store personal infor- mation on a user’s web browser.
+        - A small file used by websites to store personal information on a user’s web browser.
         - Not malicious by nature, can be misused to collect personal information about users.
         - These little brats appear on every single website since at least 2015.
     }
@@ -17,34 +17,34 @@ Things that can threaten privacy and security, and how to defend against them
         - Harder to detect than phishing as the fake website uses the same address as the real website.
     }
     @Tab("Spamming") {
-        - Mass distribution of unwanted messages or adver- tising to email addresses which are collected from 
+        - Mass distribution of unwanted messages or advertising to email addresses which are collected from 
         sources such as public mailing lists, social media sites, company websites and personal blogs.
     }
     @Tab("Spyware") {
-        - A hidden program that secretly collects personal in- formation about its users and transmits this information 
+        - A hidden program that secretly collects personal information about its users and transmits this information 
         to attackers without the users’ knowledge or consent.
-        - The collected data can then be used for unautho- rised access to even more of the victim’s data.
+        - The collected data can then be used for unauthorised access to even more of the victim’s data.
         - Examples include literally any product a big tech company has produced in the last decade. They know your 
         most embarrassing secrets. Be afraid.
     }
     @Tab("Trojan Horse") {
         - A computer program that pretends to be a harmless file or useful application.
-        - Onceitisrun,itdoessomethingharmfulsuchasgiv- ing intruders unauthorised access to the computer instead.
+        - Onceitisrun,itdoessomethingharmfulsuchasgiving intruders unauthorised access to the computer instead.
     }
     @Tab("Unauthorised access") {
-        - The use of data owned by someone else without per- mission.
+        - The use of data owned by someone else without permission.
         - Arises as a result of privacy and security threats that bypass authentication and authorisation by exploiting 
-        software bugs or tricking the user into perform- ing harmful actions.
-        - Unauthorised access to passwords or private infor- mation can lead to identity theft, stolen money, or public 
+        software bugs or tricking the user into performing harmful actions.
+        - Unauthorised access to passwords or private information can lead to identity theft, stolen money, or public 
         embarrassment like your search history.
     }
     @Tab("Virus") {
-        - A computer program that attaches itself to a nor- mally harmless program and modifies it.
+        - A computer program that attaches itself to a normally harmless program and modifies it.
         - When the modified program is run by a user, the virus attaches copies of itself to any other programs it can 
         find, “infecting” them.
     }
     @Tab("Worm") {
-        - A computer program that runs automatically and at- tempts to spread by sending copies of itself to other 
+        - A computer program that runs automatically and attempts to spread by sending copies of itself to other 
         computers.
         - Unlike a virus, a worm need not attach itself to an existing program.
     }
@@ -103,10 +103,10 @@ Pharming is like phishing V2. The attacker attempts to intercept requests sent f
 website and redirects the user to a fake website to steal personal data.
 
 For example, a victim of pharming may log into their bank account, and are presented with a website that looks 
-like the bank, but ISN’T. It’s an IMPOS- TOR. Now when you log in, the attacker can use these details to access 
+like the bank, but ISN’T. It’s an IMPOSTOR. Now when you log in, the attacker can use these details to access 
 your bank account on the actual website, and has now STOLEN YOUR MONEY.
 
-For pharming to be successful, the attacker must either have malware run- ning on the victim’s computer or has 
+For pharming to be successful, the attacker must either have malware running on the victim’s computer or has 
 taken control of a network device such as a router or server. This can occur as the software that runs on such 
 devices is also susceptible to bugs.
 
@@ -114,7 +114,7 @@ It is harder to detect as everything seems to be normal while the attack takes p
 - Ensure encryption is used when submitting sensitive information via the internet. Check if there’s a padlock 
 icon at the address bar.
 - Regularly check bank, debit/credit card and other statements to ensure all transactions are legitimate.
-- Regularly update web browsers and the software running on the net- work hardware so that all known bugs are fixed.
+- Regularly update web browsers and the software running on the network hardware so that all known bugs are fixed.
 - Enable 2FA for all bank transactions. This means even if the attacker is able to access the bank account, no 
 unauthorised transactions can occur as the attacker would not be able to provide the required OTP.
 
@@ -138,7 +138,7 @@ contained in that cookie back to the website.
 The website is thus aware that the user has visited before and sometimes customises what appears on the page for the 
 user. If no relevant cookie is found, the website may request for a new cookie to be created.
 
-They are generally not malicious and are needed to keep track of authen- tication information to identify which user 
+They are generally not malicious and are needed to keep track of authentication information to identify which user 
 is currently logged in. However, they can be used to keep track of user movements and preferences within the website, 
 such as which pages were most recently visited. Advertising companies with advertisements on multiple websites can 
 also use cookies to keep track of users as they move from one website to another.

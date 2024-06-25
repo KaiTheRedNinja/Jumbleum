@@ -6,7 +6,7 @@ Data corruption occurs when computer data is made unusable by errors or alterati
 If the corrupted data cannot be recovered/replaced, this results in **data loss**. The effects vary depending on 
 the amount of corrupted data and type of data that is represented.
 
-If the corrupted data is not needed to read other data, only that data it- self is lost. This is more likely 
+If the corrupted data is not needed to read other data, only that data itself is lost. This is more likely 
 if the amount of corrupted data is small.
 
 However, if the corrupted data is related to other data in the computer, then both itself and its related data 
@@ -30,7 +30,7 @@ help to prevent the loss of data. Causes of data corruption and loss include:
         - If the power supply to a computer fails, data in the process of being written to a storage device may become corrupted and data stored in volatile memory and not yet written to a storage device will be lost.
     - Preventive measures:
         - Regular backups
-        - Set up a backup power supply, or uninterruptible power sup- ply (UPS) so storage devices can complete any write operations in case of a power failure.
+        - Set up a backup power supply, or uninterruptible power supply (UPS) so storage devices can complete any write operations in case of a power failure.
 - Hardware failure/damage.
     - Causes:
         - All magnetic, optical and solid-state storage devices can fail, either

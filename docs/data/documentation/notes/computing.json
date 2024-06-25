@@ -97,6 +97,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/Program-Testing"
       ],
       "title" : "Abstraction and Algorithms"
+    },
+    {
+      "anchor" : "Computing+",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Networks-Extended"
+      ],
+      "title" : "Computing+"
     }
   ]
 , 
@@ -235,6 +242,26 @@
   "title" : "Ethical Social Economic issues",
   "type" : "topic",
   "url" : "\/documentation\/notes\/ethical-social-economic-issues"
+},
+"doc://Notes/documentation/Notes/Networks-Extended": {
+  "abstract" : [
+    {
+      "text" : "Extra knowledge on networks, extending on basics covered in Data Communications.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Networks-Extended",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Networks Extended",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/networks-extended"
 },
 "doc://Notes/documentation/Notes/Problem-Analysis": {
   "abstract" : [

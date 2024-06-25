@@ -417,6 +417,16 @@
                 "path" : "\/documentation\/notes\/program-testing",
                 "title" : "Program Testing",
                 "type" : "article"
+              },
+              {
+                "title" : "Computing+",
+                "type" : "groupMarker"
+              },
+              {
+                "icon" : "Checkmark.png",
+                "path" : "\/documentation\/notes\/networks-extended",
+                "title" : "Networks Extended",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/computing",

@@ -44,7 +44,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A small file used by websites to store personal infor- mation on a user’s web browser.",
+                              "text" : "A small file used by websites to store personal information on a user’s web browser.",
                               "type" : "text"
                             }
                           ],
@@ -150,7 +150,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Mass distribution of unwanted messages or adver- tising to email addresses which are collected from",
+                              "text" : "Mass distribution of unwanted messages or advertising to email addresses which are collected from",
                               "type" : "text"
                             },
                             {
@@ -181,7 +181,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A hidden program that secretly collects personal in- formation about its users and transmits this information",
+                              "text" : "A hidden program that secretly collects personal information about its users and transmits this information",
                               "type" : "text"
                             },
                             {
@@ -202,7 +202,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "The collected data can then be used for unautho- rised access to even more of the victim’s data.",
+                              "text" : "The collected data can then be used for unauthorised access to even more of the victim’s data.",
                               "type" : "text"
                             }
                           ],
@@ -259,7 +259,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Onceitisrun,itdoessomethingharmfulsuchasgiv- ing intruders unauthorised access to the computer instead.",
+                              "text" : "Onceitisrun,itdoessomethingharmfulsuchasgiving intruders unauthorised access to the computer instead.",
                               "type" : "text"
                             }
                           ],
@@ -282,7 +282,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "The use of data owned by someone else without per- mission.",
+                              "text" : "The use of data owned by someone else without permission.",
                               "type" : "text"
                             }
                           ],
@@ -303,7 +303,7 @@
                               "type" : "text"
                             },
                             {
-                              "text" : "software bugs or tricking the user into perform- ing harmful actions.",
+                              "text" : "software bugs or tricking the user into performing harmful actions.",
                               "type" : "text"
                             }
                           ],
@@ -316,7 +316,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Unauthorised access to passwords or private infor- mation can lead to identity theft, stolen money, or public",
+                              "text" : "Unauthorised access to passwords or private information can lead to identity theft, stolen money, or public",
                               "type" : "text"
                             },
                             {
@@ -347,7 +347,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A computer program that attaches itself to a nor- mally harmless program and modifies it.",
+                              "text" : "A computer program that attaches itself to a normally harmless program and modifies it.",
                               "type" : "text"
                             }
                           ],
@@ -391,7 +391,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A computer program that runs automatically and at- tempts to spread by sending copies of itself to other",
+                              "text" : "A computer program that runs automatically and attempts to spread by sending copies of itself to other",
                               "type" : "text"
                             },
                             {
@@ -813,7 +813,7 @@
               "type" : "text"
             },
             {
-              "text" : "like the bank, but ISN’T. It’s an IMPOS- TOR. Now when you log in, the attacker can use these details to access",
+              "text" : "like the bank, but ISN’T. It’s an IMPOSTOR. Now when you log in, the attacker can use these details to access",
               "type" : "text"
             },
             {
@@ -830,7 +830,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "For pharming to be successful, the attacker must either have malware run- ning on the victim’s computer or has",
+              "text" : "For pharming to be successful, the attacker must either have malware running on the victim’s computer or has",
               "type" : "text"
             },
             {
@@ -902,7 +902,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Regularly update web browsers and the software running on the net- work hardware so that all known bugs are fixed.",
+                      "text" : "Regularly update web browsers and the software running on the network hardware so that all known bugs are fixed.",
                       "type" : "text"
                     }
                   ],
@@ -1096,7 +1096,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "They are generally not malicious and are needed to keep track of authen- tication information to identify which user",
+              "text" : "They are generally not malicious and are needed to keep track of authentication information to identify which user",
               "type" : "text"
             },
             {

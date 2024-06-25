@@ -165,7 +165,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A means of connecting 2+ computers to- gether so that they may exchange data and interact with each other, such as via:",
+                              "text" : "A means of connecting 2+ computers together so that they may exchange data and interact with each other, such as via:",
                               "type" : "text"
                             }
                           ],
@@ -621,7 +621,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A network of computing devices con- nected within a small geographical area, typically within the same building, such as a home, school, or office.",
+                              "text" : "A network of computing devices connected within a small geographical area, typically within the same building, such as a home, school, or office.",
                               "type" : "text"
                             }
                           ],
@@ -693,7 +693,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A network of computing devices covering a large-scale geographical area, typically across multiple geo- graphical locations.",
+                              "text" : "A network of computing devices covering a large-scale geographical area, typically across multiple geographical locations.",
                               "type" : "text"
                             }
                           ],
@@ -1034,7 +1034,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Initially expensive due to cost of wireless network- ing equipment but becomes more cost-effective as network grows in size.",
+                      "text" : "Initially expensive due to cost of wireless networking equipment but becomes more cost-effective as network grows in size.",
                       "type" : "text"
                     }
                   ],
@@ -1353,7 +1353,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "They usually have higher capacity and are more powerful than a client as it needs to manage resources and services. These might in- clude:",
+                              "text" : "They usually have higher capacity and are more powerful than a client as it needs to manage resources and services. These might include:",
                               "type" : "text"
                             }
                           ],
@@ -1555,7 +1555,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Users are able to share files and resources located on their comput- ers as well as access shared resources found on other computers in the network.",
+                              "text" : "Users are able to share files and resources located on their computers as well as access shared resources found on other computers in the network.",
                               "type" : "text"
                             }
                           ],
@@ -1619,7 +1619,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Security may be enhanced with the use of specialised software or oper- ating system features that are designed for servers.",
+                      "text" : "Security may be enhanced with the use of specialised software or operating system features that are designed for servers.",
                       "type" : "text"
                     },
                     {
@@ -2027,7 +2027,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Networks typically have many computers and programs using them at any given time. In order to identify the different networks, computers and pro- grams, they need to be given names and describe their functions.",
+              "text" : "Networks typically have many computers and programs using them at any given time. In order to identify the different networks, computers and programs, they need to be given names and describe their functions.",
               "type" : "text"
             }
           ],
@@ -2053,7 +2053,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A method of mapping multiple pri- vate addresses inside a local network to a public IP address before transferring the information onto the internet.",
+                              "text" : "A method of mapping multiple private addresses inside a local network to a public IP address before transferring the information onto the internet.",
                               "type" : "text"
                             }
                           ],
@@ -2118,7 +2118,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A computing device can run multiple programs at the same time. For exam- ple, a single computer can run both a web server program with port",
+                              "text" : "A computing device can run multiple programs at the same time. For example, a single computer can run both a web server program with port",
                               "type" : "text"
                             },
                             {
@@ -2212,7 +2212,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A hardware component that pro- vides the hardware interface to enable the transfer of data between a device and a network.",
+                              "text" : "A hardware component that provides the hardware interface to enable the transfer of data between a device and a network.",
                               "type" : "text"
                             }
                           ],
@@ -2360,7 +2360,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A unit of broken-up data containing a header with informa- tion about the source and destination addresses",
+                              "text" : "A unit of broken-up data containing a header with information about the source and destination addresses",
                               "type" : "text"
                             },
                             {
@@ -2399,7 +2399,7 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "A device that constructs a single network by con- necting multiple similar networks together.",
+                              "text" : "A device that constructs a single network by connecting multiple similar networks together.",
                               "type" : "text"
                             }
                           ],
@@ -2501,7 +2501,7 @@
                               "type" : "text"
                             },
                             {
-                              "text" : "keeps the connected net- works (which may use fundamentally different protocols) separate and forwards packets",
+                              "text" : "keeps the connected networks (which may use fundamentally different protocols) separate and forwards packets",
                               "type" : "text"
                             },
                             {
@@ -2977,7 +2977,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Can operate over larger dis- tances and handle more data that a bus topology.",
+                      "text" : "Can operate over larger distances and handle more data that a bus topology.",
                       "type" : "text"
                     }
                   ],
@@ -2990,7 +2990,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Data packets that are sent be- tween two computers will pass through intermediate comput- ers, hence a central",
+                      "text" : "Data packets that are sent between two computers will pass through intermediate computers, hence a central",
                       "type" : "text"
                     },
                     {
@@ -3067,7 +3067,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "The computers will send data to the central network hardware and the hard- ware forwards the data to the intended destination.",
+              "text" : "The computers will send data to the central network hardware and the hardware forwards the data to the intended destination.",
               "type" : "text"
             }
           ],
@@ -3089,7 +3089,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "The load on each section of ca- bling is reduced as each computer uses a separate cable from the rest.",
+                      "text" : "The load on each section of cabling is reduced as each computer uses a separate cable from the rest.",
                       "type" : "text"
                     }
                   ],
@@ -3394,7 +3394,7 @@
               "type" : "text"
             },
             {
-              "text" : "There are 3 1-bits in the data string. In an even parity system, the par- ity bit 1 would be added (11010001), and",
+              "text" : "There are 3 1-bits in the data string. In an even parity system, the parity bit 1 would be added (11010001), and",
               "type" : "text"
             },
             {
