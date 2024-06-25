@@ -1,7 +1,7 @@
 # Authorisation
 
 Once the user is authenticated, the ability of a computer to control the access of data and resources by that user is 
-called access **control/authorisation**. Computers provide access control through a variety of means.
+called access control/authorisation
 
 ## File Permissions
 Most operating systems have settings to control the ability of users to view or make changes to specific files or 

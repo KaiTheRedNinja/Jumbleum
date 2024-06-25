@@ -1,7 +1,6 @@
 # Data Corruption
 
-**Data corruption** occurs when computer data is made unusable by errors or alterations. This can happen during the 
-reading, writing or transmission of data.
+Data corruption occurs when computer data is made unusable by errors or alterations
 
 ## Effects of Corruption and Data Loss
 If the corrupted data cannot be recovered/replaced, this results in **data loss**. The effects vary depending on 

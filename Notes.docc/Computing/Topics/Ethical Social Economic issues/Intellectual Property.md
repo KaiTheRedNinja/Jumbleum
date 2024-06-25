@@ -1,5 +1,7 @@
 # Intellectual Property
 
+IP, licenses, and different types of software
+
 ## Definitions
 - `Intellectual property` - Creations of the mind that have value but can exist purely as data with no physical form.
 - `Copyright` - The legal right of owners to control the use and distribu- tion of their intellectual property.

@@ -1,5 +1,7 @@
 # Threats to Privacy and Security
 
+Things that can threaten privacy and security, and how to defend against them
+
 ## General Threats
 
 @TabNavigator {

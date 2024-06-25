@@ -1,5 +1,11 @@
 # Data Communications
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
+Networks and the way computers talk to each other
+
 ## Overview
 
 - Network hardware

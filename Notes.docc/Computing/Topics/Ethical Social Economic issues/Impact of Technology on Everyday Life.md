@@ -1,5 +1,7 @@
 # Impact of Technology on Everyday Life
 
+How technology has impacted various aspects of people's lives
+
 ## Communication
 The Internet has enabled diverse cultures to interact and share ideas with each other. Social networking 
 sites have enabled users to remain connected with friends, family and colleagues over long distances. 

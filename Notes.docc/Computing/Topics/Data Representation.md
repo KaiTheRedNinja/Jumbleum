@@ -4,9 +4,7 @@
     @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
-Data representation is the way data is stored and processed in a computer system. Data can be represented in different 
-ways, such as numbers, text, images, audio, and video. Each type of data has its own representation format, which determines 
-how it is stored and processed by the computer.
+The way data is stored and processed in a computer system
 
 ## Overview
 - Binary representations of whole numbers

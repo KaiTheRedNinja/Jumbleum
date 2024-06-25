@@ -389,6 +389,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/data-communications",
                 "title" : "Data Communications",
                 "type" : "article"
@@ -628,7 +629,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : "Checkmark",
+      "alt" : null,
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [

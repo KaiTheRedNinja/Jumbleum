@@ -4,6 +4,8 @@
     @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
+A big unit about the ethical, social and economic issues of computing
+
 ## Overview
 - How data can be kept safe
 - Effects of threats to privacy and security

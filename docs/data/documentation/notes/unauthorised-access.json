@@ -505,20 +505,7 @@
       "type" : "text"
     },
     {
-      "text" : "called access ",
-      "type" : "text"
-    },
-    {
-      "inlineContent" : [
-        {
-          "text" : "control\/authorisation",
-          "type" : "text"
-        }
-      ],
-      "type" : "strong"
-    },
-    {
-      "text" : ". Computers provide access control through a variety of means.",
+      "text" : "called access control\/authorisation",
       "type" : "text"
     }
   ],
@@ -546,24 +533,7 @@
 "doc://Notes/documentation/Notes/Data-Corruption": {
   "abstract" : [
     {
-      "inlineContent" : [
-        {
-          "text" : "Data corruption",
-          "type" : "text"
-        }
-      ],
-      "type" : "strong"
-    },
-    {
-      "text" : " occurs when computer data is made unusable by errors or alterations. This can happen during the",
-      "type" : "text"
-    },
-    {
-      "text" : " ",
-      "type" : "text"
-    },
-    {
-      "text" : "reading, writing or transmission of data.",
+      "text" : "Data corruption occurs when computer data is made unusable by errors or alterations",
       "type" : "text"
     }
   ],
@@ -576,7 +546,10 @@
 },
 "doc://Notes/documentation/Notes/Ethical-Social-Economic-issues": {
   "abstract" : [
-
+    {
+      "text" : "A big unit about the ethical, social and economic issues of computing",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
   "images" : [
@@ -593,7 +566,10 @@
 },
 "doc://Notes/documentation/Notes/Impact-of-Technology-on-Everyday-Life": {
   "abstract" : [
-
+    {
+      "text" : "How technology has impacted various aspects of people’s lives",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life",
   "kind" : "article",
@@ -604,7 +580,10 @@
 },
 "doc://Notes/documentation/Notes/Intellectual-Property": {
   "abstract" : [
-
+    {
+      "text" : "IP, licenses, and different types of software",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property",
   "kind" : "article",
@@ -615,7 +594,10 @@
 },
 "doc://Notes/documentation/Notes/Threats-to-Privacy-and-Security": {
   "abstract" : [
-
+    {
+      "text" : "Things that can threaten privacy and security, and how to defend against them",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
   "kind" : "article",
