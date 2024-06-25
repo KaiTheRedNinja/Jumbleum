@@ -63,6 +63,30 @@ nCx * a^{n-x} * b^r \quad : \quad x+1 \rightarrow x
 This evaluates one term, then increases x by one (the : is used to separate the two commands). Repeat this command `n+1` times to
 evaluate the entire expansion.
 
+## Solving
+
+If you have a statement like the following:
+```math
+(1+jx)(k-\frac{x}{m})^n = a+bx^2
+```
+
+It implies that the coefficient of `x` is zero. From this, we can obtain the following equations:
+```math
+jk^n = \binom{n}{1}k^{n-1}(\frac{1}{m})
+
+= \frac{nk^{n-1}}{m}
+
+\frac{k^n}{k^{n-1}} = \frac{n}{mj}
+
+k = \frac{n}{mj}
+
+n = \frac{k}{mj}
+```
+
+And then solve it from there. This works on two principles:
+1. nC1 is equal to n
+2. (k^n)/(k^(n-1)) is equal to k
+
 ## Examples
 
 Given that *k* is a constant and the coefficient of the x^4 term in the expansion of (2x+k)^6 is 2160, find the value of k

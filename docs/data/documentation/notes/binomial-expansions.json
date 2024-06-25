@@ -540,6 +540,100 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Solving",
+          "level" : 2,
+          "text" : "Solving",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If you have a statement like the following:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(1+jx)(k-\\frac{x}{m})^n = a+bx^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It implies that the coefficient of ",
+              "type" : "text"
+            },
+            {
+              "code" : "x",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is zero. From this, we can obtain the following equations:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "jk^n = \\binom{n}{1}k^{n-1}(\\frac{1}{m})",
+            "",
+            "= \\frac{nk^{n-1}}{m}",
+            "",
+            "\\frac{k^n}{k^{n-1}} = \\frac{n}{mj}",
+            "",
+            "k = \\frac{n}{mj}",
+            "",
+            "n = \\frac{k}{mj}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "And then solve it from there. This works on two principles:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "nC1 is equal to n",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "(k^n)\/(k^(n-1)) is equal to k",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
           "anchor" : "Examples",
           "level" : 2,
           "text" : "Examples",
