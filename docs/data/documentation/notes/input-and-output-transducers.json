@@ -54,7 +54,10 @@
 },
 "doc://Notes/documentation/Notes/Bipolar-Junction-Transistors": {
   "abstract" : [
-
+    {
+      "text" : "Transistors, which are like electronically controlled switches",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
   "kind" : "article",
