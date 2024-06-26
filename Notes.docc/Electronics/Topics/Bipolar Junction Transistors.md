@@ -1,5 +1,9 @@
 # Bipolar Junction Transistors
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Transistors, which are like electronically controlled switches
 
 ## Overview

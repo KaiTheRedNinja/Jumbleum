@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Bipolar Junction Transistors"
@@ -722,6 +728,20 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "Example_BJT": {
   "alt" : "Circuit making use of a BJT transistor",
   "identifier" : "Example_BJT",
