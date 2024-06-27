@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Plate tectonics is how and why continental plates interact with each other",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,203 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Plate Tectonics"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Types-of-Plate-Boundaries",
+          "level" : 2,
+          "text" : "Types of Plate Boundaries",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Transform isn’t tested in the exam, so we’re not including it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Divergent",
+          "level" : 3,
+          "text" : "Divergent",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "O-O",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", aka seafloor spreading, forms mid-oceanic ridges",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "O-C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " forms rift valleys or block mountains",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Convergent",
+          "level" : 3,
+          "text" : "Convergent",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "O-O",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " forms island arcs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "O-C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " forms volcanoes and trenches",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "C-C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " forms mountain ranges",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Transform",
+          "level" : 3,
+          "text" : "Transform",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Evidence-for-Plate-Tectonics",
+          "level" : 2,
+          "text" : "Evidence for Plate Tectonics",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Seafloor-Spreading",
+          "level" : 3,
+          "text" : "Seafloor Spreading",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In O-O divergent boundaries, magma rises to the surface and cools, forming new crust. This pushes the older",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "crust away from the boundary, creating a conveyor belt effect.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Magnetic-Striping",
+          "level" : 3,
+          "text" : "Magnetic Striping",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As the magma cools, it records the Earth’s magnetic field. This creates magnetic stripes on the seafloor,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which are symmetrical about the mid-oceanic ridge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -38,6 +237,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -68,6 +281,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Earthquakes and Volcanoes",

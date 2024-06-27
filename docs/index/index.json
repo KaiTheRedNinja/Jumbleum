@@ -614,11 +614,13 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/plate-tectonics",
                 "title" : "Plate Tectonics",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/earthquakes-and-volcanoes",
                 "title" : "Earthquakes and Volcanoes",
                 "type" : "article"
@@ -642,7 +644,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : "Checkmark",
+      "alt" : null,
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
@@ -652,6 +654,20 @@
             "light"
           ],
           "url" : "\/images\/Checkmark.png"
+        }
+      ]
+    },
+    "In Progress.png" : {
+      "alt" : "In Progress",
+      "identifier" : "In Progress.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/In%20Progress.png"
         }
       ]
     }
