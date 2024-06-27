@@ -14,6 +14,31 @@ Basic computing technology and systems, concepts, algorithms, techniques and too
 
 Most of the notes in Computing are from Michael de Beyer's Holy Grail computing textbook.
 
+Remember the 54331 things:
+
+- 5 stages of developing a program
+    - Gathering requirements
+    - Plan solutions
+    - Write code
+    - Test and refine
+    - Deploy code
+- 4 validation checks 
+    - Presence check
+    - Format check
+    - Length check
+    - Range check
+- 3 test case conditions
+    - Normal
+    - Boundary
+    - Error
+- 3 types of errors
+    - Syntax error
+    - Run-time error
+    - Logic error
+- 2 debugging methods
+    - Using intermittent print statements
+    - Testing the program in small chunks or by parts
+
 ## Topics
 
 ### Data and Information

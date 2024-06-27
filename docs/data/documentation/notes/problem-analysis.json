@@ -68,7 +68,10 @@
 },
 "doc://Notes/documentation/Notes/Computer-Architecture": {
   "abstract" : [
-
+    {
+      "text" : "How a computer is designed and built to function, including how the parts of the computer are designed, organised and connected",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
   "kind" : "article",
