@@ -1,5 +1,9 @@
 # Computer Architecture
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 How a computer is designed and built to function, including how the parts of the computer are designed, organised and connected
 
 ## Bits and bytes

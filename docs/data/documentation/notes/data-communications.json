@@ -3586,7 +3586,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -3621,6 +3621,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Computer Architecture",
@@ -3643,9 +3649,18 @@
 },
 "doc://Notes/documentation/Notes/Problem-Analysis": {
   "abstract" : [
-
+    {
+      "text" : "Problem Analysis is solving problems by decomposing\/generalising them",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Problem Analysis",

@@ -384,6 +384,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/computer-architecture",
                 "title" : "Computer Architecture",
                 "type" : "article"
@@ -395,6 +396,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/problem-analysis",
                 "title" : "Problem Analysis",
                 "type" : "article"
@@ -640,7 +642,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [

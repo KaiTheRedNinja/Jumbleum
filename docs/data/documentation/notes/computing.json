@@ -463,7 +463,10 @@
 },
 "doc://Notes/documentation/Notes/Algorithm-Design": {
   "abstract" : [
-
+    {
+      "text" : "Set of step-by-step instructions for solving a problem (textbook definition)",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
   "kind" : "article",
@@ -480,6 +483,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Computer Architecture",
@@ -593,9 +602,18 @@
 },
 "doc://Notes/documentation/Notes/Problem-Analysis": {
   "abstract" : [
-
+    {
+      "text" : "Problem Analysis is solving problems by decomposing\/generalising them",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Problem-Analysis",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Problem Analysis",
