@@ -152,6 +152,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/exponential-and-logarithmic-functions",
                 "title" : "Exponential and Logarithmic functions",
                 "type" : "article"
@@ -644,7 +645,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
