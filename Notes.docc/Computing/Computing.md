@@ -6,6 +6,8 @@
         purpose: link,
         label: "Curriculum"
     )
+
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Basic computing technology and systems, concepts, algorithms, techniques and tools
