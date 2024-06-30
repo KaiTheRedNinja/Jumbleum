@@ -363,6 +363,23 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that machine learning is technically in the Computing+ syllabus, but its not",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "tested so frankly I’m not bothered to write any notes for it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -523,9 +540,18 @@
 },
 "doc://Notes/documentation/Notes/Data-Management": {
   "abstract" : [
-
+    {
+      "text" : "Managing data using MS Excel",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Data Management",

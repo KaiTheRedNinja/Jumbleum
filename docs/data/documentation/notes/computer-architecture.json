@@ -2256,8 +2256,9 @@
               "type" : "text"
             },
             {
-              "text" : "doc:Combinational-logic-circuits",
-              "type" : "text"
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
+              "isActive" : true,
+              "type" : "reference"
             },
             {
               "text" : ". Note that the format for boolean algebra in computing is",
@@ -2408,6 +2409,17 @@
   "title" : "Basic logic gates",
   "type" : "topic",
   "url" : "\/documentation\/notes\/basic-logic-gates"
+},
+"doc://Notes/documentation/Notes/Combinational-Logic-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Combinational Logic Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/combinational-logic-circuits"
 },
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [

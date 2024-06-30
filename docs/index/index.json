@@ -332,6 +332,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/data-management",
                 "title" : "Data Management",
                 "type" : "article"

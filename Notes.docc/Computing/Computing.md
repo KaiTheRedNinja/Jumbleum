@@ -39,6 +39,9 @@ Remember the 54331 things:
     - Using intermittent print statements
     - Testing the program in small chunks or by parts
 
+Note that machine learning is technically in the Computing+ syllabus, but its not
+tested so frankly I'm not bothered to write any notes for it.
+
 ## Topics
 
 ### Data and Information
