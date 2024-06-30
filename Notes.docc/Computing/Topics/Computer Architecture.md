@@ -189,3 +189,47 @@ The types of storage media and their advantages and disadvantages are as follows
     }
 }
 
+## Logic Gates
+All data is represented in binary, which is essentially a boolean. We do logic on these booleans 
+using logic gates.
+
+Theres 7 main types of logic gates
+
+@Image(source: "Example_Logic Gate", alt: "The 7 main types of logic gates")
+
+- `NOT` - Inverts input (0 to 1, 1 to 0)
+- `AND` - Outputs 1 if both inputs are 1
+- `OR` - Outputs 1 if at least one input is 1
+- `NAND` - AND, but inverted
+- `NOR` - OR, but inverted
+
+Not in syllabus:
+- `XOR` - Exclusive or, the same as OR but outputs 0 if both inputs are 1. Pronounced "zore"
+- `XNOR` - XOR, but inverted. Pronounced "snore"
+
+### Constructing Logical Statements
+There are three forms of logical statements:
+- Logic Gate Diagrams
+- Truth Tables
+- Boolean Algebra
+
+To convert a logic gate diagram to a truth table, follow these steps:
+1. Write down the inputs, intermidate values (results of logic gates that aren't the outputs), 
+and outputs of the logic gate.
+2. Write down all possible combinations of inputs.
+3. Fill in the intermediate values and outputs based on the logic gate diagram.
+
+To convert a truth table to a logic gate diagram, just try and look and see if anything
+seems to match a logic gate, rinse and repeat. Or, you could apply Sum of Product
+- Determine the combinations which result in an output of 1
+- Create an AND term for each condition that results in an output of 1
+- OR the AND terms together
+
+### Boolean Algebra
+Boolean algebra is explained more in-depth in Electronics, at <doc:Basic-logic-gates> and 
+<doc:Combinational-Logic-Circuits>. Note that the format for boolean algebra in computing is
+slightly different:
+- For NOT, instead of an overline, use the word NOT
+- For AND, instead of an asterisk, use the word AND
+- For OR, instead of a plus sign, use the word OR
+- Use () to group terms, as it is not always clear what is being ANDed or ORed

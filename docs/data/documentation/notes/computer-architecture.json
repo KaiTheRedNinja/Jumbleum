@@ -1869,6 +1869,467 @@
             }
           ],
           "type" : "tabNavigator"
+        },
+        {
+          "anchor" : "Logic-Gates",
+          "level" : 2,
+          "text" : "Logic Gates",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "All data is represented in binary, which is essentially a boolean. We do logic on these booleans",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "using logic gates.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Theres 7 main types of logic gates",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Example_Logic Gate",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "NOT",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Inverts input (0 to 1, 1 to 0)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "AND",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Outputs 1 if both inputs are 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "OR",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Outputs 1 if at least one input is 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "NAND",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - AND, but inverted",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "NOR",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - OR, but inverted",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Not in syllabus:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "XOR",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - Exclusive or, the same as OR but outputs 0 if both inputs are 1. Pronounced “zore”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "XNOR",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " - XOR, but inverted. Pronounced “snore”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Constructing-Logical-Statements",
+          "level" : 3,
+          "text" : "Constructing Logical Statements",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are three forms of logical statements:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Logic Gate Diagrams",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Truth Tables",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Boolean Algebra",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To convert a logic gate diagram to a truth table, follow these steps:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write down the inputs, intermidate values (results of logic gates that aren’t the outputs),",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and outputs of the logic gate.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write down all possible combinations of inputs.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Fill in the intermediate values and outputs based on the logic gate diagram.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To convert a truth table to a logic gate diagram, just try and look and see if anything",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "seems to match a logic gate, rinse and repeat. Or, you could apply Sum of Product",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the combinations which result in an output of 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Create an AND term for each condition that results in an output of 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "OR the AND terms together",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Boolean-Algebra",
+          "level" : 3,
+          "text" : "Boolean Algebra",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Boolean algebra is explained more in-depth in Electronics, at ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "doc:Combinational-logic-circuits",
+              "type" : "text"
+            },
+            {
+              "text" : ". Note that the format for boolean algebra in computing is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "slightly different:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For NOT, instead of an overline, use the word NOT",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For AND, instead of an asterisk, use the word AND",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For OR, instead of a plus sign, use the word OR",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use () to group terms, as it is not always clear what is being ANDed or ORed",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -1909,6 +2370,20 @@
     }
   ]
 },
+"Example_Logic Gate": {
+  "alt" : "The 7 main types of logic gates",
+  "identifier" : "Example_Logic Gate",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Example_Logic%20Gate.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -1922,6 +2397,17 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Basic-logic-gates": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Basic logic gates",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/basic-logic-gates"
 },
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
