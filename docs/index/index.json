@@ -197,6 +197,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/physical-quantities-units-and-measurement",
                 "title" : "Physical Quantities Units and Measurement",
                 "type" : "article"
@@ -206,6 +207,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/kinematics",
                 "title" : "Kinematics",
                 "type" : "article"
@@ -664,7 +666,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

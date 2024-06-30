@@ -122,6 +122,20 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -254,9 +268,18 @@
 },
 "doc://Notes/documentation/Notes/Kinematics": {
   "abstract" : [
-
+    {
+      "text" : "The study of the movement of objects without considering the forces that cause the motion.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Kinematics",
@@ -298,9 +321,18 @@
 },
 "doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement": {
   "abstract" : [
-
+    {
+      "text" : "How physical quantities are measured and represented",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Physical Quantities Units and Measurement",
