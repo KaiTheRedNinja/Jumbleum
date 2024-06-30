@@ -660,7 +660,10 @@
 },
 "doc://Notes/documentation/Notes/Program-Development": {
   "abstract" : [
-
+    {
+      "text" : "The process of developing a program",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
   "images" : [

@@ -4,6 +4,8 @@
     @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
+The process of developing a program
+
 ## Overview
 - Stages of developing a program
 - Sequence, selection, iteration constructs

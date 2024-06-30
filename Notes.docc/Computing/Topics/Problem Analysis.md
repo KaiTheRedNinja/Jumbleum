@@ -7,9 +7,9 @@
 Problem Analysis is solving problems by decomposing/generalising them
 
 ## Overview
-• Input and output requirements
-• Solving problems by decomposing them
-• Generalising across similar problems
+- Input and output requirements
+- Solving problems by decomposing them
+- Generalising across similar problems
 
 To understand a problem, we need to specify its:
 - Inputs and requirements for valid inputs

@@ -6,6 +6,12 @@
 
 How a computer is designed and built to function, including how the parts of the computer are designed, organised and connected
 
+## Overview
+- Basic computer architecture
+- Logic gates, boolean statements, and truth tables
+- Constructing truth tables
+- Simple logic circuits
+
 ## Bits and bytes
 
 Data is represented as numbers, the smallest unit is called a “bit”.
