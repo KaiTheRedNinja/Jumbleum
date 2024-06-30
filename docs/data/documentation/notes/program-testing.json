@@ -1776,6 +1776,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Algorithm Design",
