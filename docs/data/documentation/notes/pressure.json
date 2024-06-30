@@ -70,7 +70,10 @@
 },
 "doc://Notes/documentation/Notes/Dynamics": {
   "abstract" : [
-
+    {
+      "text" : "The study of the motion of objects and the forces that cause them to move.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
   "kind" : "article",

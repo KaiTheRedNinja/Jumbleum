@@ -652,7 +652,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
