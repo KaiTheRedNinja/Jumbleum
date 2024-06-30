@@ -412,7 +412,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/program-development",
                 "title" : "Program Development",
                 "type" : "article"
@@ -647,7 +647,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : "Checkmark",
+      "alt" : null,
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
@@ -661,7 +661,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

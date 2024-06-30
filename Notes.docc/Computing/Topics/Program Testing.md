@@ -133,6 +133,14 @@ The following is a very generalised method of obtaining Big O of a function (the
 ### Big O Example
 We have this function to get the sum of numbers in an array
 
+```python
+def func1(arr):
+    total = 0
+    for i in arr:
+        total += i
+    return total
+```
+
 Assume the compiler executes each similar statement in a constant time, so a statement “a=3” would take the same amount of 
 time (microseconds) regardless of where it appears in the entire code)
 
@@ -154,8 +162,17 @@ Now we have (number of elements in array)
 
 Since input size is universally denoted as n in Big O notation, the Big O of func1 is O(n), which has a linear growth rate.
 
-If you have two loops of different time complexity O(n) and O(m), it is O(n+m)
+Example O functions:
 
-If they are the same, it’s just O(n), because the academic level is stupid. It is technically O(2n)
+| Notation | Name | Example |
+|----------|------|---------|
+| O(1) | Constant | Constant lookup table |
+| O(log(n)) | Logarithmic | Binary search |
+| O((log(n))^c), c > 1 | Polylogarithmic | Matrix chain ordering (effectively multiplying matricesnig) |
+| O(n) | Linear | Finding an item in an unsorted array |
+| O(nlog(n)) | Linearithmic | Heap and merge sort |
+| O(n^2) | Quadratic | Bubble and insertion sort |
+| O(n^c), c > 2 | Polynomial | Maximum matching of bipartite graphs |
+| O(c^n), c > 1 | Exponential | Travelling Salesman Problem using dynamic programming |
+| O(n!) | Factorial | TSP using brute force (listing out all combinations) |
 
-The BEST case you can ever get for an algorithm is O(1), which means it only iterates once and there is no growing expression.
