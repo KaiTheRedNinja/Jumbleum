@@ -101,7 +101,10 @@
 },
 "doc://Notes/documentation/Notes/Exam-Questions": {
   "abstract" : [
-
+    {
+      "text" : "How to answer the questions",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
   "kind" : "article",

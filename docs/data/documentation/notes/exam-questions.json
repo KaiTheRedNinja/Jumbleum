@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "How to answer the questions",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -21,7 +27,7 @@
     {
       "content" : [
         {
-          "anchor" : "overview",
+          "anchor" : "Overview",
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
@@ -33,7 +39,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Message",
+                      "text" : "Inference",
                       "type" : "text"
                     }
                   ],
@@ -46,7 +52,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Similarity",
+                      "text" : "Comparison",
                       "type" : "text"
                     }
                   ],
@@ -56,7 +62,15 @@
             },
             {
               "content" : [
-
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Reliability\/Utility",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
               ]
             },
             {
@@ -64,7 +78,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Evidence",
+                      "text" : "Surprise",
                       "type" : "text"
                     }
                   ],
@@ -102,31 +116,378 @@
           "type" : "orderedList"
         },
         {
-          "anchor" : "Message",
+          "anchor" : "Source-Based-Question",
           "level" : 2,
-          "text" : "Message",
-          "type" : "heading"
-        },
-        {
-          "anchor" : "Similarity",
-          "level" : 2,
-          "text" : "Similarity",
-          "type" : "heading"
-        },
-        {
-          "anchor" : "Evidence",
-          "level" : 2,
-          "text" : "Evidence",
+          "text" : "Source Based Question",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "Format: “How useful is Source X as evidence for [question focus]? Explain your answer.”",
+              "text" : "When answering source based questions, always remember to:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Analyse the question requirements",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Pay attention to the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "specific requirements",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " of the question and answer directly.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Repeat the question focus",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Restate the question focus in your answer to convince the marker that you’re answering the question",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Take a firm stand",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "If the question requires you to take a stance, do it ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "AT THE START OF THE ANSWER",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Do NOT use vague words like “to a large extent”. You either agree or disagree.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Highlight ideas based on the big question",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The key ideas (eg. the inference in an inference question) usually answer an aspect of the big",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "question",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Use the big question to determine the main point of the source",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Fully explain your logic",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Any leaps of logic will be marked down. Make sure to explain your reasoning fully, for example:",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "“this makes the base source reliable, and hence it is useful…”",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "“because of X, so Y, and as a result Z” (BSA)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If an SBQ doesn’t seem to match any of the common SBQ types, see which one its most like and follow",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "that structure",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Make sure that your answer isn’t overly formulaic",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Inference",
+          "level" : 3,
+          "text" : "Inference",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Comparison",
+          "level" : 3,
+          "text" : "Comparison",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "ReliabilityUtility",
+          "level" : 3,
+          "text" : "Reliability\/Utility",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These questions are usually identically answered, so you’re likely to only get one of these in the exam.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For utility, you may be provided with a question focus. Make sure you ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "narrow down",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " your response so",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that it stays within the bounds of the question focus.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "“How useful is Source X as evidence for [question focus]? Explain your answer.”",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Format",
+          "style" : "note",
+          "type" : "aside"
         },
         {
           "inlineContent" : [
@@ -273,8 +634,285 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Surprise",
+          "level" : 3,
+          "text" : "Surprise",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Not surprised if:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Another source corroborates target source’s content (eg. “Source X is not surprising as source",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Y corroborates it”)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Target source’s author’s identity lines up with content (eg. “Source X is not surprising as the author",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "is a [something here] and therefore…”)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Surprised if:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Another source contradicts target source’s content (eg. “Source X is surprising as source Y",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "contradicts it”)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Target source’s author’s identity contradicts content (eg. “Source X is surprising as the author",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "is a [something here] and therefore…”)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are two types of surprise question: One source and two source.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "One source: “Does Source X make you surprised? Explain your answer”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Two source: “Does Source X make you surprised by source B? Explain your answer”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When you have two source surprise questions, corroborate content between the two given sources FIRST.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "After that then you can corroborate content between the target source and other sources.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Format:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "1. State cross reference",
+            "2. Content (PEE) + Cross-reference (PEE) + Logic",
+            "3. Higher Analysis [Provenance, Purpose (Hidden Agenda), Bias, Context]"
+          ],
+          "syntax" : null,
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Strategy:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "First use sources that you are ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "surprised by",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "emphasis"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use cross-reference and comparison",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Your conclusion should be based on the ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "target source",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Do not attempt higher level analysis unless you have completed other questions and have time",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
           "anchor" : "Assertion",
-          "level" : 2,
+          "level" : 3,
           "text" : "Assertion",
           "type" : "heading"
         },
@@ -290,7 +928,31 @@
         {
           "inlineContent" : [
             {
-              "text" : "Write FOUR paragraphs, in an ADAD format where A is agree and D is disagree.",
+              "text" : "Write FOUR paragraphs, in an ",
+              "type" : "text"
+            },
+            {
+              "code" : "ADAD",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " format where ",
+              "type" : "text"
+            },
+            {
+              "code" : "A",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is agree and ",
+              "type" : "text"
+            },
+            {
+              "code" : "D",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is disagree.",
               "type" : "text"
             }
           ],
