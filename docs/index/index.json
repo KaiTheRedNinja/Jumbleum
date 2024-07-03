@@ -162,6 +162,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/trig-functions-identities-and-equations",
                 "title" : "Trig functions identities and equations",
                 "type" : "article"
@@ -666,7 +667,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

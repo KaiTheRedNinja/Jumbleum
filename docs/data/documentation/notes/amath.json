@@ -299,9 +299,18 @@
 },
 "doc://Notes/documentation/Notes/Trig-functions-identities-and-equations": {
   "abstract" : [
-
+    {
+      "text" : "Manipulating curves in ways that are unholy",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Trig functions identities and equations",
