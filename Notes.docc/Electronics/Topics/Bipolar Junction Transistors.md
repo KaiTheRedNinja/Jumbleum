@@ -1,7 +1,7 @@
 # Bipolar Junction Transistors
 
 @Metadata {
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
 }
 
 Transistors, which are like electronically controlled switches
@@ -68,3 +68,15 @@ In this example, given that you have `V_BE`, you can determine the following:
 
 Remember that in this case, assume that there is **no current** flowing into base. Ie, `I_E = 0`.
 Ignore the beta value, its not useful here.
+
+## Different uses of BJT
+TODO: Elaborate on these
+
+### Amplifier
+Used with AC, to increase the amplitude of a signal
+
+### Driver
+Used to drive a high-current load, like a motor
+
+#### Darlington Pair
+Two transistors connected in series, to increase the current gain

@@ -124,6 +124,20 @@
     }
   ]
 },
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -170,7 +184,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "In Progress.png",
       "type" : "icon"
     }
   ],

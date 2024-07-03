@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "Checkmark.png",
+        "identifier" : "In Progress.png",
         "type" : "icon"
       }
     ],
@@ -702,6 +702,66 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Different-uses-of-BJT",
+          "level" : 2,
+          "text" : "Different uses of BJT",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "TODO: Elaborate on these",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Amplifier",
+          "level" : 3,
+          "text" : "Amplifier",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Used with AC, to increase the amplitude of a signal",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Driver",
+          "level" : 3,
+          "text" : "Driver",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Used to drive a high-current load, like a motor",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Darlington-Pair",
+          "level" : 4,
+          "text" : "Darlington Pair",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Two transistors connected in series, to increase the current gain",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -728,20 +788,6 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : null,
-  "identifier" : "Checkmark.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
 "Example_BJT": {
   "alt" : "Circuit making use of a BJT transistor",
   "identifier" : "Example_BJT",
@@ -767,6 +813,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : null,
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

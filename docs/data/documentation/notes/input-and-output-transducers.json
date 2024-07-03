@@ -38,9 +38,9 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : "Checkmark",
-  "identifier" : "Checkmark.png",
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
     {
@@ -48,7 +48,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -76,7 +76,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "In Progress.png",
       "type" : "icon"
     }
   ],
