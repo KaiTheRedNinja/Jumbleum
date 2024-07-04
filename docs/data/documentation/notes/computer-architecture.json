@@ -2409,7 +2409,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Systems-and-Communication",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
@@ -2430,7 +2429,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -2444,7 +2443,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Logic%20Gate.jpg"
+      "url" : "\/images\/Example_Logic%20Gate.jpg"
     }
   ]
 },

@@ -53,7 +53,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computing"
@@ -63,14 +62,12 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Systems",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems"
       ],
       "title" : "Systems"
     },
     {
-      "anchor" : "Fundamentals-of-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
@@ -81,7 +78,6 @@
       "title" : "Fundamentals of Electronics"
     },
     {
-      "anchor" : "Analogue-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
         "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
@@ -90,7 +86,6 @@
       "title" : "Analogue Electronics"
     },
     {
-      "anchor" : "Digital-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
@@ -101,7 +96,6 @@
       "title" : "Digital Electronics"
     },
     {
-      "anchor" : "Engineering-Design-Process",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Engineering-design-process"
       ],
@@ -120,7 +114,21 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
@@ -220,7 +228,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
   "kind" : "article",
   "role" : "article",
-  "title" : "Comparator timer and counter circuits",
+  "title" : "Comparator, Timer and Counter Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits"
 },
@@ -268,12 +276,15 @@
 },
 "doc://Notes/documentation/Notes/Engineering-design-process": {
   "abstract" : [
-
+    {
+      "text" : "Three stages:",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Engineering-design-process",
   "kind" : "article",
   "role" : "article",
-  "title" : "Engineering design process",
+  "title" : "Engineering Design Process",
   "type" : "topic",
   "url" : "\/documentation\/notes\/engineering-design-process"
 },
@@ -312,9 +323,18 @@
 },
 "doc://Notes/documentation/Notes/Semiconductor-Diodes": {
   "abstract" : [
-
+    {
+      "text" : "I allow current one way, but I am very prejudiced against the other… only death will stop me",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Semiconductor Diodes",

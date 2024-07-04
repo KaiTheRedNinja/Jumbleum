@@ -27,7 +27,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
@@ -83,7 +82,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
   "kind" : "article",
   "role" : "article",
-  "title" : "Comparator timer and counter circuits",
+  "title" : "Comparator, Timer and Counter Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits"
 },

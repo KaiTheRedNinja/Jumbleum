@@ -15,7 +15,7 @@
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Comparator timer and counter circuits"
+    "title" : "Comparator, Timer and Counter Circuits"
   },
   "schemaVersion" : {
     "major" : 0,
@@ -27,7 +27,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",

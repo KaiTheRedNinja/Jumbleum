@@ -717,7 +717,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -738,7 +737,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -752,7 +751,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_BJT.jpg"
+      "url" : "\/images\/Example_BJT.jpg"
     }
   ]
 },
@@ -766,7 +765,21 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
+      "url" : "\/images\/Graph_BJT_VCE_IC.jpg"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
@@ -822,9 +835,18 @@
 },
 "doc://Notes/documentation/Notes/Semiconductor-Diodes": {
   "abstract" : [
-
+    {
+      "text" : "I allow current one way, but I am very prejudiced against the other… only death will stop me",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Semiconductor Diodes",
