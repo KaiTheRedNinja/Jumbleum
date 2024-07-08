@@ -1,7 +1,4 @@
 {
-  "includedArchiveIdentifiers" : [
-    "Notes"
-  ],
   "interfaceLanguages" : {
     "swift" : [
       {
@@ -136,6 +133,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/surds",
                 "title" : "Surds",
                 "type" : "article"
@@ -489,6 +487,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/semiconductor-diodes",
                 "title" : "Semiconductor Diodes",
                 "type" : "article"
@@ -530,7 +529,7 @@
               },
               {
                 "path" : "\/documentation\/notes\/comparator-timer-and-counter-circuits",
-                "title" : "Comparator timer and counter circuits",
+                "title" : "Comparator, Timer and Counter Circuits",
                 "type" : "article"
               },
               {
@@ -539,7 +538,7 @@
               },
               {
                 "path" : "\/documentation\/notes\/engineering-design-process",
-                "title" : "Engineering design process",
+                "title" : "Engineering Design Process",
                 "type" : "article"
               }
             ],
@@ -684,6 +683,6 @@
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,
-    "patch" : 2
+    "patch" : 1
   }
 }

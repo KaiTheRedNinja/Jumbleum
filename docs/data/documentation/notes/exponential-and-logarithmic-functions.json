@@ -386,7 +386,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Algebra",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
@@ -410,12 +409,12 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
 "In Progress.png": {
-  "alt" : null,
+  "alt" : "In Progress",
   "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
@@ -424,7 +423,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
@@ -527,9 +526,18 @@
 },
 "doc://Notes/documentation/Notes/Surds": {
   "abstract" : [
-
+    {
+      "text" : "My big brother Indices likes to call me a… Turd?",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Surds",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Surds",

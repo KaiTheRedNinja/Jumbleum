@@ -623,9 +623,9 @@
         },
         {
           "code" : [
-            "sin(-\\theta) = -sin(\\theta)",
-            "cos(-\\theta) = +cos(\\theta)",
-            "tan(-\\theta) = -tan(\\theta)"
+            "\\sin(-\\theta) = -\\sin(\\theta)",
+            "\\cos(-\\theta) = +\\cos(\\theta)",
+            "\\tan(-\\theta) = -\\tan(\\theta)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -641,9 +641,9 @@
         },
         {
           "code" : [
-            "sin(90 - \\theta) = +cos(\\theta)",
-            "cos(90 - \\theta) = +sin(\\theta)",
-            "tan(90 - \\theta) = +cot(\\theta)"
+            "\\sin(90 - \\theta) = +\\cos(\\theta)",
+            "\\cos(90 - \\theta) = +\\sin(\\theta)",
+            "\\tan(90 - \\theta) = +\\cot(\\theta)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -659,13 +659,13 @@
         },
         {
           "code" : [
-            "sin(90 + \\theta) = +cos(\\theta)",
-            "cos(90 + \\theta) = -sin(\\theta)",
-            "tan(90 + \\theta) = -cot(\\theta)",
+            "\\sin(90 + \\theta) = +\\cos(\\theta)",
+            "\\cos(90 + \\theta) = -\\sin(\\theta)",
+            "\\tan(90 + \\theta) = -\\cot(\\theta)",
             "",
-            "sin(180 - \\theta) = +sin(\\theta)",
-            "cos(180 - \\theta) = -cos(\\theta)",
-            "tan(180 - \\theta) = -tan(\\theta)"
+            "\\sin(180 - \\theta) = +\\sin(\\theta)",
+            "\\cos(180 - \\theta) = -\\cos(\\theta)",
+            "\\tan(180 - \\theta) = -\\tan(\\theta)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -681,13 +681,13 @@
         },
         {
           "code" : [
-            "sin(180 - \\theta) = -sin(\\theta)",
-            "cos(180 - \\theta) = -cos(\\theta)",
-            "tan(180 - \\theta) = +tan(\\theta)",
+            "\\sin(180 - \\theta) = -\\sin(\\theta)",
+            "\\cos(180 - \\theta) = -\\cos(\\theta)",
+            "\\tan(180 - \\theta) = +\\tan(\\theta)",
             "",
-            "sin(270 - \\theta) = -cos(\\theta)",
-            "cos(270 - \\theta) = -sin(\\theta)",
-            "tan(270 - \\theta) = +cot(\\theta)"
+            "\\sin(270 - \\theta) = -\\cos(\\theta)",
+            "\\cos(270 - \\theta) = -\\sin(\\theta)",
+            "\\tan(270 - \\theta) = +\\cot(\\theta)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -718,7 +718,7 @@
         },
         {
           "code" : [
-            "tan(\\theta) \\equiv \\frac{sin(\\theta)}{cos(\\theta)}"
+            "\\tan(\\theta) \\equiv \\frac{sin(\\theta)}{cos(\\theta)}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -734,9 +734,9 @@
         },
         {
           "code" : [
-            "cosec(\\theta) \\equiv \\frac{1}{sin(\\theta)}",
-            "sec(\\theta) \\equiv \\frac{1}{cos(\\theta)}",
-            "cot(\\theta) \\equiv \\frac{1}{tan(\\theta)}"
+            "\\cosec(\\theta) \\equiv \\frac{1}{\\sin(\\theta)}",
+            "\\sec(\\theta) \\equiv \\frac{1}{\\cos(\\theta)}",
+            "\\cot(\\theta) \\equiv \\frac{1}{\\tan(\\theta)}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -752,9 +752,9 @@
         },
         {
           "code" : [
-            "sin^2(\\theta) + cos^2(\\theta) \\equiv 1",
-            "tan^2(\\theta) + 1 \\equiv sec^2(\\theta)",
-            "1 + cot^2(\\theta) \\equiv cosec^2(\\theta)"
+            "\\sin^2(\\theta) + \\cos^2(\\theta) \\equiv 1",
+            "\\tan^2(\\theta) + 1 \\equiv \\sec^2(\\theta)",
+            "1 + \\cot^2(\\theta) \\equiv \\cosec^2(\\theta)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -770,10 +770,10 @@
         },
         {
           "code" : [
-            "sin(A \\pm B) = sin(A)cos(B) \\pm cos(A)sin(B)",
-            "cos(A \\pm B) = cos(A)cos(B) \\mp sin(A)sin(B)",
+            "\\sin(A \\pm B) = \\sin(A)\\cos(B) \\pm \\cos(A)\\sin(B)",
+            "\\cos(A \\pm B) = \\cos(A)\\cos(B) \\mp \\sin(A)\\sin(B)",
             "",
-            "tan(A \\pm B) = \\frac{tan(A) \\pm tan(B)}{1 \\mp tan(A)tan(B)}"
+            "\\tan(A \\pm B) = \\frac{\\tan(A) \\pm \\tan(B)}{1 \\mp \\tan(A)\\tan(B)}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -789,12 +789,31 @@
         },
         {
           "code" : [
-            "sin(2A) = 2sin(A)cos(A)",
-            "cos(2A) = cos^2(A) - sin^2(A) ",
-            "\\quad = 2cos^2(A) - 1 ",
-            "\\quad = 1 - 2sin^2(A)",
+            "\\sin(2A) = 2 \\sin(A)\\cos(A)",
+            "\\cos(2A) = \\cos^2(A) - \\sin^2(A) ",
+            "\\quad = 2\\cos^2(A) - 1 ",
+            "\\quad = 1 - 2\\sin^2(A)",
             "",
-            "tan(2A) = \\frac{2tan(A)}{1 - tan^2(A)}"
+            "\\tan(2A) = \\frac{2\\tan(A)}{1 - \\tan^2(A)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Triple angle formulae:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\cos3A = 4 \\cos^3 A - 3\\cos A",
+            "\\sin 3A = 3\\sin A - 4\\sin^3 A",
+            "",
+            "\\tan3A = \\dfrac{3\\tan A - 3\\cos A}{1-3\\tan^2 A}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -838,7 +857,7 @@
         },
         {
           "code" : [
-            "acos(\\theta) + bsin(\\theta) = Rsin(\\theta + \\alpha)"
+            "a\\cos(\\theta) + b\\sin(\\theta) = R\\sin(\\theta + \\alpha)"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -856,7 +875,7 @@
           "code" : [
             "R = \\sqrt{a^2 + b^2}",
             "",
-            "tan(\\alpha) = \\frac{b}{a}"
+            "\\tan(\\alpha) = \\frac{b}{a}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -881,26 +900,67 @@
         {
           "code" : [
             "\\textrm{State the R formula}",
-            "acos(\\theta) + bsin(\\theta) = Rsin(\\theta + \\alpha)",
+            "a\\cos(\\theta) + b\\sin(\\theta) = R\\sin(\\theta + \\alpha)",
             "",
             "\\textrm{Expand it}",
-            "= R(cos(\\theta)cos(\\alpha) - sin(\\theta)sin(\\alpha))",
-            "= Rcos(\\theta)cos(\\alpha) - Rsin(\\theta)sin(\\alpha)",
+            "= R(\\cos(\\theta)\\cos(\\alpha) - \\sin(\\theta)\\sin(\\alpha))",
+            "= R\\cos(\\theta)\\cos(\\alpha) - R\\sin(\\theta)\\sin(\\alpha)",
             "",
             "\\textrm{Match the coefficients}",
-            "Rsin(\\alpha) = b",
-            "Rcos(\\alpha) = a",
+            "R\\sin(\\alpha) = b",
+            "R\\cos(\\alpha) = a",
             "",
             "\\textrm{Determine } tan(\\alpha)",
-            "\\frac{Rsin(\\alpha)}{Rcos(\\alpha)} = \\frac{sin(\\alpha)}{cos(\\alpha)} = \\frac{b}{a}",
+            "\\frac{R\\sin(\\alpha)}{R\\cos(\\alpha)} = \\frac{\\sin(\\alpha)}{\\cos(\\alpha)} = \\frac{b}{a}",
             "",
             "\\textrm{Determine } R",
-            "R^2 * sin^2(\\alpha) + R^2 * cos^2(\\alpha) = a^2 + b^2",
+            "R^2 \\times \\sin^2(\\alpha) + R^2 \\times \\cos^2(\\alpha) = a^2 + b^2",
             "R^2 = a^2 + b^2",
             "R = \\sqrt{a^2 + b^2}",
             "",
             "\\textrm{State the final formula}",
-            "acos(\\theta) + bsin(\\theta) = \\sqrt{a^2 + b^2}sin(\\theta + tan^{-1}(\\frac{b}{a}))"
+            "a\\cos(\\theta) + b\\sin(\\theta) = \\sqrt{a^2 + b^2}\\sin(\\theta + \\tan^{-1}(\\frac{b}{a}))"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Sine-Rule--Cosine-Rule",
+          "level" : 2,
+          "text" : "Sine Rule & Cosine Rule",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These are provided in the formula sheet so they aren’t as important.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Cosine-Rule",
+          "level" : 3,
+          "text" : "Cosine Rule",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "a^2 = b^2 + c^2 - 2bc \\cos(A)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Sine-Rule",
+          "level" : 3,
+          "text" : "Sine Rule",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "\\dfrac{a}{\\sin(A)} = \\dfrac{b}{\\sin(B)} = \\dfrac{c}{\\sin(C)} "
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -919,7 +979,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Geometry-and-Trigonometry",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
@@ -940,7 +999,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },

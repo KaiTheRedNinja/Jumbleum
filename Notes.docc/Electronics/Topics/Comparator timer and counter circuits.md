@@ -1,1 +1,1 @@
-# Comparator timer and counter circuits
+# Comparator, Timer and Counter Circuits

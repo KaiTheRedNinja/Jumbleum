@@ -1,1 +1,6 @@
-# Engineering design process
+# Engineering Design Process
+
+Three stages: 
+- Input 
+- Process
+- Output

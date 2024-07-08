@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "My big brother Indices likes to call me a… Turd?",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,136 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Surds"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Laws of Surds",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Conjugate Surds",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Rationalisation (because I ain’t very rational at times)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Disclaimer: No imaginary numbers here…",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Laws-of-Surds",
+          "level" : 2,
+          "text" : "Laws of Surds",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "\\sqrt{a\\times b} = \\sqrt{a} \\times \\sqrt{b}",
+            "\\sqrt{\\dfrac{a}{b}} = \\dfrac{\\sqrt{a}}{\\sqrt{b}}",
+            "\\sqrt{a} \\times \\sqrt{a} = a"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Conjugate-Surds--Rationalisation",
+          "level" : 2,
+          "text" : "Conjugate Surds & Rationalisation",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "(\\sqrt{m} + \\sqrt{n}) (\\sqrt{m}-\\sqrt{n}) = (m-n)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Turn irrational to rational 👍",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A fraction involving surds is simplified when its denominator contains no surd.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Multiply the surd in the denominator by its conjugate surd to rationalise.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -27,7 +159,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Algebra",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
@@ -51,7 +182,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -65,7 +196,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
