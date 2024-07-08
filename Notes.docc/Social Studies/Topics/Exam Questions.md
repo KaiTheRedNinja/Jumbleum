@@ -90,7 +90,18 @@ Strategy:
 1. First use sources that you are *surprised by*
 2. Use cross-reference and comparison
 3. Your conclusion should be based on the **target source**
-4. Do not attempt higher level analysis unless you have completed other questions and have time
+4. Either do Higher Level Analysis, or compare with another source.
+
+Do not attempt higher level analysis unless you have completed other questions and have time.
+
+#### Higher Level Analysis
+Only attempt if you have a lot of time
+
+- `Purpose`: If purpose is different, it is NOT SURPRISING that the content is different (eg. Joe Biden wants to elect
+himself, Trump wants to elect himself, different purpose, therefore it makes sense that they say different things)
+- `Provenance`: If the author has a track record, it is SURPRISING if it deviates (eg. Trump is known for being anti-immigration,
+if he suddenly says something pro-immigration then it is surprising)
+- `Context`: If the context contradicts, it IS surprising (do this similar as you would a source)
 
 ### Assertion
 Format: "'[some statement]'. Using the sources in this case study, explain how far you would agree with the statement"

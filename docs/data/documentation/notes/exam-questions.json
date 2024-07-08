@@ -899,7 +899,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Do not attempt higher level analysis unless you have completed other questions and have time",
+                      "text" : "Either do Higher Level Analysis, or compare with another source.",
                       "type" : "text"
                     }
                   ],
@@ -909,6 +909,102 @@
             }
           ],
           "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Do not attempt higher level analysis unless you have completed other questions and have time.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Higher-Level-Analysis",
+          "level" : 4,
+          "text" : "Higher Level Analysis",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Only attempt if you have a lot of time",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Purpose",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": If purpose is different, it is NOT SURPRISING that the content is different (eg. Joe Biden wants to elect",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "himself, Trump wants to elect himself, different purpose, therefore it makes sense that they say different things)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Provenance",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": If the author has a track record, it is SURPRISING if it deviates (eg. Trump is known for being anti-immigration,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "if he suddenly says something pro-immigration then it is surprising)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Context",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": If the context contradicts, it IS surprising (do this similar as you would a source)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Assertion",
