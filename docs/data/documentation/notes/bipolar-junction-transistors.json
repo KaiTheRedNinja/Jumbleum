@@ -817,7 +817,7 @@
   ]
 },
 "In Progress.png": {
-  "alt" : null,
+  "alt" : "In Progress",
   "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
@@ -882,9 +882,18 @@
 },
 "doc://Notes/documentation/Notes/Semiconductor-Diodes": {
   "abstract" : [
-
+    {
+      "text" : "I allow current one way, but I am very prejudiced against the other… only death will stop me",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Semiconductor Diodes",

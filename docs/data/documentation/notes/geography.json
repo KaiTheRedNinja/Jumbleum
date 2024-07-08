@@ -53,6 +53,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Humanities",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
@@ -62,6 +63,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Natural-Geography",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
         "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
@@ -70,6 +72,7 @@
       "title" : "Natural Geography"
     },
     {
+      "anchor" : "Tourism",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
         "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
@@ -78,6 +81,7 @@
       "title" : "Tourism"
     },
     {
+      "anchor" : "Plate-tectonics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
         "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
@@ -98,7 +102,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

@@ -1011,6 +1011,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Abstraction-and-Algorithms",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
@@ -1031,7 +1032,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
