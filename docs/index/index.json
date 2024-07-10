@@ -531,6 +531,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/comparator-timer-and-counter-circuits",
                 "title" : "Comparator, Timer and Counter Circuits",
                 "type" : "article"
@@ -669,7 +670,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
