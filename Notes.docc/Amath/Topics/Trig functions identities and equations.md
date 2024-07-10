@@ -33,6 +33,15 @@ general solution)
 | cos θ | 1 | √3/2 | √2/2 | 1/2 | 0 |
 | tan θ | 0 | 1/√3 | 1 | √3 | undefined |
 
+Or, in an easier to remember way:
+
+| θ in deg | 0 | 30 | 45 | 60 | 90 |
+|----------|---|----|----|----|----|
+| θ in rad | 0 | π/6 | π/4 | π/3 | π/2 |
+| sin θ | √0/2 | √1/2 | √2/2 | √3/2 | √4/2 |
+| cos θ | √4/2 | √3/2 | √2/2 | √1/2 | √0/2 |
+| tan θ | 0 | 1/√3 | 1 | √3 | undefined |
+
 ## Useful Relationships
 Negative angles
 ```math
