@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "A capacitor is like a bucket that stores charge",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,308 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Capacitors"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Capacitors are measured in Farads (F). A Farad is a very large unit, so capacitors are usually measured in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "microfarads (μF, 10^-6), nanofarads (nF, 10^-9), or picofarads (pF, 10^-12).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The formula for capacitance is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "C = \\frac{Q}{V}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the capacitance in Farads",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Q",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the charge in Coulombs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "V",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the voltage in Volts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that because C is usually very small, Q is similarly small.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Behaviour",
+          "level" : 2,
+          "text" : "Behaviour",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When a capacitor is uncharged, voltage V across the capacitor is zero, and the current I through the capacitor",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is maximum, acting like a short circuit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When a capacitor is fully charged, the voltage V across the capacitor is maximum, and the current I through the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "capacitor is zero, acting like an open circuit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Capacitor",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The constant T is the time constant of the capacitor, and is given by:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "T = R * C"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "T",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the time constant in seconds",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "R",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resistance in Ohms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the capacitance in Farads",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When charging, the capacitor is at 2\/3 Vcc at time T, and effectively at Vcc at time 5T.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When discharging, the capacitor is at 1\/3 Vcc at time T, and effectively at 0V at time 5T.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This charge-discharge timing property of capacitors is used in Timer circuits (see ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits#Timer",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ").",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Types-of-Capacitors",
+          "level" : 2,
+          "text" : "Types of Capacitors",
+          "type" : "heading"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -40,6 +344,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Graph_Capacitor": {
+  "alt" : "Charge discharge graph of a capacitor",
+  "identifier" : "Graph_Capacitor",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Capacitor.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -75,6 +407,16 @@
   "title" : "Circuit Theories",
   "type" : "topic",
   "url" : "\/documentation\/notes\/circuit-theories"
+},
+"doc://Notes/documentation/Notes/Comparator-timer-and-counter-circuits#Timer": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits#Timer",
+  "kind" : "section",
+  "title" : "Timer",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits#Timer"
 },
 "doc://Notes/documentation/Notes/Current-Electricity": {
   "abstract" : [

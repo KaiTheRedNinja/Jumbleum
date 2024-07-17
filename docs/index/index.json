@@ -481,6 +481,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/capacitors",
                 "title" : "Capacitors",
                 "type" : "article"

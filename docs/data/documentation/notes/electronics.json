@@ -196,9 +196,18 @@
 },
 "doc://Notes/documentation/Notes/Capacitors": {
   "abstract" : [
-
+    {
+      "text" : "A capacitor is like a bucket that stores charge",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Capacitors",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Capacitors",
