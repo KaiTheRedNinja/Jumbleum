@@ -114,7 +114,8 @@ Done by commenting out sections of code
 There are 3 types of conditions for when testing a program:
 - Normal Condition - Input data is what is expected (example: Jimmy buys 3 watermelons from the watermelon shop)
 - Boundary Condition - Input data is at the limit of what the program is designed for, or where special handling of the 
-input data is required (example: Jimmy buys 9223372036854775807 watermelons from the watermelon shop)
+input data is required (example: Jimmy buys 9223372036854775807 watermelons from the watermelon shop, or 1 for positive
+integers)
 - Error Condition - Input data is not what the program is designed for, and should normally be rejected
 (example: Jimmy buys −1 lead pipes from the watermelon shop)
 

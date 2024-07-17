@@ -423,6 +423,137 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Formation-Process-Shield-Volcano",
+          "level" : 3,
+          "text" : "Formation Process: Shield Volcano",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Shield volcanoes are formed at C-C divergent boundaries, under similar conditions to block mountains.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As the core melts the mantle, heated magma rises to beneath the crust and spreads sideways, resulting in divergent boundaries",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As continental plates diverge, fractures are formed in the rock layers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Reduction of pressure on underlying mantle causes mantle to melt into magma",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magma then rises through weak spots\/fault lines in the crust to form volcanoes, through repeated eruptions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Formation-Process-Stratovolcano",
+          "level" : 3,
+          "text" : "Formation Process: Stratovolcano",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Stratovolcanoes are formed at C-C convergent boundaries, under similar conditions to fold mountains.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As the oceanic plate subducts beneath the continental plate, the pressure squeezes out the water",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "This water reduces the melting point of the mantle, causing it to melt into magma",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magma then rises through weak spots\/fault lines in the crust to form volcanoes, through repeated eruptions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
         }
       ],
       "kind" : "content"

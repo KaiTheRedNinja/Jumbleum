@@ -39,3 +39,18 @@ high-viscosity lava does not flow easily and builds up pressure.
 **Location**: Shield volcanoes are found at divergent plate boundaries, where tectonic plates are moving
 apart (less silica, less viscous). In contrast, stratovolcanoes are found at convergent plate boundaries, 
 where tectonic plates are colliding (crust melts as it subducts, therefore more silica, more viscous).
+
+### Formation Process: Shield Volcano
+Shield volcanoes are formed at C-C divergent boundaries, under similar conditions to block mountains.
+
+1. As the core melts the mantle, heated magma rises to beneath the crust and spreads sideways, resulting in divergent boundaries
+2. As continental plates diverge, fractures are formed in the rock layers
+3. Reduction of pressure on underlying mantle causes mantle to melt into magma
+4. Magma then rises through weak spots/fault lines in the crust to form volcanoes, through repeated eruptions
+
+### Formation Process: Stratovolcano
+Stratovolcanoes are formed at C-C convergent boundaries, under similar conditions to fold mountains.
+
+1. As the oceanic plate subducts beneath the continental plate, the pressure squeezes out the water
+2. This water reduces the melting point of the mantle, causing it to melt into magma
+3. Magma then rises through weak spots/fault lines in the crust to form volcanoes, through repeated eruptions

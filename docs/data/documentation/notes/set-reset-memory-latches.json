@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Set-Reset memory latches, otherwise known as SR latches, are used primarily to cope with imperfect switch contacts.",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,328 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Set-Reset Memory Latches"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "SR latches are made of two cross-coupled NAND gates, each gate’s output connected to the other gate’s input. The two",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "inputs are labeled “S” (Set) and “R” (Reset). When the S input is energized, the latch “sets” (Q goes high and not-Q",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "goes low). When the R input is energized, the latch “resets” (Q goes low and not-Q goes high).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Truth-Table",
+          "level" : 2,
+          "text" : "Truth Table",
+          "type" : "heading"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "S",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "R",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Q",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "not-Q",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "No Change",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "No Change",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Invalid",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Invalid",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that in a timing diagram, if S and R are both 0 at the start, the state is UNDEFINED. Otherwise, the latch will",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hold its state until S or R changes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Use-Case",
+          "level" : 2,
+          "text" : "Use Case",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "SR latches are used in applications where a momentary switch is used to toggle a circuit between two states.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,

@@ -1096,7 +1096,15 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "input data is required (example: Jimmy buys 9223372036854775807 watermelons from the watermelon shop)",
+                      "text" : "input data is required (example: Jimmy buys 9223372036854775807 watermelons from the watermelon shop, or 1 for positive",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "integers)",
                       "type" : "text"
                     }
                   ],

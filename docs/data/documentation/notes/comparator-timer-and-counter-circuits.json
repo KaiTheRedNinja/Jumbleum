@@ -1492,7 +1492,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1683,9 +1683,18 @@
 },
 "doc://Notes/documentation/Notes/Set-Reset-Memory-Latches": {
   "abstract" : [
-
+    {
+      "text" : "Set-Reset memory latches, otherwise known as SR latches, are used primarily to cope with imperfect switch contacts.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Set-Reset Memory Latches",

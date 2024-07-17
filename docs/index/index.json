@@ -526,6 +526,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/set-reset-memory-latches",
                 "title" : "Set-Reset Memory Latches",
                 "type" : "article"
@@ -670,7 +671,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
