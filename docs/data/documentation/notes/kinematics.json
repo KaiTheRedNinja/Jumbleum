@@ -1817,7 +1817,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1916,9 +1916,26 @@
 },
 "doc://Notes/documentation/Notes/Differentiation-and-integration": {
   "abstract" : [
-
+    {
+      "text" : "Differentiation is the process of finding the function of the gradient of a function, integration is the process",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "of finding a function given the gradient of said function. Funception.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Differentiation and integration",

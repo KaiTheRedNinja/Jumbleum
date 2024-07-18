@@ -183,6 +183,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/differentiation-and-integration",
                 "title" : "Differentiation and integration",
                 "type" : "article"
@@ -672,7 +673,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
