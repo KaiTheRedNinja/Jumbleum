@@ -1,7 +1,7 @@
 # Exponential and Logarithmic functions
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Powers and logarithms.

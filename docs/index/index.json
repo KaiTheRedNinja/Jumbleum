@@ -136,7 +136,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/surds",
                 "title" : "Surds",
                 "type" : "article"
@@ -153,7 +153,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/exponential-and-logarithmic-functions",
                 "title" : "Exponential and Logarithmic functions",
                 "type" : "article"

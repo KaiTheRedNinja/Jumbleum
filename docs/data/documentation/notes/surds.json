@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -100,8 +100,12 @@
         {
           "code" : [
             "\\sqrt{a\\times b} = \\sqrt{a} \\times \\sqrt{b}",
+            "",
             "\\sqrt{\\dfrac{a}{b}} = \\dfrac{\\sqrt{a}}{\\sqrt{b}}",
-            "\\sqrt{a} \\times \\sqrt{a} = a"
+            "",
+            "\\sqrt{a} \\times \\sqrt{a} = a",
+            "",
+            "a + b\\sqrt{c} = d\\sqrt{c} \\quad \\Rightarrow \\quad a = d \\text{ and } b = c"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -139,11 +143,40 @@
               "type" : "text"
             },
             {
-              "text" : "Multiply the surd in the denominator by its conjugate surd to rationalise.",
+              "text" : "Multiply the surd in the denominator by its conjugate surd to rationalise. For example,",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\dfrac{1}{\\sqrt{2}} = \\dfrac{1}{\\sqrt{2}} \\times \\dfrac{\\sqrt{2}}{\\sqrt{2}} = \\dfrac{\\sqrt{2}}{2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Simplifying-surds",
+          "level" : 2,
+          "text" : "Simplifying surds",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Surds can be expressed in simplest form by removing the square factors from the radicand. For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sqrt{72} = \\sqrt{2 * 2 * 2 * 3 * 3} = \\sqrt{2^2 * 3^2 * 2} = 2*3\\sqrt{2} = 6\\sqrt{2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
         }
       ],
       "kind" : "content"
@@ -184,20 +217,6 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -286,7 +305,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
