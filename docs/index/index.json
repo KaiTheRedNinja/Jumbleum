@@ -649,6 +649,41 @@
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "children" : [
+              {
+                "title" : "Paper 1: Essay",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/situational-writing",
+                "title" : "Situational Writing",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/continuous-writing",
+                "title" : "Continuous Writing",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/notes\/english",
+            "title" : "English",
+            "type" : "symbol"
+          },
+          {
+            "path" : "\/documentation\/notes\/continuous-writing",
+            "title" : "Continuous Writing",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/situational-writing",
+            "title" : "Situational Writing",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",
@@ -673,7 +708,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

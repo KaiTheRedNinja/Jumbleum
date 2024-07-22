@@ -502,7 +502,10 @@
 },
 "doc://Notes/documentation/Notes/Quadratic-functions": {
   "abstract" : [
-
+    {
+      "text" : "Quadratic functions are polynomials with an x^2 term. Why they’re called quadratic (quad = 4) and not bidratic is beyond me.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
   "kind" : "article",
