@@ -133,6 +133,7 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/English",
+        "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
         "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
         "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing"
       ],
@@ -168,6 +169,17 @@
   "title" : "Amath",
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Comprehension": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Comprehension",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comprehension"
 },
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [

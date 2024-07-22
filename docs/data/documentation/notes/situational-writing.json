@@ -30,6 +30,18 @@
           "level" : 2,
           "text" : "Format",
           "type" : "heading"
+        },
+        {
+          "anchor" : "Speech",
+          "level" : 2,
+          "text" : "Speech",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Email",
+          "level" : 2,
+          "text" : "Email",
+          "type" : "heading"
         }
       ],
       "kind" : "content"

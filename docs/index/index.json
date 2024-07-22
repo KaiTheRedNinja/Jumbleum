@@ -669,11 +669,25 @@
                 "path" : "\/documentation\/notes\/continuous-writing",
                 "title" : "Continuous Writing",
                 "type" : "article"
+              },
+              {
+                "title" : "Paper 2: Comprehension",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/comprehension",
+                "title" : "Comprehension",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
+          },
+          {
+            "path" : "\/documentation\/notes\/comprehension",
+            "title" : "Comprehension",
+            "type" : "article"
           },
           {
             "path" : "\/documentation\/notes\/continuous-writing",

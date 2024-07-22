@@ -68,6 +68,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing"
       ],
       "title" : "Paper 1: Essay"
+    },
+    {
+      "anchor" : "Paper-2-Comprehension",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Comprehension"
+      ],
+      "title" : "Paper 2: Comprehension"
     }
   ]
 , 
@@ -85,6 +92,17 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Comprehension": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Comprehension",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comprehension"
 },
 "doc://Notes/documentation/Notes/Continuous-Writing": {
   "abstract" : [
