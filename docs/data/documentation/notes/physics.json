@@ -306,9 +306,18 @@
 },
 "doc://Notes/documentation/Notes/Kinetic-Particle-Model-of-Matter": {
   "abstract" : [
-
+    {
+      "text" : "Everything big is just a bunch of tiny tiny tiny little things whizzing around.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Kinetic Particle Model of Matter",
