@@ -129,15 +129,11 @@
       "title" : "Humanities"
     },
     {
-      "anchor" : "Articles",
-      "generated" : true,
+      "anchor" : "Languages",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/English",
-        "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
-        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
-        "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing"
+        "doc:\/\/Notes\/documentation\/Notes\/English"
       ],
-      "title" : "Articles"
+      "title" : "Languages"
     }
   ]
 , 
@@ -170,17 +166,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/amath"
 },
-"doc://Notes/documentation/Notes/Comprehension": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Comprehension",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/comprehension"
-},
 "doc://Notes/documentation/Notes/Computing": {
   "abstract" : [
     {
@@ -200,20 +185,6 @@
   "title" : "Computing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"
-},
-"doc://Notes/documentation/Notes/Continuous-Writing": {
-  "abstract" : [
-    {
-      "text" : "Candidates write 350–500 words on one of four topics set",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Continuous Writing",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/continuous-writing"
 },
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [
@@ -284,20 +255,6 @@
   "title" : "Physics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/physics"
-},
-"doc://Notes/documentation/Notes/Situational-Writing": {
-  "abstract" : [
-    {
-      "text" : "Candidates write 250–350 words on a given situation which will involve viewing a visual text",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Situational Writing",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/situational-writing"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

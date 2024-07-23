@@ -27,3 +27,6 @@ Each subject has multiple topic. Generally, the `Overview` of each topic will be
 ### Humanities
 - <doc:Social-Studies>
 - <doc:Geography>
+
+### Languages
+- <doc:English>

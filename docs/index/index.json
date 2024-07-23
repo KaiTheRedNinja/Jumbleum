@@ -656,7 +656,7 @@
             "type" : "symbol"
           },
           {
-            "title" : "Articles",
+            "title" : "Languages",
             "type" : "groupMarker"
           },
           {
@@ -688,21 +688,6 @@
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
-          },
-          {
-            "path" : "\/documentation\/notes\/comprehension",
-            "title" : "Comprehension",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/continuous-writing",
-            "title" : "Continuous Writing",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/situational-writing",
-            "title" : "Situational Writing",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",
