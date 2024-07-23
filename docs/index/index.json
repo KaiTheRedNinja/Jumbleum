@@ -216,11 +216,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/dynamics",
                 "title" : "Dynamics",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/turning-effect-of-forces",
                 "title" : "Turning Effect of Forces",
                 "type" : "article"
@@ -587,7 +589,7 @@
           {
             "children" : [
               {
-                "title" : "Natural Geography",
+                "title" : "Geography in Everyday Life",
                 "type" : "groupMarker"
               },
               {

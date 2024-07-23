@@ -1,5 +1,9 @@
 # Dynamics
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 The study of the motion of objects and the forces that cause them to move.
 
 ## Overview

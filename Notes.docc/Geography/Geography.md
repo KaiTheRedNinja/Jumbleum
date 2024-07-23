@@ -14,7 +14,7 @@ Humanities, social and natural sciences
 
 ## Topics
 
-### Natural Geography
+### Geography in Everyday Life
 - <doc:Thinking-Geographically>
 - <doc:Sustainable-Development>
 - <doc:Geographical-Methods>

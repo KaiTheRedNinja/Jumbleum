@@ -1950,6 +1950,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Dynamics",
@@ -1994,9 +2000,18 @@
 },
 "doc://Notes/documentation/Notes/Turning-Effect-of-Forces": {
   "abstract" : [
-
+    {
+      "text" : "How forces act when they’re turning something",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Turning Effect of Forces",
