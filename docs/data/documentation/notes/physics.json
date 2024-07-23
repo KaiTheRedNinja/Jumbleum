@@ -361,9 +361,18 @@
 },
 "doc://Notes/documentation/Notes/Pressure": {
   "abstract" : [
-
+    {
+      "text" : "Force exerted over area",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pressure",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Pressure",
