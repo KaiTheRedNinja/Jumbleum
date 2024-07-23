@@ -24,7 +24,8 @@ Energy and the different ways it can be stored and transferred.
 | Chemical Store | Energy stored in chemical bonds | 👎 Barely | ❌ No |
 
 Note that all these are actually calculatable, but the last three are not tested at the level of 
-writing (the O levels).
+writing (the O levels). See <doc:Thermal-Properties-of-Matter#Internal-Energy> for more information on 
+the internal store.
 
 These are called "stores" due to issues with "gravitational energy" or "kinetic energy" not exactly
 being "energy" in the traditional sense, because Einstein. Just remember where you would use a term

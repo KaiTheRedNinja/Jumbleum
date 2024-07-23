@@ -255,6 +255,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/thermal-properties-of-matter",
                 "title" : "Thermal Properties of Matter",
                 "type" : "article"

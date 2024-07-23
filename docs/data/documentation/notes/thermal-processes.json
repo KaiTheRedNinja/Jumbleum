@@ -1355,9 +1355,18 @@
 },
 "doc://Notes/documentation/Notes/Thermal-Properties-of-Matter": {
   "abstract" : [
-
+    {
+      "text" : "How temperature, energy, and state of matter are related.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Thermal Properties of Matter",

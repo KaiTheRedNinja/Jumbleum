@@ -412,7 +412,24 @@
               "type" : "text"
             },
             {
-              "text" : "writing (the O levels).",
+              "text" : "writing (the O levels). See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter#Internal-Energy",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more information on",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the internal store.",
               "type" : "text"
             }
           ],
@@ -2113,6 +2130,16 @@
   "title" : "Pressure",
   "type" : "topic",
   "url" : "\/documentation\/notes\/pressure"
+},
+"doc://Notes/documentation/Notes/Thermal-Properties-of-Matter#Internal-Energy": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Properties-of-Matter#Internal-Energy",
+  "kind" : "section",
+  "title" : "Internal Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/thermal-properties-of-matter#Internal-Energy"
 },
 "doc://Notes/documentation/Notes/Turning-Effect-of-Forces": {
   "abstract" : [
