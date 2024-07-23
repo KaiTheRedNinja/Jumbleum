@@ -421,7 +421,10 @@
 },
 "doc://Notes/documentation/Notes/Thermal-Processes": {
   "abstract" : [
-
+    {
+      "text" : "How heat is transferred from one place to another",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
   "kind" : "article",
