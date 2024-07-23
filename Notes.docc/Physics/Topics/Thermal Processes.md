@@ -1,5 +1,9 @@
 # Thermal Processes
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 How heat is transferred from one place to another
 
 ## Overview

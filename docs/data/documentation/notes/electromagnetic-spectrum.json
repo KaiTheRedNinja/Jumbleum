@@ -38,6 +38,20 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -54,9 +68,18 @@
 },
 "doc://Notes/documentation/Notes/General-Properties-of-Waves": {
   "abstract" : [
-
+    {
+      "text" : "Waves transfer energy without transferring matter",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "General Properties of Waves",

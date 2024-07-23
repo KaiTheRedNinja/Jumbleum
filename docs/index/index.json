@@ -250,6 +250,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/thermal-processes",
                 "title" : "Thermal Processes",
                 "type" : "article"
@@ -265,6 +266,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/general-properties-of-waves",
                 "title" : "General Properties of Waves",
                 "type" : "article"

@@ -1544,6 +1544,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Thermal Processes",
