@@ -600,9 +600,18 @@
 },
 "doc://Notes/documentation/Notes/Basic-logic-gates": {
   "abstract" : [
-
+    {
+      "text" : "The very basics of boolean algebra and logic gates",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Basic logic gates",
