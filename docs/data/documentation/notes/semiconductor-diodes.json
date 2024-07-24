@@ -1516,7 +1516,10 @@
 },
 "doc://Notes/documentation/Notes/Input-and-output-transducers": {
   "abstract" : [
-
+    {
+      "text" : "Its all about turning data into signals we can use",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
   "kind" : "article",
