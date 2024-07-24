@@ -1,5 +1,9 @@
 # Input and output transducers
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Its all about turning data into signals we can use
 
 ## Overview

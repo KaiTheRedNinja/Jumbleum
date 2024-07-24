@@ -356,7 +356,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -419,6 +419,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Input and output transducers",

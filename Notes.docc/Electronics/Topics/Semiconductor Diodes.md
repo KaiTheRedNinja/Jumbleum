@@ -166,8 +166,8 @@ calculators, digital clocks, and other devices. Some contain an 8th LED, used to
 Note that the LEDs should be connected to current limiting resistors, which can either be put on the common anode/cathode
 or on each individual LED.
 
-See <doc:Comparator-timer-and-counter-circuits#Counter> for more details on how a 7-segment display can be used with
-a counter.
+See <doc:Comparator-timer-and-counter-circuits#Counter> and <doc:Introduction-to-Digital-Electronics#7-Segment-Decoder> 
+for more details on how a 7-segment display can be used with a counter and decoder.
 
 ## Zener Diode
 

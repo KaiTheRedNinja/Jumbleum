@@ -512,6 +512,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/input-and-output-transducers",
                 "title" : "Input and output transducers",
                 "type" : "article"
@@ -527,6 +528,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/introduction-to-digital-electronics",
                 "title" : "Introduction to Digital Electronics",
                 "type" : "article"

@@ -390,6 +390,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Input and output transducers",
@@ -398,9 +404,18 @@
 },
 "doc://Notes/documentation/Notes/Introduction-to-Digital-Electronics": {
   "abstract" : [
-
+    {
+      "text" : "On off on off on off and on again",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Introduction to Digital Electronics",

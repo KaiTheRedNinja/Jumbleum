@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "On off on off on off and on again",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,506 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Introduction to Digital Electronics"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Analogue and digital signals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pull up\/down resistors",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "7-segment display module",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Analog-and-Digital-Signals",
+          "level" : 2,
+          "text" : "Analog and Digital Signals",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Digital signals only have discrete HIGH and LOW states, which are usually Vcc and 0V. See",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems#Different-Types-of-Signal",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more details.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Data is converted from digital to analog using a DAC (digital-analog converter), and from analog to digital",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "using an ADC (guess what that stands for).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Pull-UpDown-Resistors",
+          "level" : 2,
+          "text" : "Pull Up\/Down Resistors",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If you keep a pin “floating”, aka unconnected, what value do you think it is? Most think its just LOW, but in",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "reality its undefined and can be either HIGH or LOW. That means when we have inputs via things like switches",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "or buttons, we need to use pull-up or pull-down circuits to ensure that when the switch or button is open, there",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is still a well-defined signal.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Pull Up",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In a pull up circuit, the resistor is connected to Vcc, and the switch is connected to ground. When the switch is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "closed, the input is LOW, and when the switch is open, the input is HIGH.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Pull Down",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In a pull down circuit, the resistor is connected to ground, and the switch is connected to Vcc. When the switch is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "closed, the input is HIGH, and when the switch is open, the input is LOW.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that R must be very high, such as 10kΩ, to ensure that the input is not shorted to ground or Vcc when the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "switch is closed.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The resistor and switch are ALWAYS opposite each other, never on the same side.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Numeric-Representation",
+          "level" : 2,
+          "text" : "Numeric Representation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for an introduction to number systems.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In electronics, we use binary to represent logic. However, there is a special system called BCD (binary coded decimal)",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that we use to represent numbers in decimal form. In BCD, each digit is represented by a 4-bit binary number.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Denary",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Binary",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "BCD",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0000",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0000",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "7",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0111",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0111",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "11",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1011",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0001 0001",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "42",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "101010",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0100 0010",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "anchor" : "7-Segment-Decoder",
+          "level" : 3,
+          "text" : "7 Segment Decoder",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes#7-Segment-Display",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more details on 7-segment displays.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We use a BCD to 7-segment decoder IC, such as the 7447, to convert BCD to a signal that can be displayed on a 7-segment",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "display. The 7447 has 4 inputs, A-D, and 7 outputs, a-g. The outputs are connected to the 7-segment display, and the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "inputs are connected to the BCD output of the microcontroller.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -51,6 +553,34 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_Pull Down": {
+  "alt" : "Pull-down circuit",
+  "identifier" : "Diagram_Pull Down",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Pull%20Down.jpg"
+    }
+  ]
+},
+"Diagram_Pull Up": {
+  "alt" : "Pull-up circuit",
+  "identifier" : "Diagram_Pull Up",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Pull%20Up.jpg"
     }
   ]
 },
@@ -110,6 +640,36 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits"
 },
+"doc://Notes/documentation/Notes/Data-Representation": {
+  "abstract" : [
+    {
+      "text" : "The way data is stored and processed in a computer system",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Data Representation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/data-representation"
+},
+"doc://Notes/documentation/Notes/Electronic-Systems#Different-Types-of-Signal": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems#Different-Types-of-Signal",
+  "kind" : "section",
+  "title" : "Different Types of Signal",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronic-systems#Different-Types-of-Signal"
+},
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [
     {
@@ -123,6 +683,16 @@
   "title" : "Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronics"
+},
+"doc://Notes/documentation/Notes/Semiconductor-Diodes#7-Segment-Display": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes#7-Segment-Display",
+  "kind" : "section",
+  "title" : "7-Segment Display",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/semiconductor-diodes#7-Segment-Display"
 },
 "doc://Notes/documentation/Notes/Set-Reset-Memory-Latches": {
   "abstract" : [
