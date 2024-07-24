@@ -385,9 +385,18 @@
 },
 "doc://Notes/documentation/Notes/Resistors": {
   "abstract" : [
-
+    {
+      "text" : "Resistance is futile, except in electronics. You sorta need them to prevent your components from frying themselves.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Resistors",

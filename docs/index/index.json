@@ -476,6 +476,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/resistors",
                 "title" : "Resistors",
                 "type" : "article"
