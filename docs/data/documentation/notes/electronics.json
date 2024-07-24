@@ -289,9 +289,18 @@
 },
 "doc://Notes/documentation/Notes/Electronic-Systems": {
   "abstract" : [
-
+    {
+      "text" : "Electronics used to make systems by combining electronic components, which talk using voltage and current.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electronic Systems",

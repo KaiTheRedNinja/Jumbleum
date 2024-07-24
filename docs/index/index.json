@@ -461,6 +461,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electronic-systems",
                 "title" : "Electronic Systems",
                 "type" : "article"
@@ -715,7 +716,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
