@@ -402,6 +402,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Circuit Theories",
@@ -426,6 +432,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Current of Electricity",

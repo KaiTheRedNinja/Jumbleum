@@ -776,7 +776,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "8 ⬜︎ Gray",
+                      "text" : "8 ⬜ Gray",
                       "type" : "text"
                     }
                   ],
@@ -787,7 +787,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "8 ⬜︎ Gray",
+                      "text" : "8 ⬜ Gray",
                       "type" : "text"
                     }
                   ],
@@ -819,7 +819,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "9 ⬜ White",
+                      "text" : "9 ⬜︎ White",
                       "type" : "text"
                     }
                   ],
@@ -830,7 +830,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "9 ⬜ White",
+                      "text" : "9 ⬜︎ White",
                       "type" : "text"
                     }
                   ],
@@ -880,7 +880,7 @@
         },
         {
           "code" : [
-            "R = (10 \\times \\text{1st digit} + \\text{2nd digit}) \\times \\text{Multiplier}"
+            "R = ((10 \\times \\text{1st digit}) + \\text{2nd digit}) \\times \\text{Multiplier}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -1114,6 +1114,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Circuit Theories",
@@ -1128,6 +1134,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Current of Electricity",

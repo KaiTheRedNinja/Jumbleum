@@ -1,5 +1,9 @@
 # Current of Electricity
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 How electricity flows through a circuit
 
 ## Overview

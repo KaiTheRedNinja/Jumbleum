@@ -13,6 +13,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Circuit Theories"
@@ -109,6 +115,131 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Laws",
+          "level" : 2,
+          "text" : "Kirchoff’s Laws",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Kirchhoff",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Current-Law",
+          "level" : 3,
+          "text" : "Kirchoff’s Current Law",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Kirchoff’s Current Law (KCL): The sum of currents entering a junction is equal to the sum of currents leaving the junction.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sum I_{\\text{in}} = \\sum I_{\\text{out}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, when a current splits at a parallel circuit, the sum of the currents entering the forks of the circuit is equal to the current",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "entering the parallel circuit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Voltage-Law",
+          "level" : 3,
+          "text" : "Kirchoff’s Voltage Law",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Kirchoff’s Voltage Law (KVL): The sum of the potential differences around a closed loop is zero.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sum V_{\\text{loop}} = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in a series circuit, the sum of the potential differences across each component is equal to the emf of the battery. This also",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "works regardless of which path you take, so long as it is a closed loop, because the PD across the forks of a parallel circuit is the same.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -148,6 +279,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_Kirchhoff": {
+  "alt" : "Kirchoff's Laws",
+  "identifier" : "Diagram_Kirchhoff",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Kirchhoff.jpg"
     }
   ]
 },
@@ -204,6 +349,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Current of Electricity",

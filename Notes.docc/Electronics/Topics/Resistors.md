@@ -57,14 +57,14 @@ further apart from the others. They are read this way, with the far band being t
 | 5 🟩 Green | 5 🟩 Green | 100k 🟩 Green |  |
 | 6 🟦 Blue | 6 🟦 Blue | 1M 🟦 Blue |  |
 | 7 🟪 Violet | 7 🟪 Violet | 10M 🟪 Violet |  |
-| 8 ⬜︎ Gray | 8 ⬜︎ Gray | 0.01 🩶 Silver |  |
-| 9 ⬜ White | 9 ⬜ White | 0.1 ⭐ Gold |  |
+| 8 ⬜ Gray | 8 ⬜ Gray | 0.01 🩶 Silver |  |
+| 9 ⬜︎ White | 9 ⬜︎ White | 0.1 ⭐ Gold |  |
 
 For example, a resistor with the colours Red, Red, Brown, Gold would have a resistance of 220Ω with a tolerance of 5%.
 
 To calculate the resistance of a resistor, use the following formula:
 ```math
-R = (10 \times \text{1st digit} + \text{2nd digit}) \times \text{Multiplier}
+R = ((10 \times \text{1st digit}) + \text{2nd digit}) \times \text{Multiplier}
 ```
 
 To calculate the minimum and maximum resistance of a resistor with a tolerance, use the following formula:

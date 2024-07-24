@@ -291,6 +291,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/current-of-electricity",
                 "title" : "Current of Electricity",
                 "type" : "article"
@@ -471,6 +472,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/current-of-electricity",
                 "title" : "Current of Electricity",
                 "type" : "article"
@@ -482,6 +484,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/circuit-theories",
                 "title" : "Circuit Theories",
                 "type" : "article"
