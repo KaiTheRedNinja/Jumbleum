@@ -6,6 +6,8 @@
         purpose: link,
         label: "Curriculum"
     )
+
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Fundamental workings of electronic components, systems, and ideas of engineering design
@@ -37,6 +39,3 @@ Kirchoff's Laws.
 - <doc:Combinational-Logic-Circuits>
 - <doc:Set-Reset-Memory-Latches>
 - <doc:Comparator-timer-and-counter-circuits>
-
-### Engineering Design Process
-- <doc:Engineering-design-process>

@@ -556,17 +556,9 @@
                 "path" : "\/documentation\/notes\/comparator-timer-and-counter-circuits",
                 "title" : "Comparator, Timer and Counter Circuits",
                 "type" : "article"
-              },
-              {
-                "title" : "Engineering Design Process",
-                "type" : "groupMarker"
-              },
-              {
-                "path" : "\/documentation\/notes\/engineering-design-process",
-                "title" : "Engineering Design Process",
-                "type" : "article"
               }
             ],
+            "icon" : "Checkmark.png",
             "path" : "\/documentation\/notes\/electronics",
             "title" : "Electronics",
             "type" : "symbol"
@@ -725,7 +717,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
