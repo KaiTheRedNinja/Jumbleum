@@ -506,7 +506,7 @@
                 "type" : "groupMarker"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/semiconductor-diodes",
                 "title" : "Semiconductor Diodes",
                 "type" : "article"
