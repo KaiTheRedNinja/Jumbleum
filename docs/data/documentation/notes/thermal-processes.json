@@ -1286,7 +1286,10 @@
 },
 "doc://Notes/documentation/Notes/Electromagnetic-Spectrum": {
   "abstract" : [
-
+    {
+      "text" : "Light lies on the spectrum too! Just a different one.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
   "kind" : "article",
