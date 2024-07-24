@@ -138,7 +138,7 @@ scalar quantity of energy, while torque (Nm) is a vector quantity of force.
 
 > Definition: Power: Work done or energy transferred per unit time
 
-The SI unit for power is the Watt, W, which is equivalent to one Joule per second. See <doc:#Current-Electricity>
+The SI unit for power is the Watt, W, which is equivalent to one Joule per second. See <doc:#Current-of-Electricity>
 and <doc:Practical-Electricity> for more information on power.
 
 Power can be calculated by:

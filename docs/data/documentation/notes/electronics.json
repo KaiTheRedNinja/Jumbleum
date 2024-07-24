@@ -29,6 +29,32 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Circuit-Theories is under electronics, however most of the topics are covered in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " under physics except",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Kirchoff’s Laws.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -72,7 +98,7 @@
     {
       "anchor" : "Fundamentals-of-Electronics",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
         "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
         "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
@@ -276,16 +302,30 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/computing"
 },
-"doc://Notes/documentation/Notes/Current-Electricity": {
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
+  "abstract" : [
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current of Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
   "kind" : "article",
   "role" : "article",
-  "title" : "Current Electricity",
+  "title" : "D.C. Circuits",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/current-electricity"
+  "url" : "\/documentation\/notes\/d.c.-circuits"
 },
 "doc://Notes/documentation/Notes/Electronic-Systems": {
   "abstract" : [

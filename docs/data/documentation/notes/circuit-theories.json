@@ -17,6 +17,103 @@
     "roleHeading" : "Article",
     "title" : "Circuit Theories"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " under physics for the following topics:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Circuit diagrams",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Series and parallel circuits",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Action and use of circuit components",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Voltage and current dividers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This document only covers Kirchoff’s Laws.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -30,7 +127,7 @@
       "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
         "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
         "doc:\/\/Notes\/documentation\/Notes\/Capacitors"
@@ -99,16 +196,30 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/capacitors"
 },
-"doc://Notes/documentation/Notes/Current-Electricity": {
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
+  "abstract" : [
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current of Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
   "kind" : "article",
   "role" : "article",
-  "title" : "Current Electricity",
+  "title" : "D.C. Circuits",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/current-electricity"
+  "url" : "\/documentation\/notes\/d.c.-circuits"
 },
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [

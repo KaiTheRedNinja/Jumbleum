@@ -29,6 +29,24 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that Current of Electricity notes are under Electronics at ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", and are simply linked here.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -166,7 +184,10 @@
 },
 "doc://Notes/documentation/Notes/Current-of-Electricity": {
   "abstract" : [
-
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
   "kind" : "article",

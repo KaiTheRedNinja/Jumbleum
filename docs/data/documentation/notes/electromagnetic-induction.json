@@ -58,7 +58,10 @@
 },
 "doc://Notes/documentation/Notes/Current-of-Electricity": {
   "abstract" : [
-
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
   "kind" : "article",

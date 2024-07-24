@@ -12,6 +12,8 @@ Energy, matter, and their interrelationships
 
 ## Overview
 
+Note that Current of Electricity notes are under Electronics at <doc:Current-of-Electricity>, and are simply linked here.
+
 ## Topics
 ### I. Measurement
 - <doc:Physical-Quantities-Units-and-Measurement>

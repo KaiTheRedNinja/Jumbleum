@@ -30,7 +30,7 @@
       "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
         "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories",
         "doc:\/\/Notes\/documentation\/Notes\/Capacitors"
@@ -99,16 +99,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/circuit-theories"
 },
-"doc://Notes/documentation/Notes/Current-Electricity": {
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
   "abstract" : [
-
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-Electricity",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
   "kind" : "article",
   "role" : "article",
-  "title" : "Current Electricity",
+  "title" : "Current of Electricity",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/current-electricity"
+  "url" : "\/documentation\/notes\/current-of-electricity"
 },
 "doc://Notes/documentation/Notes/Electronics": {
   "abstract" : [

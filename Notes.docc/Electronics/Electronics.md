@@ -12,12 +12,15 @@ Fundamental workings of electronic components, systems, and ideas of engineering
 
 ## Overview
 
+Circuit-Theories is under electronics, however most of the topics are covered in <doc:D.C.-Circuits> under physics except
+Kirchoff's Laws.
+
 ## Topics
 ### Systems
 - <doc:Electronic-Systems>
 
 ### Fundamentals of Electronics
-- <doc:Current-Electricity>
+- <doc:Current-of-Electricity>
 - <doc:Resistors>
 - <doc:Circuit-Theories>
 - <doc:Alternating-Current>

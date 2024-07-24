@@ -44,21 +44,6 @@ A common example of an analog signal is a sound wave or moisture reading, where 
 
 ## Common symbols
 
-Symbols you should know and I won't find pictures for:
-- Wire
-- Resistor
-- Fuse
-- Battery
-- Voltmeter
-- Ammeter
-- Variable resistor
+@Image(source: "Example_Electronic Components", alt: "Example Electronic Components")
 
-Symbols that you might not know but i'm too lazy to find pictures for so you only get descriptions:
-- Diode: Arrow pointing in the direction of current flow
-- LED: Diode with two arrows pointing out
-- Photodiode: Diode with two arrows pointing in
-- LDR: Resistor with two arrows pointing in
-- NPN: Arrow pointing out of the base
-- PNP: Arrow pointing into the base
-- Capacitor: Two parallel lines
-- Polarized Capacitor: Two parallel lines with a + sign, or one parallel line and one curved line with a + sign on the curved line
+Theres also transistors and photodiodes which are often tested.
