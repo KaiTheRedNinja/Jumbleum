@@ -903,6 +903,39 @@
           "type" : "codeListing"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "E24 Series: A series of standard resistor values that are commonly used in electronics",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You will be given a sheet with the E24 series in your exam. Almost always, you should choose a resistor from the E24",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "series that is closest to or slightly above the resistance you need, to ensure current stays within the desired range.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Effective-Resistance",
           "level" : 2,
           "text" : "Effective Resistance",

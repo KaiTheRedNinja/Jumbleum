@@ -174,6 +174,24 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for information about the SI prefixes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Current",
           "level" : 2,
           "text" : "Current",
@@ -1165,6 +1183,24 @@
         {
           "inlineContent" : [
             {
+              "text" : "For information about energy efficiency, see ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Energy#Efficiency",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " in Physics.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "However, it can also be defined as the product of voltage and current. Because voltage = current * resistance, power has three",
               "type" : "text"
             },
@@ -1271,6 +1307,45 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Power-Rating",
+          "level" : 3,
+          "text" : "Power Rating",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Power rating: The maximum power that a device can be used without being damaged",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Resistors usually have standard ratings of 1\/8, 1\/4, 1\/2, 1 and 2 Watts. When choosing a resistor, choose one with a power",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "rating that is double or more than the power that will be dissipated in the resistor, to ensure good tolerance.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -1428,6 +1503,26 @@
   "title" : "Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronics"
+},
+"doc://Notes/documentation/Notes/Energy#Efficiency": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Energy#Efficiency",
+  "kind" : "section",
+  "title" : "Efficiency",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/energy#Efficiency"
+},
+"doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude",
+  "kind" : "section",
+  "title" : "Prefixes and Magnitude",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement#Prefixes-and-Magnitude"
 },
 "doc://Notes/documentation/Notes/Physics": {
   "abstract" : [

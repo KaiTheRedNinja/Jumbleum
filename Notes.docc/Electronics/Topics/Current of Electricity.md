@@ -24,6 +24,8 @@ P T I R
 Where if you take any upright triangle such as P, V, and I, it is a valid equation. My mnemonic for this is
 "Edward Wanted Prince William, Queen Victoria In Prison To Incite Riot".
 
+See <doc:Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude> for information about the SI prefixes.
+
 ## Current
 
 > Definition: The rate of flow of charge
@@ -163,6 +165,8 @@ where
 - `W` is the energy in joules (J)
 - `t` is the time in seconds (s)
 
+For information about energy efficiency, see <doc:Energy#Efficiency> in Physics.
+
 However, it can also be defined as the product of voltage and current. Because voltage = current * resistance, power has three
 equations:
 ```math
@@ -177,6 +181,13 @@ where
 - `I` is the current in amperes (A)
 - `V` is the voltage in volts (V)
 - `R` is the resistance in ohms (Ω)
+
+### Power Rating
+
+> Definition: Power rating: The maximum power that a device can be used without being damaged
+
+Resistors usually have standard ratings of 1/8, 1/4, 1/2, 1 and 2 Watts. When choosing a resistor, choose one with a power
+rating that is double or more than the power that will be dissipated in the resistor, to ensure good tolerance.
 
 High-power devices include things like heaters, kettles, and ovens. Low-power devices include things like LED lights. For
 more information on how power is used, see <doc:Practical-Electricity>.

@@ -73,6 +73,11 @@ R_{min} = R \times (1 - \text{Tolerance})
 R_{max} = R \times (1 + \text{Tolerance})
 ```
 
+> Definition: E24 Series: A series of standard resistor values that are commonly used in electronics
+
+You will be given a sheet with the E24 series in your exam. Almost always, you should choose a resistor from the E24 
+series that is closest to or slightly above the resistance you need, to ensure current stays within the desired range.
+
 ## Effective Resistance
 
 Resistors can be connected in two ways: Series and parallel.
