@@ -312,9 +312,18 @@
 },
 "doc://Notes/documentation/Notes/Alternating-Current": {
   "abstract" : [
-
+    {
+      "text" : "The current that goes weird.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Alternating Current",

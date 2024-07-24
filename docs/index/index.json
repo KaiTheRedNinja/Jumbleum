@@ -490,6 +490,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/alternating-current",
                 "title" : "Alternating Current",
                 "type" : "article"
