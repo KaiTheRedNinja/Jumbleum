@@ -1408,9 +1408,18 @@
 },
 "doc://Notes/documentation/Notes/Combinational-Logic-Circuits": {
   "abstract" : [
-
+    {
+      "text" : "Logic circuits dont work alone",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Combinational Logic Circuits",

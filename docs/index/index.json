@@ -540,6 +540,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/combinational-logic-circuits",
                 "title" : "Combinational Logic Circuits",
                 "type" : "article"
@@ -724,7 +725,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
