@@ -272,6 +272,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electromagnetic-spectrum",
                 "title" : "Electromagnetic Spectrum",
                 "type" : "article"
@@ -712,12 +713,12 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Checkmark.png"
+          "url" : "\/images\/Notes\/Checkmark.png"
         }
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
@@ -726,7 +727,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/In%20Progress.png"
+          "url" : "\/images\/Notes\/In%20Progress.png"
         }
       ]
     }
