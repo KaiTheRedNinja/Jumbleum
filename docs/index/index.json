@@ -278,6 +278,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/light",
                 "title" : "Light",
                 "type" : "article"
