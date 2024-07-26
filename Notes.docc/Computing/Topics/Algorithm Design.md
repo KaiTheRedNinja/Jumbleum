@@ -74,7 +74,7 @@ It’s a description of an algorithm using natural language, mixed with sequence
 iteration constructs. In other words, imagine the most generic possible form of a programming language.
 
 There are a few commands and syntax to note:
-- Instead of `=` to initialise a variable, use arrow, `←`
+- Instead of `=` to initialise a variable, use arrow, `←`, or `SET`
 - Use `≠` OR `not(x == 5)`
 - `==` can be used to check for equality
 - `INPUT` = Used to get an input for a variable. Variable need not be initialised beforehand (e.g: INPUT x)
@@ -91,3 +91,51 @@ number, just write it in plain English (e.g: BREAK WHILE LOOP, PICK RANDOM INTEG
 - Use modulus; e.g. 5 modulo 2, NOT 5 % 2
 - ⌊x⌋ and ⌈x⌉ are allowed for floor and ceiling division respectively because they are mathematical symbols
     - Else, you can use x = floor division of 5 by 2
+- To access array elements, use subscript syntax (e.g: `array[1]`). Pseudocode is 0-indexed.
+- DO NOT use array slicing
+
+Example algorithm that does nothing but demonstrates most of these commands:
+
+@Row {
+    @Column {
+        Python
+        ```python
+        number = int(input())
+        sum = 0
+        count = 0
+        while count < 5:
+            if number % 2 == 0:
+                sum += number
+
+            for i in range(3):
+                print(sum)
+
+            number += 1
+            count += 1
+
+        print("Final sum:")
+        print(sum)
+        ```
+    }
+
+    @Column {
+        Pseudocode
+        ```
+        INPUT number
+        SET sum to 0
+        SET count to 0
+        WHILE count < 5 DO
+            IF number modulo 2 == 0 THEN
+                sum = sum + number
+            ENDIF
+            FOR i FROM 0 TO 2
+                OUTPUT sum
+            NEXT i
+            number = number + 1
+            count = count + 1
+        ENDWHILE
+        PRINT "Final sum:"
+        PRINT sum
+        ```
+    }
+}
