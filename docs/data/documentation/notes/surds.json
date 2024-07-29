@@ -111,9 +111,71 @@
           "type" : "codeListing"
         },
         {
-          "anchor" : "Conjugate-Surds--Rationalisation",
+          "anchor" : "Conjugate-Surds",
           "level" : 2,
-          "text" : "Conjugate Surds & Rationalisation",
+          "text" : "Conjugate Surds",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Conjugate surds are surds of the form",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a\\sqrt{m} + b\\sqrt{n}",
+            "",
+            "\\text{or, when } m = 1,",
+            "",
+            "a + b\\sqrt{n}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where a and b rational, and m and n are positive integers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can solve equations with conjugate surds by comparing their coefficients. For example, in",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a + b \\sqrt{k}",
+            "\\text{and}",
+            "c + d \\sqrt{k}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "if a, b, c, and d are rational, then a = c and b = d.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Rationalisation",
+          "level" : 2,
+          "text" : "Rationalisation",
           "type" : "heading"
         },
         {
@@ -135,7 +197,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "A fraction involving surds is simplified when its denominator contains no surd.",
+              "text" : "A fully simplified surd fraction is simplified when its denominator is NOT a surd.  Multiply the surd in",
               "type" : "text"
             },
             {
@@ -143,7 +205,7 @@
               "type" : "text"
             },
             {
-              "text" : "Multiply the surd in the denominator by its conjugate surd to rationalise. For example,",
+              "text" : "the denominator by its conjugate surd to rationalise. For example,",
               "type" : "text"
             }
           ],
@@ -152,6 +214,36 @@
         {
           "code" : [
             "\\dfrac{1}{\\sqrt{2}} = \\dfrac{1}{\\sqrt{2}} \\times \\dfrac{\\sqrt{2}}{\\sqrt{2}} = \\dfrac{\\sqrt{2}}{2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Sometimes, the denominator may be a conjugate surd instead of just a surd. In such cases, we can make use of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the quadratic property of “difference of squares” to simplify the denominator. For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{6}{4\\sqrt{2} - \\sqrt{3}}",
+            "",
+            "= \\frac{6}{4\\sqrt{2} - \\sqrt{3}} \\times \\frac{4\\sqrt{2} + \\sqrt{3}}{4\\sqrt{2} + \\sqrt{3}}",
+            "",
+            "= \\frac{6(4\\sqrt{2} + \\sqrt{3})}{4^2 \\times 2 - 3}",
+            "",
+            "= \\frac{24\\sqrt{2} + 6\\sqrt{3}}{29}"
           ],
           "syntax" : "math",
           "type" : "codeListing"

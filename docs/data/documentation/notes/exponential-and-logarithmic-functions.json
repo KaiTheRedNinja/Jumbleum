@@ -265,6 +265,96 @@
           "type" : "codeListing"
         },
         {
+          "anchor" : "Basic-Indices-Laws",
+          "level" : 2,
+          "text" : "Basic Indices Laws",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rules for same base",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^m * a^n = a^{m+n}",
+            "a^m \/ a^n = a^{m-n}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rule for power",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(a^m)^n = a^{m \\cdot n}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rule for zero index",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^0 = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rule for negative index",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^{-n} = \\frac{1}{a^n}",
+            "",
+            "(\\frac{a}{b})^{-n} = (\\frac{b}{a})^n"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rule for fractional index",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^{1\/n} = \\sqrt[n]{a}",
+            "a^{m\/n} = \\sqrt[n]{a^m}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
           "anchor" : "Tips-on-solving-Exponential-Equations",
           "level" : 2,
           "text" : "Tips on solving Exponential Equations",
