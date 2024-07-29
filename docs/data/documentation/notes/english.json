@@ -72,7 +72,8 @@
     {
       "anchor" : "Paper-2-Comprehension",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Comprehension"
+        "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+        "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing"
       ],
       "title" : "Paper 2: Comprehension"
     }
@@ -131,6 +132,20 @@
   "title" : "Situational Writing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/situational-writing"
+},
+"doc://Notes/documentation/Notes/Summary-Writing": {
+  "abstract" : [
+    {
+      "text" : "Part of Paper 2, basically summarise the given text in under 80 words",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Summary Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/summary-writing"
 },
 "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf": {
   "checksum" : null,

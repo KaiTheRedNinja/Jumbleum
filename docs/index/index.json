@@ -690,6 +690,11 @@
                 "path" : "\/documentation\/notes\/comprehension",
                 "title" : "Comprehension",
                 "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/summary-writing",
+                "title" : "Summary Writing",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/english",
