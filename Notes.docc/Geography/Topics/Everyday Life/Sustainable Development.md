@@ -1,5 +1,11 @@
 # Sustainable Development
 
+How urban areas can be sustainable
+
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
+
 ## Overview
 
 - Sustainable urban neighbourhoods

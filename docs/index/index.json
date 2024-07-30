@@ -629,11 +629,13 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/thinking-geographically",
                 "title" : "Thinking Geographically",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/sustainable-development",
                 "title" : "Sustainable Development",
                 "type" : "article"
@@ -750,7 +752,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

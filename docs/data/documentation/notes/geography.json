@@ -307,9 +307,18 @@
 },
 "doc://Notes/documentation/Notes/Sustainable-Development": {
   "abstract" : [
-
+    {
+      "text" : "How urban areas can be sustainable",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Sustainable Development",
@@ -335,6 +344,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Thinking Geographically",

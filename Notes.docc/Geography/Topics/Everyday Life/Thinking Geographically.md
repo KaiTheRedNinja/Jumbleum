@@ -2,6 +2,10 @@
 
 The relationship between people and their environment
 
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
+
 ## Overview
 
 - Relationship between people and nature in their neighbourhoods
@@ -105,9 +109,9 @@ Creates connections and synergies across precincts, neighbourhoods and towns. Fo
 be next to another one.
 
 Town planning:
-    - Land for housing, industrial, commerical, roads, schools, parks, essential facilities
-    - Facilities enable each town to be self sufficient
-    - Provide employment opportunities, complement each other
-    - Create connections across precincts, neighbourhoods, towns
-        - Achieve sustainability by optimising scare land resources to cater to diverse needs
-    - Also plan for nontypical land uses like military, water catchment, airports
+- Land for housing, industrial, commerical, roads, schools, parks, essential facilities
+- Facilities enable each town to be self sufficient
+- Provide employment opportunities, complement each other
+- Create connections across precincts, neighbourhoods, towns
+    - Achieve sustainability by optimising scare land resources to cater to diverse needs
+- Also plan for nontypical land uses like military, water catchment, airports
