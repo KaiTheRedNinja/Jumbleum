@@ -79,7 +79,10 @@
 },
 "doc://Notes/documentation/Notes/Thinking-Geographically": {
   "abstract" : [
-
+    {
+      "text" : "The relationship between people and their environment",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
   "kind" : "article",
