@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Basically the same question but three times",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -775,6 +781,44 @@
           "type" : "unorderedList"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "The reason why this works is because message is the 5As (author, “aims to”, action word, audience, anticipated outcome).",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "If you did the sufficiency part first, you have ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "already",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " done the anticipated outcome, so you don’t need to re-prove the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "message of the source. You just need to cite the rest of the 5As, then link it back to the question focus.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Surprise",
           "level" : 3,
           "text" : "Surprise",
@@ -1189,7 +1233,10 @@
 },
 "doc://Notes/documentation/Notes/Assertion": {
   "abstract" : [
-
+    {
+      "text" : "Assertion is an educated guess on what will happen on the future, based on what the source tells you",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
   "kind" : "article",

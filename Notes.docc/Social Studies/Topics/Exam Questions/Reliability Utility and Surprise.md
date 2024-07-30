@@ -1,5 +1,7 @@
 # Reliability Utility and Surprise
 
+Basically the same question but three times
+
 ## Overview
 
 Reliability and utility questions are usually identically answered, so you're likely to only get one of these in 
@@ -79,6 +81,10 @@ OR, if you wrote the sufficiency part first, you can write the reliability part 
 - Impact: "So that [audience here] can [intended outcome in terms of audience]"
 - Link: "With the intent to [biased intended outcome in terms of the author], the source is not useful as it is not 
 reliable"
+
+The reason why this works is because message is the 5As (author, "aims to", action word, audience, anticipated outcome). 
+If you did the sufficiency part first, you have _already_ done the anticipated outcome, so you don't need to re-prove the
+message of the source. You just need to cite the rest of the 5As, then link it back to the question focus.
 
 ### Surprise
 Not surprised if:

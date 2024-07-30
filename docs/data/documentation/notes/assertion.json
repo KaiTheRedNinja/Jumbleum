@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Assertion is an educated guess on what will happen on the future, based on what the source tells you",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -30,6 +36,55 @@
         {
           "inlineContent" : [
             {
+              "text" : "Question 5, worth 10 marks.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that a valid agree + disagree (",
+              "type" : "text"
+            },
+            {
+              "code" : "AD",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ")  is worth 5-8 marks (aka, a pass for the question). Two of each gives",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "you a MINIMUM of 7 marks (still 8 marks total).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A bonus analysis is worth +1 or +2 marks.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Format",
+          "level" : 2,
+          "text" : "Format",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Format: “’[some statement]’. Using the sources in this case study, explain how far you would agree with the statement”",
               "type" : "text"
             }
@@ -39,61 +94,289 @@
         {
           "inlineContent" : [
             {
+              "text" : "Its either perspective based, or role based. For example:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Perspective: “Dyson’s move to Singapore is bad for Britain”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Identify the perspectives (eg. move good, move bad)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Role: “Individual responsibility is the best way to manage the spread of fake news”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Identify the stakeholders (eg. government, individuals, social media companies)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Note that when disagreeing with the role, IDENTIFY A SPECIFIC STAKEHOLDER. For example, “… is not the best way",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "because the government should be responsible”",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Write FOUR paragraphs, in an ",
               "type" : "text"
             },
             {
-              "code" : "ADAD",
+              "code" : "ABDAD",
               "type" : "codeVoice"
             },
             {
-              "text" : " format where ",
+              "text" : " or ",
               "type" : "text"
             },
             {
-              "code" : "A",
+              "code" : "DBADA",
               "type" : "codeVoice"
             },
             {
-              "text" : " is agree and ",
-              "type" : "text"
-            },
-            {
-              "code" : "D",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " is disagree.",
+              "text" : " format where",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "A",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is agree",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "D",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is disagree.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "B",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the bonus task",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "Categorise sources into agree\/disagree. You are allowed to use a source in both agree and disagree paragraphs, but",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "make sure that they are in different paragraphs. Do not use a visual source for both agree and disagree paragraphs.",
+              "text" : "This means that even if you don’t have time to finish the last few paragraphs, you can still get a pass for the question.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "inlineContent" : [
+          "anchor" : "Process",
+          "level" : 2,
+          "text" : "Process",
+          "type" : "heading"
+        },
+        {
+          "items" : [
             {
-              "text" : "Do NOT write a summary paragraph. It isn’t worth the risk because its not very mark-rich and time is tight.",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Analyse the question",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Categorise sources into agree\/disagree.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "You are allowed to use a source in both agree and disagree paragraphs, but  make sure that they are in different",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "paragraphs. Do not use a visual source for both agree and disagree paragraphs.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write one paragraph per source",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Use the BSA format",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Writing-Paragraphs",
+          "level" : 2,
+          "text" : "Writing Paragraphs",
+          "type" : "heading"
         },
         {
           "inlineContent" : [
@@ -111,7 +394,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Because of [summary of what source said]",
+                      "text" : "Because (reason from source)",
                       "type" : "text"
                     }
                   ],
@@ -124,7 +407,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "So [connection inference ]",
+                      "text" : "So (immediate impact)",
                       "type" : "text"
                     }
                   ],
@@ -137,7 +420,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "As a result, [link to statement]",
+                      "text" : "As a result, (greater outcome at a larger scale)",
                       "type" : "text"
                     }
                   ],
@@ -147,6 +430,590 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand: I agree with the statement as source B supports it.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Evidence: This is evident from the source where it states ’The only son of a full-time Grab driver and housewife,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Putra lives in a three-room flat with his ailing grandmother. He receives full financial aid for school.”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Extension:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "BECAUSE top schools in Singapore accept students from lower socio economic backgrounds as there is monetary",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "support",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "SO this suggests that no students in Singapore are denied their deserving education pathways due to their",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "financial difficulty.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "AS A RESULT This recognition of merit instead of SES ensures a level playing field in schools, allowing students",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "from diverse backgrounds to study in the local institution. This indicates that schools in Singapore are",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "socio-economically diverse.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "From “SO” onwards, the information cited MUST NOT be from the source, but rather an inference from the source.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, compare the following essays:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Point: I disagree that the integration policy has been effective in creating a bonded society in Singapore as",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "source C shows how people still do not understand the cultures of others.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Evidence: Source C states “Amy Cheong, who took to social media to complain about her Malay neighbours who were",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "holding a wedding at the void deck, and went on to disparage the Malay society as a whole. Certainly, in this",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "case at least, proximity did not breed understanding”.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Extension: Because people are still complaining about others who have different practices, being near to others",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "does not help with getting to know the practices of others. As a result, the integration policy has failed in",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "getting people to work together and understand each other.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Point: I disagree that the integration policy has been effective in creating a bonded society in Singapore as",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "source C shows how people still do not understand the cultures of others.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Evidence: Source C states “Amy Cheong, who took to social media to complain about her Malay neighbours who were",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "holding a wedding at the void deck, and went on to disparage the Malay society as a whole. Certainly, in this",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "case at least, proximity did not breed understanding”.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Extension: Because individuals fundamentally have a lack of understanding and tolerance for cultures different",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "from their own, so the constant close proximity of individuals of diverse backgrounds would only serve to worsen",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "tensions due to misunderstandings brought on by differences in culture. As a result, the community would have",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "heightened tensions due to the frequent unhappiness between neighbours of different cultures, thus preventing",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "the nation as a whole to bond due to such unhappiness.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The second one actually uses BSA properly, and goes out of the source. The “because” talks about individuals, “so” goes",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on to talk about community, and “as a result” talks about the nation.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Bonus-Task",
+          "level" : 2,
+          "text" : "Bonus Task",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Contextual knowledge",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Reliability",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Balanced conclusion (DO NOT ATTEMPT ~ Mr Seah)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The two bonus tasks, CK and R, are worth +1 or +2 marks. They MUST go after an A or DA paragraph. You should try to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "attempt it in your second paragraph.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Contextual-Knowledge",
+          "level" : 3,
+          "text" : "Contextual Knowledge",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Your contextual knowledge must be relevant to the source, and ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "verifiable",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " (cannot be a personal anecdote, can be a news",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "story).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If your source is a disagree, your contextual knowledge must also disagree. If your source is an agree, your contextual",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "knowledge must also agree. Your contextual knowledge CANNOT contradict your source.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, if the source talks about racial harmony, you can say:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Point: Additionally from my contextual knowledge,",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Evidence (knowledge): I know that such values of respect, equality, fairness are promoted in all singapore schools",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "during RHD and CCE.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Link: Such exposure will further reinforce young Singaporeans’ commitment to these values, making RH sustainable.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "So long as the example cited in evidence is identifiable (the marker can figure out what you’re talking about),",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "verifiable, and relevant it is considered valid.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Reliability",
+          "level" : 3,
+          "text" : "Reliability",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Do CK if you can, don’t do this. If you really want to, see ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise#Higher-Level-Analysis",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : "",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for more details on how to structure this. Note that you are ONLY allowed to do higher-level analysis for the bonus task.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Just prove that the source is reliable\/not reliable and leave it as that.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -226,7 +1093,10 @@
 },
 "doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise": {
   "abstract" : [
-
+    {
+      "text" : "Basically the same question but three times",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
   "kind" : "article",
@@ -234,6 +1104,16 @@
   "title" : "Reliability Utility and Surprise",
   "type" : "topic",
   "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
+},
+"doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise#Higher-Level-Analysis": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise#Higher-Level-Analysis",
+  "kind" : "section",
+  "title" : "Higher Level Analysis",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reliability-utility-and-surprise#Higher-Level-Analysis"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

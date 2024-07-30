@@ -547,7 +547,10 @@
 },
 "doc://Notes/documentation/Notes/Assertion": {
   "abstract" : [
-
+    {
+      "text" : "Assertion is an educated guess on what will happen on the future, based on what the source tells you",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
   "kind" : "article",
@@ -613,7 +616,10 @@
 },
 "doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise": {
   "abstract" : [
-
+    {
+      "text" : "Basically the same question but three times",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
   "kind" : "article",
