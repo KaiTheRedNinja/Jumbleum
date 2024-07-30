@@ -728,6 +728,20 @@
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/expository-writing",
+            "title" : "Expository",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/reflective-writing",
+            "title" : "Reflective",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",
