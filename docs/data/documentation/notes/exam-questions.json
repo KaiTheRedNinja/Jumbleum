@@ -19,8 +19,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Exam Questions"
   },
   "primaryContentSections" : [
@@ -417,82 +416,9 @@
           "type" : "orderedList"
         },
         {
-          "anchor" : "Inference",
-          "level" : 3,
-          "text" : "Inference",
-          "type" : "heading"
-        },
-        {
-          "anchor" : "Comparison",
-          "level" : 3,
-          "text" : "Comparison",
-          "type" : "heading"
-        },
-        {
-          "anchor" : "ReliabilityUtility",
-          "level" : 3,
-          "text" : "Reliability\/Utility",
-          "type" : "heading"
-        },
-        {
           "inlineContent" : [
             {
-              "text" : "These questions are usually identically answered, so you’re likely to only get one of these in the exam.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "For utility, you may be provided with a question focus. Make sure you ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "narrow down",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            },
-            {
-              "text" : " your response so",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "that it stays within the bounds of the question focus.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "“How useful is Source X as evidence for [question focus]? Explain your answer.”",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Format",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Cross reference:",
+              "text" : "See the following for more details:",
               "type" : "text"
             }
           ],
@@ -505,20 +431,26 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Point: “Source X is useful as evidence for [question focus] ",
-                      "type" : "text"
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+                      "isActive" : true,
+                      "type" : "reference"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+                      "isActive" : true,
+                      "type" : "reference"
                     },
                     {
-                      "inlineContent" : [
-                        {
-                          "text" : "because it is reliable",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "emphasis"
-                    },
-                    {
-                      "text" : ", as Source Y corroborates it”",
+                      "text" : " (lumped together because they’re quite similar)",
                       "type" : "text"
                     }
                   ],
@@ -531,56 +463,9 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Inference: “Source X states that [question focus] is [your inference], as seen in [quote from source]”",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Highler level analysis:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Point: “Source X is useful as evidence for [question focus] ",
-                      "type" : "text"
-                    },
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "because it is reliable",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "emphasis"
-                    },
-                    {
-                      "text" : ", as the author provides a",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "balanced perspective on [question focus]”",
-                      "type" : "text"
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparison",
+                      "isActive" : true,
+                      "type" : "reference"
                     }
                   ],
                   "type" : "paragraph"
@@ -592,538 +477,9 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Positive: “The author points out [question focus] is [positive term], which can be seen by [quote from source]”",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Negative: “The author is even-handed, as they point out [question focus] is [negative term], which can be seen",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "by [quote from source]”",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Make sure that all sources used to corroborate\/contradict your point match the question focus.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Surprise",
-          "level" : 3,
-          "text" : "Surprise",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Not surprised if:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Another source corroborates target source’s content (eg. “Source X is not surprising as source",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "Y corroborates it”)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Target source’s author’s identity lines up with content (eg. “Source X is not surprising as the author",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "is a [something here] and therefore…”)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Surprised if:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Another source contradicts target source’s content (eg. “Source X is surprising as source Y",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "contradicts it”)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Target source’s author’s identity contradicts content (eg. “Source X is surprising as the author",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "is a [something here] and therefore…”)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "There are two types of surprise question: One source and two source.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "One source: “Does Source X make you surprised? Explain your answer”",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Two source: “Does Source X make you surprised by source B? Explain your answer”",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "When you have two source surprise questions, corroborate content between the two given sources FIRST.",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "After that then you can corroborate content between the target source and other sources.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Format:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "1. State cross reference",
-            "2. Content (PEE) + Cross-reference (PEE) + Logic",
-            "3. Higher Analysis [Provenance, Purpose (Hidden Agenda), Bias, Context]"
-          ],
-          "syntax" : null,
-          "type" : "codeListing"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Strategy:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "First use sources that you are ",
-                      "type" : "text"
-                    },
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "surprised by",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "emphasis"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Use cross-reference and comparison",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Your conclusion should be based on the ",
-                      "type" : "text"
-                    },
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "target source",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Either do Higher Level Analysis, or compare with another source.",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "orderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Do not attempt higher level analysis unless you have completed other questions and have time.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Higher-Level-Analysis",
-          "level" : 4,
-          "text" : "Higher Level Analysis",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Only attempt if you have a lot of time",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "Purpose",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": If purpose is different, it is NOT SURPRISING that the content is different (eg. Joe Biden wants to elect",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "himself, Trump wants to elect himself, different purpose, therefore it makes sense that they say different things)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "Provenance",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": If the author has a track record, it is SURPRISING if it deviates (eg. Trump is known for being anti-immigration,",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "if he suddenly says something pro-immigration then it is surprising)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "Context",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": If the context contradicts, it IS surprising (do this similar as you would a source)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "anchor" : "Assertion",
-          "level" : 3,
-          "text" : "Assertion",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Format: “’[some statement]’. Using the sources in this case study, explain how far you would agree with the statement”",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Write FOUR paragraphs, in an ",
-              "type" : "text"
-            },
-            {
-              "code" : "ADAD",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " format where ",
-              "type" : "text"
-            },
-            {
-              "code" : "A",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " is agree and ",
-              "type" : "text"
-            },
-            {
-              "code" : "D",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " is disagree.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Categorise sources into agree\/disagree. You are allowed to use a source in both agree and disagree paragraphs, but",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "make sure that they are in different paragraphs. Do not use a visual source for both agree and disagree paragraphs.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Do NOT write a summary paragraph. It isn’t worth the risk because its not very mark-rich and time is tight.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Use BSA",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Because of [summary of what source said]",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "So [connection inference ]",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "As a result, [link to statement]",
-                      "type" : "text"
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+                      "isActive" : true,
+                      "type" : "reference"
                     }
                   ],
                   "type" : "paragraph"
@@ -1160,6 +516,18 @@
         "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World"
       ]
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Source-Based-Question",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Inference",
+        "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+        "doc:\/\/Notes\/documentation\/Notes\/Comparison",
+        "doc:\/\/Notes\/documentation\/Notes\/Assertion"
+      ],
+      "title" : "Source Based Question"
+    }
   ]
 , 
 "references": {
@@ -1177,6 +545,17 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Assertion": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Assertion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/assertion"
+},
 "doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
   "abstract" : [
 
@@ -1187,6 +566,17 @@
   "title" : "Being Part of a Globalised World",
   "type" : "topic",
   "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
+},
+"doc://Notes/documentation/Notes/Comparison": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparison",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Comparison",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comparison"
 },
 "doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
   "abstract" : [
@@ -1199,6 +589,17 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/exploring-citizenship-and-governance"
 },
+"doc://Notes/documentation/Notes/Inference": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Inference",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/inference"
+},
 "doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
   "abstract" : [
 
@@ -1209,6 +610,17 @@
   "title" : "Living in a Diverse Society",
   "type" : "topic",
   "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reliability Utility and Surprise",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

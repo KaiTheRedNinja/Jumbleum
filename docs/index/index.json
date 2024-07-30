@@ -587,9 +587,35 @@
                 "type" : "article"
               },
               {
+                "children" : [
+                  {
+                    "title" : "Source Based Question",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/inference",
+                    "title" : "Inference",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/reliability-utility-and-surprise",
+                    "title" : "Reliability Utility and Surprise",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/comparison",
+                    "title" : "Comparison",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/assertion",
+                    "title" : "Assertion",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/exam-questions",
                 "title" : "Exam Questions",
-                "type" : "article"
+                "type" : "symbol"
               }
             ],
             "path" : "\/documentation\/notes\/social-studies",

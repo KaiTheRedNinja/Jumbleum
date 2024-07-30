@@ -3,19 +3,20 @@
     "paths" : [
       [
         "doc:\/\/Notes\/documentation\/Home",
-        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Comparison"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Exploring Citizenship and Governance"
+    "title" : "Comparison"
   },
   "schemaVersion" : {
     "major" : 0,
@@ -27,12 +28,14 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Source-Based-Question",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
-        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
-        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
-      ]
+        "doc:\/\/Notes\/documentation\/Notes\/Inference",
+        "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+        "doc:\/\/Notes\/documentation\/Notes\/Assertion"
+      ],
+      "title" : "Source Based Question"
     }
   ]
 , 
@@ -51,16 +54,16 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
+"doc://Notes/documentation/Notes/Assertion": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
   "kind" : "article",
   "role" : "article",
-  "title" : "Being Part of a Globalised World",
+  "title" : "Assertion",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
+  "url" : "\/documentation\/notes\/assertion"
 },
 "doc://Notes/documentation/Notes/Exam-Questions": {
   "abstract" : [
@@ -76,16 +79,27 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/exam-questions"
 },
-"doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
+"doc://Notes/documentation/Notes/Inference": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
   "kind" : "article",
   "role" : "article",
-  "title" : "Living in a Diverse Society",
+  "title" : "Inference",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+  "url" : "\/documentation\/notes\/inference"
+},
+"doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reliability Utility and Surprise",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [
