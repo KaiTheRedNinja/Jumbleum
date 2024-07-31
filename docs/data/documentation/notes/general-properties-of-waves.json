@@ -1463,7 +1463,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1554,6 +1554,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Spectrum",
@@ -1562,9 +1568,18 @@
 },
 "doc://Notes/documentation/Notes/Light": {
   "abstract" : [
-
+    {
+      "text" : "Whoever told you light travels in a straight line is a LIAR. Well, sorta.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Light",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Light",

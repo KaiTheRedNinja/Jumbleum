@@ -37,6 +37,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -67,9 +81,18 @@
 },
 "doc://Notes/documentation/Notes/Sustainable-Development": {
   "abstract" : [
-
+    {
+      "text" : "How urban areas can be sustainable",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Sustainable Development",
@@ -78,9 +101,18 @@
 },
 "doc://Notes/documentation/Notes/Thinking-Geographically": {
   "abstract" : [
-
+    {
+      "text" : "The relationship between people and their environment",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Thinking Geographically",

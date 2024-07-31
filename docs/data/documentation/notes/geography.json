@@ -29,6 +29,118 @@
           "level" : 2,
           "text" : "Overview",
           "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Section A",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Question 1: Cluster 1 – Geography in Everyday Life (14 marks)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "4-6 marks for ",
+                                      "type" : "text"
+                                    },
+                                    {
+                                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods",
+                                      "isActive" : true,
+                                      "type" : "reference"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Question 2: Cluster 2 – Tourism (18 marks)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Section B:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Question 4: Cluster 4 – Tectonics (18 marks)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that Question 3 is on climate. We weren’t taught that so I’m going to ignore it.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -191,9 +303,18 @@
 },
 "doc://Notes/documentation/Notes/Sustainable-Development": {
   "abstract" : [
-
+    {
+      "text" : "How urban areas can be sustainable",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Sustainable Development",
@@ -213,9 +334,18 @@
 },
 "doc://Notes/documentation/Notes/Thinking-Geographically": {
   "abstract" : [
-
+    {
+      "text" : "The relationship between people and their environment",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Thinking Geographically",

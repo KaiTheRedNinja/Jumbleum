@@ -12,6 +12,8 @@ Knowledge and understanding of events and phenomenon, issues and perspectives, a
 
 ## Overview
 
+See the official [SS One-Stop](https://sites.google.com/sst.edu.sg/ss-one-stop-s4-2024/home) for more details.
+
 ## Topics
 - <doc:Exploring-Citizenship-and-Governance>
 - <doc:Living-in-a-Diverse-Society>

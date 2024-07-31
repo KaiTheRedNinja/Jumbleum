@@ -751,6 +751,14 @@
                     {
                       "code" : "←",
                       "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "SET",
+                      "type" : "codeVoice"
                     }
                   ],
                   "type" : "paragraph"
@@ -993,9 +1001,128 @@
                   "type" : "unorderedList"
                 }
               ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "To access array elements, use subscript syntax (e.g: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "array[1]",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "). Pseudocode is 0-indexed.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "DO NOT use array slicing",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Example algorithm that does nothing but demonstrates most of these commands:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Python",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "number = int(input())",
+                    "sum = 0",
+                    "count = 0",
+                    "while count < 5:",
+                    "    if number % 2 == 0:",
+                    "        sum += number",
+                    "",
+                    "    for i in range(3):",
+                    "        print(sum)",
+                    "",
+                    "    number += 1",
+                    "    count += 1",
+                    "",
+                    "print(\"Final sum:\")",
+                    "print(sum)"
+                  ],
+                  "syntax" : "python",
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pseudocode",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "INPUT number",
+                    "SET sum to 0",
+                    "SET count to 0",
+                    "WHILE count < 5 DO",
+                    "    IF number modulo 2 == 0 THEN",
+                    "        sum = sum + number",
+                    "    ENDIF",
+                    "    FOR i FROM 0 TO 2",
+                    "        OUTPUT sum",
+                    "    NEXT i",
+                    "    number = number + 1",
+                    "    count = count + 1",
+                    "ENDWHILE",
+                    "PRINT \"Final sum:\"",
+                    "PRINT sum"
+                  ],
+                  "syntax" : null,
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
         }
       ],
       "kind" : "content"

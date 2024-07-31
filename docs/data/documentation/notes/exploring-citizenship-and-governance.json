@@ -71,7 +71,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Exam Questions",
   "type" : "topic",
   "url" : "\/documentation\/notes\/exam-questions"

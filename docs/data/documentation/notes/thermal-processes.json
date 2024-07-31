@@ -1291,6 +1291,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Spectrum",

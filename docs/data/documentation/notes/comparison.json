@@ -1,0 +1,119 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Comparison"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Comparison"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Source-Based-Question",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Inference",
+        "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+        "doc:\/\/Notes\/documentation\/Notes\/Assertion"
+      ],
+      "title" : "Source Based Question"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Assertion": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Assertion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/assertion"
+},
+"doc://Notes/documentation/Notes/Exam-Questions": {
+  "abstract" : [
+    {
+      "text" : "How to answer the questions",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Exam Questions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exam-questions"
+},
+"doc://Notes/documentation/Notes/Inference": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Inference",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/inference"
+},
+"doc://Notes/documentation/Notes/Reliability-Utility-and-Surprise": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reliability Utility and Surprise",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
+},
+"doc://Notes/documentation/Notes/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/social-studies"
+}
+}
+}

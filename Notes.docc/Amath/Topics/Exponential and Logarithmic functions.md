@@ -57,6 +57,37 @@ Inverting base and argument
 log_a{x} = \frac{1}{log_x{a}}
 ```
 
+## Basic Indices Laws
+
+Rules for same base
+```math
+a^m * a^n = a^{m+n}
+a^m / a^n = a^{m-n}
+```
+
+Rule for power
+```math
+(a^m)^n = a^{m \cdot n}
+```
+
+Rule for zero index
+```math
+a^0 = 1
+```
+
+Rule for negative index
+```math
+a^{-n} = \frac{1}{a^n}
+
+(\frac{a}{b})^{-n} = (\frac{b}{a})^n
+```
+
+Rule for fractional index
+```math
+a^{1/n} = \sqrt[n]{a}
+a^{m/n} = \sqrt[n]{a^m}
+```
+
 ## Tips on solving Exponential Equations
 - If it can be simplified to the same base, then equate the exponents
 - If it cannot be simplified to the same base, then take the log of both sides and solve for the variable

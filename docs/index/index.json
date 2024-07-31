@@ -269,11 +269,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electromagnetic-spectrum",
                 "title" : "Electromagnetic Spectrum",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/light",
                 "title" : "Light",
                 "type" : "article"
@@ -582,9 +584,35 @@
                 "type" : "article"
               },
               {
+                "children" : [
+                  {
+                    "title" : "Source Based Question",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/inference",
+                    "title" : "Inference",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/reliability-utility-and-surprise",
+                    "title" : "Reliability Utility and Surprise",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/comparison",
+                    "title" : "Comparison",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/assertion",
+                    "title" : "Assertion",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/exam-questions",
                 "title" : "Exam Questions",
-                "type" : "article"
+                "type" : "symbol"
               }
             ],
             "path" : "\/documentation\/notes\/social-studies",
@@ -598,11 +626,13 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/thinking-geographically",
                 "title" : "Thinking Geographically",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/sustainable-development",
                 "title" : "Sustainable Development",
                 "type" : "article"
@@ -685,6 +715,11 @@
                 "path" : "\/documentation\/notes\/comprehension",
                 "title" : "Comprehension",
                 "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/summary-writing",
+                "title" : "Summary Writing",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/english",
@@ -709,7 +744,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Checkmark.png"
+          "url" : "\/images\/Notes\/Checkmark.png"
         }
       ]
     },
@@ -723,7 +758,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/In%20Progress.png"
+          "url" : "\/images\/Notes\/In%20Progress.png"
         }
       ]
     }
