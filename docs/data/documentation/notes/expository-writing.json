@@ -32,13 +32,40 @@
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Expository writing is mainly about discussing or convincing an audience about your stance on a topic.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When coming up with experience, use a MICRO to MACRO transition. Use MORE examples than experiences.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Make sure that your examples are coherent, cohesive and critical",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Introduction",
+                      "text" : "Coherent: Ideas are logical and relevant",
                       "type" : "text"
                     }
                   ],
@@ -51,7 +78,20 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Body (3 paragraphs of IAEL)",
+                      "text" : "Cohesive: effective use of transitional words to make connections between ideas",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Critical:",
                       "type" : "text"
                     }
                   ],
@@ -64,68 +104,37 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "IAEL:",
+                              "text" : "clear understanding of the complexity of the issue,",
                               "type" : "text"
                             }
                           ],
                           "type" : "paragraph"
-                        },
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
                         {
-                          "items" : [
+                          "inlineContent" : [
                             {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Idea (point\/claim\/topic)",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Analysis (why its important)",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Evidence",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Link (why it matters to the intro)",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
+                              "text" : "well-elaborated with details (explanation \/ examples \/ experiences),",
+                              "type" : "text"
                             }
                           ],
-                          "type" : "unorderedList"
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "details are well-explained and presents a fair and objective view",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
                         }
                       ]
                     }
@@ -133,31 +142,9 @@
                   "type" : "unorderedList"
                 }
               ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Conclusion",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
             }
           ],
-          "type" : "orderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "When coming up with experience, use a MICRO to MACRO transition. Use MORE examples than experiences.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Things-to-include",
@@ -401,6 +388,637 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Format",
+          "level" : 2,
+          "text" : "Format",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Introduction",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Body (minimum 3 paragraphs of IAEL)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "IAEL:",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Idea (point\/claim\/topic)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Analysis (why its important)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Evidence (example, see above)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Elevation (how your analysis and evidence relate to the idea)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Link (why your idea matters to the topic)",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Conclusion",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "text" : "doc:Assertion:#Writing-Paragraphs",
+              "type" : "text"
+            },
+            {
+              "text" : " for more information about Elevantion and Link, because its very similar",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to the BSA (because, so, as a result) method that SS uses",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When analysing the question, read the essay prompt twice before identifying:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The TASK words, which define what you have to do.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The TOPIC words, which define what you should focus on.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The CONTEXTUAL words, which define the limits of your discussion.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "These three sets of keywords enable you to stay on task, i.e., organised and relevant.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in the following:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Describe the three qualities that are most important for you in a student leader. [SST Prelims 2023 Q3]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Task: Describe",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Topic: Qualities of a student leader",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Contextual: Qualities",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "‘Schools should teach practical skills such as cooking and managing our finances.’ Do you agree? Why or why not?",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "[GCE O Levels 2023 Q5]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Task: Agree\/Disagree",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Topic: Schools teaching practical skills",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Contextual: Cooking and managing finances",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "‘All you need to succeed in life is a positive attitude.’ How far would you agree? [GCE O Levels 2023 Q6]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Task: How far would you agree",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Topic: Success in life",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Contextual: Positive attitude",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "‘People can only be happy if they feel they are treated fairly’. Do you agree? [GCE O Levels 2019]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Task: Agree\/Disagree",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Topic: Can only be happy if they feel they are treated fairly",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Contextual: People being happy and fair",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "start" : 2,
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Meeting-Question-Requirements",
+          "level" : 2,
+          "text" : "Meeting Question Requirements",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Determine exactly what the topic would entail. For example, for the third one, you’d need to:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define ‘success in life’ and ‘positive attitude’",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Consider what are the different factors\/ components that need to come together to achieve this ‘success’ (Context)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Think about the role a ‘positive’ attitude’ plays in ensuring this ‘success’ under different circumstances (Thesis)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "What are the circumstances when a ‘positive attitude’ is all that is needed?",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "What are the circumstances when a ’positive attitude is not enough?",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "More generally, you need to:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define the terms in the question (summarise this in the intro)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Consider different factors in the condition (introduce this in each of the points)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Consider the role of the condition in the factors (body of each point)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Balance the factors (conclusion paragraph)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
         }
       ],
       "kind" : "content"

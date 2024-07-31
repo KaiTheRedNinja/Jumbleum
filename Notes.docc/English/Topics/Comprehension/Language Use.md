@@ -12,6 +12,11 @@ In this example, you need to cover the following points:
 - Superior to
 - Writer
 
+1. Read the passage. Understand the narrative within context.
+2. Identify the Requirements of the Question.
+3. Focus on Relevant part of Passage. Sift out irrelevant information and details.
+4. Craft your responses, ensuring that the question requirements are addressed in their
+
 ## Format
 
 > Format: "The phrase '...' suggests ... "
