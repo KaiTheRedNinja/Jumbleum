@@ -1244,7 +1244,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
@@ -1265,7 +1264,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1279,7 +1278,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_7-Segment.jpg"
+      "url" : "\/images\/Diagram_7-Segment.jpg"
     }
   ]
 },
@@ -1293,7 +1292,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Diode_Forward%20Bias.jpg"
+      "url" : "\/images\/Diagram_Diode_Forward%20Bias.jpg"
     }
   ]
 },
@@ -1307,7 +1306,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Diode_Reverse%20Bias.jpg"
+      "url" : "\/images\/Diagram_Diode_Reverse%20Bias.jpg"
     }
   ]
 },
@@ -1321,7 +1320,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Full%20Wave%20Rectifier.jpg"
+      "url" : "\/images\/Diagram_Full%20Wave%20Rectifier.jpg"
     }
   ]
 },
@@ -1335,7 +1334,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Full%20Wave%20Rectifier_Negative.jpg"
+      "url" : "\/images\/Diagram_Full%20Wave%20Rectifier_Negative.jpg"
     }
   ]
 },
@@ -1349,7 +1348,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Full%20Wave%20Rectifier_Positive.jpg"
+      "url" : "\/images\/Diagram_Full%20Wave%20Rectifier_Positive.jpg"
     }
   ]
 },
@@ -1363,7 +1362,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Full%20Wave%20Rectifier_Smooth.jpg"
+      "url" : "\/images\/Diagram_Full%20Wave%20Rectifier_Smooth.jpg"
     }
   ]
 },
@@ -1377,7 +1376,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Full%20Wave%20Rectifier_Zener.jpg"
+      "url" : "\/images\/Diagram_Full%20Wave%20Rectifier_Zener.jpg"
     }
   ]
 },
@@ -1391,7 +1390,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Half%20Wave%20Rectifier.jpg"
+      "url" : "\/images\/Diagram_Half%20Wave%20Rectifier.jpg"
     }
   ]
 },
@@ -1405,7 +1404,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Diode_characteristics.jpg"
+      "url" : "\/images\/Graph_Diode_characteristics.jpg"
     }
   ]
 },
@@ -1419,7 +1418,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Full%20Wave%20Rectifier.jpg"
+      "url" : "\/images\/Graph_Full%20Wave%20Rectifier.jpg"
     }
   ]
 },
@@ -1433,7 +1432,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Full%20Wave%20Rectifier_Smooth.jpg"
+      "url" : "\/images\/Graph_Full%20Wave%20Rectifier_Smooth.jpg"
     }
   ]
 },
@@ -1447,7 +1446,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Half%20Wave%20Rectifier.jpg"
+      "url" : "\/images\/Graph_Half%20Wave%20Rectifier.jpg"
     }
   ]
 },
@@ -1461,7 +1460,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },

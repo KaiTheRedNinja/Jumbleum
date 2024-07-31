@@ -2467,7 +2467,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "IV-Waves",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
@@ -2488,7 +2487,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
