@@ -73,10 +73,27 @@ Ignore the beta value, its not useful here.
 TODO: Elaborate on these
 
 ### Amplifier
-Used with AC, to increase the amplitude of a signal
+Used with AC Signals, such as those from a microphone, to increase the amplitude of a signal
+There are 3 kinds of Amplifiers: 
+- common-emitter
+- common-base
+- common-collector
+
+In our syllabus, its only necessary to do calculations for the `common-emitter` amplifier. 
+And usually only with NPN transistors, not PNP transistors. 
 
 ### Driver
 Used to drive a high-current load, like a motor
+NPN Transistors: The load is connected to VCC and the Collector 
+PNP Transistors: The load is connected to the Emitter and GND
+
+¹ don't really know the real reason why but thats conventions. 
 
 #### Darlington Pair
-Two transistors connected in series, to increase the current gain
+Two transistors connected in series, to increase the total current gain
+
+Gain of darlington pair:
+
+```math
+β_{total} = (β_1 \times β_2)
+```

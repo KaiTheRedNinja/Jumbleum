@@ -22,3 +22,4 @@ Paper 2 past year papers: https://drive.google.com/drive/folders/1n4xdt-_DIt_k77
 
 ### Paper 2: Comprehension
 - <doc:Comprehension>
+- <doc:Summary-Writing>

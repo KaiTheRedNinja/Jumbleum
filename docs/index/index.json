@@ -1,7 +1,4 @@
 {
-  "includedArchiveIdentifiers" : [
-    "Notes"
-  ],
   "interfaceLanguages" : {
     "swift" : [
       {
@@ -717,7 +714,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
@@ -734,6 +731,6 @@
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,
-    "patch" : 2
+    "patch" : 1
   }
 }

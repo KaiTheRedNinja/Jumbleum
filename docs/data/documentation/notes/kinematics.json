@@ -1803,7 +1803,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
@@ -1826,7 +1825,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1840,7 +1839,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_DT.jpg"
+      "url" : "\/images\/Graph_DT.jpg"
     }
   ]
 },
@@ -1854,7 +1853,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Free%20fall.jpg"
+      "url" : "\/images\/Graph_Free%20fall.jpg"
     }
   ]
 },
@@ -1868,7 +1867,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_SUVAT.jpg"
+      "url" : "\/images\/Graph_SUVAT.jpg"
     }
   ]
 },
@@ -1882,7 +1881,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_VT.jpg"
+      "url" : "\/images\/Graph_VT.jpg"
     }
   ]
 },
@@ -1896,7 +1895,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Vector%20Resolution.jpg"
+      "url" : "\/images\/Graph_Vector%20Resolution.jpg"
     }
   ]
 },

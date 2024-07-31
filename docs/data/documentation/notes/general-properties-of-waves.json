@@ -1452,7 +1452,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "IV-Waves",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
@@ -1473,7 +1472,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1487,7 +1486,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Wave%20Motion.jpg"
+      "url" : "\/images\/Diagram_Wave%20Motion.jpg"
     }
   ]
 },
@@ -1501,7 +1500,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Wave%20Reflection.jpg"
+      "url" : "\/images\/Diagram_Wave%20Reflection.jpg"
     }
   ]
 },
@@ -1515,7 +1514,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Wave%20Refraction.jpg"
+      "url" : "\/images\/Diagram_Wave%20Refraction.jpg"
     }
   ]
 },
@@ -1529,7 +1528,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Rarefaction%20Compression_DT.jpg"
+      "url" : "\/images\/Graph_Rarefaction%20Compression_DT.jpg"
     }
   ]
 },

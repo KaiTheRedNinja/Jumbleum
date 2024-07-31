@@ -121,7 +121,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Data-and-Information",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
@@ -132,7 +131,6 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
         "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
@@ -155,7 +153,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },

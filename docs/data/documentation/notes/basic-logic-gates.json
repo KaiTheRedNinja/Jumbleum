@@ -1323,7 +1323,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
@@ -1346,7 +1345,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1360,7 +1359,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Timing_AND.jpg"
+      "url" : "\/images\/Diagram_Timing_AND.jpg"
     }
   ]
 },
@@ -1374,7 +1373,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Universal_NAND.jpg"
+      "url" : "\/images\/Diagram_Universal_NAND.jpg"
     }
   ]
 },
@@ -1388,7 +1387,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Universal_NOR.jpg"
+      "url" : "\/images\/Diagram_Universal_NOR.jpg"
     }
   ]
 },

@@ -629,7 +629,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Data-and-Information",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
@@ -650,7 +649,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },

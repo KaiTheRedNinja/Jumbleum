@@ -1984,7 +1984,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
@@ -2007,7 +2006,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },

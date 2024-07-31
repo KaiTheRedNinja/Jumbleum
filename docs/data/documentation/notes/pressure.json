@@ -781,7 +781,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
@@ -804,7 +803,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -818,7 +817,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Pressure_Hydraulics.jpg"
+      "url" : "\/images\/Diagram_Pressure_Hydraulics.jpg"
     }
   ]
 },
@@ -832,7 +831,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Pressure_Liquid.jpg"
+      "url" : "\/images\/Diagram_Pressure_Liquid.jpg"
     }
   ]
 },
@@ -846,7 +845,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Pressure_Manometer.jpg"
+      "url" : "\/images\/Diagram_Pressure_Manometer.jpg"
     }
   ]
 },
