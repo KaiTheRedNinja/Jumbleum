@@ -727,7 +727,84 @@
         {
           "inlineContent" : [
             {
-              "text" : "Used with AC, to increase the amplitude of a signal",
+              "text" : "Used with AC Signals, such as those from a microphone, to increase the amplitude of a signal",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "There are 3 kinds of Amplifiers:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "common-emitter",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "common-base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "common-collector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In our syllabus, its only necessary to do calculations for the ",
+              "type" : "text"
+            },
+            {
+              "code" : "common-emitter",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " amplifier.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "And usually only with NPN transistors, not PNP transistors.",
               "type" : "text"
             }
           ],
@@ -744,6 +821,31 @@
             {
               "text" : "Used to drive a high-current load, like a motor",
               "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "NPN Transistors: The load is connected to VCC and the Collector",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "PNP Transistors: The load is connected to the Emitter and GND",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "¹ don’t really know the real reason why but thats conventions.",
+              "type" : "text"
             }
           ],
           "type" : "paragraph"
@@ -757,11 +859,27 @@
         {
           "inlineContent" : [
             {
-              "text" : "Two transistors connected in series, to increase the current gain",
+              "text" : "Two transistors connected in series, to increase the total current gain",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Gain of darlington pair:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "β_{total} = (β_1 \\times β_2)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
         }
       ],
       "kind" : "content"
@@ -777,6 +895,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -797,7 +916,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -811,7 +930,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Example_BJT.jpg"
+      "url" : "\/images\/Notes\/Example_BJT.jpg"
     }
   ]
 },
@@ -825,7 +944,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_BJT_VCE_IC.jpg"
+      "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
     }
   ]
 },
@@ -839,7 +958,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

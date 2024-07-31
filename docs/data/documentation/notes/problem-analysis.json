@@ -459,6 +459,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Systems-and-Communication",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
@@ -479,7 +480,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

@@ -1245,6 +1245,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "III-Thermal-Physics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
@@ -1265,7 +1266,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

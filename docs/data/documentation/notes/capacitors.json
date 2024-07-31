@@ -768,6 +768,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
@@ -790,7 +791,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -804,7 +805,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_Capacitor.jpg"
+      "url" : "\/images\/Notes\/Graph_Capacitor.jpg"
     }
   ]
 },

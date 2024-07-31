@@ -48,16 +48,18 @@
               "type" : "reference"
             },
             {
-              "text" : " under physics except",
+              "text" : " under physics except Kirchoff’s Laws.",
               "type" : "text"
-            },
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
             {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "Kirchoff’s Laws.",
-              "type" : "text"
+              "identifier" : "https:\/\/drive.google.com\/file\/d\/1reicOXFGnoNvsJZX34_EWkrOkL8CQwFp\/view",
+              "isActive" : true,
+              "type" : "reference"
             }
           ],
           "type" : "paragraph"
@@ -85,6 +87,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computing"
@@ -94,12 +97,14 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Systems",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems"
       ],
       "title" : "Systems"
     },
     {
+      "anchor" : "Fundamentals-of-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
@@ -110,6 +115,7 @@
       "title" : "Fundamentals of Electronics"
     },
     {
+      "anchor" : "Analogue-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
         "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
@@ -118,6 +124,7 @@
       "title" : "Analogue Electronics"
     },
     {
+      "anchor" : "Digital-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
@@ -140,7 +147,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -154,7 +161,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -479,6 +486,18 @@
   "title" : "Set-Reset Memory Latches",
   "type" : "topic",
   "url" : "\/documentation\/notes\/set-reset-memory-latches"
+},
+"https://drive.google.com/file/d/1reicOXFGnoNvsJZX34_EWkrOkL8CQwFp/view": {
+  "identifier" : "https:\/\/drive.google.com\/file\/d\/1reicOXFGnoNvsJZX34_EWkrOkL8CQwFp\/view",
+  "title" : "Syllabus Textbook",
+  "titleInlineContent" : [
+    {
+      "text" : "Syllabus Textbook",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/drive.google.com\/file\/d\/1reicOXFGnoNvsJZX34_EWkrOkL8CQwFp\/view"
 },
 "https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6063_y24_sy.pdf": {
   "checksum" : null,

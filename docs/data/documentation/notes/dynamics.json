@@ -2276,6 +2276,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
@@ -2298,7 +2299,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -2312,7 +2313,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Vector%20addition.jpg"
+      "url" : "\/images\/Notes\/Diagram_Vector%20addition.jpg"
     }
   ]
 },
@@ -2326,7 +2327,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_Air%20resistance.jpg"
+      "url" : "\/images\/Notes\/Graph_Air%20resistance.jpg"
     }
   ]
 },

@@ -1387,6 +1387,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
@@ -1409,7 +1410,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1423,7 +1424,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Potential%20Difference.jpg"
+      "url" : "\/images\/Notes\/Diagram_Potential%20Difference.jpg"
     }
   ]
 },

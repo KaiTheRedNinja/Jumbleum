@@ -53,6 +53,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Mathematics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Amath",
@@ -63,6 +64,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Numbers-and-Algebra",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
         "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
@@ -77,6 +79,7 @@
       "title" : "Numbers and Algebra"
     },
     {
+      "anchor" : "Geometry-and-Measurement",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
         "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
@@ -89,6 +92,7 @@
       "title" : "Geometry and Measurement"
     },
     {
+      "anchor" : "Statistics-and-Probability",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis",
         "doc:\/\/Notes\/documentation\/Notes\/Probability"
