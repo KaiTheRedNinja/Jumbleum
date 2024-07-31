@@ -73,6 +73,7 @@
       "anchor" : "Paper-2-Comprehension",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+        "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
         "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing"
       ],
       "title" : "Paper 2: Comprehension"
@@ -118,6 +119,20 @@
   "title" : "Continuous Writing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/continuous-writing"
+},
+"doc://Notes/documentation/Notes/Language-Use": {
+  "abstract" : [
+    {
+      "text" : "Language use questions ask how language is used to show stuff",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Language Use",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/language-use"
 },
 "doc://Notes/documentation/Notes/Situational-Writing": {
   "abstract" : [

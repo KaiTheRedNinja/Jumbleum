@@ -1264,7 +1264,8 @@
       "anchor" : "Paper-2-Comprehension",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Comprehension"
+        "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+        "doc:\/\/Notes\/documentation\/Notes\/Language-Use"
       ],
       "title" : "Paper 2: Comprehension"
     }
@@ -1309,6 +1310,20 @@
   "title" : "English",
   "type" : "topic",
   "url" : "\/documentation\/notes\/english"
+},
+"doc://Notes/documentation/Notes/Language-Use": {
+  "abstract" : [
+    {
+      "text" : "Language use questions ask how language is used to show stuff",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Language Use",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/language-use"
 }
 }
 }

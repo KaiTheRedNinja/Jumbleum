@@ -720,6 +720,11 @@
                 "type" : "article"
               },
               {
+                "path" : "\/documentation\/notes\/language-use",
+                "title" : "Language Use",
+                "type" : "article"
+              },
+              {
                 "path" : "\/documentation\/notes\/summary-writing",
                 "title" : "Summary Writing",
                 "type" : "article"
