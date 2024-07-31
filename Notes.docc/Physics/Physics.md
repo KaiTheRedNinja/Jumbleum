@@ -46,3 +46,6 @@ Note that Current of Electricity notes are under Electronics at <doc:Current-of-
 
 ### VI. Radioactivity 
 - <doc:Radioactivity>
+
+### Other
+- <doc:Practical-Skills>

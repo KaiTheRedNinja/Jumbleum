@@ -331,6 +331,15 @@
                 "path" : "\/documentation\/notes\/radioactivity",
                 "title" : "Radioactivity",
                 "type" : "article"
+              },
+              {
+                "title" : "Other",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/practical-skills",
+                "title" : "Practical Skills",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/physics",
@@ -771,7 +780,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

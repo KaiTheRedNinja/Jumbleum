@@ -136,6 +136,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/Radioactivity"
       ],
       "title" : "VI. Radioactivity"
+    },
+    {
+      "anchor" : "Other",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Practical-Skills"
+      ],
+      "title" : "Other"
     }
   ]
 , 
@@ -430,6 +437,20 @@
   "title" : "Practical Electricity",
   "type" : "topic",
   "url" : "\/documentation\/notes\/practical-electricity"
+},
+"doc://Notes/documentation/Notes/Practical-Skills": {
+  "abstract" : [
+    {
+      "text" : "Practicals are the only paper that you can’t revise for :(",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Practical-Skills",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Practical Skills",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/practical-skills"
 },
 "doc://Notes/documentation/Notes/Pressure": {
   "abstract" : [
