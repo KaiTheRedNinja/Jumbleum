@@ -50,7 +50,7 @@ Types of support:
         - Link (why your idea matters to the topic)
 3. Conclusion
 
-See <doc:Assertion:#Writing-Paragraphs> for more information about Elevantion and Link, because its very similar 
+See <doc:Assertion#Writing-Paragraphs> for more information about Elevantion and Link, because its very similar 
 to the BSA (because, so, as a result) method that SS uses
 
 When analysing the question, read the essay prompt twice before identifying:

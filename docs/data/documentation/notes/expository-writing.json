@@ -534,8 +534,9 @@
               "type" : "text"
             },
             {
-              "text" : "doc:Assertion:#Writing-Paragraphs",
-              "type" : "text"
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion#Writing-Paragraphs",
+              "isActive" : true,
+              "type" : "reference"
             },
             {
               "text" : " for more information about Elevantion and Link, because its very similar",
@@ -1047,6 +1048,16 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Assertion#Writing-Paragraphs": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion#Writing-Paragraphs",
+  "kind" : "section",
+  "title" : "Writing Paragraphs",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/assertion#Writing-Paragraphs"
 }
 }
 }
