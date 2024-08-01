@@ -753,6 +753,11 @@
             "type" : "article"
           },
           {
+            "path" : "\/documentation\/notes\/paragraph-writing",
+            "title" : "Paragraph Writing",
+            "type" : "article"
+          },
+          {
             "path" : "\/documentation\/notes\/reflective-writing",
             "title" : "Reflective",
             "type" : "article"
@@ -780,7 +785,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
