@@ -720,6 +720,21 @@
                 "type" : "article"
               },
               {
+                "path" : "\/documentation\/notes\/paragraph-writing",
+                "title" : "Paragraph Writing",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/reflective-writing",
+                "title" : "Reflective Writing",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/expository-writing",
+                "title" : "Expository Writing",
+                "type" : "article"
+              },
+              {
                 "title" : "Paper 2: Comprehension",
                 "type" : "groupMarker"
               },
@@ -742,25 +757,6 @@
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
-          },
-          {
-            "title" : "Articles",
-            "type" : "groupMarker"
-          },
-          {
-            "path" : "\/documentation\/notes\/expository-writing",
-            "title" : "Expository",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/paragraph-writing",
-            "title" : "Paragraph Writing",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/reflective-writing",
-            "title" : "Reflective",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

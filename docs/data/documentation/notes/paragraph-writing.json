@@ -8,7 +8,8 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/English"
       ]
     ]
   },
@@ -660,6 +661,19 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Paper-1-Essay",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing"
+      ],
+      "title" : "Paper 1: Essay"
+    }
   ]
 , 
 "references": {
@@ -677,6 +691,34 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/Continuous-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 350–500 words on one of four topics set",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Continuous Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/continuous-writing"
+},
+"doc://Notes/documentation/Notes/English": {
+  "abstract" : [
+    {
+      "text" : "The English language",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "English",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/english"
+},
 "doc://Notes/documentation/Notes/Expository-Writing": {
   "abstract" : [
     {
@@ -687,7 +729,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
   "kind" : "article",
   "role" : "article",
-  "title" : "Expository",
+  "title" : "Expository Writing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/expository-writing"
 },
@@ -701,9 +743,23 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
   "kind" : "article",
   "role" : "article",
-  "title" : "Reflective",
+  "title" : "Reflective Writing",
   "type" : "topic",
   "url" : "\/documentation\/notes\/reflective-writing"
+},
+"doc://Notes/documentation/Notes/Situational-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 250–350 words on a given situation which will involve viewing a visual text",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Situational Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/situational-writing"
 }
 }
 }

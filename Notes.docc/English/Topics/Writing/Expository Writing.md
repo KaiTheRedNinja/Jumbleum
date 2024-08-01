@@ -1,4 +1,4 @@
-# Expository
+# Expository Writing
 
 Argumentative, basically
 

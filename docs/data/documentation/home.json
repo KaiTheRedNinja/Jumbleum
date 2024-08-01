@@ -292,16 +292,6 @@
         "doc:\/\/Notes\/documentation\/Notes\/English"
       ],
       "title" : "Languages"
-    },
-    {
-      "anchor" : "Articles",
-      "generated" : true,
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
-        "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
-        "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing"
-      ],
-      "title" : "Articles"
     }
   ]
 , 
@@ -402,20 +392,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/english"
 },
-"doc://Notes/documentation/Notes/Expository-Writing": {
-  "abstract" : [
-    {
-      "text" : "Argumentative, basically",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Expository",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/expository-writing"
-},
 "doc://Notes/documentation/Notes/Geography": {
   "abstract" : [
     {
@@ -430,20 +406,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/geography"
 },
-"doc://Notes/documentation/Notes/Paragraph-Writing": {
-  "abstract" : [
-    {
-      "text" : "Intro and conclusion",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Paragraph Writing",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/paragraph-writing"
-},
 "doc://Notes/documentation/Notes/Physics": {
   "abstract" : [
     {
@@ -457,20 +419,6 @@
   "title" : "Physics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/physics"
-},
-"doc://Notes/documentation/Notes/Reflective-Writing": {
-  "abstract" : [
-    {
-      "text" : "Reflective writing is a personal response to an experience, event, or situation.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Reflective",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/reflective-writing"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [
