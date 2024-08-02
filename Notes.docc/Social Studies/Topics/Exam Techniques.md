@@ -1,4 +1,4 @@
-# Exam Questions
+# Exam Techniques
 
 How to answer the questions
 
