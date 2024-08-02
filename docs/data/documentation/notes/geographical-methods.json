@@ -1488,8 +1488,9 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "doc:Geography#Describe-Statistics-Questions",
-                      "type" : "text"
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography#Describe-Statistics-Questions",
+                      "isActive" : true,
+                      "type" : "reference"
                     },
                     {
                       "text" : ")",
@@ -1801,6 +1802,16 @@
   "title" : "Geography",
   "type" : "topic",
   "url" : "\/documentation\/notes\/geography"
+},
+"doc://Notes/documentation/Notes/Geography#Describe-Statistics-Questions": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography#Describe-Statistics-Questions",
+  "kind" : "section",
+  "title" : "Describe Statistics Questions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography#Describe-Statistics-Questions"
 },
 "doc://Notes/documentation/Notes/Sustainable-Development": {
   "abstract" : [
