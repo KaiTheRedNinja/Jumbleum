@@ -1,4 +1,7 @@
 # Continuous Writing
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
 
 Candidates write 350–500 words on one of four topics set
 

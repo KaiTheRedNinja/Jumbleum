@@ -1,4 +1,7 @@
 # Language Use
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
 
 Language use questions ask how language is used to show stuff
 

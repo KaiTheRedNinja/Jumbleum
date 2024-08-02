@@ -62,7 +62,6 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Paper-1-Essay",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
         "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
@@ -73,7 +72,6 @@
       "title" : "Paper 1: Essay"
     },
     {
-      "anchor" : "Paper-2-Comprehension",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
         "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
@@ -84,6 +82,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -117,6 +143,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Continuous Writing",
@@ -131,6 +163,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Expository Writing",
@@ -145,6 +183,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Language Use",
@@ -159,6 +203,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Paragraph Writing",
@@ -173,6 +223,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Reflective Writing",
@@ -187,6 +243,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Situational Writing",
@@ -201,6 +263,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Summary Writing",

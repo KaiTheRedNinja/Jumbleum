@@ -19,27 +19,11 @@
     - Penetrating abilities and Ionising effect of radiation
 10. State the meaning of nuclear fusion and fission and relate these nuclear processes to the release of energy from nulcear fuels.
 
-|Particles|Composition|Ionising Ability|Penetrating Ability|
-|:------    |:---                                                           |:---:        |:---:|
-|alpha, α   |2 protons, 2 neutrons                                          |highest    |low|
-|beta, β    |electron                                                       |medium     |medium|
-|gamma, γ   |electromagnetic radiation, high frequency electromagnetic waves|lowest     |high|
-
-- alpha particles are the least penetrating, but the most ionising. They can be stopped by a piece of paper.
-
-- beta particles are more penetrating than alpha particles, but less ionising. They can be stopped by a thin sheet of aluminium.
-
-- gamma particles are the most penetrating, but the least ionising. They can be stopped by a thick sheet of lead or concrete.
-
-```math
-\alpha \text{ particles are made up of } ^4_2He
-```
-
 ## Radioactive Decay
 
-> Random Decay: 
+> Random Decay: The decay of the Isotope cannot be predicted as to which particular nucleus will decay next.
 
-> Spontaneous Decay:
+> Spontaneous Decay: The decay is not affected by environmental changes (e.g temperature and pressure).
 
 Radioactive Decay can come in many forms, the equations below are just examples. They can be applied to any other scenrio too. 
 
@@ -62,6 +46,24 @@ Radioactive Decay can come in many forms, the equations below are just examples.
 > 
 > It'sjust conservation of mass for the Mass numbers, and conservation of charges for the proton numbers. 
 
+## Radioactive Emissions
+
+|Particles|Composition|Ionising Ability|Penetrating Ability|
+|:------    |:---                                                           |:---:        |:---:|
+|alpha, α   |2 protons, 2 neutrons                                          |highest    |low|
+|beta, β    |electron                                                       |medium     |medium|
+|gamma, γ   |electromagnetic radiation, high frequency electromagnetic waves|lowest     |high|
+
+- alpha particles are the least penetrating, but the most ionising. They can be stopped by a piece of paper.
+
+- beta particles are more penetrating than alpha particles, but less ionising. They can be stopped by a thin sheet of aluminium.
+
+- gamma particles are the most penetrating, but the least ionising. They can be stopped by a thick sheet of lead or concrete.
+
+```math
+\alpha \text{ particles are made up of } ^4_2He
+```
+
 ## Background Radiation
 - natural radiation that is always present in the environment. It comes from:
     - cosmic rays
@@ -77,8 +79,15 @@ Radioactive Decay can come in many forms, the equations below are just examples.
 
 ## Isotope half-life
 The time taken for half the radioactive nuclei in a sample to decay.
-This is a random and spontaneous process.
+This is a *random* and *spontaneous* process.
 
 ## Fusion and Fission
 > Principal Energy Transfer: 
+> During nuclear fission, energy is transferred from the nuclear store of the unstable nucleus to:
+> - the kinetic and nuclear stores of the daughter nuclei and neutrons
+> - the internal store of the surroundings
+
+> Nuclear Fission: a process in which a parent nucleus splits (usually into two daughter nuclei) and releases a huge amount of energy.
+
+> Nuclear Fusion: a process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.
 

@@ -1,4 +1,7 @@
 # Summary Writing
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
 
 Part of Paper 2, basically summarise the given text in under 80 words
 
