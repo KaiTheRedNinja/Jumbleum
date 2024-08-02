@@ -1,4 +1,7 @@
 # Practical Skills
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
 
 Practicals are the only paper that you can't revise for :(
 

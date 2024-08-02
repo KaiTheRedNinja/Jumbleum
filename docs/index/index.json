@@ -1,7 +1,4 @@
 {
-  "includedArchiveIdentifiers" : [
-    "Notes"
-  ],
   "interfaceLanguages" : {
     "swift" : [
       {
@@ -105,11 +102,13 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/data-handling-and-analysis",
                 "title" : "Data handling and analysis",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/probability",
                 "title" : "Probability",
                 "type" : "article"
@@ -328,6 +327,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/radioactivity",
                 "title" : "Radioactivity",
                 "type" : "article"
@@ -337,6 +337,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/practical-skills",
                 "title" : "Practical Skills",
                 "type" : "article"
@@ -602,13 +603,15 @@
                     "type" : "groupMarker"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/inference",
                     "title" : "Inference",
                     "type" : "article"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/reliability-utility-and-surprise",
-                    "title" : "Reliability Utility and Surprise",
+                    "title" : "Reliability, Utility and Surprise",
                     "type" : "article"
                   },
                   {
@@ -617,13 +620,14 @@
                     "type" : "article"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/assertion",
                     "title" : "Assertion",
                     "type" : "article"
                   }
                 ],
-                "path" : "\/documentation\/notes\/exam-questions",
-                "title" : "Exam Questions",
+                "path" : "\/documentation\/notes\/exam-techniques",
+                "title" : "Exam Techniques",
                 "type" : "symbol"
               }
             ],
@@ -710,26 +714,31 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/situational-writing",
                 "title" : "Situational Writing",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/continuous-writing",
                 "title" : "Continuous Writing",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/paragraph-writing",
                 "title" : "Paragraph Writing",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/reflective-writing",
                 "title" : "Reflective Writing",
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/expository-writing",
                 "title" : "Expository Writing",
                 "type" : "article"
@@ -744,11 +753,13 @@
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/language-use",
                 "title" : "Language Use",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/summary-writing",
                 "title" : "Summary Writing",
                 "type" : "article"
@@ -776,7 +787,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Notes\/Checkmark.png"
+          "url" : "\/images\/Checkmark.png"
         }
       ]
     },
@@ -790,7 +801,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Notes\/In%20Progress.png"
+          "url" : "\/images\/In%20Progress.png"
         }
       ]
     }
@@ -798,6 +809,6 @@
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,
-    "patch" : 2
+    "patch" : 1
   }
 }

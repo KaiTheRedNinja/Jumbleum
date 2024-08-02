@@ -1478,7 +1478,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
@@ -1501,7 +1500,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1515,7 +1514,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Astable_Timer.jpg"
+      "url" : "\/images\/Diagram_Astable_Timer.jpg"
     }
   ]
 },
@@ -1529,7 +1528,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Comparator.jpg"
+      "url" : "\/images\/Diagram_Comparator.jpg"
     }
   ]
 },
@@ -1543,7 +1542,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Monostable_Timer.jpg"
+      "url" : "\/images\/Diagram_Monostable_Timer.jpg"
     }
   ]
 },
@@ -1557,7 +1556,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Comparator.jpg"
+      "url" : "\/images\/Example_Comparator.jpg"
     }
   ]
 },
@@ -1571,7 +1570,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Counter.jpg"
+      "url" : "\/images\/Example_Counter.jpg"
     }
   ]
 },
@@ -1585,7 +1584,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },

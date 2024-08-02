@@ -1,4 +1,7 @@
 # Reflective Writing
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
 
 Reflective writing is a personal response to an experience, event, or situation.
 

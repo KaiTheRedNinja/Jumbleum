@@ -15,12 +15,12 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "collectionGroup",
-    "title" : "Exam Questions"
+    "title" : "Exam Techniques"
   },
   "primaryContentSections" : [
     {
@@ -519,7 +519,6 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Source-Based-Question",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
@@ -531,6 +530,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -553,6 +566,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Assertion",
@@ -594,9 +613,18 @@
 },
 "doc://Notes/documentation/Notes/Inference": {
   "abstract" : [
-
+    {
+      "text" : "The mother of all skills, you’re as good as dead without it",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Inference",
@@ -622,9 +650,15 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
-  "title" : "Reliability Utility and Surprise",
+  "title" : "Reliability, Utility and Surprise",
   "type" : "topic",
   "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
 },

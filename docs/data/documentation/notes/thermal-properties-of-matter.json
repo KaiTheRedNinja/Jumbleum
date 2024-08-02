@@ -1425,7 +1425,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "III-Thermal-Physics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
@@ -1446,7 +1445,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1460,7 +1459,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_State%20of%20Matter.jpg"
+      "url" : "\/images\/Diagram_State%20of%20Matter.jpg"
     }
   ]
 },
@@ -1474,7 +1473,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_State%20of%20Matter.jpg"
+      "url" : "\/images\/Graph_State%20of%20Matter.jpg"
     }
   ]
 },

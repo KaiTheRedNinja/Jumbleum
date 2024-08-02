@@ -10,7 +10,7 @@
       [
         "doc:\/\/Notes\/documentation\/Home",
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
-        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
       ]
     ]
   },
@@ -20,6 +20,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Assertion"
@@ -1029,7 +1035,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Source-Based-Question",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
@@ -1041,6 +1046,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -1066,25 +1085,34 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/comparison"
 },
-"doc://Notes/documentation/Notes/Exam-Questions": {
+"doc://Notes/documentation/Notes/Exam-Techniques": {
   "abstract" : [
     {
       "text" : "How to answer the questions",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Exam Questions",
+  "title" : "Exam Techniques",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/exam-questions"
+  "url" : "\/documentation\/notes\/exam-techniques"
 },
 "doc://Notes/documentation/Notes/Inference": {
   "abstract" : [
-
+    {
+      "text" : "The mother of all skills, you’re as good as dead without it",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Inference",
@@ -1099,9 +1127,15 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
-  "title" : "Reliability Utility and Surprise",
+  "title" : "Reliability, Utility and Surprise",
   "type" : "topic",
   "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
 },
