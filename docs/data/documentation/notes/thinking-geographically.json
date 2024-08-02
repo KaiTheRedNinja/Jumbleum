@@ -1059,7 +1059,10 @@
 },
 "doc://Notes/documentation/Notes/Geographical-Methods": {
   "abstract" : [
-
+    {
+      "text" : "Survey survey survey",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods",
   "kind" : "article",

@@ -19,6 +19,9 @@ Paper 2 past year papers: https://drive.google.com/drive/folders/1n4xdt-_DIt_k77
 ### Paper 1: Essay
 - <doc:Situational-Writing>
 - <doc:Continuous-Writing>
+- <doc:Paragraph-Writing>
+- <doc:Reflective-Writing>
+- <doc:Expository-Writing>
 
 ### Paper 2: Comprehension
 - <doc:Comprehension>

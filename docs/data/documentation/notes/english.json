@@ -65,7 +65,10 @@
       "anchor" : "Paper-1-Essay",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
-        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing"
+        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing"
       ],
       "title" : "Paper 1: Essay"
     },
@@ -120,6 +123,20 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/continuous-writing"
 },
+"doc://Notes/documentation/Notes/Expository-Writing": {
+  "abstract" : [
+    {
+      "text" : "Argumentative, basically",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Expository Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/expository-writing"
+},
 "doc://Notes/documentation/Notes/Language-Use": {
   "abstract" : [
     {
@@ -133,6 +150,34 @@
   "title" : "Language Use",
   "type" : "topic",
   "url" : "\/documentation\/notes\/language-use"
+},
+"doc://Notes/documentation/Notes/Paragraph-Writing": {
+  "abstract" : [
+    {
+      "text" : "Intro and conclusion",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Paragraph Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/paragraph-writing"
+},
+"doc://Notes/documentation/Notes/Reflective-Writing": {
+  "abstract" : [
+    {
+      "text" : "Reflective writing is a personal response to an experience, event, or situation.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reflective Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reflective-writing"
 },
 "doc://Notes/documentation/Notes/Situational-Writing": {
   "abstract" : [

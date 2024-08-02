@@ -8,7 +8,8 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/English"
       ]
     ]
   },
@@ -20,7 +21,7 @@
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Expository"
+    "title" : "Expository Writing"
   },
   "primaryContentSections" : [
     {
@@ -1032,6 +1033,19 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Paper-1-Essay",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing"
+      ],
+      "title" : "Paper 1: Essay"
+    }
   ]
 , 
 "references": {
@@ -1058,6 +1072,76 @@
   "title" : "Writing Paragraphs",
   "type" : "topic",
   "url" : "\/documentation\/notes\/assertion#Writing-Paragraphs"
+},
+"doc://Notes/documentation/Notes/Continuous-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 350–500 words on one of four topics set",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Continuous Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/continuous-writing"
+},
+"doc://Notes/documentation/Notes/English": {
+  "abstract" : [
+    {
+      "text" : "The English language",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "English",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/english"
+},
+"doc://Notes/documentation/Notes/Paragraph-Writing": {
+  "abstract" : [
+    {
+      "text" : "Intro and conclusion",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Paragraph Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/paragraph-writing"
+},
+"doc://Notes/documentation/Notes/Reflective-Writing": {
+  "abstract" : [
+    {
+      "text" : "Reflective writing is a personal response to an experience, event, or situation.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reflective Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reflective-writing"
+},
+"doc://Notes/documentation/Notes/Situational-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 250–350 words on a given situation which will involve viewing a visual text",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Situational Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/situational-writing"
 }
 }
 }
