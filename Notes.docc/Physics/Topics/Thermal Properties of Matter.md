@@ -21,6 +21,10 @@ Internal energy consists of two components:
 <doc:Energy#Kinetic-Store> of the object (which is energy due to the object's motion).
 - Internal potential energy: Energy due to the forces between particles. Closer particles have higher
 potential energy.
+    - Note something interesting: Internal potential energy is actually always negative. This is because 
+    we treat the PE as 0 when the particles are infinitely far apart. Because you need to _add_ energy 
+    to move particles away from each other (ie, break intermolecular bonds), the starting potential energy
+    is actually negative.
 
 For example, consider two beakers.
 

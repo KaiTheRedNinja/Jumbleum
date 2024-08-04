@@ -31,7 +31,7 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
         "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
-        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
       ]
     }
   ]
@@ -62,19 +62,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
 },
-"doc://Notes/documentation/Notes/Exam-Questions": {
+"doc://Notes/documentation/Notes/Exam-Techniques": {
   "abstract" : [
     {
       "text" : "How to answer the questions",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Exam Questions",
+  "title" : "Exam Techniques",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/exam-questions"
+  "url" : "\/documentation\/notes\/exam-techniques"
 },
 "doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
   "abstract" : [

@@ -388,10 +388,13 @@
             {
               "content" : [
                 {
-                  "anchor" : "Precautions-if-asked-for-by-the-qn",
-                  "level" : 2,
-                  "text" : "Precautions (if asked for by the qn)",
-                  "type" : "heading"
+                  "inlineContent" : [
+                    {
+                      "text" : "Precautions (if asked for by the qn)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
                 }
               ]
             }

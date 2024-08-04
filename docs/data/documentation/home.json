@@ -134,6 +134,14 @@
         "doc:\/\/Notes\/documentation\/Notes\/English"
       ],
       "title" : "Languages"
+    },
+    {
+      "anchor" : "Articles",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Essay-Question"
+      ],
+      "title" : "Articles"
     }
   ]
 , 
@@ -233,6 +241,17 @@
   "title" : "English",
   "type" : "topic",
   "url" : "\/documentation\/notes\/english"
+},
+"doc://Notes/documentation/Notes/Essay-Question": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Essay-Question",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Essay Question",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/essay-question"
 },
 "doc://Notes/documentation/Notes/Geography": {
   "abstract" : [

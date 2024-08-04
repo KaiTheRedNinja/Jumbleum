@@ -328,6 +328,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "In Progress.png",
                 "path" : "\/documentation\/notes\/radioactivity",
                 "title" : "Radioactivity",
                 "type" : "article"
@@ -602,13 +603,15 @@
                     "type" : "groupMarker"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/inference",
                     "title" : "Inference",
                     "type" : "article"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/reliability-utility-and-surprise",
-                    "title" : "Reliability Utility and Surprise",
+                    "title" : "Reliability, Utility and Surprise",
                     "type" : "article"
                   },
                   {
@@ -617,13 +620,14 @@
                     "type" : "article"
                   },
                   {
+                    "icon" : "In Progress.png",
                     "path" : "\/documentation\/notes\/assertion",
                     "title" : "Assertion",
                     "type" : "article"
                   }
                 ],
-                "path" : "\/documentation\/notes\/exam-questions",
-                "title" : "Exam Questions",
+                "path" : "\/documentation\/notes\/exam-techniques",
+                "title" : "Exam Techniques",
                 "type" : "symbol"
               }
             ],
@@ -757,6 +761,15 @@
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/essay-question",
+            "title" : "Essay Question",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

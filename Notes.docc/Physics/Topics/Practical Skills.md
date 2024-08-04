@@ -36,7 +36,6 @@ MEASURABLE quantities (eg. no "use the same rubber band" as a control variable, 
 5. Unknown constant (if asked for by the qn)
     - Usually found in gradient or intercept
 6. Precautions (if asked for by the qn)
-    - 
 
 ## Experimental Errors
 See <doc:Physical-Quantities-Units-and-Measurement#Errors> for information on errors

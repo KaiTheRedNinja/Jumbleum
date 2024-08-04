@@ -10,7 +10,7 @@
       [
         "doc:\/\/Notes\/documentation\/Home",
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
-        "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions"
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
       ]
     ]
   },
@@ -20,9 +20,15 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Reliability Utility and Surprise"
+    "title" : "Reliability, Utility and Surprise"
   },
   "primaryContentSections" : [
     {
@@ -36,7 +42,19 @@
         {
           "inlineContent" : [
             {
-              "text" : "Reliability and utility questions are usually identically answered, so you’re likely to only get one of these in",
+              "code" : "Reliability",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "Utility",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " questions are usually identically answered, so you’re likely to only get one of these in",
               "type" : "text"
             },
             {
@@ -106,6 +124,43 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Similarities-between-Reliability-and-Utility",
+          "level" : 3,
+          "text" : "Similarities between Reliability and Utility",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Reliability == trustworthy, credible",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Utility == Useful",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "Reliability",
           "level" : 2,
           "text" : "Reliability",
@@ -114,7 +169,16 @@
         {
           "inlineContent" : [
             {
-              "text" : "Reliability is the basis for utility and surprise. It follows this format:",
+              "text" : "Reliability is the basis for utility.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In General:",
               "type" : "text"
             }
           ],
@@ -127,7 +191,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Cross reference (L4)",
+                      "text" : "reliable        → useful",
                       "type" : "text"
                     }
                   ],
@@ -140,20 +204,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Cross reference the other way (L5), OR",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Higher level analysis (L5)",
+                      "text" : "not reliable    → not useful",
                       "type" : "text"
                     }
                   ],
@@ -162,16 +213,105 @@
               ]
             }
           ],
-          "type" : "orderedList"
+          "type" : "unorderedList"
         },
         {
-          "inlineContent" : [
+          "anchor" : "Predicted-Marking-Scheme",
+          "level" : 3,
+          "text" : "(Predicted) Marking Scheme:",
+          "type" : "heading"
+        },
+        {
+          "items" : [
             {
-              "text" : "Cross reference:",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "L3 - just the source is analysed, ie. useful only because the author is talking",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "L4 - cross referenced to other sources → reliability, ∴ useful → utility",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "L5 - cross referenced to agree and disagree source",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "L6 - Higher Level Analysis (HLA) → purpose (hidden agenda), contenxt, tone, provenance, bias [not in any particular order]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "L7 - L4 + HLA",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "If you don’t trust yourself to do HLA, just do L5 if you have time.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Cross-reference",
+          "level" : 3,
+          "text" : "Cross reference:",
+          "type" : "heading"
         },
         {
           "items" : [
@@ -261,9 +401,81 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Highler-Level-Analysis-HLA",
+          "level" : 3,
+          "text" : "Highler Level Analysis (HLA):",
+          "type" : "heading"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "Highler level analysis:",
+              "text" : "Format:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "5A’s [required]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Impact → outcome",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Evidence\/Experience [required]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Context [required]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Example:",
               "type" : "text"
             }
           ],
@@ -343,6 +555,46 @@
           "type" : "unorderedList"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "For Purpose as HLA:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Provenance explained + supported",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Identity → Message → Purpose",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "Utility",
           "level" : 2,
           "text" : "Utility",
@@ -362,7 +614,20 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "“How useful is Source X as evidence for [question focus]? Explain your answer.”",
+                  "text" : "“How ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "useful",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " is Source X as evidence for [question focus]? Explain your answer.”",
                   "type" : "text"
                 }
               ],
@@ -376,7 +641,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "There are two parts for utility questions:",
+              "text" : "There are two parts for ",
+              "type" : "text"
+            },
+            {
+              "code" : "Utility",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " questions:",
               "type" : "text"
             }
           ],
@@ -825,10 +1098,75 @@
           "type" : "heading"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "items" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "context of source",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "identity of person",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "context affecting what the person is going to say",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                }
+              ],
+              "type" : "unorderedList"
+            }
+          ],
+          "name" : "Identifying Expectancy",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "Not surprised if:",
-              "type" : "text"
+              "inlineContent" : [
+                {
+                  "text" : "Not surprised if:",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
             }
           ],
           "type" : "paragraph"
@@ -883,8 +1221,13 @@
         {
           "inlineContent" : [
             {
-              "text" : "Surprised if:",
-              "type" : "text"
+              "inlineContent" : [
+                {
+                  "text" : "Surprised if:",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
             }
           ],
           "type" : "paragraph"
@@ -939,7 +1282,20 @@
         {
           "inlineContent" : [
             {
-              "text" : "There are two types of surprise question: One source and two source.",
+              "text" : "There are ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "two types of surprise question",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ": One source and two source.",
               "type" : "text"
             }
           ],
@@ -1003,13 +1359,48 @@
           "type" : "paragraph"
         },
         {
-          "code" : [
-            "1. State cross reference",
-            "2. Content (PEE) + Cross-reference (PEE) + Logic",
-            "3. Higher Analysis [Provenance, Purpose (Hidden Agenda), Bias, Context]"
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "State cross reference",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Content (PEE) + Cross-reference (PEE) + Logic",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Higher Analysis [Provenance, Purpose (Hidden Agenda), Bias, Context]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
           ],
-          "syntax" : null,
-          "type" : "codeListing"
+          "type" : "orderedList"
         },
         {
           "inlineContent" : [
@@ -1027,7 +1418,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "First use sources that you are ",
+                      "text" : "Use sources that you are ",
                       "type" : "text"
                     },
                     {
@@ -1038,6 +1429,10 @@
                         }
                       ],
                       "type" : "emphasis"
+                    },
+                    {
+                      "text" : ", if there is really nothing then go to not surprised by.",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -1190,6 +1585,305 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "According-to-Mr-Seah",
+          "level" : 2,
+          "text" : "According to Mr Seah",
+          "type" : "heading"
+        },
+        {
+          "alignments" : [
+            "left",
+            "unset",
+            "unset",
+            "center"
+          ],
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Paragraph",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Marks",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Para 1",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "+",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Para 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Para 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "+",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Para 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "+",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Para 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Stand 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Skill 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
         }
       ],
       "kind" : "content"
@@ -1217,6 +1911,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -1239,6 +1947,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Assertion",
@@ -1256,25 +1970,34 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/comparison"
 },
-"doc://Notes/documentation/Notes/Exam-Questions": {
+"doc://Notes/documentation/Notes/Exam-Techniques": {
   "abstract" : [
     {
       "text" : "How to answer the questions",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Questions",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Exam Questions",
+  "title" : "Exam Techniques",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/exam-questions"
+  "url" : "\/documentation\/notes\/exam-techniques"
 },
 "doc://Notes/documentation/Notes/Inference": {
   "abstract" : [
-
+    {
+      "text" : "The mother of all skills, you’re as good as dead without it",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Inference",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Inference",
