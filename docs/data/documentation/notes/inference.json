@@ -22,7 +22,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -151,7 +151,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "",
+                  "text" : "Main message has to answer both the Question and the Big Question to get a valid inference, else it may be a valid",
                   "type" : "text"
                 },
                 {
@@ -159,32 +159,7 @@
                   "type" : "text"
                 },
                 {
-                  "text" : "Point Evidence Explanation",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "Explanation supports Edicence, Evidence supports Point",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Back to the Basics kids",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "",
+                  "text" : "subpoint (not holistic) or an invalid point (completely wrong). If the BOC is wrong, everything else does not matter, even it the",
                   "type" : "text"
                 },
                 {
@@ -192,21 +167,21 @@
                   "type" : "text"
                 },
                 {
-                  "text" : "Main message has to answer both the Question and the Big Question to get a valid inference, else it may be a valid subpoint (not holistic) or an invalid point (completely wrong). If the BOC is wrong, everything else does not matter, even it the evidence and explanation are valid.",
+                  "text" : "evidence and explanation are valid.",
                   "type" : "text"
                 }
               ],
               "type" : "paragraph"
             }
           ],
-          "name" : "VERY IMPORTANT",
-          "style" : "note",
+          "name" : "Important",
+          "style" : "important",
           "type" : "aside"
         },
         {
-          "anchor" : "Message",
+          "anchor" : "Possible-sources",
           "level" : 2,
-          "text" : "Message",
+          "text" : "Possible sources",
           "type" : "heading"
         },
         {
@@ -265,9 +240,26 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Usually, the message of a source relates to the big question. When you come up with your message, try and link it so that it",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "answers the big question.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Use-the-EPIC-framework-to-Decompose-the-image",
-          "level" : 5,
-          "text" : "Use the EPIC framework to Decompose the image:",
+          "level" : 4,
+          "text" : "Use the EPIC framework to Decompose the image",
           "type" : "heading"
         },
         {
@@ -329,8 +321,8 @@
         },
         {
           "anchor" : "Cartooning-Techniques",
-          "level" : 5,
-          "text" : "Cartooning Techniques:",
+          "level" : 4,
+          "text" : "Cartooning Techniques",
           "type" : "heading"
         },
         {
@@ -378,9 +370,64 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Format-for-message-questions",
-          "level" : 5,
-          "text" : "Format for message questions:",
+          "anchor" : "Text-Based-Source",
+          "level" : 3,
+          "text" : "Text Based Source",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "SS papers tend to use ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Articles\/Reports\/Statements\/Speeches",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ", specifically ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "speeches",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ". Theres very little unique about text based",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sources.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Message",
+          "level" : 2,
+          "text" : "Message",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Format",
+          "level" : 4,
+          "text" : "Format",
           "type" : "heading"
         },
         {
@@ -399,7 +446,7 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : " The message of the source is that ",
+                      "text" : " “The message of the source is that ",
                       "type" : "text"
                     },
                     {
@@ -415,15 +462,78 @@
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : ", as ",
+                      "text" : ", as",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
                       "type" : "text"
                     },
                     {
                       "code" : "[parties involved\/relationship].",
                       "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "”",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Note that if the source is negative with regards to the big question, use NEGATIVE adjectives and relationships between the",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "parties. Do not compare them in isolation; compare the parties to each other directly.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The topic from the big question doesn’t need to be the big question verbatim. It just needs to target at least ONE of the",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "stakeholders or focuses in the big question (eg. in “How meritocratic is the SG education system today?”, you can target just",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "meritocracy without ties to the SG education system)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
                 }
               ]
             },
@@ -441,12 +551,16 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : " From the Source ",
+                      "text" : " “The source states ",
                       "type" : "text"
                     },
                     {
                       "code" : "[evidence from source]",
                       "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "”",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -467,12 +581,16 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : " This is because ",
+                      "text" : " “This shows that ",
                       "type" : "text"
                     },
                     {
                       "code" : "[explanation, this has to support the evidence]",
                       "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "”",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -538,9 +656,39 @@
           "type" : "aside"
         },
         {
-          "anchor" : "Inference-Why-Purpose",
+          "inlineContent" : [
+            {
+              "text" : "We use PEEL so that we ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "force",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " ourselves to choose evidence to support our point, which reduces the meandering that can happen when",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "we don’t have a clear point.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Purpose",
           "level" : 2,
-          "text" : "Inference, Why (Purpose)",
+          "text" : "Purpose",
           "type" : "heading"
         },
         {
@@ -598,8 +746,8 @@
         },
         {
           "anchor" : "Format",
-          "level" : 4,
-          "text" : "Format:",
+          "level" : 3,
+          "text" : "Format",
           "type" : "heading"
         },
         {
@@ -618,11 +766,94 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "5A’s → Author, Aim, Action word, Audience, Anticipated outcome",
+                      "text" : "Point",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "5A’s → Author, “Aim”, Action word, Audience, Anticipated outcome",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "To get L4\/5-6:",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Anticipated outcome: Change in mindset",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Anticipated outcome: Change in behaviour",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Anticipated outcome: Something related to context that the change in behaviour would result in. Usually,",
+                                      "type" : "text"
+                                    },
+                                    {
+                                      "text" : " ",
+                                      "type" : "text"
+                                    },
+                                    {
+                                      "text" : "this is linked back to the big question.",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
                 }
               ]
             },
@@ -667,105 +898,6 @@
             }
           ],
           "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "To get L4\/5-6:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "L3",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Outcome → what the author wants to achieve",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Context → what is happening in the world that causes the author to have this purpose",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "*I’m not actually sure if thats the mark allocation",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Text-Based-Source",
-          "level" : 3,
-          "text" : "Text Based Source",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "SS papers tend to use ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "Articles\/Reports\/Statements\/Speeches",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
-            },
-            {
-              "text" : ", specifically ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "speeches",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            }
-          ],
-          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -793,6 +925,20 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "In Progress.png": {
   "alt" : "In Progress",
   "identifier" : "In Progress.png",
