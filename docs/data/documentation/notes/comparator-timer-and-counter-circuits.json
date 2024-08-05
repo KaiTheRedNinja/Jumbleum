@@ -239,6 +239,19 @@
                       "type" : "strong"
                     },
                     {
+                      "text" : " aka ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "noninverting input",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
                       "text" : " (pin 2): Reference voltage, the voltage to compare against",
                       "type" : "text"
                     }
@@ -294,6 +307,19 @@
                       "inlineContent" : [
                         {
                           "text" : "V-",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " aka ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "inverting input",
                           "type" : "text"
                         }
                       ],
@@ -364,20 +390,35 @@
           "type" : "paragraph"
         },
         {
-          "inlineContent" : [
+          "items" : [
             {
-              "text" : "When Vin+ is greater than Vin-, the output is high. When Vin- is greater than Vin+, the output is low. Mathematically,",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If Vin+ > Vin-, the output is high",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If Vin- > Vin+, the output is low",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "V_{out} = Vin+ > Vin-"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
+          "type" : "unorderedList"
         },
         {
           "inlineContent" : [
@@ -404,6 +445,37 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Comparators are mainly used to generate digital signals based on analog signals. For example, you can use a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "thermistor to vary the voltage at V2, and a potentiometer to vary the voltage at V1. When the temperature",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "crosses a certain threshold, the output becomes high.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Open-Collector-Output",
+          "level" : 3,
+          "text" : "Open Collector Output",
+          "type" : "heading"
         },
         {
           "inlineContent" : [
@@ -463,6 +535,37 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "“High”: Open circuit",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "“Low”: Connects to ground",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "inlineContent" : [
@@ -1185,6 +1288,15 @@
         {
           "inlineContent" : [
             {
+              "identifier" : "Graph_Astable_Timer",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Repeats forever.",
               "type" : "text"
             }
@@ -1206,6 +1318,23 @@
           ],
           "syntax" : "math",
           "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "R1 must be nonzero to avoid shorting the discharge pin to 5V. R2 must be nonzero to avoid shorting the capacitor to ground",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "from the discharge pin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -1466,6 +1595,23 @@
         {
           "inlineContent" : [
             {
+              "text" : "You can also just connect an AND gate to trigger the reset when the counter reaches 10. The actual output value will turn",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to 10, be reset immediately, and then go to 0. Any connected LCD won’t show “10” ever.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Note that the CLK inputs activate on falling edge. If you want to count to 99 instead of 9, you can use BCD (basically",
               "type" : "text"
             },
@@ -1474,7 +1620,50 @@
               "type" : "text"
             },
             {
-              "text" : "using a binary number for each digit instead of the number as a whole), and connect 1QD to 2CKA.",
+              "text" : "using a binary number for each digit instead of the number as a whole), and connect 1QD to 2CKA. When the first counter goes",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "from 9 to 0, 1QD goes from 1 to 0, triggers a falling edge on 2CKA the second counter increments by 1.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics#7-Segment-Decoder",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes#7-Segment-Display",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "details on how counter values are decoded from BCD to 7-segment, and displayed on a 7-segment display.",
               "type" : "text"
             }
           ],
@@ -1588,6 +1777,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Example_Counter.jpg"
+    }
+  ]
+},
+"Graph_Astable_Timer": {
+  "alt" : "Astable Timer Waveform",
+  "identifier" : "Graph_Astable_Timer",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Astable_Timer.jpg"
     }
   ]
 },
@@ -1735,6 +1938,26 @@
   "title" : "Introduction to Digital Electronics",
   "type" : "topic",
   "url" : "\/documentation\/notes\/introduction-to-digital-electronics"
+},
+"doc://Notes/documentation/Notes/Introduction-to-Digital-Electronics#7-Segment-Decoder": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics#7-Segment-Decoder",
+  "kind" : "section",
+  "title" : "7 Segment Decoder",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/introduction-to-digital-electronics#7-Segment-Decoder"
+},
+"doc://Notes/documentation/Notes/Semiconductor-Diodes#7-Segment-Display": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes#7-Segment-Display",
+  "kind" : "section",
+  "title" : "7-Segment Display",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/semiconductor-diodes#7-Segment-Display"
 },
 "doc://Notes/documentation/Notes/Set-Reset-Memory-Latches": {
   "abstract" : [

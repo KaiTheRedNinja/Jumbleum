@@ -27,25 +27,32 @@ Compares two voltages and outputs a digital signal based on the comparison
 The comparator has five pins:
 - **Power** (pin 8): 5 Volts, for example
 - **Ground** (pin 1 and 4): 0 Volts. May also be negative sometimes? But not usually.
-- **V1** aka **Vref** aka **Vin+** aka **V+** (pin 2): Reference voltage, the voltage to compare against
-- **V2** aka **Vin** aka **Vin-** aka **V-** (pin 3): Input voltage, the voltage to compare
+- **V1** aka **Vref** aka **Vin+** aka **V+** aka **noninverting input** (pin 2): Reference voltage, the voltage to compare against
+- **V2** aka **Vin** aka **Vin-** aka **V-** aka **inverting input** (pin 3): Input voltage, the voltage to compare
 - **Output** aka **Vout** (pin 7): Digital output, high or low. High if V2 > V1, low otherwise.
 
 Note that there are two other pins 5 and 6. Just connect them together and forget about it, because its out of
 syllabus.
 
-When Vin+ is greater than Vin-, the output is high. When Vin- is greater than Vin+, the output is low. Mathematically,
-```math
-V_{out} = Vin+ > Vin-
-```
+- If Vin+ > Vin-, the output is high
+- If Vin- > Vin+, the output is low
 
 Use a voltage divider (see <doc:Circuit-Theories>) for Vref to fix it at a certain voltage. Usually, you only
 need to vary V2, by connecting it to a potentiometer or thermistor some other variable voltage source.
+
+Comparators are mainly used to generate digital signals based on analog signals. For example, you can use a
+thermistor to vary the voltage at V2, and a potentiometer to vary the voltage at V1. When the temperature
+crosses a certain threshold, the output becomes high.
+
+### Open Collector Output
 
 Note that voltage comparators operate on **open collector**, meaning that the output can't be considered simply
 "high" or "low". When it is "low", it acts as normal and connects to ground. However, when it is "high", it
 disconnects from the circuit entirely. You need to **connect a pull-up resistor** to the output to ensure that it
 is "high" when the comparator is not outputting a signal.
+
+- "High": Open circuit
+- "Low": Connects to ground
 
 In the arrangement as seen in the image, if you imagine an LED at R, an OFF (0V) would turn it on, and an ON (floating)
 would turn it off, because the Vout acts as ground for the LED. If you need the opposite behaviour, use a transistor
@@ -122,12 +129,17 @@ related to the resistance and capacitance.
 5. The capacitor is discharged to 1/3 Vcc. It is detected by pin 6 (threshold).
 6. Output pin goes high
 
+@Image(source: "Graph_Astable_Timer", alt: "Astable Timer Waveform")
+
 Repeats forever.
 
 Note that it is mathematically impossible to achieve a < 50% duty cycle with the 555 timer. The duty cycle is given by the formula:
 ```math
 D = \frac{R_2}{R_1 + 2R_2}
 ```
+
+R1 must be nonzero to avoid shorting the discharge pin to 5V. R2 must be nonzero to avoid shorting the capacitor to ground 
+from the discharge pin.
 
 When drawing the waveform, make sure to draw AT LEAST TWO CYCLES. You only need to label `T_on` and `T` once.
 
@@ -147,5 +159,12 @@ The counter has 16 pins:
 Note special exception for pin 4 and 12 (`1CKB` and `2CKB`): These enable decade mode, and you connect them to `QA` of the 
 relevant  counter if you want it to go to 0 (aka 0000b) right after 9 (aka 1001b) instead of going to 10 (aka 1010b or 0xA).
 
+You can also just connect an AND gate to trigger the reset when the counter reaches 10. The actual output value will turn 
+to 10, be reset immediately, and then go to 0. Any connected LCD won't show "10" ever.
+
 Note that the CLK inputs activate on falling edge. If you want to count to 99 instead of 9, you can use BCD (basically
-using a binary number for each digit instead of the number as a whole), and connect 1QD to 2CKA.
+using a binary number for each digit instead of the number as a whole), and connect 1QD to 2CKA. When the first counter goes
+from 9 to 0, 1QD goes from 1 to 0, triggers a falling edge on 2CKA the second counter increments by 1.
+
+See <doc:Introduction-to-Digital-Electronics#7-Segment-Decoder> and <doc:Semiconductor-Diodes#7-Segment-Display> for more 
+details on how counter values are decoded from BCD to 7-segment, and displayed on a 7-segment display.
