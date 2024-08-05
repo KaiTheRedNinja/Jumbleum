@@ -1,4 +1,7 @@
 # Expository Writing
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
 
 Argumentative, basically
 

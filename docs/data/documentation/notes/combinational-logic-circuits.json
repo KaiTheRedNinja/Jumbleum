@@ -471,7 +471,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
@@ -494,7 +493,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -508,7 +507,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Boolean%20Algebra%20Laws.jpg"
+      "url" : "\/images\/Diagram_Boolean%20Algebra%20Laws.jpg"
     }
   ]
 },
@@ -522,7 +521,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_KMap%20Groupings.jpg"
+      "url" : "\/images\/Diagram_KMap%20Groupings.jpg"
     }
   ]
 },
@@ -536,7 +535,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Logic%20Gate%20Intermediates.jpg"
+      "url" : "\/images\/Diagram_Logic%20Gate%20Intermediates.jpg"
     }
   ]
 },

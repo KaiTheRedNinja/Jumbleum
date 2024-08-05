@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Paragraph Writing"
@@ -664,7 +670,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Paper-1-Essay",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
@@ -677,6 +682,20 @@
   ]
 , 
 "references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -699,6 +718,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Continuous Writing",
@@ -727,6 +752,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Expository Writing",
@@ -741,6 +772,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Reflective Writing",
@@ -755,6 +792,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Situational Writing",

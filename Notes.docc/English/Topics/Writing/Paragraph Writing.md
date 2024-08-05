@@ -1,4 +1,7 @@
 # Paragraph Writing
+@Metadata {
+    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+}
 
 Intro and conclusion
 
