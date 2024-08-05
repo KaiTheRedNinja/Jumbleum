@@ -133,6 +133,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits"
       ],
       "title" : "Digital Electronics"
+    },
+    {
+      "anchor" : "Design-Process",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Engineering-Design-Process"
+      ],
+      "title" : "Design Process"
     }
   ]
 , 
@@ -386,6 +393,26 @@
   "title" : "Electronic Systems",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electronic-systems"
+},
+"doc://Notes/documentation/Notes/Engineering-Design-Process": {
+  "abstract" : [
+    {
+      "text" : "Basically planning",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Engineering-Design-Process",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Engineering Design Process",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/engineering-design-process"
 },
 "doc://Notes/documentation/Notes/Input-and-output-transducers": {
   "abstract" : [

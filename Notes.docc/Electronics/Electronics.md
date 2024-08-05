@@ -41,3 +41,6 @@ Circuit-Theories is under electronics, however most of the topics are covered in
 - <doc:Combinational-Logic-Circuits>
 - <doc:Set-Reset-Memory-Latches>
 - <doc:Comparator-timer-and-counter-circuits>
+
+### Design Process
+- <doc:Engineering-Design-Process>
