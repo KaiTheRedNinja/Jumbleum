@@ -366,6 +366,22 @@
         {
           "inlineContent" : [
             {
+              "text" : "When Vin+ is greater than Vin-, the output is high. When Vin- is greater than Vin+, the output is low. Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "V_{out} = Vin+ > Vin-"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Use a voltage divider (see ",
               "type" : "text"
             },

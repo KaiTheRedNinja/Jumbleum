@@ -34,6 +34,11 @@ The comparator has five pins:
 Note that there are two other pins 5 and 6. Just connect them together and forget about it, because its out of
 syllabus.
 
+When Vin+ is greater than Vin-, the output is high. When Vin- is greater than Vin+, the output is low. Mathematically,
+```math
+V_{out} = Vin+ > Vin-
+```
+
 Use a voltage divider (see <doc:Circuit-Theories>) for Vref to fix it at a certain voltage. Usually, you only
 need to vary V2, by connecting it to a potentiometer or thermistor some other variable voltage source.
 
