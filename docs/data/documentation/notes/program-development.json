@@ -1252,6 +1252,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Abstraction-and-Algorithms",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
@@ -1272,7 +1273,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

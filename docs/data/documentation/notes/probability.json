@@ -97,7 +97,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "when an outcome is equally likely to occur as any other outcome.",
+                  "text" : "When an outcome is equally likely to occur as any other outcome.",
                   "type" : "text"
                 }
               ],
@@ -113,7 +113,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "whent he probability of an event happening is not equally likely.",
+                  "text" : "Whent he probability of an event happening is not equally likely.",
                   "type" : "text"
                 }
               ],
@@ -394,6 +394,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Statistics-and-Probability",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-handling-and-analysis"
@@ -413,7 +414,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

@@ -27,6 +27,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "V-Electricity-and-Magnetism",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
@@ -51,7 +52,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

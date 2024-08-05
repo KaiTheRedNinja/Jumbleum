@@ -895,6 +895,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -915,7 +916,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -929,7 +930,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Example_BJT.jpg"
+      "url" : "\/images\/Notes\/Example_BJT.jpg"
     }
   ]
 },
@@ -943,7 +944,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_BJT_VCE_IC.jpg"
+      "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
     }
   ]
 },
@@ -957,7 +958,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

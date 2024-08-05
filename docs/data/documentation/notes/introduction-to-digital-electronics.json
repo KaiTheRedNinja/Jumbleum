@@ -529,6 +529,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
@@ -551,7 +552,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -565,7 +566,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Pull%20Down.jpg"
+      "url" : "\/images\/Notes\/Diagram_Pull%20Down.jpg"
     }
   ]
 },
@@ -579,7 +580,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Pull%20Up.jpg"
+      "url" : "\/images\/Notes\/Diagram_Pull%20Up.jpg"
     }
   ]
 },

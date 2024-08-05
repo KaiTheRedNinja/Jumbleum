@@ -205,6 +205,123 @@
           "type" : "orderedList"
         },
         {
+          "anchor" : "Radioactive-Decay",
+          "level" : 2,
+          "text" : "Radioactive Decay",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The decay of the Isotope cannot be predicted as to which particular nucleus will decay next.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Random Decay",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The decay is not affected by environmental changes (e.g temperature and pressure).",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Spontaneous Decay",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Radioactive Decay can come in many forms, the equations below are just examples. They can be applied to any other scenrio too.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Alpha-Decay",
+          "level" : 3,
+          "text" : "Alpha Decay",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "^A_ZX \\rightarrow ^{A-4}_{Z-2}Y + ^4_2He"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Beta-Decay",
+          "level" : 3,
+          "text" : "Beta Decay",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "^A_ZX \\rightarrow ^A_{Z+1}Y + \\beta^- + \\bar{\\nu_e}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Gamma-Decay",
+          "level" : 3,
+          "text" : "Gamma Decay",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "^A_ZX \\rightarrow ^A_ZX + \\gamma"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "In general, the equations are usually given, all you have to do is calculate.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "It’sjust conservation of mass for the Mass numbers, and conservation of charges for the proton numbers.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Radioactive-Emissions",
+          "level" : 2,
+          "text" : "Radioactive Emissions",
+          "type" : "heading"
+        },
+        {
           "alignments" : [
             "left",
             "left",
@@ -452,117 +569,6 @@
           "type" : "codeListing"
         },
         {
-          "anchor" : "Radioactive-Decay",
-          "level" : 2,
-          "text" : "Radioactive Decay",
-          "type" : "heading"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Random Decay",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Spontaneous Decay",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Radioactive Decay can come in many forms, the equations below are just examples. They can be applied to any other scenrio too.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Alpha-Decay",
-          "level" : 3,
-          "text" : "Alpha Decay",
-          "type" : "heading"
-        },
-        {
-          "code" : [
-            "^A_ZX \\rightarrow ^{A-4}_{Z-2}Y + ^4_2He"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "anchor" : "Beta-Decay",
-          "level" : 3,
-          "text" : "Beta Decay",
-          "type" : "heading"
-        },
-        {
-          "code" : [
-            "^A_ZX \\rightarrow ^A_{Z+1}Y + \\beta^- + \\bar{\\nu_e}"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "anchor" : "Gamma-Decay",
-          "level" : 3,
-          "text" : "Gamma Decay",
-          "type" : "heading"
-        },
-        {
-          "code" : [
-            "^A_ZX \\rightarrow ^A_ZX + \\gamma"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "In general, the equations are usually given, all you have to do is calculate.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "It’sjust conservation of mass for the Mass numbers, and conservation of charges for the proton numbers.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Note",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
           "anchor" : "Background-Radiation",
           "level" : 2,
           "text" : "Background Radiation",
@@ -730,7 +736,33 @@
               "type" : "text"
             },
             {
-              "text" : "This is a random and spontaneous process.",
+              "text" : "This is a ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "random",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "spontaneous",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " process.",
               "type" : "text"
             }
           ],
@@ -749,12 +781,83 @@
                 {
                   "text" : "",
                   "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "During nuclear fission, energy is transferred from the nuclear store of the unstable nucleus to:",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "items" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "the kinetic and nuclear stores of the daughter nuclei and neutrons",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "the internal store of the surroundings",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                }
+              ],
+              "type" : "unorderedList"
+            }
+          ],
+          "name" : "Principal Energy Transfer",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "A process in which a parent nucleus splits (usually into two daughter nuclei) and releases a huge amount of energy.",
+                  "type" : "text"
                 }
               ],
               "type" : "paragraph"
             }
           ],
-          "name" : "Principal Energy Transfer",
+          "name" : "Nuclear Fission",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "A process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Nuclear Fusion",
           "style" : "note",
           "type" : "aside"
         }

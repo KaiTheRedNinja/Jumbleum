@@ -1061,6 +1061,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
@@ -1083,7 +1084,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1097,7 +1098,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_CG_A.jpg"
+      "url" : "\/images\/Notes\/Diagram_CG_A.jpg"
     }
   ]
 },
@@ -1111,7 +1112,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_CG_B.jpg"
+      "url" : "\/images\/Notes\/Diagram_CG_B.jpg"
     }
   ]
 },
@@ -1125,7 +1126,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_CG_C.jpg"
+      "url" : "\/images\/Notes\/Diagram_CG_C.jpg"
     }
   ]
 },
@@ -1139,7 +1140,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Perpendicular%20Distance.jpg"
+      "url" : "\/images\/Notes\/Diagram_Perpendicular%20Distance.jpg"
     }
   ]
 },
@@ -1153,7 +1154,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Stability.jpg"
+      "url" : "\/images\/Notes\/Diagram_Stability.jpg"
     }
   ]
 },
@@ -1167,7 +1168,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Example_CG.jpg"
+      "url" : "\/images\/Notes\/Example_CG.jpg"
     }
   ]
 },

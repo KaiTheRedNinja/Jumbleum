@@ -87,6 +87,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computing"
@@ -96,12 +97,14 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Systems",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Electronic-Systems"
       ],
       "title" : "Systems"
     },
     {
+      "anchor" : "Fundamentals-of-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Resistors",
@@ -112,6 +115,7 @@
       "title" : "Fundamentals of Electronics"
     },
     {
+      "anchor" : "Analogue-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
         "doc:\/\/Notes\/documentation\/Notes\/Input-and-output-transducers",
@@ -120,6 +124,7 @@
       "title" : "Analogue Electronics"
     },
     {
+      "anchor" : "Digital-Electronics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
         "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
@@ -149,7 +154,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -163,7 +168,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

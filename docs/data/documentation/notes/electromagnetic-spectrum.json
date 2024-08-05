@@ -844,6 +844,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "IV-Waves",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
@@ -864,21 +865,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
