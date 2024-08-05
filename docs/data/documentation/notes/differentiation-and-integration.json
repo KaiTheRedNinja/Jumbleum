@@ -586,6 +586,38 @@
           "type" : "orderedList"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Say that you have an equation in these terms:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{dV}{dh} = g(x)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can “flip” it by just taking the reciprocal of the function, like:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{dh}{dV} = \\frac{1}{g(x)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
           "anchor" : "Stationary-points",
           "level" : 4,
           "text" : "Stationary points",
@@ -769,6 +801,74 @@
             }
           ],
           "type" : "orderedList"
+        },
+        {
+          "anchor" : "Increasing-and-decreasing-functions",
+          "level" : 4,
+          "text" : "Increasing and decreasing functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In the case where the first derivative is a quadratic, follow these steps:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Prove that f’(x) has no roots",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "State that “Since the coefficient of x^2 is [positive or negative], f(x) is always [positive or negative]”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "State that since the derivative is [positive or negative], the function is [increasing or decreasing]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Basically use the conditions to prove COMPLETELY that the function is increasing or decreasing.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Integration",

@@ -116,6 +116,16 @@ NOT
 ```
 5. Solve the equation to obtain the rate of change you want, dr/dt
 
+Say that you have an equation in these terms:
+```math
+\frac{dV}{dh} = g(x)
+```
+
+You can "flip" it by just taking the reciprocal of the function, like:
+```math
+\frac{dh}{dV} = \frac{1}{g(x)}
+```
+
 #### Stationary points
 1. Find the first derivative of the function
 2. Find the stationary points by setting the first derivative to 0 and solving for x
@@ -130,6 +140,15 @@ NOT
         - -ve to +ve: Local Minimum
         - +ve to -ve: Local Maximum
         - +ve to +ve or -ve to -ve: Point of inflection
+
+#### Increasing and decreasing functions
+
+In the case where the first derivative is a quadratic, follow these steps:
+1. Prove that f'(x) has no roots
+2. State that "Since the coefficient of x^2 is [positive or negative], f(x) is always [positive or negative]"
+3. State that since the derivative is [positive or negative], the function is [increasing or decreasing]
+
+Basically use the conditions to prove COMPLETELY that the function is increasing or decreasing.
 
 ## Integration
 
