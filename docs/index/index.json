@@ -288,6 +288,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/static-electricity",
                 "title" : "Static Electricity",
                 "type" : "article"

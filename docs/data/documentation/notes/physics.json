@@ -505,9 +505,18 @@
 },
 "doc://Notes/documentation/Notes/Static-Electricity": {
   "abstract" : [
-
+    {
+      "text" : "The thing that happens when you get a shock from a doorknob",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Static Electricity",
