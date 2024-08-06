@@ -1904,7 +1904,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Comparison",
-        "doc:\/\/Notes\/documentation\/Notes\/Assertion"
+        "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+        "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question"
       ],
       "title" : "Source Based Question"
     }
@@ -2031,6 +2032,17 @@
   "title" : "Social Studies",
   "type" : "topic",
   "url" : "\/documentation\/notes\/social-studies"
+},
+"doc://Notes/documentation/Notes/Standard-Response-Question": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Standard Response Question",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/standard-response-question"
 }
 }
 }

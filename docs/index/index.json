@@ -638,6 +638,11 @@
                     "path" : "\/documentation\/notes\/assertion",
                     "title" : "Assertion",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/standard-response-question",
+                    "title" : "Standard Response Question",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/exam-techniques",

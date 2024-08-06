@@ -108,7 +108,10 @@
 },
 "doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
   "abstract" : [
-
+    {
+      "text" : "America never stopped being a colonial power",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
   "kind" : "article",
@@ -133,7 +136,10 @@
 },
 "doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
   "abstract" : [
-
+    {
+      "text" : "The role of citizens and government in society",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
   "kind" : "article",
@@ -158,7 +164,10 @@
 },
 "doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
   "abstract" : [
-
+    {
+      "text" : "Diversity 🏳️‍🌈💅📈",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
   "kind" : "article",

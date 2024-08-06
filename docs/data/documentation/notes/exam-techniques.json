@@ -488,12 +488,6 @@
             }
           ],
           "type" : "unorderedList"
-        },
-        {
-          "anchor" : "Standard-Response-Question",
-          "level" : 2,
-          "text" : "Standard Response Question",
-          "type" : "heading"
         }
       ],
       "kind" : "content"
@@ -524,7 +518,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
         "doc:\/\/Notes\/documentation\/Notes\/Comparison",
-        "doc:\/\/Notes\/documentation\/Notes\/Assertion"
+        "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+        "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question"
       ],
       "title" : "Source Based Question"
     }
@@ -595,7 +590,10 @@
 },
 "doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
   "abstract" : [
-
+    {
+      "text" : "America never stopped being a colonial power",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
   "kind" : "article",
@@ -617,7 +615,10 @@
 },
 "doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
   "abstract" : [
-
+    {
+      "text" : "The role of citizens and government in society",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
   "kind" : "article",
@@ -648,7 +649,10 @@
 },
 "doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
   "abstract" : [
-
+    {
+      "text" : "Diversity 🏳️‍🌈💅📈",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
   "kind" : "article",
@@ -690,6 +694,17 @@
   "title" : "Social Studies",
   "type" : "topic",
   "url" : "\/documentation\/notes\/social-studies"
+},
+"doc://Notes/documentation/Notes/Standard-Response-Question": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Standard Response Question",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/standard-response-question"
 }
 }
 }

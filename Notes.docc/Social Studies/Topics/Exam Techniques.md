@@ -40,8 +40,6 @@ See the following for more details:
 - <doc:Comparison>
 - <doc:Assertion>
 
-## Standard Response Question
-
 ## Topics
 
 ### Source Based Question
@@ -49,3 +47,4 @@ See the following for more details:
 - <doc:Reliability-Utility-and-Surprise>
 - <doc:Comparison>
 - <doc:Assertion>
+- <doc:Standard-Response-Question>
