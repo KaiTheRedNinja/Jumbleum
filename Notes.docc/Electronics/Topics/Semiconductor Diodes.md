@@ -37,6 +37,9 @@ The potential difference across a silicon diode is 0.7V, and 0.3V for a germaniu
 connected to the P-type end, while the cathode (negative) is connected to the N-type end. Current can only flow
 from the anode (+) to the cathode (-).
 
+- N -> Negative -> Cathode (cats are negative)
+- P -> Positive -> Anode (odes are positive)
+
 Usually, there is a white band on the cathode indicating the direction of current flow.
 
 ## Bias
@@ -76,6 +79,12 @@ Shown on the left on the image above.
     a large amount of current to flow.
 
 ALWAYS attach a resistor in series with a diode to limit the current. This is called a current limiting resistor.
+
+| Model | Knee voltage (V_k) | Breakdown voltage (V_br) |
+|-------|--------------------|-------------------------|
+| Ideal | 0V               | Infinite                |
+| Simplified | 0.7V          | Infinite                |
+| Practical | 0.7V           | 5-10V                   |
 
 ## Rectifier
 
@@ -190,3 +199,21 @@ current/voltage/resistance in a circuit with a zener diode,
 
 Zener diodes can be used in full wave rectifiers to "chop off" the uneven top of the signal, resulting in a nice DC
 signal. This is called voltage regulation.
+
+When the voltage across the load is less than V_z, the zener diode is in reverse bias and no current flows, and the
+voltage is NOT regulated.
+
+```math
+V_{regulated} = \begin{cases} V_z \quad & V_{load} \geq V_z \\ V_{load} \quad & V_{load} < V_z \end{cases}
+```
+
+## Flyback Diode
+
+Flyback diodes are used to protect circuits from voltage spikes. When a coil is de-energised, the magnetic field
+collapses and induces a voltage spike in the opposite direction. The flyback diode allows this voltage to flow
+back into the coil, instead of the power supply, preventing damage to the circuit.
+
+## Photodiode
+
+Photodiodes act like normal diodes in forward bias. However, in reverse bias, it allows current to flow when infrared
+light is shone on it, unlike normal diodes.
