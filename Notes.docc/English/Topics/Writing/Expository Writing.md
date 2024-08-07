@@ -3,7 +3,7 @@
     @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
 }
 
-Argumentative... but there's a correct opinion
+Argumentative, basically
 
 ## Overview
 

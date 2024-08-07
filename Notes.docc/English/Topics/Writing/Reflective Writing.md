@@ -3,10 +3,6 @@
     @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
 }
 
-<!-- @Metadata {
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
-} -->
-
 Reflective writing is a personal response to an experience, event, or situation.
 
 ## Overview
@@ -17,7 +13,7 @@ Reflective writing requires the following components:
 - Analysis (how you felt)
 - Moving on (what it means for the future)
 
-It makes use of four parts (4R's thinking tool):
+It makes use of four parts:
 1. Recollecting: What the experience was
 2. Reliving: How you felt about the experience
 3. Reveal: Attitudes/beliefs about the experience 
@@ -30,7 +26,7 @@ Description:
 2. What happened
 3. Five Ws (who, what, when, where, why) to engage audience
 
-**WHY** write vividly (yet concisely)?
+WHY write vividly?
 1. To help the reader imagine the sights, sounds, smells and texture of a scene
 2. To focus the reader's attention on a particular aspect of the scene
 3. To communicate background information
@@ -50,10 +46,11 @@ Think about these questions:
 
 To describe a scene, you can introduce senses and emotions.
 1. The first step to vividly describing a place, person, or thing is to imagine it in your mind's eye.
-2. Form a "simple impression" of the colors, textures, shapes, feeling, of whatever it is. You may want to use your 5 senses for this.
+2. Form a "simple impression" of the colors, textures, shapes, feeling, of whatever it is. You may want to use your 5 
+senses for this.
 3. Search until you have the right words to convey your emotions/ thoughts, i.e. specific/ concrete details.
 4. Be concise in your use of vocabulary. Be prepared to delete words that are not immediately relevant to your 
-description.Flashes of brightness, the smell of burning paper, and the explosions above my head sent ashes wafting down. Every year, my family makes the 350-kilometer journey from Singapore to Kuala Lumpur to visit my paternal relatives. I have little more in common with them as I do a puddle along the roadside, considering that the Chinese New Year only occurs once a year. This tradition of making the long journey north has existed ever since I could remember. 
+description.
 
 ## Analysis
 
@@ -97,11 +94,3 @@ was sugared with a tinge of friendliness.
 5. Conclusion (you can change back to the wide-angle lens and look over the same scene/aspect mentioned earlier in Para 
 1), describe what is different/what has changed/what you have learned
 
-> in hybrid writing, reflective writing is often combined with descriptive writing.
-
-@Image(source: "Example_EL_Hybrid_Essay", alt: "Descriptive-Reflective vs Reflective-Narrative Essays")
-
-<!-- 2022 Prelim Question answer: Klifton -->
-<!-- Flashes of brightness, the smell of burning paper, and the explosions above my head sent ashes wafting down. Every year, my family makes the 350-kilometer journey from Singapore to Kuala Lumpur to visit my paternal relatives. I have little more in common with them as I do a puddle along the roadside, considering that the Chinese New Year only occurs once a year. This tradition of making the long journey north has existed ever since I could remember.  -->
-
-<!-- Interaction. Interactions build trust. Interactions build connections. Traditions like Chinese New Year are the cornerstone of my relationships with my extended family. Although attending such an event is time-consuming, I do not regret any moment of it as I would not get to know so many of them. The thought of a parallel reality where I would unknowingly pass them on the street is just too bleak.  -->

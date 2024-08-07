@@ -14,9 +14,6 @@ you a MINIMUM of 7 marks (still 8 marks total).
 
 A bonus analysis is worth +1 or +2 marks.
 
-> Assertion is prediction, you need to have *Different & Diverse perspectives*
-> Assertion has a broader scope
-
 ## Format
 
 Format: "'[some statement]'. Using the sources in this case study, explain how far you would agree with the statement"
@@ -47,7 +44,7 @@ This means that even if you don't have time to finish the last few paragraphs, y
 
 ## Writing Paragraphs
 
-**BSA:**
+Use BSA
 - Because (reason from source)
 - So (immediate impact)
 - As a result, (greater outcome at a larger scale)
@@ -66,10 +63,6 @@ Putra lives in a three-room flat with his ailing grandmother. He receives full f
     socio-economically diverse.
 
 > Note: From "SO" onwards, the information cited MUST NOT be from the source, but rather an inference from the source.
-
-> Important: The last **E** is `Extension`, **NOT** `Explanation` 
-> 
-> History Students please take note. 
 
 For example, compare the following essays:
 
@@ -105,11 +98,6 @@ For example, compare the following essays:
 
 The second one actually uses BSA properly, and goes out of the source. The "because" talks about individuals, "so" goes
 on to talk about community, and "as a result" talks about the nation.
-
-> Note: 
-> 1. When doing assertion, cover up your evidence, and then make your own extension. This is so that you don't PARAPHRASE but rather give a NEW PERSPECTIVE. 
-> 2. Avoid keywords from the evidence in your extension.
-> 3. Bring in your own POV* (this one is a bit harder so you can skip it if you don't know how to do it)
 
 ## Bonus Task
 
