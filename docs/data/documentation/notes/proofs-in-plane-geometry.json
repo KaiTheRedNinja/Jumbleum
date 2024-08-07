@@ -1,0 +1,114 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Proofs in plane geometry"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
+        "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions"
+      ],
+      "title" : "Geometry and Trigonometry"
+    }
+  ]
+, 
+"references": {
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/In%20Progress.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Strong algebraic manipulation and mathematical reasoning skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Coordinate-geometry-in-two-dimensions": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Coordinate geometry in two dimensions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/coordinate-geometry-in-two-dimensions"
+},
+"doc://Notes/documentation/Notes/Trig-functions-identities-and-equations": {
+  "abstract" : [
+    {
+      "text" : "Manipulating curves in ways that are unholy",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trig functions identities and equations",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/trig-functions-identities-and-equations"
+}
+}
+}
