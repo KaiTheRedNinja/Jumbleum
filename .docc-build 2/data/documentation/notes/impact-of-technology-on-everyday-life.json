@@ -1,0 +1,915 @@
+{
+  "abstract" : [
+    {
+      "text" : "How technology has impacted various aspects of people’s lives",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Computing",
+        "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Impact-of-Technology-on-Everyday-Life"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Impact of Technology on Everyday Life"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Communication",
+          "level" : 2,
+          "text" : "Communication",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Internet has enabled diverse cultures to interact and share ideas with each other. Social networking",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sites have enabled users to remain connected with friends, family and colleagues over long distances.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Artificial intelligence has made it possible for anyone to automatically transcribe and translate speech",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "into different languages with high speed and accuracy.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some people on the Internet use the Internet to reinforce their existing opinions, or to spread rumors,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "misinformation, or propaganda. This is worsened by the use of AI by some news and social media sites to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "promote content the reader is likely to be interested in. Most sites promote content based on engagement",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and not accuracy.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Smart phones have led to an increased focus on mobile devices and mobile applications in the computing",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "industry.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Social media has led to increased use of social media for marketing purposes and helps businesses to better",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "understand buying habits and consumer needs by analysing social media posts.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Improvements in communications technology have also reduced business costs through the use of cheap and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "effective video conferencing calls instead of face-to-face meetings.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Should some kinds of false information on the Internet be blocked or would this be taking censorship too far?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it right to connect and analyse social media posts in ways that the original authors may not have intended?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Finance",
+          "level" : 2,
+          "text" : "Finance",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Financial technology has enabled consumers to spend, borrow, invest and save money through low-cost and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "easy-to-use mobile and web applications. There is no need to perform such transactions in person.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Individuals have better education on how to make smart financial decisions using freely available information",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "on the Internet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Threats to privacy and security of data as well as the ease of obtaining false information on the Internet",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "has made some people more vulnerable to financial scams and other get-rich-quick schemes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Financial technology is currently an area of growth in the financial industry. Numerous companies have",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "been started to make financial services more efficient for both individuals and businesses. These companies",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "typically use technology and software to reduce the time, cost and effort needed for payments, investments,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "fundraising, trading, and\/or data analytic for both businesses and individuals.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "With the evolution of technology, the time needed to perform a financial trade has decreased from seconds down to mere microseconds. This has led to the rise of algorithmic trading, which is the study and refinement of algorithms to make trading decisions at speeds not possible by a normal human being.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Many banks also use AI to analyse transaction data and automatically identify unusual spending patterns or money transfers. This helps them to automatically detect and prevent instances of financial fraud without the need for manual intervention.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Should financial technology be limited to protect more vulnerable users?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it safe or acceptable to have financial markets controlled by secret algorithms instead of humans?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Healthcare",
+          "level" : 2,
+          "text" : "Healthcare",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the positive side, technology has enabled telemedicine, which is the use of video conferencing and other",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "technology, for doctors to provide medical consultations and diagnoses over the Internet or applications",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "in mobile devices. This gives patients who are located in remote places or have limited mobility better access",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to healthcare. By analysing medical data, AI can automatically identify warning signs of possible health problems",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and provide doctors with more accurate diagnoses.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the negative side, some patients find the use of robots and other technology in healthcare impersonal and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "mistrust the ability of machines to provide proper healthcare. Other patients may misuse information from the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Internet and make potentially dangerous decisions based on incorrect diagnoses. Patients may also be",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "uncomfortable with the collection of medical data necessary to improve the performance of healthcare-related AI.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Technology has created new areas of growth in the healthcare industry, such as the provision of telemedicine",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "solutions to existing healthcare businesses. In particular, many of these solutions provide a way for patients",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to securely transfer potentially sensitive medical information over the Internet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There is also an increased focus in automating healthcare processes through the use of robots to dispense medicine",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and other more menial tasks. This may in turn cause such jobs to disappear from the job market.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The rise of 3D-printing technology has also opened up new opportunities in the building and customisation of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "prosthetic limbs, hearing aids and dental fixtures.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it acceptable for robots to replace humans in providing certain kinds of healthcare?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it acceptable to transfer private medical information over the Internet?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Transportation",
+          "level" : 2,
+          "text" : "Transportation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the positive side, transport has become less stressful and more predictable for travellers due to the availability",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of detailed maps as well as real-time information on bus frequencies, traffic congestion levels and street-level",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "photographs of neighbourhoods around the world. All this information is also available at low cost through popular",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "mobile devices. Location data from such mobile devices may also be collected by AI to improve the accuracy and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "relevance of any map or traffic data that is displayed.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the negative side, some people are uncomfortable with how pictures and information about themselves or their",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "home may be used by mapping companies without their permission in order to build more accurate maps for travellers.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This is especially true with regards to the collection of location data from mobile devices as this data can reveal",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "personal details such as home and work addresses that users may wish to keep private.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The rise of self-driving vehicles with the use of AI to recognise and adapt to road conditions is likely to open",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "new areas of growth in the travel industry. Singapore is one of the first countries where self-driving cars are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "being tested, and if successful, the technology will likely revolutionise the motor industry.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are also multiple new companies that offer on-demand rides via mobile applications. These developments have",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "led to sweeping changes in the taxi service industry as well as employment opportunities for taxi drivers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Mapping technology is also another area of growth with an increased focus on making 3D maps and geospatial data",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "more accessible and useful to travellers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it acceptable for mapping companies to drive through neighbourhoods and take pictures to put them online?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is the sharing of personal transport preferences worth the conveniences offered by AI?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Entertainment",
+          "level" : 2,
+          "text" : "Entertainment",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the positive side, technology has enabled more exciting and engaging forms of entertainment. Many computer",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "games have active online communities and mobile games have even managed to bring participants together in the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "real world through in-game incentives to meet or team up. AI has also made it possible to provide more accurate",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "recommendations for consumers based on collected data of their previous choices of entertainment.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On the negative side, some people may be addicted to computer games or social networking sites. There is an",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "increasing concern that such technology is causing people to become deficient in real-life social skills or abandon",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "their responsibilities. AI has also made it possible for anyone to create doctored images and videos that appear",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "remarkably convincing to the average viewer. While such images and videos have been used mostly for entertainment,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "they can also be used to cause public alarm or spread damaging falsehoods.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Games, animation and media are areas of strong growth in the entertainment industry with new opportunities being",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "opened up by the rise of high-quality virtual reality, augmented reality and motiontracking technology.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Many businesses are also using monitoring technology and strategies from game design to provide rewards and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "incentives for workrelated achievements.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it right for game companies to make money off addicted players?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Is it right for businesses to use technology to monitor employees more extensively?",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+        "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+        "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+        "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+        "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property"
+      ]
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Authorisation": {
+  "abstract" : [
+    {
+      "text" : "Once the user is authenticated, the ability of a computer to control the access of data and resources by that user is",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "called access control\/authorisation",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Authorisation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/authorisation"
+},
+"doc://Notes/documentation/Notes/Computing": {
+  "abstract" : [
+    {
+      "text" : "Basic computing technology and systems, concepts, algorithms, techniques and tools",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Computing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/computing"
+},
+"doc://Notes/documentation/Notes/Data-Corruption": {
+  "abstract" : [
+    {
+      "text" : "Data corruption occurs when computer data is made unusable by errors or alterations",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Data Corruption",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/data-corruption"
+},
+"doc://Notes/documentation/Notes/Ethical-Social-Economic-issues": {
+  "abstract" : [
+    {
+      "text" : "A big unit about the ethical, social and economic issues of computing",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Ethical Social Economic issues",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ethical-social-economic-issues"
+},
+"doc://Notes/documentation/Notes/Intellectual-Property": {
+  "abstract" : [
+    {
+      "text" : "IP, licenses, and different types of software",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Intellectual Property",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/intellectual-property"
+},
+"doc://Notes/documentation/Notes/Threats-to-Privacy-and-Security": {
+  "abstract" : [
+    {
+      "text" : "Things that can threaten privacy and security, and how to defend against them",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Threats to Privacy and Security",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/threats-to-privacy-and-security"
+},
+"doc://Notes/documentation/Notes/Unauthorised-Access": {
+  "abstract" : [
+    {
+      "text" : "A situation where data owned by someone is used by someone else without permission.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Unauthorised Access",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/unauthorised-access"
+}
+}
+}

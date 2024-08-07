@@ -1,0 +1,139 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Emath"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Angles triangles and polygons"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+        "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+        "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+        "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+        "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+        "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D"
+      ],
+      "title" : "Geometry and Measurement"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Congruence-and-similarity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Congruence and similarity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/congruence-and-similarity"
+},
+"doc://Notes/documentation/Notes/Coordinate-Geometry": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Coordinate Geometry",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/coordinate-geometry"
+},
+"doc://Notes/documentation/Notes/Emath": {
+  "abstract" : [
+    {
+      "text" : "Fundamental mathematical knowledge and skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Emath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/emath"
+},
+"doc://Notes/documentation/Notes/Mensuration": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Mensuration",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mensuration"
+},
+"doc://Notes/documentation/Notes/Properties-of-circles": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Properties of circles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/properties-of-circles"
+},
+"doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Pythagoras Theorem and Trigonometry",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/pythagoras-theorem-and-trigonometry"
+},
+"doc://Notes/documentation/Notes/Vectors-in-2D": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vectors in 2D",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/vectors-in-2d"
+}
+}
+}

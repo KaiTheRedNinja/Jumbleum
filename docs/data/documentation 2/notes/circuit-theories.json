@@ -1,0 +1,424 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Circuit Theories"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " under physics for the following topics:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Circuit diagrams",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Series and parallel circuits",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Action and use of circuit components",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Voltage and current dividers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This document only covers Kirchoff’s Laws.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Laws",
+          "level" : 2,
+          "text" : "Kirchoff’s Laws",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Kirchhoff",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Current-Law",
+          "level" : 3,
+          "text" : "Kirchoff’s Current Law",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Kirchoff’s Current Law (KCL): The sum of currents entering a junction is equal to the sum of currents leaving the junction.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sum I_{\\text{in}} = \\sum I_{\\text{out}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, when a current splits at a parallel circuit, the sum of the currents entering the forks of the circuit is equal to the current",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "entering the parallel circuit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Kirchoffs-Voltage-Law",
+          "level" : 3,
+          "text" : "Kirchoff’s Voltage Law",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Kirchoff’s Voltage Law (KVL): The sum of the potential differences around a closed loop is zero.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sum V_{\\text{loop}} = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in a series circuit, the sum of the potential differences across each component is equal to the emf of the battery. This also",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "works regardless of which path you take, so long as it is a closed loop, because the PD across the forks of a parallel circuit is the same.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+        "doc:\/\/Notes\/documentation\/Notes\/Resistors",
+        "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
+        "doc:\/\/Notes\/documentation\/Notes\/Capacitors"
+      ],
+      "title" : "Fundamentals of Electronics"
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_Kirchhoff": {
+  "alt" : "Kirchoff's Laws",
+  "identifier" : "Diagram_Kirchhoff",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_Kirchhoff.jpg"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Alternating-Current": {
+  "abstract" : [
+    {
+      "text" : "The current that goes weird.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Alternating-Current",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Alternating Current",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/alternating-current"
+},
+"doc://Notes/documentation/Notes/Capacitors": {
+  "abstract" : [
+    {
+      "text" : "A capacitor is like a bucket that stores charge",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Capacitors",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Capacitors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/capacitors"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity": {
+  "abstract" : [
+    {
+      "text" : "How electricity flows through a circuit",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current of Electricity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "D.C. Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits"
+},
+"doc://Notes/documentation/Notes/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronics"
+},
+"doc://Notes/documentation/Notes/Resistors": {
+  "abstract" : [
+    {
+      "text" : "Resistance is futile, except in electronics. You sorta need them to prevent your components from frying themselves.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/resistors"
+}
+}
+}

@@ -83,6 +83,39 @@
           "type" : "paragraph"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Assertion is prediction, you need to have ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Different & Diverse perspectives",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "emphasis"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "Assertion has a broader scope",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
           "anchor" : "Format",
           "level" : 2,
           "text" : "Format",
@@ -387,8 +420,13 @@
         {
           "inlineContent" : [
             {
-              "text" : "Use BSA",
-              "type" : "text"
+              "inlineContent" : [
+                {
+                  "text" : "BSA:",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
             }
           ],
           "type" : "paragraph"
@@ -591,6 +629,69 @@
           "type" : "aside"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The last ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "E",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " is ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "Extension",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : ", ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "NOT",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "Explanation",
+                  "type" : "codeVoice"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "History Students please take note.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
           "inlineContent" : [
             {
               "text" : "For example, compare the following essays:",
@@ -781,6 +882,66 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "items" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "When doing assertion, cover up your evidence, and then make your own extension. This is so that you don’t PARAPHRASE but rather give a NEW PERSPECTIVE.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Avoid keywords from the evidence in your extension.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Bring in your own POV* (this one is a bit harder so you can skip it if you don’t know how to do it)",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                }
+              ],
+              "type" : "orderedList"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
         },
         {
           "anchor" : "Bonus-Task",

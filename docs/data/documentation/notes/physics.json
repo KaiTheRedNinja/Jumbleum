@@ -259,6 +259,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Induction",

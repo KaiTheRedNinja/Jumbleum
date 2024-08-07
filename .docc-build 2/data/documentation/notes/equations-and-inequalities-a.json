@@ -1,0 +1,187 @@
+{
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Equations and Inequalities A"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
+        "doc:\/\/Notes\/documentation\/Notes\/Surds",
+        "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
+        "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
+        "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions"
+      ],
+      "title" : "Algebra"
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Strong algebraic manipulation and mathematical reasoning skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Binomial-expansions": {
+  "abstract" : [
+    {
+      "text" : "Binomial expansions help expand expressions of the form ",
+      "type" : "text"
+    },
+    {
+      "code" : "(a+b)^n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " where ",
+      "type" : "text"
+    },
+    {
+      "code" : "n",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : " is a positive integer",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Binomial-expansions",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Binomial expansions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/binomial-expansions"
+},
+"doc://Notes/documentation/Notes/Exponential-and-Logarithmic-functions": {
+  "abstract" : [
+    {
+      "text" : "Powers and logarithms.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Exponential and Logarithmic functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exponential-and-logarithmic-functions"
+},
+"doc://Notes/documentation/Notes/Polymomials-and-partial-fractions": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Polymomials and partial fractions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/polymomials-and-partial-fractions"
+},
+"doc://Notes/documentation/Notes/Quadratic-functions": {
+  "abstract" : [
+    {
+      "text" : "Quadratic functions are polynomials with an x^2 term. Why they’re called quadratic (quad = 4) and not bidratic is beyond me.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Quadratic functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/quadratic-functions"
+},
+"doc://Notes/documentation/Notes/Surds": {
+  "abstract" : [
+    {
+      "text" : "My big brother Indices likes to call me a… Turd?",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Surds",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Surds",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/surds"
+}
+}
+}

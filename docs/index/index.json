@@ -322,6 +322,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electromagnetic-induction",
                 "title" : "Electromagnetic Induction",
                 "type" : "article"
@@ -534,7 +535,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/bipolar-junction-transistors",
                 "title" : "Bipolar Junction Transistors",
                 "type" : "article"
@@ -710,6 +711,16 @@
               {
                 "path" : "\/documentation\/notes\/disaster-risk-management",
                 "title" : "Disaster Risk Management",
+                "type" : "article"
+              },
+              {
+                "title" : "Exam Questions",
+                "type" : "groupMarker"
+              },
+              {
+                "icon" : "Checkmark.png",
+                "path" : "\/documentation\/notes\/essay-writing",
+                "title" : "Essay Writing",
                 "type" : "article"
               }
             ],

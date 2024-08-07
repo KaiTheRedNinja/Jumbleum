@@ -1,0 +1,187 @@
+{
+  "abstract" : [
+    {
+      "text" : "Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "Social Studies"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See the official ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/sites.google.com\/sst.edu.sg\/ss-one-stop-s4-2024\/home",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more details.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "sampleCodeDownload" : {
+    "action" : {
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+      "isActive" : true,
+      "overridingTitle" : "Curriculum (pg 1-15)",
+      "type" : "reference"
+    },
+    "kind" : "sampleDownload"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Geography"
+      ],
+      "title" : "Humanities"
+    }
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+        "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Being Part of a Globalised World",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
+},
+"doc://Notes/documentation/Notes/Exam-Techniques": {
+  "abstract" : [
+    {
+      "text" : "How to answer the questions",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Exam Techniques",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exam-techniques"
+},
+"doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Exploring Citizenship and Governance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exploring-citizenship-and-governance"
+},
+"doc://Notes/documentation/Notes/Geography": {
+  "abstract" : [
+    {
+      "text" : "Humanities, social and natural sciences",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Geography",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography"
+},
+"doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in a Diverse Society",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"https://sites.google.com/sst.edu.sg/ss-one-stop-s4-2024/home": {
+  "identifier" : "https:\/\/sites.google.com\/sst.edu.sg\/ss-one-stop-s4-2024\/home",
+  "title" : "SS One-Stop",
+  "titleInlineContent" : [
+    {
+      "text" : "SS One-Stop",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/sites.google.com\/sst.edu.sg\/ss-one-stop-s4-2024\/home"
+},
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf": {
+  "checksum" : null,
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf",
+  "type" : "download",
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/2260_y24_sy.pdf"
+}
+}
+}

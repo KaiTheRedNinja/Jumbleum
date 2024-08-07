@@ -1,0 +1,657 @@
+{
+  "abstract" : [
+    {
+      "text" : "Logic circuits dont work alone",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Combinational-Logic-Circuits"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Combinational Logic Circuits"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sum-of-Products Boolean expression",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Boolean Algebra & Karnaugh Map",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Applications of combinational logic",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Representing-Logic-Circuits",
+          "level" : 2,
+          "text" : "Representing Logic Circuits",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Logic Gate Intermediates",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Logic gates will usually have intermediate values. These can be represented with boolean algebra.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For the example above, the output is given by:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "D = A + B",
+            "X = DC = (A+B)*C"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can determine how to implement this circuit using logic gates by expanding the boolean algebra.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Sum-of-Products-Boolean-Expression",
+          "level" : 2,
+          "text" : "Sum-of-Products Boolean Expression",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Sum-of-product is exactly what it sounds like. It is a way of creating a boolean expression from",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a truth table.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine all the rows where the output is 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For each row, create a product term by ANDing all the inputs. For example, if the input is A=0, B=1,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "C=1, the product term would be ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "A̅BC",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Finally, sum all the product terms together, by ORing them.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Use brackets where nescessary to improve readability.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Using SOP, you can determine the boolean expression for any truth table, and from that determine how",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to implement it using logic gates.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Simplifying-Logic-Circuits",
+          "level" : 2,
+          "text" : "Simplifying Logic Circuits",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are two ways to simplify logic circuits: boolean algebra and Karnaugh maps.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Boolean-Algebra",
+          "level" : 3,
+          "text" : "Boolean Algebra",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are also a ton of rules that you can use to simplify boolean expressions. I’m frankly not bothered",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to type them all out, so heres a screenshot:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Boolean Algebra Laws",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "X = \\overline{A}\\overline{B}\\overline{C} + \\overline{A}\\overline{B}C + A\\overline{B}\\overline{C}",
+            "\\text{Apply distributive law}",
+            "= \\overline{A}\\overline{B}(\\overline{C}+C) + A\\overline{B}\\overline{C}",
+            "\\text{Apply C + inverse C = 1}",
+            "= \\overline{A}\\overline{B} + A\\overline{B}\\overline{C}",
+            "\\text{Apply distributive law}",
+            "= \\overline{B}(\\overline{A} + A\\overline{C})",
+            "\\text{Apply absorption law}",
+            "= \\overline{B}(\\overline{A}\\overline{C})",
+            "\\text{Apply distributive law}",
+            "= \\overline{A}\\overline{B} + \\overline{B}\\overline{C}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "DeMorgans-Theorem",
+          "level" : 4,
+          "text" : "DeMorgan’s Theorem",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is one of the most useful rules in boolean algebra. It states that:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\overline{A+B} = \\overline{A} \\cdot \\overline{B}",
+            "\\overline{A \\cdot B} = \\overline{A} + \\overline{B}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "State-Counting",
+          "level" : 4,
+          "text" : "State Counting",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I discovered this during electronics class, but I have no doubt that it already exists under some other name.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I’ve just not been able to find that name. Basically, state counting sorta follows the “once you eleminate the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "impossible,  whatever remains, no matter how improbable, must be the truth” logic. More solidly,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "AB + A\\overline{B} + \\overline{A}B = \\overline{AB}",
+            "AB + \\overline{A}B + \\overline{A}\\overline{B} = \\overline{A\\overline{B}}",
+            "AB + A\\overline{B} + \\overline{A}\\overline{B} = \\overline{\\overline{A}B}",
+            "A\\overline{B} + \\overline{A}B + \\overline{A}\\overline{B} = \\overline{AB}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It comes in more useful than you might think, especially with three input gates.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Karnaugh-Maps",
+          "level" : 3,
+          "text" : "Karnaugh Maps",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Karnaugh maps are a way of simplifying boolean expressions. They are a grid of all possible inputs,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with the output of the function in each cell.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can then group together cells with the same output in groups of 1, 2, or 4 in a rectangle. You can",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "then simplify the expression by doing a sum-of-product on those groups.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_KMap Groupings",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that sometimes, you will have to overlap groups to get the most simplified expression. It is better",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to have two groups of 2 that overlap than one group of 2 and one group of 1, and it is better to have one",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "group of 4 than two groups of 2.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
+        "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
+        "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
+        "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits"
+      ],
+      "title" : "Digital Electronics"
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_Boolean Algebra Laws": {
+  "alt" : "Boolean algebra laws",
+  "identifier" : "Diagram_Boolean Algebra Laws",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_Boolean%20Algebra%20Laws.jpg"
+    }
+  ]
+},
+"Diagram_KMap Groupings": {
+  "alt" : "Karnaugh map with groupings",
+  "identifier" : "Diagram_KMap Groupings",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_KMap%20Groupings.jpg"
+    }
+  ]
+},
+"Diagram_Logic Gate Intermediates": {
+  "alt" : "Logic circuit with intermediates",
+  "identifier" : "Diagram_Logic Gate Intermediates",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_Logic%20Gate%20Intermediates.jpg"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Basic-logic-gates": {
+  "abstract" : [
+    {
+      "text" : "The very basics of boolean algebra and logic gates",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Basic-logic-gates",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Basic logic gates",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/basic-logic-gates"
+},
+"doc://Notes/documentation/Notes/Comparator-timer-and-counter-circuits": {
+  "abstract" : [
+    {
+      "text" : "Common integrated circuits used for digital and analog electronics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparator-timer-and-counter-circuits",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Comparator, Timer and Counter Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comparator-timer-and-counter-circuits"
+},
+"doc://Notes/documentation/Notes/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronics"
+},
+"doc://Notes/documentation/Notes/Introduction-to-Digital-Electronics": {
+  "abstract" : [
+    {
+      "text" : "On off on off on off and on again",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Introduction to Digital Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/introduction-to-digital-electronics"
+},
+"doc://Notes/documentation/Notes/Set-Reset-Memory-Latches": {
+  "abstract" : [
+    {
+      "text" : "Set-Reset memory latches, otherwise known as SR latches, are used primarily to cope with imperfect switch contacts.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-Reset-Memory-Latches",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Set-Reset Memory Latches",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/set-reset-memory-latches"
+}
+}
+}

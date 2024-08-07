@@ -1,0 +1,312 @@
+{
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Home"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "color" : {
+      "standardColorIdentifier" : "purple"
+    },
+    "role" : "collection",
+    "roleHeading" : "Notes",
+    "title" : "Jumbleum"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Each subject has multiple topic. Generally, the ",
+              "type" : "text"
+            },
+            {
+              "code" : "Overview",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " of each topic will be a summary of the topic, followed by either",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A list of subtopics in ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "Topics",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ". The subtopics will be a list of links to the notes for that subtopic.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sections for each subtopic. The sections will contain the notes for that subtopic.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Emath",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath",
+        "doc:\/\/Notes\/documentation\/Notes\/Physics"
+      ],
+      "title" : "Mathematics"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Computing",
+        "doc:\/\/Notes\/documentation\/Notes\/Electronics"
+      ],
+      "title" : "Applied Subjects"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+        "doc:\/\/Notes\/documentation\/Notes\/Geography"
+      ],
+      "title" : "Humanities"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/English"
+      ],
+      "title" : "Languages"
+    },
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing"
+      ],
+      "title" : "Articles"
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Strong algebraic manipulation and mathematical reasoning skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Computing": {
+  "abstract" : [
+    {
+      "text" : "Basic computing technology and systems, concepts, algorithms, techniques and tools",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Computing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/computing"
+},
+"doc://Notes/documentation/Notes/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronics"
+},
+"doc://Notes/documentation/Notes/Emath": {
+  "abstract" : [
+    {
+      "text" : "Fundamental mathematical knowledge and skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Emath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/emath"
+},
+"doc://Notes/documentation/Notes/English": {
+  "abstract" : [
+    {
+      "text" : "The English language",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "English",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/english"
+},
+"doc://Notes/documentation/Notes/Expository-Writing": {
+  "abstract" : [
+    {
+      "text" : "Argumentative, basically",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Expository",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/expository-writing"
+},
+"doc://Notes/documentation/Notes/Geography": {
+  "abstract" : [
+    {
+      "text" : "Humanities, social and natural sciences",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Geography",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Energy, matter, and their interrelationships",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
+},
+"doc://Notes/documentation/Notes/Reflective-Writing": {
+  "abstract" : [
+    {
+      "text" : "Reflective writing is a personal response to an experience, event, or situation.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Reflective",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/reflective-writing"
+},
+"doc://Notes/documentation/Notes/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/social-studies"
+}
+}
+}
