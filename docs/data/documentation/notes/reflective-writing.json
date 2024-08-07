@@ -107,7 +107,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "It makes use of four parts (4R’s thinking tool):",
+              "text" : "It makes use of four parts:",
               "type" : "text"
             }
           ],
@@ -232,16 +232,7 @@
         {
           "inlineContent" : [
             {
-              "inlineContent" : [
-                {
-                  "text" : "WHY",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            },
-            {
-              "text" : " write vividly (yet concisely)?",
+              "text" : "WHY write vividly?",
               "type" : "text"
             }
           ],
@@ -477,7 +468,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Form a “simple impression” of the colors, textures, shapes, feeling, of whatever it is. You may want to use your 5 senses for this.",
+                      "text" : "Form a “simple impression” of the colors, textures, shapes, feeling, of whatever it is. You may want to use your 5",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "senses for this.",
                       "type" : "text"
                     }
                   ],
@@ -511,7 +510,7 @@
                       "type" : "text"
                     },
                     {
-                      "text" : "description.Flashes of brightness, the smell of burning paper, and the explosions above my head sent ashes wafting down. Every year, my family makes the 350-kilometer journey from Singapore to Kuala Lumpur to visit my paternal relatives. I have little more in common with them as I do a puddle along the roadside, considering that the Chinese New Year only occurs once a year. This tradition of making the long journey north has existed ever since I could remember.",
+                      "text" : "description.",
                       "type" : "text"
                     }
                   ],
@@ -890,31 +889,6 @@
             }
           ],
           "type" : "orderedList"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "in hybrid writing, reflective writing is often combined with descriptive writing.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Note",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "inlineContent" : [
-            {
-              "identifier" : "Example_EL_Hybrid_Essay",
-              "type" : "image"
-            }
-          ],
-          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -942,20 +916,6 @@
   ]
 , 
 "references": {
-"Example_EL_Hybrid_Essay": {
-  "alt" : "Descriptive-Reflective vs Reflective-Narrative Essays",
-  "identifier" : "Example_EL_Hybrid_Essay",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Example_EL_Hybrid_Essay.png"
-    }
-  ]
-},
 "In Progress.png": {
   "alt" : "In Progress",
   "identifier" : "In Progress.png",
@@ -1021,7 +981,7 @@
 "doc://Notes/documentation/Notes/Expository-Writing": {
   "abstract" : [
     {
-      "text" : "Argumentative… but there’s a correct opinion",
+      "text" : "Argumentative, basically",
       "type" : "text"
     }
   ],
