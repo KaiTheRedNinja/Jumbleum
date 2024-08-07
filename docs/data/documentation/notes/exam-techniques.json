@@ -513,15 +513,14 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Source-Based-Question",
+      "anchor" : "Topics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
         "doc:\/\/Notes\/documentation\/Notes\/Comparison",
         "doc:\/\/Notes\/documentation\/Notes\/Assertion",
         "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question"
-      ],
-      "title" : "Source Based Question"
+      ]
     }
   ]
 , 

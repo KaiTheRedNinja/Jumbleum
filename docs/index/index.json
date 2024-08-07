@@ -613,10 +613,6 @@
               {
                 "children" : [
                   {
-                    "title" : "Source Based Question",
-                    "type" : "groupMarker"
-                  },
-                  {
                     "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/inference",
                     "title" : "Inference",
@@ -820,7 +816,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

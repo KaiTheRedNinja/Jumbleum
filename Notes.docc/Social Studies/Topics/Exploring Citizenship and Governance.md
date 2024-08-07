@@ -23,7 +23,7 @@ The role of citizens and government in society
             - Ensures economic and social well-being of citizens
             - Promotes and protects a country’s national interests
 - How do we decide what is good for society?
-    • Deciding what is good for society
+    - Deciding what is good for society
         − Challenges in deciding what is good for society
             - Differing needs and interests
             - Differing priorities

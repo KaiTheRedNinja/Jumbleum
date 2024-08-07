@@ -42,7 +42,6 @@ See the following for more details:
 
 ## Topics
 
-### Source Based Question
 - <doc:Inference>
 - <doc:Reliability-Utility-and-Surprise>
 - <doc:Comparison>

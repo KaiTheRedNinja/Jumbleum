@@ -270,97 +270,107 @@
                     {
                       "text" : "How do we decide what is good for society?",
                       "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "• Deciding what is good for society",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "− Challenges in deciding what is good for society",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Differing needs and interests",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Differing priorities",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Unequal sharing of costs",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "− Managing trade-offs",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "− Principles shaping governance",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Having good leadership",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Anticipating change and staying relevant",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- A stake for everyone, opportunities for all",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "- Practising meritocracy",
-                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Deciding what is good for society",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "− Challenges in deciding what is good for society",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Differing needs and interests",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Differing priorities",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Unequal sharing of costs",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "− Managing trade-offs",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "− Principles shaping governance",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Having good leadership",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Anticipating change and staying relevant",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- A stake for everyone, opportunities for all",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "- Practising meritocracy",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
                 }
               ]
             },

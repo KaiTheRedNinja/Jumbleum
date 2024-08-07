@@ -116,7 +116,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Mirror the question",
+                      "text" : "Mirror the question (make it clear that you are answering the question)",
                       "type" : "text"
                     }
                   ],
@@ -268,6 +268,15 @@
           "type" : "unorderedList"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Your example for opinion SRQs MUST be Singapore-based",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Evaluative-SRQ",
           "level" : 2,
           "text" : "Evaluative SRQ",
@@ -296,6 +305,118 @@
           "name" : "Example",
           "style" : "note",
           "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Its basically an ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " question. However, for SRQ, you need to think of your own examples.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Usually, SRQs will have factors specified",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "2x Peel, where each PEEL wraps around an factors",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Link back to the question focus",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1x Evaluation para (comparison of factors)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When you’re evaluating your answer, make sure that you’re ALERT to the nuances of words. For example:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "“prevent” = avoid, not deal with the consequences of",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Your example for evaluative SRQs DO NOT need to be Singapore-based, you can use international examples.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -311,15 +432,13 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Source-Based-Question",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
         "doc:\/\/Notes\/documentation\/Notes\/Comparison",
         "doc:\/\/Notes\/documentation\/Notes\/Assertion"
-      ],
-      "title" : "Source Based Question"
+      ]
     }
   ]
 , 
