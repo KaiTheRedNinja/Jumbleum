@@ -1346,7 +1346,7 @@
 , 
 "references": {
 "In Progress.png": {
-  "alt" : null,
+  "alt" : "In Progress",
   "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
@@ -1389,9 +1389,18 @@
 },
 "doc://Notes/documentation/Notes/Coordinate-geometry-in-two-dimensions": {
   "abstract" : [
-
+    {
+      "text" : "Lines, squares, circles, your waifu. All examples of things that exist on flat planes.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Coordinate geometry in two dimensions",
