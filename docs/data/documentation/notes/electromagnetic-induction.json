@@ -13,10 +13,1542 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Electromagnetic Induction"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Topics:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Faraday’s Law",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Lenz’s Law",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "AC Generators",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Faraday’s Induction Ring Experiment",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Transformers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Magnetic-Flux-Linkage",
+          "level" : 2,
+          "text" : "Magnetic Flux Linkage",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "code" : "Magnetic Flux Linkage",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the product of the magnetic flux and the number of turns in a coil. It is given by the formula:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\phi = N B A \\cos \\theta"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "N - number of turns of the solenoid",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "B - magnetic field strength (",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "T",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "\/Tesla)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A - Area of the flat surface (Square Metres\/",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "m²",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "θ - the angle between the direction of the magnetic field and the normal of the surface (degrees\/°)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Faradays--Lenzs-Law",
+          "level" : 2,
+          "text" : "Faradays & Lenz’s Law",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The magnitude of the emf induced in a ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "closed circuit",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " is directly proportional to the rate of change of the ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "magnetic flux linkage",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " through the conductor.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Faraday’s Law",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The direction of the induced emf (and hence the direction of induced current) is such that its magnetic effect opposes the direction of motion that produces it.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Lenz’s Law",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Sample Explanation:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When there is a change in magnetic flux linkage (Δφ) through the conductor",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Faraday’s Law, there will be an induced emf. in the conductor.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As the Conductor is a closed loop, there will be an induced current and an induced Magnetic field.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Lenz’s Law, the induced magnetic field opposes the change in magnetic flux linkage through the conductor.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "There will be an induced [pole closest to the conductor]-pole on the side closest to the magnet.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Therefore since like poles repel, the conductor will slow down as it approaches the magnet.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "always state Faraday’s Law ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "before",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " Lenz’s Law when explaining.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "This is because Faraday’s Law is a prerequisite for Lenz’s Law to take effect. (induced magnetic field)",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Flemings-Right-Hand-Rule",
+          "level" : 3,
+          "text" : "Fleming’s Right Hand Rule",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_EMI_Flemings_RH_Rule",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Fleming’s Right Hand Rule",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " - is used to determine the direction of the induced ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "current",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " in a conductor.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Fleming’s Left Hand Rule",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " - is used to determine the direction of the ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "force",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " on a current-carrying conductor in a magnetic field.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Faradays-Induction-Ring-Experiment",
+          "level" : 3,
+          "text" : "Faraday’s Induction Ring Experiment",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_EMI_Faradays_Induction_Ring",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "When the switch is closed, the compass needle deflects monetarily, and then returns to its original orientation.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Observation",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Explanation:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Just after the switch is closed, the current through the primary coil increases from zero to its maximum value.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The strength of the magnetic field produced by the primary coil increases from zero to its maximum value.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The soft iron ring redirects the magnetic field produced by the primary coil toward the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Faraday’s law of electromagnetic induction, the changing magnetic flux linkage through the secondary coil induces an emf. in the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Since the secondary coil is part of a closed circuit, the induced e.m.f. produces an induced current through the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Lenz’s law, the induced current through the secondary coil produces a magnetic field that opposes the strengthening of the magnetic field produced by the primary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When this induced current through the secondary coil flows through wire PQ, it produces a magnetic field that momentarily defects the compass needle.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "When the switch is opened, the compass needle deflects monetarily in the opposite direction, and then returns to its original orientation.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Observation",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Explanation:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Just after the switch is opened, the current through the primary coil decreases from its maximum value to zero.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The strength of the magnetic field produced by the primary coil decreases from its maximum value to zero.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The soft iron ring redirects the magnetic field produced by the primary coil toward the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Faraday’s law of electromagnetic induction, the changing magnetic flux linkage through the secondary coil induces an e.m.f. in the secondary coil in the opposite direction.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Since the secondary coil is part of a closed circuit, the induced e.m.f. produces an induced current through the secondary coil in the opposite direction.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Lenz’s law, the induced current through the secondary coil produces a magnetic field that opposes the weakening of the magnetic field produced by the primary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When this induced current through the secondary coil flows through wire PQ, it produces a magnetic field that momentarily defects the compass needle in the opposite direction.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "When the switch remains closed or opened, the compass needle is remains undeflected.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Observation",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Explanation:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When the switch remains closed or open, the current through the primary coil remains either constant or zero.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The strength of the magnetic field produced by the primary coil remains either constant or zero.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The soft iron ring redirects the magnetic field produced by the primary coil toward the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Since the magnetic flux linkage through the secondary coil is constant, no e.m.f. and no current are induced in the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Since wire PQ produces no magnetic field, the compass needle remains undeflected.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "AC-Generators",
+          "level" : 2,
+          "text" : "AC Generators",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_EMI_AC_Generator",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Explanation:",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The coil is rotated by turning the handle.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As the coil rotates between the two magnets, the magnetic flux linkage through the coil changes at a non-uniform rate. (The coil cuts the magnetic field lines at a non-uniform rate.)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Faraday’s law of electromagnetic induction, an e.m.f. is induced in the rotating coil. Fleming’s right hand rule tells us the direction of the induced e.m.f. in sides AD and BC.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "In the closed circuit, the induced alternating current flows through the coil, the 2 slip rings, the carbon brushes and the bulb.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Function of the 2 slip rings The 2 slip rings maintain continuous electrical contact between the rotating coil and the external circuit via the carbon brushes, so that the induced current flows through the closed circuit.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_EMI_AC_Generator",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The maximum induced e.m.f. of an a.c. generator can be increased by increasing the rate at which the coil cuts the magnetic field lines, e.g. by:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "increasing the number of turns of the coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "increasing the magnetic field strength (e.g. stronger magnets)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "increasing the speed of rotation of the coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "winding the coil on a soft iron core (to strengthen the magnetic field through the coil)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The maximum induced current can be increased by increasing the induced e.m.f. or by decreasing the resistance of the coil.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Transformers",
+          "level" : 2,
+          "text" : "Transformers",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A transformer is a device that can change a large alternating voltage (with a small current) to a small alternating voltage (at large current), and vice versa.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "A transformer does not work on direct current (d.c.) because a changing magnetic field is required to induce an e.m.f. in the secondary coil.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The alternating input voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "V_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " produces an alternating current ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "I_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " through the primary coil. Current ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "I_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " produces an alternating magnetic field (which alternately increases and decreases in strength).",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The laminated soft iron core ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "redirects",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " the alternating magnetic field produced by the primary coil toward the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By Faraday’s law of electromagnetic induction, the changing magnetic flux linkage through the secondary coil induces an alternating output voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "V_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " in the secondary coil.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Since the secondary coil is part of a closed circuit, the alternating output voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "V_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " produces an alternating current ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "I_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " through the secondary coil and the load.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_EMI_Laminated_Iron_Core",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "many thin sheets of iron stacked together",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Redirects the eddy currents induced in an iron core and reduced unwanted wasted energy",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Laminated Soft Iron Core",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Power-Transmission",
+          "level" : 3,
+          "text" : "Power Transmission",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The transformer allows the alternating input voltage, V_P, and the alternating output voltage V_S to differ, by having a different number of turns in the primary and secondary coils.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{V_P}{V_S} = \\frac{N_P}{N_S}",
+            "",
+            "\\text{Step Up Transformer: }\\frac{V_P}{V_S} = \\frac{N_P}{N_S} > 1",
+            "\\text{Step Down Transformer: }\\frac{V_P}{V_S} = \\frac{N_P}{N_S} < 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "V_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the voltage in the primary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "V_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the voltage in the secondary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "N_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the number of turns in the primary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "N_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the number of turns in the secondary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Efficiency-of-a-Transformer",
+          "level" : 3,
+          "text" : "Efficiency of a Transformer",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The efficiency of a transformer is given by the formula:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\text{Efficiency} = \\frac{\\text{Output Power}}{\\text{Input Power}} \\times 100\\%",
+            "",
+            "\\text{AND}",
+            "",
+            "\\text{Efficiency} = \\frac{V_S I_S}{V_P I_P} \\times 100\\%"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Output Power",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the power output of the secondary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "Input Power",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the power input to the primary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "V_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the voltage in the primary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "V_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the voltage in the secondary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "I_P",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the current in the primary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "I_S",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the current in the secondary coil",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The efficiency of a transformer is always less than 100% because some energy is lost as non-useful forms.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Energy is wasted due to:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "energy being transferred to the internal stores of the coils when current flows through them, since the coils have some resistance.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "energy being transferred to the internal store of the core when eddy current flows through core, since the core has some resistance.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "leakage of magnetic field lines between the primary and secondary coils.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "hysteresis loss caused by the flipping of the magnetic domains in the core due to the alternating magnetic field produced by the primary coil. Energy is transferred to the internal store of the core.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -27,7 +1559,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "V-Electricity-and-Magnetism",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
@@ -52,7 +1583,77 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_EMI_AC_Generator": {
+  "alt" : "AC Generators",
+  "identifier" : "Diagram_EMI_AC_Generator",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_EMI_AC_Generator.png"
+    }
+  ]
+},
+"Diagram_EMI_Faradays_Induction_Ring": {
+  "alt" : "Faraday's Induction Ring Experiment",
+  "identifier" : "Diagram_EMI_Faradays_Induction_Ring",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_EMI_Faradays_Induction_Ring.jpg"
+    }
+  ]
+},
+"Diagram_EMI_Flemings_RH_Rule": {
+  "alt" : "Fleming's Right Hand Rule",
+  "identifier" : "Diagram_EMI_Flemings_RH_Rule",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_EMI_Flemings_RH_Rule.png"
+    }
+  ]
+},
+"Diagram_EMI_Laminated_Iron_Core": {
+  "alt" : "Laminated Soft Iron Core",
+  "identifier" : "Diagram_EMI_Laminated_Iron_Core",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_EMI_Laminated_Iron_Core.png"
+    }
+  ]
+},
+"Graph_EMI_AC_Generator": {
+  "alt" : "AC Generator Graph",
+  "identifier" : "Graph_EMI_AC_Generator",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Graph_EMI_AC_Generator.png"
     }
   ]
 },

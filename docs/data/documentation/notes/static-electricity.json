@@ -2370,7 +2370,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "V-Electricity-and-Magnetism",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
@@ -2395,7 +2394,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -2409,7 +2408,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Electric%20Field_Direction.jpg"
+      "url" : "\/images\/Diagram_Electric%20Field_Direction.jpg"
     }
   ]
 },
@@ -2423,7 +2422,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Electric%20Field_Strength.jpg"
+      "url" : "\/images\/Diagram_Electric%20Field_Strength.jpg"
     }
   ]
 },
@@ -2437,7 +2436,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Electroscope.jpg"
+      "url" : "\/images\/Diagram_Electroscope.jpg"
     }
   ]
 },
@@ -2451,7 +2450,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Multiple_1.jpg"
+      "url" : "\/images\/Diagram_Induction_Multiple_1.jpg"
     }
   ]
 },
@@ -2465,7 +2464,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Multiple_2.jpg"
+      "url" : "\/images\/Diagram_Induction_Multiple_2.jpg"
     }
   ]
 },
@@ -2479,7 +2478,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Multiple_3.jpg"
+      "url" : "\/images\/Diagram_Induction_Multiple_3.jpg"
     }
   ]
 },
@@ -2493,7 +2492,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Multiple_4.jpg"
+      "url" : "\/images\/Diagram_Induction_Multiple_4.jpg"
     }
   ]
 },
@@ -2507,7 +2506,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Single_1.jpg"
+      "url" : "\/images\/Diagram_Induction_Single_1.jpg"
     }
   ]
 },
@@ -2521,7 +2520,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Single_2.jpg"
+      "url" : "\/images\/Diagram_Induction_Single_2.jpg"
     }
   ]
 },
@@ -2535,7 +2534,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Single_3.jpg"
+      "url" : "\/images\/Diagram_Induction_Single_3.jpg"
     }
   ]
 },
@@ -2549,7 +2548,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Induction_Single_4.jpg"
+      "url" : "\/images\/Diagram_Induction_Single_4.jpg"
     }
   ]
 },
@@ -2563,7 +2562,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Charging%20by%20Friction.jpg"
+      "url" : "\/images\/Example_Charging%20by%20Friction.jpg"
     }
   ]
 },
@@ -2617,6 +2616,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Induction",

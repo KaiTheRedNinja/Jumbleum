@@ -304,7 +304,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Paper-2-Comprehension",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
@@ -325,7 +324,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -339,7 +338,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },

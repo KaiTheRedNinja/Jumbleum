@@ -1,7 +1,4 @@
 {
-  "includedArchiveIdentifiers" : [
-    "Notes"
-  ],
   "interfaceLanguages" : {
     "swift" : [
       {
@@ -323,6 +320,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electromagnetic-induction",
                 "title" : "Electromagnetic Induction",
                 "type" : "article"
@@ -535,7 +533,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/bipolar-junction-transistors",
                 "title" : "Bipolar Junction Transistors",
                 "type" : "article"
@@ -713,6 +711,16 @@
                 "path" : "\/documentation\/notes\/disaster-risk-management",
                 "title" : "Disaster Risk Management",
                 "type" : "article"
+              },
+              {
+                "title" : "Exam Questions",
+                "type" : "groupMarker"
+              },
+              {
+                "icon" : "Checkmark.png",
+                "path" : "\/documentation\/notes\/essay-writing",
+                "title" : "Essay Writing",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/geography",
@@ -812,7 +820,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Notes\/Checkmark.png"
+          "url" : "\/images\/Checkmark.png"
         }
       ]
     },
@@ -826,7 +834,7 @@
             "1x",
             "light"
           ],
-          "url" : "\/images\/Notes\/In%20Progress.png"
+          "url" : "\/images\/In%20Progress.png"
         }
       ]
     }
@@ -834,6 +842,6 @@
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,
-    "patch" : 2
+    "patch" : 1
   }
 }

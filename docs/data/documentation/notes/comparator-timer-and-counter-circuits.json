@@ -1683,7 +1683,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Digital-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Introduction-to-Digital-Electronics",
@@ -1706,7 +1705,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -1720,7 +1719,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Astable_Timer.jpg"
+      "url" : "\/images\/Diagram_Astable_Timer.jpg"
     }
   ]
 },
@@ -1734,7 +1733,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Comparator.jpg"
+      "url" : "\/images\/Diagram_Comparator.jpg"
     }
   ]
 },
@@ -1748,7 +1747,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Monostable_Timer.jpg"
+      "url" : "\/images\/Diagram_Monostable_Timer.jpg"
     }
   ]
 },
@@ -1762,7 +1761,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Comparator.jpg"
+      "url" : "\/images\/Example_Comparator.jpg"
     }
   ]
 },
@@ -1776,7 +1775,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_Counter.jpg"
+      "url" : "\/images\/Example_Counter.jpg"
     }
   ]
 },
@@ -1790,21 +1789,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Astable_Timer.jpg"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Graph_Astable_Timer.jpg"
     }
   ]
 },
@@ -1852,7 +1837,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

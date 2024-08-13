@@ -27,7 +27,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "V-Electricity-and-Magnetism",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
@@ -52,7 +51,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -95,6 +94,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Induction",

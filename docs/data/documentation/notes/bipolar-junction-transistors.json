@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -82,27 +82,6 @@
                     {
                       "text" : "Emitter",
                       "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "Where ",
-                      "type" : "text"
-                    },
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "current",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : " at the base will control the current flow between the collector and emitter.",
-                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -111,6 +90,28 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "current",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " at the base will control the current flow between the collector and emitter.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -128,11 +129,53 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "There must be at least 0.7V of potential difference between Base and Emitter (ie, V_BE > 0.7V)",
+                      "text" : "There must be at least ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "0.7V",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " of potential difference between Base and Emitter (ie, ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "V_BE > 0.7V",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "this is a default value that is used in calculations when ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "V_BE",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " is not given",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
                 }
               ]
             },
@@ -141,7 +184,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "There must be current at the base",
+                      "text" : "There must be current at the base (ie, ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "I_B > 0",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
                       "type" : "text"
                     }
                   ],
@@ -198,14 +249,27 @@
                     {
                       "inlineContent" : [
                         {
-                          "text" : "Collector-Emitter Voltage",
+                          "text" : "Base Activation Voltage",
                           "type" : "text"
                         }
                       ],
                       "type" : "strong"
                     },
                     {
-                      "text" : " (V_CE) is the voltage between the collector and emitter",
+                      "text" : " (V_BE) is the ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "minimum",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " voltage at which the transistor activates",
                       "type" : "text"
                     }
                   ],
@@ -228,6 +292,72 @@
                     },
                     {
                       "text" : " (I_B) is the current at the base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Base Voltage",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " (V_B) is the voltage at the base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Base Resistance",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " (V_RB) is the resistance at the base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Collector-Emitter Voltage",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " (V_CE) is the voltage between the collector and emitter",
                       "type" : "text"
                     }
                   ],
@@ -293,8 +423,20 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : " (β) is the current gain of the transistor, which is the ratio of I_C to I_B",
+                      "text" : " (β_dc) is the current gain of the transistor, which is the ratio of ",
                       "type" : "text"
+                    },
+                    {
+                      "code" : "I_C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " to ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "I_B",
+                      "type" : "codeVoice"
                     }
                   ],
                   "type" : "paragraph"
@@ -303,6 +445,15 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "¹ this is a pretty long list but its quite easy to derive",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -336,10 +487,23 @@
             "",
             "V_{CE} = V_{BE} + V_{BC}",
             "",
-            "I_C = \\beta I_B"
+            "I_C = \\beta I_B",
+            "",
+            "\\text{OR}",
+            "",
+            "\\beta = \\frac{I_C}{I_B}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "¹ Remember that gain(β) is is a ratio, so it has no units!",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -448,46 +612,82 @@
                   "type" : "paragraph"
                 }
               ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "DC Load Line",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The line that connects the saturation and cutoff point (P_max), where the transistor operates",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Solving",
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "is mainly controlled by ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "V_RB",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : ", where ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "V_RB",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " is the resistor at the Base.",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "V_RB = V_CC - V_BE",
+                  "type" : "codeVoice"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Saturation Region",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Uses-of-BJTs",
           "level" : 2,
-          "text" : "Solving",
+          "text" : "Uses of BJT’s",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "identifier" : "Example_BJT",
-              "type" : "image"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Note: I think the transistor might be the wrong type. I’m not bothered to find the right one rn.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "In this example, given that you have ",
-              "type" : "text"
-            },
-            {
-              "code" : "V_BE",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : ", you can determine the following:",
+              "text" : "Common tested uses:",
               "type" : "text"
             }
           ],
@@ -500,11 +700,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "V_B",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", as a voltage divider between R2 and R1",
+                      "text" : "Common-Emitter Amplifier",
                       "type" : "text"
                     }
                   ],
@@ -517,16 +713,8 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "V_RC",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", as a voltage divider between RC and R2, where ",
+                      "text" : "Single NPN Transistor as Driver",
                       "type" : "text"
-                    },
-                    {
-                      "code" : "V_net = Vcc - V_BE",
-                      "type" : "codeVoice"
                     }
                   ],
                   "type" : "paragraph"
@@ -538,124 +726,8 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "I_E",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", using V=IR with ",
+                      "text" : "Darlington Pairs",
                       "type" : "text"
-                    },
-                    {
-                      "code" : "V_RC",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " and ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "RC",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "I_C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", which is equal to ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "I_E",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "V_C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", using V=IR with ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "I_C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " and ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "R_E",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "V_E",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", using V=IR with ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "I_E",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " and ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "R_C",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "V_CE",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", as ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "V_C - V_E",
-                      "type" : "codeVoice"
                     }
                   ],
                   "type" : "paragraph"
@@ -666,63 +738,19 @@
           "type" : "unorderedList"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "Remember that in this case, assume that there is ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "no current",
-                  "type" : "text"
-                }
-              ],
-              "type" : "strong"
-            },
-            {
-              "text" : " flowing into base. Ie, ",
-              "type" : "text"
-            },
-            {
-              "code" : "I_E = 0",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : ".",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "Ignore the beta value, its not useful here.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Different-uses-of-BJT",
-          "level" : 2,
-          "text" : "Different uses of BJT",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "TODO: Elaborate on these",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
           "anchor" : "Amplifier",
           "level" : 3,
           "text" : "Amplifier",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_BJT_Amplifier",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -811,10 +839,184 @@
           "type" : "paragraph"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "In this case, assume that there is ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "no current",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " flowing into base.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Ie, ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "I_B ≈ 0",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : ", ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "∴ I_E ≈ I_C",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " where ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "I_B",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " is negligible.",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "This is because there is no resistor connected to the base, so negligible current flows to ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "I_B",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "Ignore the beta value, its not useful here.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Remember",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Coupling Capacitors: (the caps at ",
+              "type" : "text"
+            },
+            {
+              "code" : "V_in",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "V_out",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ")",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Used to block DC signals from entering the transistor",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Only allows AC signals to pass through",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is to ensure that the transistor is only amplifying the AC signal, to prevent the bias of the BJT from being affected.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Voltage gain:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "A_v = \\dfrac{V_{out}}{V_{in}} = -\\dfrac{R_C}{R_E}",
+            "\\text{OR}",
+            "|A_v| = \\dfrac{V_{out}}{V_{in}} = \\dfrac{R_C}{R_E}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
           "anchor" : "Driver",
           "level" : 3,
           "text" : "Driver",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_BJT_NPN_driver",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -844,7 +1046,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "¹ don’t really know the real reason why but thats conventions.",
+              "text" : "Conventions state that the load is connected to the collector of an NPN transistor and the emitter of a PNP transistor.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This is to keep the current flowing through the load consistent (basically don’t screw up calculatinons)",
               "type" : "text"
             }
           ],
@@ -859,7 +1069,73 @@
         {
           "inlineContent" : [
             {
+              "identifier" : "Diagram_BJT_Darlington_Pairs",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Two transistors connected in series, to increase the total current gain",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "BUT",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " there will be a larger voltage drop across the transistors, as there are two ",
+              "type" : "text"
+            },
+            {
+              "code" : "V_BE",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " values to overcome",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "THEREFORE",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " if one BJT works well enough, ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "DON’T",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " use a Darlington Pair (ie. when the BJT is in saturation)",
               "type" : "text"
             }
           ],
@@ -876,10 +1152,579 @@
         },
         {
           "code" : [
-            "β_{total} = (β_1 \\times β_2)"
+            "β_{total} = (β_1 \\times β_2)",
+            "V_{BE} = V_{BE1} + V_{BE2}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Darlington pairs can be ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "treated",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " as a single transistor, with a single β value",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "If a single transistor can be driven into saturation, a darlington Pair should not be use.",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "Darlington pairs have a larger voltage drop across them, this in turn may reduce the total power dissipated by the load.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Warning",
+          "style" : "warning",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Explanation-question-structure-for-BJTs",
+          "level" : 4,
+          "text" : "Explanation question structure for BJT’s",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "state what happens to\/from the source",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "then by [some law or equation]",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "[if else statement] on what happens",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Configurations",
+          "level" : 2,
+          "text" : "Configurations",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_BJT_Configurations",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "items" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "know how to identify them, not the specific calculations.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "know the benefits and drawbacks of each kind",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ]
+                }
+              ],
+              "type" : "unorderedList"
+            }
+          ],
+          "name" : "Learning Outcomes",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CE - Common Emitter (most common)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CB - Common Base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CC - Common Collector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Configuration",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Input",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Output",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CE",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "collector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CB",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "emitter",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "collector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CC (also known as emitter follower)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "emitter",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_2_Stage_Amplifier",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Configuration",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Good",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Poor",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CE",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Good Voltage Gain",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Loads with low resistance (eg. Loudspeakers)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Good Current Gain",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "CC",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Good at driving low-resistance loads",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Voltage Gain is close to 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "CE amplifiers are the most commonly used amplifiers as they can provide ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "good voltage",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "current gain",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : ". However, CE amplifiers are not good at driving loads with low resistance such as loudspeakers. If an 8 Q loudspeaker is connected across the output terminal of a CE amplifier, the voltage gain is likely to drop significantly and we will not be able to obtain the amplification needed.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "On the other hand, the voltage gain of CC amplifiers is close to 1 (i.e., no voltage gain) but they are very good at driving low-resistance loads.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can tap on the strengths of both amplifiers by building a two-stage amplifier as shown in Figure 9.29. The first stage consists of a CE amplifier which provides good voltage gain.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "The second stage uses a CC amplifier to drive a low-resistance load such as a loudspeaker.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "¹ I don’t really understand the configurations in detail, but this is all I could find in the textbook",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -895,7 +1740,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -916,13 +1760,13 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
-"Example_BJT": {
-  "alt" : "Circuit making use of a BJT transistor",
-  "identifier" : "Example_BJT",
+"Diagram_2_Stage_Amplifier": {
+  "alt" : "2 Stage Amplifier",
+  "identifier" : "Diagram_2_Stage_Amplifier",
   "type" : "image",
   "variants" : [
     {
@@ -930,7 +1774,63 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Example_BJT.jpg"
+      "url" : "\/images\/Diagram_2_Stage_Amplifier.png"
+    }
+  ]
+},
+"Diagram_BJT_Amplifier": {
+  "alt" : "BJT Amplifier",
+  "identifier" : "Diagram_BJT_Amplifier",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_BJT_Amplifier.jpg"
+    }
+  ]
+},
+"Diagram_BJT_Configurations": {
+  "alt" : "BJT Configurations",
+  "identifier" : "Diagram_BJT_Configurations",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_BJT_Configurations.png"
+    }
+  ]
+},
+"Diagram_BJT_Darlington_Pairs": {
+  "alt" : "BJT Darlington Pair",
+  "identifier" : "Diagram_BJT_Darlington_Pairs",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_BJT_Darlington_Pairs.png"
+    }
+  ]
+},
+"Diagram_BJT_NPN_driver": {
+  "alt" : "BJT Driver",
+  "identifier" : "Diagram_BJT_NPN_driver",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Diagram_BJT_NPN_driver.png"
     }
   ]
 },
@@ -944,21 +1844,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : null,
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Graph_BJT_VCE_IC.jpg"
     }
   ]
 },

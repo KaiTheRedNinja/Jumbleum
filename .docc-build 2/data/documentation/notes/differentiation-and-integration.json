@@ -1,0 +1,1296 @@
+{
+  "abstract" : [
+    {
+      "text" : "Differentiation is the process of finding the function of the gradient of a function, integration is the process",
+      "type" : "text"
+    },
+    {
+      "text" : " ",
+      "type" : "text"
+    },
+    {
+      "text" : "of finding a function given the gradient of said function. Funception.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Amath"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Differentiation and integration"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Differentiation and integration are basic calculus. Common uses include",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Integration:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Area under graph",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Converting acceleration into velocity and velocity into distance",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Differentiation:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Finding the gradient of a function",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Converting distance into velocity and velocity into acceleration",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Differentiation",
+          "level" : 2,
+          "text" : "Differentiation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Differentiation is the process of finding the gradient of a function. The gradient of a function is the rate of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "change of the function at a given point.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It can be expressed in several different ways mathematically, though most commonly:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "f\\prime(x) = \\frac{d}{dx} f(x)",
+            "",
+            "y\\prime = \\frac{dy}{dx}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that dy\/dx looks like a fraction. It basically is.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Differentiation-Rules",
+          "level" : 3,
+          "text" : "Differentiation Rules",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are different rules that you can apply when differentiating a function:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sum rule (Differentiate each term separately)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "y = u + v",
+            "y\\prime = u\\prime + v\\prime"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Power rule (Bring power down, reduce power by 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "y = x^n",
+            "y\\prime = nx^{n-1}",
+            "",
+            "y = ax",
+            "y\\prime = a",
+            "",
+            "y = a",
+            "y\\prime = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Product rule (Baby shark dududududududu)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "y = uv",
+            "y\\prime = u\\frac{dv}{dx} + v\\frac{du}{dx}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Quotient rule (aka haidilao, because you low d-high minus high d-low over low low)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "y = \\frac{u}{v}",
+            "",
+            "y\\prime = \\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Chain rule (differentiate the function, then differentiate the inside function)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "y = f(g(x))",
+            "y\\prime = f\\prime(g(x)) \\cdot g\\prime(x)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "trig (just remember sin, cos, tan. The rest can be derived.)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\frac{d}{dx} sin(x) = cos(x)",
+            "",
+            "\\frac{d}{dx} cos(x) = -sin(x)",
+            "",
+            "\\frac{d}{dx} tan(x) = sec^2(x)",
+            "",
+            "\\frac{d}{dx} sec(x) = sec(x)tan(x)",
+            "",
+            "\\frac{d}{dx} cosec(x) = -cosec(x)cot(x)",
+            "",
+            "\\frac{d}{dx} cot(x) = -cosec^2(x)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Exponentials (remember that exes never change, no matter how different(iated) they are)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\frac{d}{dx} e^x = e^x",
+            "",
+            "\\frac{d}{dx} a^x = a^xln(a)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Logarithms (invert the lawn. Turn other logs into ln)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\frac{d}{dx} ln(x) = \\frac{1}{x}",
+            "",
+            "\\frac{d}{dx} log_a(x) = \\frac{1}{xln(a)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Applications-of-Derivatives",
+          "level" : 3,
+          "text" : "Applications of Derivatives",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Related-Rate-of-change",
+          "level" : 4,
+          "text" : "Related Rate of change",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Chain rule is defined as:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "code" : [
+            "\\frac{dy}{dx} = \\frac{dy}{du} \\cdot \\frac{du}{dx}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Form an equation of the diagram\/object. Ensure there are only TWO variables. For example, where we",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "have dA\/dt and want dr\/dt, we use the equation for the area of a circle:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "start" : 2,
+          "type" : "orderedList"
+        },
+        {
+          "code" : [
+            "y = \\pi r^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the first derivative of the equation. For example, dA\/dr",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Form Chain Rule based on ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "subject of the formula",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", NOT what you want to get. For example,",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "start" : 3,
+          "type" : "orderedList"
+        },
+        {
+          "code" : [
+            "\\frac{dA}{dt} = \\frac{dA}{dr} \\cdot \\frac{dr}{dt}",
+            "",
+            "NOT",
+            "",
+            "\\frac{dr}{dt} = \\frac{dA}{dt} \\cdot \\frac{dr}{dA}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Solve the equation to obtain the rate of change you want, dr\/dt",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "start" : 5,
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Stationary-points",
+          "level" : 4,
+          "text" : "Stationary points",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the first derivative of the function",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the stationary points by setting the first derivative to 0 and solving for x",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the nature of the stationary points by either:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Finding the second derivative and substituting the stationary points, then checking the sign of the",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "second derivative.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "-ve: Local Maximum",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "+ve: Local Minimum",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "0: Point of inflection",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Using the first derivative test, by checking the sign of the first derivative slightly before and after",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "the stationary point.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "-ve to +ve: Local Minimum",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "+ve to -ve: Local Maximum",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "+ve to +ve or -ve to -ve: Point of inflection",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Integration",
+          "level" : 2,
+          "text" : "Integration",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Integration is the process of finding the function given the gradient of said function. It is the reverse of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "differentiation.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It can be expressed in several different ways mathematically, though most commonly:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\int f(x) dx = F(x) + C"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "C",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the constant of integration. Because we saw in the Power Rule that constants disappear when",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "differentiating, we need to add a constant to account for the loss of information.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Integration-Rules",
+          "level" : 3,
+          "text" : "Integration Rules",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’m not going to bother with explaining them all because they’re the same as the differentiation rules, but in reverse.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sum rule (Integrate each term separately)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\int (u + v) dx = \\int u dx + \\int v dx"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Power rule (Bring power up, increase power by 1)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\int x^n dx = \\frac{x^{n+1}}{n+1} + C"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Chain rule (integrate the function, then integrate the inside function)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "\\int f(g(x)) dx = \\int f(u) du \\quad \\textrm{where} \\quad u = g(x)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One thing that you’ll find particularly useful is that when integrating, REMOVE CONSTANTS. Makes the equation easier.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\int 3x dx = 3 \\int x dx = 3 \\cdot \\frac{x^2}{2} = \\frac{3x^2}{2} + C"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Definite-Integrals",
+          "level" : 3,
+          "text" : "Definite Integrals",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Definite integrals are integrals that have limits. They are used to find the area under a curve between two points.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\int_a^b f(x) dx = F(b) - F(a)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "F(x)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the antiderivative (integral) of ",
+              "type" : "text"
+            },
+            {
+              "code" : "f(x)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "+C",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " goes away, because they cancel out when subtracting.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "a",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is usually larger than ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "b",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", aka further along the x-axis. Inverting this may result in a negative area.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "This measures area “under” the graph. When the graph is below the x-axis, the area is negative.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A definite integral of 0 does not mean the function is 0. It means the area under the curve is 0, which could",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "mean the function is symmetrical, such as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "y = sin(x)",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If part of the function goes negative but you need to find the area under the curve, you need to do the following:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the point(s) at which the function goes negative",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Split the integral into multiple parts, for the positive parts and the negative parts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Integrate each part separately",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sum the absolute values (your calculator shows this as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "|x|",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ") of the integrals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Area-between-curves",
+          "level" : 3,
+          "text" : "Area between curves",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To find the area between two curves, you need to find the difference between the two curves. This is done by",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "subtracting the lower curve from the upper curve, then integrating the result.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This can be more easily visualised as finding the area under the upper curve, then subtracting the area under the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "lower curve. Sum rule go brrrr",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\int_a^b (f(x) - g(x)) dx",
+            "",
+            "= \\int_a^b f(x) dx - \\int_a^b g(x) dx"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that if the curves intersect, you will have to account for that like in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration#Definite-Integrals",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Amath": {
+  "abstract" : [
+    {
+      "text" : "Strong algebraic manipulation and mathematical reasoning skills",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Amath",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/amath"
+},
+"doc://Notes/documentation/Notes/Differentiation-and-integration#Definite-Integrals": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration#Definite-Integrals",
+  "kind" : "section",
+  "title" : "Definite Integrals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/differentiation-and-integration#Definite-Integrals"
+}
+}
+}

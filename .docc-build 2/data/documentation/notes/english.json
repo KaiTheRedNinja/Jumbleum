@@ -1,0 +1,170 @@
+{
+  "abstract" : [
+    {
+      "text" : "The English language",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/English"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "English"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Paper 2 past year papers: https:\/\/drive.google.com\/drive\/folders\/1n4xdt-_DIt_k771DWqI0rR-mIjF9CFhl",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "sampleCodeDownload" : {
+    "action" : {
+      "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/1184_y24_sy.pdf",
+      "isActive" : true,
+      "overridingTitle" : "Curriculum",
+      "type" : "reference"
+    },
+    "kind" : "sampleDownload"
+  },
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "topicSections" : [
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing"
+      ],
+      "title" : "Paper 1: Essay"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+        "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
+        "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing"
+      ],
+      "title" : "Paper 2: Comprehension"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Comprehension": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Comprehension",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/comprehension"
+},
+"doc://Notes/documentation/Notes/Continuous-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 350–500 words on one of four topics set",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Continuous Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/continuous-writing"
+},
+"doc://Notes/documentation/Notes/Language-Use": {
+  "abstract" : [
+    {
+      "text" : "Language use questions ask how language is used to show stuff",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Language Use",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/language-use"
+},
+"doc://Notes/documentation/Notes/Situational-Writing": {
+  "abstract" : [
+    {
+      "text" : "Candidates write 250–350 words on a given situation which will involve viewing a visual text",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Situational Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/situational-writing"
+},
+"doc://Notes/documentation/Notes/Summary-Writing": {
+  "abstract" : [
+    {
+      "text" : "Part of Paper 2, basically summarise the given text in under 80 words",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Summary-Writing",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Summary Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/summary-writing"
+},
+"https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf": {
+  "checksum" : null,
+  "identifier" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/1184_y24_sy.pdf",
+  "type" : "download",
+  "url" : "https:\/\/www.seab.gov.sg\/docs\/default-source\/national-examinations\/syllabus\/olevel\/2024syllabus\/1184_y24_sy.pdf"
+}
+}
+}

@@ -323,7 +323,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Humanities",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
@@ -333,7 +332,6 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Geography-in-Everyday-Life",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
         "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
@@ -342,7 +340,6 @@
       "title" : "Geography in Everyday Life"
     },
     {
-      "anchor" : "Tourism",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
         "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
@@ -351,17 +348,36 @@
       "title" : "Tourism"
     },
     {
-      "anchor" : "Plate-tectonics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Plate-Tectonics",
         "doc:\/\/Notes\/documentation\/Notes\/Earthquakes-and-Volcanoes",
         "doc:\/\/Notes\/documentation\/Notes\/Disaster-Risk-Management"
       ],
       "title" : "Plate tectonics"
+    },
+    {
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Essay-Writing"
+      ],
+      "title" : "Exam Questions"
     }
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Checkmark.png"
+    }
+  ]
+},
 "In Progress.png": {
   "alt" : "In Progress",
   "identifier" : "In Progress.png",
@@ -372,7 +388,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
@@ -417,6 +433,26 @@
   "title" : "Earthquakes and Volcanoes",
   "type" : "topic",
   "url" : "\/documentation\/notes\/earthquakes-and-volcanoes"
+},
+"doc://Notes/documentation/Notes/Essay-Writing": {
+  "abstract" : [
+    {
+      "text" : "Essay but Social Studies… wait no… ✨Geography✨",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Essay-Writing",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Essay Writing",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/essay-writing"
 },
 "doc://Notes/documentation/Notes/Geographical-Methods": {
   "abstract" : [

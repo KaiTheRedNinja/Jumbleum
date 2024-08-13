@@ -667,7 +667,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
@@ -690,7 +689,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -704,7 +703,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_AC_Components.jpg"
+      "url" : "\/images\/Graph_AC_Components.jpg"
     }
   ]
 },
@@ -718,7 +717,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_AC_Waveform.jpg"
+      "url" : "\/images\/Graph_AC_Waveform.jpg"
     }
   ]
 },
@@ -732,7 +731,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Duty%20Cycle.jpg"
+      "url" : "\/images\/Graph_Duty%20Cycle.jpg"
     }
   ]
 },
@@ -746,7 +745,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Oscilloscope.jpg"
+      "url" : "\/images\/Graph_Oscilloscope.jpg"
     }
   ]
 },
@@ -826,6 +825,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Induction",

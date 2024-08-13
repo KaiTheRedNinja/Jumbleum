@@ -2276,7 +2276,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "II-Newtonian-Mechanics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
@@ -2299,7 +2298,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -2313,7 +2312,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Vector%20addition.jpg"
+      "url" : "\/images\/Diagram_Vector%20addition.jpg"
     }
   ]
 },
@@ -2327,7 +2326,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_Air%20resistance.jpg"
+      "url" : "\/images\/Graph_Air%20resistance.jpg"
     }
   ]
 },
@@ -2350,6 +2349,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Induction",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetic Induction",

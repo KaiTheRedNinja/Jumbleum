@@ -440,7 +440,6 @@
   ],
   "seeAlsoSections" : [
     {
-      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -461,7 +460,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -475,7 +474,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Diagram_Relay.jpg"
+      "url" : "\/images\/Diagram_Relay.jpg"
     }
   ]
 },
@@ -489,21 +488,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Graph_NTC.jpg"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Graph_NTC.jpg"
     }
   ]
 },
@@ -531,7 +516,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Bipolar-Junction-Transistors",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

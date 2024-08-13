@@ -62,7 +62,6 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Paper-1-Essay",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
         "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
@@ -73,7 +72,6 @@
       "title" : "Paper 1: Essay"
     },
     {
-      "anchor" : "Paper-2-Comprehension",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
         "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
@@ -94,7 +92,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Checkmark.png"
     }
   ]
 },
@@ -108,7 +106,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/In%20Progress.png"
     }
   ]
 },
