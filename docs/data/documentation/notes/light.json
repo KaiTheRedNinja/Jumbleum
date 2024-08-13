@@ -2467,6 +2467,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "IV-Waves",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
@@ -2487,7 +2488,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -2501,7 +2502,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Converging%20Lens%20Rays_Step%201.jpg"
+      "url" : "\/images\/Notes\/Diagram_Converging%20Lens%20Rays_Step%201.jpg"
     }
   ]
 },
@@ -2515,7 +2516,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Converging%20Lens%20Rays_Step%202.jpg"
+      "url" : "\/images\/Notes\/Diagram_Converging%20Lens%20Rays_Step%202.jpg"
     }
   ]
 },
@@ -2529,7 +2530,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Converging%20Lens%20Rays_Step%203.jpg"
+      "url" : "\/images\/Notes\/Diagram_Converging%20Lens%20Rays_Step%203.jpg"
     }
   ]
 },
@@ -2543,7 +2544,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Converging%20Lens_Parallel%20Rays.jpg"
+      "url" : "\/images\/Notes\/Diagram_Converging%20Lens_Parallel%20Rays.jpg"
     }
   ]
 },
@@ -2557,7 +2558,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Optical%20Fibre.jpg"
+      "url" : "\/images\/Notes\/Diagram_Optical%20Fibre.jpg"
     }
   ]
 },
@@ -2571,7 +2572,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Ray_Step%201.jpg"
+      "url" : "\/images\/Notes\/Diagram_Ray_Step%201.jpg"
     }
   ]
 },
@@ -2585,7 +2586,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Ray_Step%202.jpg"
+      "url" : "\/images\/Notes\/Diagram_Ray_Step%202.jpg"
     }
   ]
 },
@@ -2599,7 +2600,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Ray_Step%203.jpg"
+      "url" : "\/images\/Notes\/Diagram_Ray_Step%203.jpg"
     }
   ]
 },
@@ -2613,7 +2614,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_Refraction.jpg"
+      "url" : "\/images\/Notes\/Diagram_Refraction.jpg"
     }
   ]
 },

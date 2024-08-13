@@ -410,6 +410,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Applied-Subjects",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Electronics"
@@ -419,6 +420,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Data-and-Information",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Data-Management",
         "doc:\/\/Notes\/documentation\/Notes\/Data-Representation",
@@ -427,6 +429,7 @@
       "title" : "Data and Information"
     },
     {
+      "anchor" : "Systems-and-Communication",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computer-Architecture",
         "doc:\/\/Notes\/documentation\/Notes\/Data-Communications",
@@ -435,6 +438,7 @@
       "title" : "Systems and Communication"
     },
     {
+      "anchor" : "Abstraction-and-Algorithms",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Algorithm-Design",
         "doc:\/\/Notes\/documentation\/Notes\/Program-Development",
@@ -443,6 +447,7 @@
       "title" : "Abstraction and Algorithms"
     },
     {
+      "anchor" : "Computing+",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Networks-Extended"
       ],
@@ -461,7 +466,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

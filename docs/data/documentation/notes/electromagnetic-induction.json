@@ -375,7 +375,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "always state Faraday’s Law ",
+                  "text" : "Always state Faraday’s Law ",
                   "type" : "text"
                 },
                 {
@@ -1194,7 +1194,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "many thin sheets of iron stacked together",
+                  "text" : "Many thin sheets of iron stacked together",
                   "type" : "text"
                 }
               ],
@@ -1559,6 +1559,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "V-Electricity-and-Magnetism",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
@@ -1583,7 +1584,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1597,7 +1598,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_EMI_AC_Generator.png"
+      "url" : "\/images\/Notes\/Diagram_EMI_AC_Generator.png"
     }
   ]
 },
@@ -1611,7 +1612,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_EMI_Faradays_Induction_Ring.jpg"
+      "url" : "\/images\/Notes\/Diagram_EMI_Faradays_Induction_Ring.jpg"
     }
   ]
 },
@@ -1625,7 +1626,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_EMI_Flemings_RH_Rule.png"
+      "url" : "\/images\/Notes\/Diagram_EMI_Flemings_RH_Rule.png"
     }
   ]
 },
@@ -1639,7 +1640,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_EMI_Laminated_Iron_Core.png"
+      "url" : "\/images\/Notes\/Diagram_EMI_Laminated_Iron_Core.png"
     }
   ]
 },
@@ -1653,7 +1654,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_EMI_AC_Generator.png"
+      "url" : "\/images\/Notes\/Graph_EMI_AC_Generator.png"
     }
   ]
 },

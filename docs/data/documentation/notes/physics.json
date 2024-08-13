@@ -71,6 +71,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Mathematics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Emath",
@@ -81,12 +82,14 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "I-Measurement",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement"
       ],
       "title" : "I. Measurement"
     },
     {
+      "anchor" : "II-Newtonian-Mechanics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinematics",
         "doc:\/\/Notes\/documentation\/Notes\/Dynamics",
@@ -97,6 +100,7 @@
       "title" : "II. Newtonian Mechanics"
     },
     {
+      "anchor" : "III-Thermal-Physics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Kinetic-Particle-Model-of-Matter",
         "doc:\/\/Notes\/documentation\/Notes\/Thermal-Processes",
@@ -105,6 +109,7 @@
       "title" : "III. Thermal Physics"
     },
     {
+      "anchor" : "IV-Waves",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/General-Properties-of-Waves",
         "doc:\/\/Notes\/documentation\/Notes\/Electromagnetic-Spectrum",
@@ -113,6 +118,7 @@
       "title" : "IV. Waves"
     },
     {
+      "anchor" : "V-Electricity-and-Magnetism",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Static-Electricity",
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
@@ -125,12 +131,14 @@
       "title" : "V. Electricity and Magnetism"
     },
     {
+      "anchor" : "VI-Radioactivity",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Radioactivity"
       ],
       "title" : "VI. Radioactivity"
     },
     {
+      "anchor" : "Other",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Practical-Skills"
       ],
@@ -149,7 +157,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -163,7 +171,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

@@ -651,18 +651,6 @@
             "left"
           ],
           "extendedData" : {
-            "7_0" : {
-              "colspan" : 0,
-              "rowspan" : 1
-            },
-            "7_1" : {
-              "colspan" : 0,
-              "rowspan" : 1
-            },
-            "7_2" : {
-              "colspan" : 0,
-              "rowspan" : 1
-            },
             "12_0" : {
               "colspan" : 0,
               "rowspan" : 1
@@ -744,6 +732,18 @@
               "rowspan" : 1
             },
             "39_2" : {
+              "colspan" : 0,
+              "rowspan" : 1
+            },
+            "7_0" : {
+              "colspan" : 0,
+              "rowspan" : 1
+            },
+            "7_1" : {
+              "colspan" : 0,
+              "rowspan" : 1
+            },
+            "7_2" : {
               "colspan" : 0,
               "rowspan" : 1
             }
@@ -2057,6 +2057,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Statistics-and-Probability",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Probability"
@@ -2076,7 +2077,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

@@ -104,6 +104,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Mathematics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Emath",
         "doc:\/\/Notes\/documentation\/Notes\/Amath",
@@ -112,6 +113,7 @@
       "title" : "Mathematics"
     },
     {
+      "anchor" : "Applied-Subjects",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Computing",
         "doc:\/\/Notes\/documentation\/Notes\/Electronics"
@@ -119,6 +121,7 @@
       "title" : "Applied Subjects"
     },
     {
+      "anchor" : "Humanities",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
         "doc:\/\/Notes\/documentation\/Notes\/Geography"
@@ -126,12 +129,14 @@
       "title" : "Humanities"
     },
     {
+      "anchor" : "Languages",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/English"
       ],
       "title" : "Languages"
     },
     {
+      "anchor" : "Articles",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Essay-Question"
@@ -151,7 +156,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },

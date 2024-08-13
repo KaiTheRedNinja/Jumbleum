@@ -667,6 +667,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Fundamentals-of-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity",
@@ -689,7 +690,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -703,7 +704,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_AC_Components.jpg"
+      "url" : "\/images\/Notes\/Graph_AC_Components.jpg"
     }
   ]
 },
@@ -717,7 +718,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_AC_Waveform.jpg"
+      "url" : "\/images\/Notes\/Graph_AC_Waveform.jpg"
     }
   ]
 },
@@ -731,7 +732,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_Duty%20Cycle.jpg"
+      "url" : "\/images\/Notes\/Graph_Duty%20Cycle.jpg"
     }
   ]
 },
@@ -745,7 +746,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_Oscilloscope.jpg"
+      "url" : "\/images\/Notes\/Graph_Oscilloscope.jpg"
     }
   ]
 },

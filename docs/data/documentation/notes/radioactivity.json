@@ -834,7 +834,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "a process in which a parent nucleus splits (usually into two daughter nuclei) and releases a huge amount of energy.",
+                  "text" : "A process in which a parent nucleus splits (usually into two daughter nuclei) and releases a huge amount of energy.",
                   "type" : "text"
                 }
               ],
@@ -850,7 +850,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "a process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.",
+                  "text" : "A process in which two light atomic nuclei combine to form one heavier atomic nucleus and releases a huge amount of energy.",
                   "type" : "text"
                 }
               ],
@@ -885,7 +885,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

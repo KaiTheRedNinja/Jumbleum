@@ -53,6 +53,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Mathematics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Emath",
@@ -63,6 +64,7 @@
   ],
   "topicSections" : [
     {
+      "anchor" : "Algebra",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
         "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
@@ -74,6 +76,7 @@
       "title" : "Algebra"
     },
     {
+      "anchor" : "Geometry-and-Trigonometry",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
         "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
@@ -82,6 +85,7 @@
       "title" : "Geometry and Trigonometry"
     },
     {
+      "anchor" : "Calculus",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Differentiation-and-integration"
       ],
@@ -100,7 +104,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -114,7 +118,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/In%20Progress.png"
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

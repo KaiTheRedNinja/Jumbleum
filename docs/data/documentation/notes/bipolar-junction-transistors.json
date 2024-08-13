@@ -643,7 +643,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "is mainly controlled by ",
+                  "text" : "Is mainly controlled by ",
                   "type" : "text"
                 },
                 {
@@ -1740,6 +1740,7 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Analogue-Electronics",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Semiconductor-Diodes",
@@ -1760,7 +1761,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Checkmark.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1774,7 +1775,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_2_Stage_Amplifier.png"
+      "url" : "\/images\/Notes\/Diagram_2_Stage_Amplifier.png"
     }
   ]
 },
@@ -1788,7 +1789,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_BJT_Amplifier.jpg"
+      "url" : "\/images\/Notes\/Diagram_BJT_Amplifier.jpg"
     }
   ]
 },
@@ -1802,7 +1803,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_BJT_Configurations.png"
+      "url" : "\/images\/Notes\/Diagram_BJT_Configurations.png"
     }
   ]
 },
@@ -1816,7 +1817,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_BJT_Darlington_Pairs.png"
+      "url" : "\/images\/Notes\/Diagram_BJT_Darlington_Pairs.png"
     }
   ]
 },
@@ -1830,7 +1831,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Diagram_BJT_NPN_driver.png"
+      "url" : "\/images\/Notes\/Diagram_BJT_NPN_driver.png"
     }
   ]
 },
@@ -1844,7 +1845,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Graph_BJT_VCE_IC.jpg"
+      "url" : "\/images\/Notes\/Graph_BJT_VCE_IC.jpg"
     }
   ]
 },
