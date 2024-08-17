@@ -86,6 +86,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
         "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
         "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/SS-Examples",
         "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
       ]
     }
@@ -103,6 +104,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -201,6 +216,26 @@
   "title" : "Living in a Diverse Society",
   "type" : "topic",
   "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"doc://Notes/documentation/Notes/SS-Examples": {
+  "abstract" : [
+    {
+      "text" : "A collection of SS content examples, organised by chapter.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SS Examples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ss-examples"
 },
 "https://sites.google.com/sst.edu.sg/ss-one-stop-s4-2024/home": {
   "identifier" : "https:\/\/sites.google.com\/sst.edu.sg\/ss-one-stop-s4-2024\/home",

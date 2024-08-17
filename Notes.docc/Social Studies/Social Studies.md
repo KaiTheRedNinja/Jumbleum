@@ -18,4 +18,5 @@ See the official [SS One-Stop](https://sites.google.com/sst.edu.sg/ss-one-stop-s
 - <doc:Exploring-Citizenship-and-Governance>
 - <doc:Living-in-a-Diverse-Society>
 - <doc:Being-Part-of-a-Globalised-World>
+- <doc:SS-Examples>
 - <doc:Exam-Techniques>

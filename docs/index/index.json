@@ -615,6 +615,12 @@
                 "type" : "article"
               },
               {
+                "icon" : "In Progress.png",
+                "path" : "\/documentation\/notes\/ss-examples",
+                "title" : "SS Examples",
+                "type" : "article"
+              },
+              {
                 "children" : [
                   {
                     "icon" : "Checkmark.png",
@@ -722,6 +728,11 @@
                 "type" : "groupMarker"
               },
               {
+                "path" : "\/documentation\/notes\/essay-question",
+                "title" : "Essay Question",
+                "type" : "article"
+              },
+              {
                 "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/essay-writing",
                 "title" : "Essay Writing",
@@ -797,15 +808,6 @@
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
-          },
-          {
-            "title" : "Articles",
-            "type" : "groupMarker"
-          },
-          {
-            "path" : "\/documentation\/notes\/essay-question",
-            "title" : "Essay Question",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

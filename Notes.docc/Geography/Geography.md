@@ -67,4 +67,5 @@ question.
 - <doc:Disaster-Risk-Management>
 
 ### Exam Questions
+- <doc:Essay-Question>
 - <doc:Essay-Writing>

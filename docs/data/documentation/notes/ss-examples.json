@@ -1,0 +1,4713 @@
+{
+  "abstract" : [
+    {
+      "text" : "A collection of SS content examples, organised by chapter.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/Social-Studies"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "SS Examples"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I do not know who owns those notes, But all of the examples in this page were initially gathered",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/docs.google.com\/document\/d\/1qMTvYrh5yqgl5pMsgYAp8Wq4KasrUqaEKzfw0ORP6BY\/edit",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Issue-1-Citizenship-and-Governance",
+          "level" : 2,
+          "text" : "Issue 1: Citizenship and Governance",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Chapter-1-What-Does-Citizenship-Mean-to-Me",
+          "level" : 3,
+          "text" : "Chapter 1: What Does Citizenship Mean to Me",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Legal status",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": when a person is recognised by law to be a member of that country",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Rights",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": to the freedom and privileges that citizens in a country have.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "An obligation of male citizens in Singapore is to serve National Service (NS). Under the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Enlistment Act introduced in 1967, 18-year-old male citizens and PRs are ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "required to serve NS",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ". Following",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the completion of full-time NS, they will be required to serve up to 40 days of Operationally Ready",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "National Service per year, until 40 or 50 years old.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When citizens share ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "common spaces, practices, and experiences",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", they develop a ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "sense of belonging",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : "",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and emotional attachment to the country.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Singaporeans consider ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "hawker centres",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " as important common spaces that represent Singapore’s",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "multicultural heritage. In 2019, many Singaporeans, including those living abroad, pledged their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "support for the country’s nomination of its ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "hawker culture to UNESCO’s Representative List",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " of Intangible",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Cultural Heritage of Humanity, which was recognised in December 2020.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Shared values",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": values that are embraced and seen as important by a group of people.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "During the 2018 Fédération Internationale de Football Association (FIFA) World Cup Russia,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Japanese fans were seen using plastic bags to ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "clear litter at the end of the football match",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " between",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Japan and Columbia.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In embracing the value of “multiculturalism”, Singaporeans generally believe in living in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "harmony in a multiracial and multireligious society. They make a ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "conscious effort",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " to understand and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "develop ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "good relationships",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " with people from different races and religions. As Singaporeans uphold the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "value of multiculturalism, they take pride and identify this value as an ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "essential part of being Singaporean",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ".",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Civic participation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": citizens actively taking part in public affairs to address societal issues or to",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "help certain groups in the country.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Public affairs",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": matters of general interest or concern to ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "most people in society",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ". Individuals can",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "participate by volunteering their time, effort, and money in matters they are concerned about.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2020, Mr Andy Teo initiated this project, Temporary Academic Assistance, to connect students",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "with volunteer tutors. Mr Teo saw this need when schools moved to full home-based learning during the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "COVID-19 pandemic. He enlisted the help of tutors through social media to teach for free. In just a week,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "250 volunteered to serve",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ".",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Community groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": groups of citizens with common interests or purposes that contribute towards specific",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "needs of society.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Informal groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": When there is an issue or area of need that requires attention, people organise themselves",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "into ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "informal community groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " to address the concern or specific need. These groups generally exist for a",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "period of time",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " needed to address the specific objectives. They may ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "not be registered with the government",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Mr Nigel Teo and his friends started a mobile application called GoodHood.SG to ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "promote",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "neighbourliness in Singapore",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ". Through the app, individuals in Singapore are able to connect meaningfully with",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "their neighbours by asking for or offering help.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Formal groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Formal community groups have clear objectives and are officially registered with the government.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "They cater to specific needs and interests of society and generally devote their efforts over a ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "sustained period of time",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Non-governmental organisations (NGOs) and social service agencies (SSAs) are examples of formal community groups.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "SSAs, unlike NGOs, are ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "affiliated with the government",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " through the National Council of Social Service (NCSS), which provides",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "some ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "coordination and funding",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Zero Waste Singapore is an NGO leading the drive towards zero waste in Singapore through education",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and advocacy. It engages the public, companies, schools, and government agencies to discuss the 3Rs in relation",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to food waste, plastic disposables, household recycling, and organisational waste. In 2017, Zero Waste SG started",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the Bring Your Own (Singapore) movement, in which 430 retail outlets offered incentives to customers who bring their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "own reusable bags, bottles, or containers",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ". In four months, the initiative reduced over ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "2.5 million pieces of",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "plastic disposables",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ".",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "SG Enable is dedicated to enabling persons with disabilities and promoting an inclusive society. Through",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "workshops organised by SG Enable, participants learnt how to ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "interact with consumers with disabilities",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "improve the accessibility of products and services for them.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-2-What-Are-the-Functions-and-Roles-of-Government-in-Working-for-the-Good-of-Society",
+          "level" : 3,
+          "text" : "Chapter 2: What Are the Functions and Roles of Government in Working for the Good of Society",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Maintain Law and Order",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The government’s role in society is to maintain law and order. The Singapore Police",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Force (SPF) aims to ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "prevent, deter, and detect crime",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", with its work being wide-ranging. The Courts and law",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "enforcement  agencies that investigate crimes seek to ensure that justice is served in every case.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Everyone, ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "including the government itself, is equal before the law",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2013, a former civil servant from the Corrupt Practices Investigation Bureau was convicted for misusing",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "money entrusted to his care. He was jailed for 10 years.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2020, a foreign domestic worker was accused of theft by her employers, the family of a wealthy and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "prominent business figure. After further investigations following her appeal, she was freed from all criminal charges.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Ensure Economic and Social Well-Being",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": One way for governments to ensure citizens’ economic and social well-being",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "is by devoting ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "significant resources",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : " to provide ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "goods and services to the public",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Polyclinics located throughout Singapore are one-stop healthcare centres that provide subsidised primary",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "care. Services include outpatient medical treatment and diagnostic tests.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Central Provident Fund (CPF) is a ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "comprehensive savings plan",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " that provides a foundation for most",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Singaporeans’ retirement",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ", can be used to buy a home, or pay for healthcare expenses.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "SkillsFuture programme",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : " offers skills-focused courses relevant to ",
+                          "type" : "text"
+                        },
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "industry needs for career",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "development",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "strong"
+                        },
+                        {
+                          "text" : ", provides SkillsFuture Credit for Singaporeans when they turn 25 years old, Work-Study programmes for",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "students to get a head start in the workforce, and a subsidy of at least 90% for eligible courses for Singaporeans",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "aged 40 and above. For instance, 53-year-old Mdm Zaiton Zaini, a mother of four, initially joined the workforce with",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "an N-Level certificate. Through the SkillsFuture movement, she enrolled in a Professional Diploma in Leadership and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "People Management in 2018. Encouraged to continuously learn, she obtained a Diploma in Retail and then a Specialist",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Diploma in Retail in 2021.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "National Interests",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": What is necessary to ensure a country’s security and well-being. They influence the objectives",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "of foreign policy. This includes ensuring the country’s trade with others can promote economic growth, ensuring the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "population has sufficient food and water for survival, and ensuring the country is safe from attacks by other countries.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Diplomacy",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Practice of obtaining agreement between countries to cooperate in order to produce results that align",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "with their interests.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Singapore maintains strong bilateral relations with Malaysia, an example of which is water security. Under",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the 1962 Water Agreement, Singapore draws 250 million gallons of raw water per day from the Johor River. In return,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore provides Malaysia with a daily supply of treated water, up to 2 percent of the volume supplied to Singapore.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Singapore establishes multilateral relationships with other countries through its memberships in regional",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and international organisations like the Association of Southeast Asian Nations (ASEAN). Through ASEAN, Singapore has",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "been able to establish partnerships with countries within and beyond ASEAN. One such partnership is the Regional",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Comprehensive Economic Partnership (RCEP), a trade agreement signed by Singapore and 14 other Asia-Pacific countries.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "It aims to deepen economic cooperation, facilitate expansion of trade and investment, and increase opportunities for",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "businesses and employment.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Businesses in Singapore can take advantage of the strengthened trade ties among RCEP members by enjoying",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "more cost savings and profits due to the elimination of tariffs for about 90 percent of goods traded among the members.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Additionally, the RCEP creates a conducive environment for a digital economy, as it is committed to protecting consumers’",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "personal information, promoting paperless trading, electronic authentication systems, and cybersecurity.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Deterrence",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Measures a country takes to discourage potential aggressors by making it costly for them to attack.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Ministry of Defence develops the Singapore Armed Forces (SAF) to respond to military threats. Developed",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and manufactured locally, the Hunter Armoured Fighting Vehicle (AFV) is the Singapore Army’s first fully digitalised",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "platform. It requires less manpower to operate, has touchscreen controls, and an automatic system that enables the crew",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to detect and engage targets quickly and effectively. Unmanned Aerial Vehicles (UAVs) are crucial for effective aerial",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "surveillance and coordinated strikes. The Orbiter 4 CR-UAV can be deployed quickly and in confined areas to scan the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "battlefield so commanders can understand the situation and make better decisions. The SAF’s command and control information",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "system uses AI and data analytics to quickly recognise enemy appearances, calculate the time needed for enemies to reach",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "a strike location, and recommend strike locations and weapons to use against threats. This allows commanders to coordinate",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "attacks with greater speed, ease, and precision.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-3-How-Do-We-Decide-What-Is-Good-for-Society",
+          "level" : 3,
+          "text" : "Chapter 3: How Do We Decide What Is Good for Society",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Unequal Sharing of Costs",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Varying impact a decision has on different groups of people.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Trade-off",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Involves making a decision between two or more things that cannot be obtained at the same time due to",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "limited resources.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In January 2013, the Singapore government announced plans to build the Cross Island Line (CRL) as Singapore’s",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "eighth Mass Rapid Transit (MRT) line. The CRL was proposed to pass through and run under the Central Catchment Nature",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Reserve. When completed, it will be the longest fully underground line and will link major hubs such as the Jurong Lake",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "District and the Punggol Digital District. The CRL is projected to serve 600,000 commuters per day, increasing to over",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "1 million in the longer term. The CRL will have the highest number of interchange stations, with almost half the stations",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "on the line linked to existing rail stations. While Singaporeans could agree on some of the benefits the CRL brings to",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "society, there were disagreements on which route it should take. In July 2013, the Nature Society (Singapore) (NSS)",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "raised concerns about the construction of the CRL and recommended adjusting the route to skirt around the nature reserve.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Before making the final decision on the CRL route in 2019, the Land Transport Authority (LTA) had to consider the two",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "options carefully.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Governance",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Defined as the exercise of authority and the use of resources to manage the problems and affairs of",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "society.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Meritocracy",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": A system that distributes opportunities and rewards according to merit. People are rewarded according",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "to the effort they put in rather than factors like race, religion, and family background.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Edusave Award for Achievement, Good Leadership and Service (EAGLES) is given to up to 10 percent of",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "students from each school who have demonstrated leadership qualities, service to the community and schools, excellence",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "in non-academic activities, and good conduct.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Edusave Good Progress Award is given to students who are within the top 10 percent of their school’s level",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and course in terms of improvement in academic performance and have demonstrated good conduct.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Edusave Scholarship is awarded to students who are within the top 10 percent of their school’s level and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "course in terms of academic performance and have demonstrated good conduct.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Singapore’s effort to tackle the challenge of rising sea levels includes setting aside a $5 billion budget in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "2020 for the Coastal and Flood Protection Fund to help the country meet the significant risks of rising sea levels caused",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "by climate change. This effort was highlighted by PM Lee Hsien Loong during the National Day Rally in 2019.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Singapore Together movement, launched in June 2019, encourages Singaporeans to partner with the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "government and each other to shape and act on their shared future. This includes partnership opportunities or government",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "support for citizen-led initiatives. The Emerging Stronger Conversations (ESC) series, part of this movement, ran from",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "June to September 2020 and involved over 16,900 Singaporeans expressing their hopes for how Singapore can emerge stronger",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "from the COVID-19 pandemic.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-4-How-Can-We-Work-Together-for-the-Good-of-Society",
+          "level" : 3,
+          "text" : "Chapter 4: How Can We Work Together for the Good of Society?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Efforts by Community Groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "RSVP Singapore is an example of a social service agency (SSA), a formal community group organised by",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "citizens. Formed in 1998, RSVP Singapore actively engages senior citizens in volunteerism. This group believes that",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "seniors play a vital role in society and seeks to provide them with meaningful opportunities to contribute to the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "community. Senior volunteers at RSVP Singapore serve more than 200,000 beneficiaries each year. Beneficiaries include",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "socially isolated seniors, elderly patients discharged from hospital care, the mentally disadvantaged, and at-risk",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "children from low-income families. RSVP Singapore also runs the Volunteer Learning Centre, where qualified senior",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "volunteers train other volunteers. Volunteers in the MyBuddy programme at RSVP Singapore help recently discharged",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "elderly patients cope well at home by offering physical and moral support during regular house visits. The Cyberguide",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "programme at RSVP Singapore offers a wide range of courses that equip senior citizens with up-to-date IT skills and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "knowledge.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Efforts by the Government",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Government agencies such as the National Council of Social Service (NCSS) develop resources to enhance the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "capabilities of SSAs, including those committed to meeting the needs of the elderly. NCSS developed the Volunteer",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Management Toolkit 2.0 to provide SSAs with a framework and guidelines on how to manage volunteers effectively. It",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "worked with various partners such as RSVP Singapore to contribute to the development of the Toolkit by sharing their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "best practices in Volunteer Management, so that the learning can be shared with the rest of the SSAs.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Addressing Gaps in Needs",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Despite the efforts of community groups and the government, there could still be gaps in",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "addressing specific needs of groups of people. To bridge these gaps, individuals can initiate their own efforts or",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "actively tap on the resources and programmes provided by the government and community groups. Complementary efforts are",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "important as the needs and challenges of certain groups in society are complex and some would benefit from more",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "personalised attention and care.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Reaching Everyone for Active Citizenry @ Home (REACH) is the national feedback and engagement unit under",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the Ministry of Communications and Information. It seeks to engage citizens’ views on public policies, listen to their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "concerns and issues, and consolidate and share the feedback with relevant government agencies. REACH uses social media",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "platforms such as Instagram, Twitter, WhatsApp, and Facebook, in addition to email and online feedback, to encourage",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singaporeans to highlight key issues of concern to the government. It also organises both face-to-face and online",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "engagement sessions such as public forums, dialogue sessions, and Listening Points (roving feedback booths) to involve",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singaporeans in shaping public policies.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Citizens’ Jury for the War on Diabetes is an example of citizens and the government working together to",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "influence public policy decision-making. In 2016, the Ministry of Health (MOH) launched a nationwide effort, the War on",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Diabetes, to help Singaporeans prevent and manage diabetes. As part of this effort, MOH organised Singapore’s first",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Citizens’ Jury to develop community-based and community-driven recommendations. The jury included 76 Citizen Jurors",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "(Singapore citizens and PRs), such as people living with and without diabetes, caregivers, and healthcare providers.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Resources provided by MOH included an information kit with data on diabetes and contributions from 21 experts (healthcare",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "practitioners, academics, and volunteers) from various organisations. The process involved 4 sessions over 7 weeks from",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "November 2017 to January 2018. On April 14, 2018, MOH announced that it would support 14 out of 28 recommendations and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "explore the remaining 13. Supported recommendations included installing more water coolers in public areas as part of a",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "campaign to drink more water and implementing a diabetes awareness campaign and curriculum for children.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Ways Citizens Can Develop a Sense of Belonging",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Every year, Singaporeans celebrate National Day on 9 August, commemorating the day Singapore gained",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "independence.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Through programmes such as Remaking Our Heartland and HDB’s Build-A-Playground, citizens can participate in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "surveys, focus group discussions, and workshops to contribute ideas for the design of neighbourhood spaces such as parks",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and playgrounds.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are a few more examples about Dakota Crescent’s redevelopment. I’m not including them because they’re very long.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Issue-2-Living-in-a-Diverse-Society",
+          "level" : 2,
+          "text" : "Issue 2: Living in a Diverse Society",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Chapter-5-What-are-the-factors-that-shape-the-identities-of-people-and-contribute-to-a-diverse-society",
+          "level" : 3,
+          "text" : "Chapter 5: What are the factors that shape the identities of people and contribute to a diverse society?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Socio-Cultural Diversity",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Different races, ethnicities, religions, and nationalities.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Socio-Economic Diversity",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Different socio-economic backgrounds due to education, income, and wealth.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Race",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Biological classification of people including physical characteristics.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Ethnicity",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Culture of a group of people who share ancestry, customs, and traditions.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "CMIO",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Chinese, Malay, Indian, Others, racial categorisation in Singapore.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Group Representation Constituency (GRC) was established in 1988 to ensure that minority races in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore are represented in Parliament. A group of Members of Parliament (MPs) represents the interests of residents",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "in the constituency. At least one of the MPs in the group representing a GRC must belong to the Malay or Indian community,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "or another minority racial community.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Ethnic Integration Policy (EIP) was introduced in 1989 to promote interaction and harmony among ethnic",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "groups in Singapore. Its aim was also to prevent the rise of ethnic enclaves. The EIP ensures that there is a mix of",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "various ethnic groups in each HDB block, based on the ethnic make-up of Singapore. Since different ethnic groups live",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "in the same block, they have opportunities to interact with one another.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Socio-Economic Status",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Economic situation shared by a group of people.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Social Mobility",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": An individual’s movement across socio-economic positions.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "To ensure children have a good start in life, the Singapore government introduced the KidSTART programme as",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "added support for children ged six and below. KidSTART equips parents with relevant knowledge and skills to nurture their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "child’s early development. KidSTART is offered to families that need it most, such as those with a household income of",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "$2,500 or less, or a gross monthly per capita income of $650 or less.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-6-What-Are-the-Experiences-and-Effects-of-Living-in-a-Diverse-Society",
+          "level" : 3,
+          "text" : "Chapter 6: What Are the Experiences and Effects of Living in a Diverse Society?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Common Space",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Physical location and\/or a social space where different groups of people interact, cooperate, or",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "collaborate on projects\/activities.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "A void deck in Ang Mo Kio serves as a common space for bird enthusiasts to gather and enjoy the singing of",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "songbirds.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Inter-Racial and Religious Confidence Circles (IRCCs) were first established in 2002 to serve as an",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "inter-faith platform. IRCCs are formed in every constituency to promote racial and religious harmony among different",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "religious, ethnic, and community groups. On 30 July 2022, the IRCCs were renamed as Racial and Religious Harmony Circles.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "They continue to deepen the work of building trust, understanding, and confidence among various communities through",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "activities that promote inter-faith and inter-ethnic interactions.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The People’s Association (PA) aims to promote racial harmony and social cohesion in Singapore. It offers a",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "wide range of community service, sports, and cultural programmes that help connect people to people and people with",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the government. These programmes are carried out through a network of over 2,000 grassroots organisations, over 100",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Community Clubs\/Centres (CCs), five Community Development Councils, the National Community Leadership Institute, and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "PAssion WaVe.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Just An Extra Chair is an initiative organised by the Singapore Kindness Movement. Singaporeans who are",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "willing host guests during festive celebrations. Most of the guests are foreigners working or studying in Singapore who",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "would otherwise spend festive seasons alone.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Dilution of Culture",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Loss of identity in affected communities.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The month-long Geylang Serai Hari Raya bazaar, held during the Muslim fasting month of Ramadan, has",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "incorporated fusion food since 2019. This has led to a strong public reaction, with many saying that the bazaar has",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "deviated too much from tradition. As a response to this outcry, it was recommended that at least 60 per cent of the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "bazaar’s food stalls should sell traditional Malay food.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Cultural Appropriation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": When a language, cuisine, music, dance, or dress of a culture is used without permission",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "or portrayed in an insensitive manner.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2019, a large Italian fashion company plagiarised the traditional designs of the Oma ethnic minority",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "group in their clothing collection. The company digitally duplicated and printed the designs onto their dresses,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "skirts, and blouses. The colours, shapes, and arrangement of the designs were identical to the traditional Oma",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "designs. The company was called out for cultural appropriation. People pointed out that simply scanning and printing",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the traditional designs on clothing was disrespectful to the Oma people, who take the time, skill, and patience to",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "create their homemade textiles. Furthermore, the company did not acknowledge the Oma in their marketing, labelling,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "or display of the clothing collection, nor did they provide any compensation to the Oma.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Thermo Fisher Scientific is one of the world’s largest medical device makers. For over two decades,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Thermo Fisher’s research and development (R&D) centre has been in Singapore because of its well-developed infrastructure",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "for biomedical research and development. Singaporeans in the company are trained in leadership skills and encouraged",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to collaborate with employees from different cultures, experiences, and expertise, enabling employees to sharpen their",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "skills by sharing and learning from one another.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Stereotypes",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Generalised beliefs about a particular group of people.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Prejudice",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Attitudes and feelings towards other groups that are not based on reason or fact.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Xenophobia",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Prejudice directed against people of a specific nationality or country.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Discrimination",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The act of hurting or excluding a group of people based on prejudice.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Racism",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Feelings of prejudice based on someone’s race or ethnic group.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In June 2021, an interracial couple comprising a man of Indian and Filipino-Spanish descent and his",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "girlfriend of Thai-Chinese descent were strolling along Orchard Road. A local Chinese man confronted the couple and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "accused the man of “preying on a Chinese girl” and ordered him to date “people of his own race”. The Chinese man was",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "later fired from his job as a polytechnic lecturer and was charged in court for his actions.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "A nurse had been on good terms with his neighbours for six years. However, that changed in 2021 during the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "COVID-19 pandemic when his neighbours learned that the nurse and his wife were frontline workers. His neighbours",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "repeatedly harassed them, called them a “virus” before proceeding to spray their daughter’s face with disinfectant, and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "poured disinfectant at their doorway. His parents were also verbally abused. The neighbours were later charged and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "pleaded guilty to their actions.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-7-How-Can-We-Respond-to-Diversity-in-Society",
+          "level" : 3,
+          "text" : "Chapter 7: How Can We Respond to Diversity in Society?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Assimilationist Policies",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Immigrants are expected to adopt the beliefs and practices of the majority group in the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "host country. Over time, the identities of the assimilated group are expected to become identical to those of the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "majority group. (e.g., Denmark, Germany, and France)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "France believes that the ideal of harmony in society is achieved when every individual puts aside his or",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "her connections to race, ethnicity, and religion. While France acknowledges the existence of diverse cultural identities,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "it believes that the French national identity should be prioritized over other identities.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Secularism",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Belief in setting a clear separation of religious affairs from governance and not favouring one",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "religion over another.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In the French classroom, there is no discussion about religion except in History, Literature, Philosophy,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and Art classes. In 2015, France launched a new course in moral and civic education to promote the values of its national",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "motto, as well as justice, mutual respect, and non-discrimination.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Example: The French government introduced the Diversity Charter in 2004 to raise employers’ awareness of recruiting",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "employees from diverse backgrounds. The charter encourages companies to be inclusive and carry out tangible actions to",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "promote diversity at the workplace.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Naturalisation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Legal act or process by which a non-national of a country acquires the nationality of that country",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "after birth.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In France, immigrants seeking citizenship can attend a four-day civic training course in French principles",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and values, as well as practical aspects of life in French society. Up to 600 hours of free language courses are also",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "offered to help immigrants master French in their everyday life.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Example: In 2004, France introduced a law that banned the wearing of clearly visible religious attire and symbols in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "public schools. This was to maintain religious neutrality in French public schools.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Integration",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Minority groups and immigrants retain their unique identities while forging common ground with the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "majority group in the host country (Canada, New Zealand, Singapore).",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2009, the National Integration Council launched the Community Integration Fund to support organisations",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "in implementing projects to encourage interactions between Singaporeans, immigrants, and foreigners so that they can",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "deepen mutual understanding, build relationships with each other, and develop a stronger connection to Singapore.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Example: The People’s Association organises events like house visits, block parties, and festive celebrations so that",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "new Singapore citizens and Permanent Residents can get to know their neighbourhood better and make new friends in the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "community.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Example: New Singapore citizens go through a compulsory programme called the Singapore Citizenship Journey, a",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "collaborative effort between the Ministry of Culture, Community and Youth, the Immigration & Checkpoints Authority, and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the People’s Association.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Common Experiences",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": Provide opportunities for immigrants and locals to interact with one another.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In serving to defend Singapore, National Service (NS) brings people from diverse backgrounds to train and live",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "together. Through this common experience, NSmen learn to develop a sense of collective interest. This common life-shaping",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "experience helps to strengthen the relationships between them and create a strong Singapore national identity.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Example: The Armed Forces Volunteer Corps (SAFVC) provides an opportunity for individuals who are not required to serve",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "NS, such as women, first-generation Singapore PRs, and new citizens aged 18 to 45, to contribute to Singapore’s national",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "defence.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Responses of Citizens as Individuals and Community Groups",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 2014, Mr Nizar Mohamed Shariff started a charity called Free Food For All (FFFA) to provide nutritious",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "halal food to the less fortunate, regardless of their race or religion. Initially focused on delivering freshly cooked",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "meals, FFFA now offers different food options and channels, which include ready-to-eat (RTE) meals, fresh vegetables,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "groceries, and a weekly stocked community fridge. They also collaborate with other food businesses to cater RTE meals",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "for their beneficiaries. In 2021 alone, FFFA served more than 160,000 meals, including RTE meals to more than 1,000",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "families each month.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Daughters Of Tomorrow (DOT) is a formal community group that conducts programmes to help women aged 20 to 60",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "upgrade their skills and find jobs. Most of these women come from low-income families or live in subsidised rental flats.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "DOT’s financial literacy programme is a series of four weekly workshops followedby seven months with a support group.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "The women learn good money-management skills and progress towards their financial goals.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Keeping Hope Alive (KHA) is an informal group whose volunteers offer their time and skills to help the less",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "privileged in Singapore. Every Sunday, about 50 to 60 volunteers conduct door-to-door visits to one- and two-room rental",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "flats to look out for residents who are in need and take action to meet their needs. These actions include cleaning",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "their homes, fixing and replacing their home appliances, and providing them with haircuts.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society#Managing-Issues-of-Socio-economic-Diversity",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more info about Sweden’s government-financed",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "approach to managing SES differences, and Singapore’s shared responsibility approach.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Issue-3-Being-Part-of-a-Globalised-World",
+          "level" : 2,
+          "text" : "Issue 3: Being Part of a Globalised World",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Chapter-8-What-Are-the-Factors-That-Contribute-to-Globalisation",
+          "level" : 3,
+          "text" : "Chapter 8: What Are the Factors That Contribute to Globalisation?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Globalisation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": process through ideas and activities of people living in different parts of the world become",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "interconnected",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Interconnections",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": links created or established among people, businesses and countries through the movement of goods,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "services, people, knowledge and resources",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Interdependence",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": where developments in the globally and locally affect one another",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Driving forces of globalisation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ":",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Technological advancements",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Developments in transportation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Developments in digital technology",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Growth of multinational corporations",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Shinkansen bullet trains in Japan are among the world’s fastest trains. As at 2023, the rail network",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "covers a distance of around 3,478 km and its trains can travel up to 320 km\/h.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Singapore-Johor Causeway and the Tuas Second Link connect Singapore and Malaysia by land. It facilitates",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "the commute of workers daily between Malaysia and Singapore, and also supports the import of water between the two",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "countries.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Singapore is a key transit node on many flight routes that connect the Americas, Europe, Asia and Australasia.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore has an advantage as it is located within a seven-hour flight radius of major markets in East Asia and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Southeast Asia.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Port of Singapore is situated at the crossroads of some of the world’s busiest commercial shipping lanes",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "that connect Asia, the Middle East, Europe and the Americas. Annually, over 130,000 vessels call at the Port of Singapore,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "which serves about 200 shipping lines linking more than 600 ports in over 120 countries.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Multinational companies",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": large corporations that operate in various countries (they usually set up subsidiaries or",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "acquire other companies)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Coffee beans are sourced from more than 30 countries across Latin America, Africa and Asia. Beans are",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "transported to roasting facilities in different cities in the United States and India. Warehouses pack and store",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "roasted coffee for distribution to retailers. In 2022, Starbucks distributed roasted coffee to more than 35,000 stores",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "across the world. Consumers can also buy Starbucks products, such as coffee sachets and ground coffee powder, at",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "supermarkets as well.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-9-How-Can-We-Respond-to-the-Economic-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Chapter 9: How Can We Respond to the Economic Impacts of Globalisation?",
+          "type" : "heading"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+        "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
+      ]
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : null,
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Being-Part-of-a-Globalised-World": {
+  "abstract" : [
+    {
+      "text" : "America never stopped being a colonial power",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Being Part of a Globalised World",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
+},
+"doc://Notes/documentation/Notes/Exam-Techniques": {
+  "abstract" : [
+    {
+      "text" : "How to answer the questions",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Exam Techniques",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exam-techniques"
+},
+"doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
+  "abstract" : [
+    {
+      "text" : "The role of citizens and government in society",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Exploring Citizenship and Governance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exploring-citizenship-and-governance"
+},
+"doc://Notes/documentation/Notes/Living-in-a-Diverse-Society": {
+  "abstract" : [
+    {
+      "text" : "Diversity 🏳️‍🌈💅📈",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Living in a Diverse Society",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"doc://Notes/documentation/Notes/Living-in-a-Diverse-Society#Managing-Issues-of-Socio-economic-Diversity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society#Managing-Issues-of-Socio-economic-Diversity",
+  "kind" : "section",
+  "title" : "Managing Issues of Socio-economic Diversity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/living-in-a-diverse-society#Managing-Issues-of-Socio-economic-Diversity"
+},
+"doc://Notes/documentation/Notes/Social-Studies": {
+  "abstract" : [
+    {
+      "text" : "Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Social Studies",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/social-studies"
+},
+"https://docs.google.com/document/d/1qMTvYrh5yqgl5pMsgYAp8Wq4KasrUqaEKzfw0ORP6BY/edit": {
+  "identifier" : "https:\/\/docs.google.com\/document\/d\/1qMTvYrh5yqgl5pMsgYAp8Wq4KasrUqaEKzfw0ORP6BY\/edit",
+  "title" : "here",
+  "titleInlineContent" : [
+    {
+      "text" : "here",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/docs.google.com\/document\/d\/1qMTvYrh5yqgl5pMsgYAp8Wq4KasrUqaEKzfw0ORP6BY\/edit"
+}
+}
+}

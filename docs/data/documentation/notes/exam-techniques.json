@@ -507,7 +507,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
         "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
-        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World"
+        "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/SS-Examples"
       ]
     }
   ],
@@ -691,6 +692,26 @@
   "title" : "Reliability, Utility and Surprise",
   "type" : "topic",
   "url" : "\/documentation\/notes\/reliability-utility-and-surprise"
+},
+"doc://Notes/documentation/Notes/SS-Examples": {
+  "abstract" : [
+    {
+      "text" : "A collection of SS content examples, organised by chapter.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SS Examples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ss-examples"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

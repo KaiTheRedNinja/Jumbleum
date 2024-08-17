@@ -1931,7 +1931,16 @@
         {
           "inlineContent" : [
             {
-              "text" : "Not much to say here. Check the examples page (coming soon) for some examples.",
+              "text" : "Not much to say here. Check the SS Examples page at ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples#Chapter-4-How-Can-We-Work-Together-for-the-Good-of-Society",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for some examples.",
               "type" : "text"
             }
           ],
@@ -1955,6 +1964,7 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
         "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+        "doc:\/\/Notes\/documentation\/Notes\/SS-Examples",
         "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques"
       ]
     }
@@ -1972,6 +1982,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"In Progress.png": {
+  "alt" : "In Progress",
+  "identifier" : "In Progress.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -2036,6 +2060,36 @@
   "title" : "Living in a Diverse Society",
   "type" : "topic",
   "url" : "\/documentation\/notes\/living-in-a-diverse-society"
+},
+"doc://Notes/documentation/Notes/SS-Examples": {
+  "abstract" : [
+    {
+      "text" : "A collection of SS content examples, organised by chapter.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "SS Examples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ss-examples"
+},
+"doc://Notes/documentation/Notes/SS-Examples#Chapter-4-How-Can-We-Work-Together-for-the-Good-of-Society": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SS-Examples#Chapter-4-How-Can-We-Work-Together-for-the-Good-of-Society",
+  "kind" : "section",
+  "title" : "Chapter 4: How Can We Work Together for the Good of Society?",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ss-examples#Chapter-4-How-Can-We-Work-Together-for-the-Good-of-Society"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

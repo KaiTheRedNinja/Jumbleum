@@ -205,4 +205,4 @@ Meritocracy is a system where opportunities and rewards are distributed accordin
 - Influencing decision-making in public affairs
 - Strengthening citizens’ sense of belonging
 
-Not much to say here. Check the examples page (coming soon) for some examples.
+Not much to say here. Check the SS Examples page at <doc:SS-Examples#Chapter-4:-How-Can-We-Work-Together-for-the-Good-of-Society?> for some examples.

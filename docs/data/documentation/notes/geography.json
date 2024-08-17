@@ -362,6 +362,7 @@
     {
       "anchor" : "Exam-Questions",
       "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Essay-Question",
         "doc:\/\/Notes\/documentation\/Notes\/Essay-Writing"
       ],
       "title" : "Exam Questions"
@@ -438,6 +439,17 @@
   "title" : "Earthquakes and Volcanoes",
   "type" : "topic",
   "url" : "\/documentation\/notes\/earthquakes-and-volcanoes"
+},
+"doc://Notes/documentation/Notes/Essay-Question": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Essay-Question",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Essay Question",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/essay-question"
 },
 "doc://Notes/documentation/Notes/Essay-Writing": {
   "abstract" : [
