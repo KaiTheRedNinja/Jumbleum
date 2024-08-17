@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Living in a Diverse Society"
@@ -44,56 +50,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Factors that shape the identities of people and contribute to a diverse society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Race and ethnicity",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Religion",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Socio-economic status",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Nationality",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -107,69 +63,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Interactions in a diverse society and common space",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Experiences and effects of living in a diverse society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Cultural exchange and appreciation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Exchange of knowledge and skills",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Stereotypes, prejudice and discrimination",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Competition for resources",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -183,110 +76,348 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Citizens and government responding to socio-cultural diversity",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses of citizens as individuals and community groups",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses of government",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Assimilationist policy and its tensions",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Integration policy and its tensions",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Citizens and government responding to socio-economic diversity",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses of citizens as individuals and community groups",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses of government",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- A government-financed approach and its challenges",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- A shared responsibility approach and its challenges",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             }
           ],
-          "type" : "orderedList"
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Factors-that-shape-the-identities-of-people-and-diversity",
+          "level" : 2,
+          "text" : "Factors that shape the identities of people and diversity",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In ",
+              "type" : "text"
+            },
+            {
+              "text" : "doc:Exploring-CItizenship-and-Governance",
+              "type" : "text"
+            },
+            {
+              "text" : ", you learned that your ",
+              "type" : "text"
+            },
+            {
+              "text" : "doc:Exploring-CItizenship-and-Governance#Sense-of-Identity",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "refers both to how you perceive yourself and how others peceive you",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are several main identities that are the target of categorisation when it comes to diversity.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Race and ethnicity",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Religion",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Socio-economic status",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Nationality",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Race-and-Ethnicity",
+          "level" : 3,
+          "text" : "Race and Ethnicity",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Even though race and ethnicity are used interchangeably, they are different.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Race: Biological classification of people, which includes their physical characteristics",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Ethnicity: The culture of a group of people who share the same ancestry customs and traditions that distinguish",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "them from other groups in society",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A single race may have multiple ethnicities.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In Singapore, racial categorisation follows the CMIO system, which stands for Chinese, Malay, Indian, Others (search as European,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Eurasian, other Asians)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are two main ways that Singapore uses this categorisation to make decisions regarding policies related to to race and ethnicity.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Group-Representation-Constituency-GRC",
+          "level" : 4,
+          "text" : "Group Representation Constituency (GRC)",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Established in 1988, it ensures that minority races in Singapore are represented in parliament. A group of members of parliament",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "represent the interest of residents in the constituency. At least one of them in the group must belong to the Malay or Indian",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "community or another minority racial community.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Ethnic-Integration-Policy-EIP",
+          "level" : 4,
+          "text" : "Ethnic Integration Policy (EIP)",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It was introduced in 1989 to promote interaction and harmony between different ethnic groups in Singapore. Its main aim is to prevent",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the rise of ethnic enclaves.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The EIP ensures that there is a mix of various ethnic groups in each HDB block, based on the ethnic make-up of Singapore. Since different",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ethnic groups live in the same block, they have opportunities to interact with one another.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Issues",
+          "level" : 4,
+          "text" : "Issues",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "CMIO Has some issues regarding how it tends to overlook mixed race families, because it only recognises a member of a mixed race family",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "as one of the races, which may be inaccurate.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Religion",
+          "level" : 3,
+          "text" : "Religion",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Singapore is a multireligious society. Different religions have different beliefs, values, practices and ways of life, which shape their identities.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "These different identities contribute to the diversity in Singapore.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Race and religion are somewhat related. For example, 98.8% of Malays follow Islam. However, only slightly more than half of the Indian population",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "follows Hinduism, with the rest spread across different religions. For the Chinese, less than half of the population is Buddhist, with the rest of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "them being assorted religions and a quarter having none. Conclusion, race is not always a strong indicator of a person’s religion, and vice versa.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Socio-Economic-Status",
-          "level" : 2,
+          "level" : 3,
           "text" : "Socio-Economic Status",
           "type" : "heading"
         },
@@ -359,6 +490,795 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Nationality",
+          "level" : 3,
+          "text" : "Nationality",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "People of the same nationality are generally citizens of the same country and usually live together in a particular geographical area.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "They may also share a common history and language.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Experiences-and-effects-of-living-in-a-diverse-society",
+          "level" : 2,
+          "text" : "Experiences and effects of living in a diverse society",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Interactions in a diverse society and common space",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Experiences and effects of living in a diverse society",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Cultural exchange and appreciation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Exchange of knowledge and skills",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Stereotypes, prejudice and discrimination",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Competition for resources",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Common space: A physical location and\/or a social space where different groups of people, interact,",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "cooperate, or collaborate with each other.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Example of a common space is the void deck in public housing estates. They provide opportunities for residents to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "meet interact and bond.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When living in a diverse Society, there are generally four things that happen.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Positive:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Cultural exchange and appreciation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Exchange of knowledge and skills",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Negative:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Stereotypes, prejudice and discrimination",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Competition for resources",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Interacting with people of different races as ethnicities, religions and social economic status allow for cultural",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "exchange take place. One outcome of cultural exchange is a deeper understanding and appreciation of customs and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "traditions of Singapore’s diverse ethnic groups. One example, result of this is fusion food, where different cuisines",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "are put together to create new ones.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A diverse society can also facilitate the exchange of knowledge and skills. Usually this comes in the form of foreign",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "investments and companies that come to Singapore and provide skills and training to local employees.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "However, in a diverse society like Singapore, there is the possibility of stereotypes, prejudice and discrimination.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Stereotype: Generalised association of certain characteristics or assumptions with a particular group of people",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Prejudice: Attitudes or feelings towards other groups that are not based on reasons or fact. Stereotypes",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "and xenophobia are examples of prejudice.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Discrimination: When a person acts on prejudiced beliefs by hurting or excluding a group",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Finally, inflow of foreigners into Singapore means competition for jobs and infrastructure, such as housing and transport.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This competition, whether real or perceived, leads to tensions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Responding-to-diversity-in-society",
+          "level" : 2,
+          "text" : "Responding to diversity in society",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Citizens and government responding to socio-cultural diversity",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses of citizens as individuals and community groups",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses of government",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Assimilationist policy and its tensions",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Integration policy and its tensions",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Citizens and government responding to socio-economic diversity",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses of citizens as individuals and community groups",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses of government",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "A government-financed approach and its challenges",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "A shared responsibility approach and its challenges",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Social cohesion refers to close relationships between individuals and groups of people, and the feelings of solidarity",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "they have as one unit. These bonds can be weakened or broken when individuals are insensitive, hurtful, or disrespectful",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with regard to diverse differences.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Assimilationsist-policies-in-France",
+          "level" : 3,
+          "text" : "Assimilationsist policies in France",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In countries that adopt assimilationist policies, immigrants are expected to adopt the beliefs and practices of the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "majority group in the host country. Countries like Denmark, Germany and France adopt these.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "France believes that the ideal of harmony in society is achieved on every individual, put aside their connections to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "race, ethnicity and religion. France acknowledges the existence of diversity, but believes that the French national",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "identity should be prioritised over all others.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in 2004, France introduced a ban of clearly visible religious attire and symbols in public schools.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Integration-policies-in-Singapore",
+          "level" : 3,
+          "text" : "Integration policies in Singapore",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Singapore uses the integration approach, where minority and immigrants retain their unique identities, while forging",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "common ground with the majority group in the host country.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Managing-Issues-of-Socio-economic-Diversity",
+          "level" : 3,
+          "text" : "Managing Issues of Socio-economic Diversity",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Sweden practices, a government finance approach to provide social services to their citizens, regardless of socio-economic",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "status. For example, healthcare services such as hospital care, medicine and dental care are publicly funded. Tuition",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "fees for tertiary education are also fully subsidised for Swedish students.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This heavily government financed approach is funded by imposing high taxes. However, with an ageing population, the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "demand for social services is increasing.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Singapore on the other hand, adopts a shared responsibility approach. Basically what that means is that the government",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "subsidise some stuff, but the individual does the rest.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in the healthcare system, there are multiple tears of protection.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Government subsidies help reduce the cost to the patient",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MediShield Life pays for large hospital bills and selected outpatient treatments",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MediSave helps pay for your or your family’s medical expenses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MediFund helps those who unable to even afford subsidise bills.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
         }
       ],
       "kind" : "content"
@@ -384,6 +1304,20 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -434,6 +1368,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Exploring Citizenship and Governance",

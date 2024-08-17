@@ -1,5 +1,9 @@
 # Exploring Citizenship and Governance
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 The role of citizens and government in society
 
 ## Overview

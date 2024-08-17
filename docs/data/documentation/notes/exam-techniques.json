@@ -620,6 +620,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Exploring Citizenship and Governance",
@@ -654,6 +660,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Living in a Diverse Society",
