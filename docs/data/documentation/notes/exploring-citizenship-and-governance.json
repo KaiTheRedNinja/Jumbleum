@@ -44,72 +44,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Attributes can shape one’s understanding of citizenship",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Legal status",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Rights and obligations of citizens",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− A sense of identity",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Shared values",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Civic participation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Participate in public affairs as individuals and community groups",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -123,143 +57,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Functions and roles of government in a representative democracy",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        },
-                        {
-                          "items" : [
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Functions of government",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                },
-                                {
-                                  "items" : [
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Makes and passes laws",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Implements and enforces laws",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Interprets and applies laws",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    }
-                                  ],
-                                  "type" : "unorderedList"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Roles of government",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                },
-                                {
-                                  "items" : [
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Maintains law and order",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Ensures economic and social well-being of citizens",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    },
-                                    {
-                                      "content" : [
-                                        {
-                                          "inlineContent" : [
-                                            {
-                                              "text" : "Promotes and protects a country’s national interests",
-                                              "type" : "text"
-                                            }
-                                          ],
-                                          "type" : "paragraph"
-                                        }
-                                      ]
-                                    }
-                                  ],
-                                  "type" : "unorderedList"
-                                }
-                              ]
-                            }
-                          ],
-                          "type" : "unorderedList"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -273,104 +70,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Deciding what is good for society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Challenges in deciding what is good for society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Differing needs and interests",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Differing priorities",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Unequal sharing of costs",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Managing trade-offs",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Principles shaping governance",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Having good leadership",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Anticipating change and staying relevant",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- A stake for everyone, opportunities for all",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Practising meritocracy",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -384,48 +83,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Citizens and government working together for the good of society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Addressing the needs of society",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Influencing decision-making in public affairs",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Strengthening citizens’ sense of belonging",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             }
@@ -832,6 +489,1447 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "The-Meaning-of-Citizenship",
+          "level" : 2,
+          "text" : "The Meaning of Citizenship",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Attributes can shape one’s understanding of citizenship",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Legal status",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Rights and obligations of citizens",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "A sense of identity",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Shared values",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Civic participation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Participate in public affairs as individuals and community groups",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Generally, citizenship can be characterised as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "More than a status grant by a country.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A relationship that a person has with a country that they are a member of",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Can be understood differently by different people",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Can be understood differently over time",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Legal-Status",
+          "level" : 3,
+          "text" : "Legal Status",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Countries grant citizenship by legal status in different ways:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "By country of birth",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", where those born in the country are granted citizenship (eg. America)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "By decent",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", where a child of a citizen is granted citizenship (eg. Singapore)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "By marriage",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", where the spouse of a citizen is granted citizenship",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "By naturalisation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ", where people who have moved to a country for a long time and applied for citizenship are granted it",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Singapore grant and ship under all four of these categories. However, for citizenship by marriage, the spouse must first be a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "permanent resident of Singapore.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Rights-of-Citizens",
+          "level" : 4,
+          "text" : "Rights of Citizens",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Citizens enjoy certain ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "rights",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " as members of a country",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Rights: Freedoms and privileges that citizens in a country have",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rights of citizens, which are usually laid out in a constitution, are protected by law",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Obligations-of-Citizens",
+          "level" : 4,
+          "text" : "Obligations of Citizens",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Being a citizen of a country also means having obligations.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Under the enlistment act introduced in 1967, 18-year-old male citizens and Singapore permenant residents are required",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "to serve national service (the army).",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Example",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Sense-of-Identity",
+          "level" : 3,
+          "text" : "Sense of Identity",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Identity: Your identity refers to how you perceive yourself and how you believe others perceive you",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, these are some common identities associated with Singaporeans:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Multiracial and multi religious society",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Local food and delicacies",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "World class services",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Singlish",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "HDB flats",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Being a citizen usually means sharing a part of your identity with other members of the country",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Shared-Values",
+          "level" : 3,
+          "text" : "Shared Values",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Your understanding of citizenship can also be influenced by your interpretation and acceptance of the shared values",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "held in your country",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Values: Principles and beliefs that influence a persons, attitude, thinking, and behaviour",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Shared Values: Values that are embraced or seen as important by a group of people",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Civic-Participation",
+          "level" : 3,
+          "text" : "Civic Participation",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Civic Participation: Citizens actively taking part in public affairs",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Motivation participation is usually to address a societal issues, or help certain groups within a country.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are several ways to participate in public affairs, such as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Participating as individuals, where individuals volunteer their time, effort and money in matters they are concerned without",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Participating in public affairs as community groups, where citizens with common interest organise themselves into groups to",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "contribute towards specific needs of society",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Informal Groups: Mr Nigel Teo And his friends started a mobile application called GoodHood.sg to promote neighbourliness in Singapore.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Formal Groups: Zero Waste Singapore is a non-government organisation leading the drive towards waste in Singapore through education and advocacy",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "The-Functions-and-Roles-of-Government",
+          "level" : 2,
+          "text" : "The Functions and Roles of Government",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Functions and roles of government in a representative democracy",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Functions of government",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Makes and passes laws",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Implements and enforces laws",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Interprets and applies laws",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Roles of government",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Maintains law and order",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Ensures economic and social well-being of citizens",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Promotes and protects a country’s national interests",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Government: A set of institutions by which a society is ruled",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Democracy: The ability of citizens to participate in political decision-making",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Singapore government is a representative democracy, meaning that the citizens elect representatives to make decisions on their behalf",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Functions-of-government",
+          "level" : 3,
+          "text" : "Functions of government",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Singapore Government serves three main functions:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "To make and pass laws (legislative)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "To implement and enforce laws (executive)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "To interpret and apply laws (judicial)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These functions are carried out by three branches of government.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There’s a lot of stuff in the textbook about how the government makes and passes laws, except I don’t think those are useful for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "our exams so I’m not going to write about them here",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Roles-of-government",
+          "level" : 3,
+          "text" : "Roles of government",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As a government makes, passes, implements, enforces, interprets, and applies laws, its role in society is to:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Maintain law and order: Preserve safety and security by ensuring that citizens, lives and properties are protected from harmful acts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Ensure justice is carried out",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Ensure economic and social well-being of citizens: Ensuring that individuals not only have their basic needs met, but also have the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "opportunity to pursue their goals, and enjoy a satisfactory quality of life",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Polyclinics provide subsidised care",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "HDB does the same for 80% of the country’s population",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "CPF is a savings system, where an employee, their employer, and the government all contribute to it. Foundation for the retirement",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "of most Singaporeans",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Promote and protect the country’s national interest: Doing what is necessary to ensure a country’s security and well-being",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Ensuring economic growth",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Ensuring a coutnry’s population has sufficient food and water for survival",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Ensuring that the country is safe from attacks by other countries",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "How-we-Decide-what-is-Good-for-Society",
+          "level" : 2,
+          "text" : "How we Decide what is Good for Society",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Challenges in deciding what is good for society",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Differing needs and interests",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Differing priorities",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Unequal sharing of costs",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Managing trade-offs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Principles shaping governance",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Having good leadership",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Anticipating change and staying relevant",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "A stake for everyone, opportunities for all",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Practising meritocracy",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Challenges-in-Deciding-What-is-Good",
+          "level" : 3,
+          "text" : "Challenges in Deciding What is Good",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are generally two types of needs:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Things that people depend on for their survival",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Things that people depend on for their well-being",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "People often share similar basic needs were survival. However, they may have different needs when it comes to well-being.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are also different priorities for different groups of people. For example, commuters might benefit from the cross island line being",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "implemented going through the central reserve. However, environmentalist oppose this as it would mean damaging parts of Singapore’s largest",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "nature reserve.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There is also unequal sharing of costs. For example, building expressway could improve traffic flow. However, it may come at the cost of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "those living near expressways or affected by the noise",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Meritocracy is a system where opportunities and rewards are distributed according to merit",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Working-Together-for-the-Good-of-Society",
+          "level" : 2,
+          "text" : "Working Together for the Good of Society",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Addressing the needs of society",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Influencing decision-making in public affairs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Strengthening citizens’ sense of belonging",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Not much to say here. Check the examples page (coming soon) for some examples.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
