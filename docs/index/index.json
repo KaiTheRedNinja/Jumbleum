@@ -667,18 +667,19 @@
                 "type" : "groupMarker"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/thinking-geographically",
                 "title" : "Thinking Geographically",
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/sustainable-development",
                 "title" : "Sustainable Development",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/geographical-methods",
                 "title" : "Geographical Methods",
                 "type" : "article"
@@ -832,7 +833,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

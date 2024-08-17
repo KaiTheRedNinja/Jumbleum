@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Geographical Methods"
@@ -1761,9 +1767,9 @@
   ]
 , 
 "references": {
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
     {
@@ -1771,7 +1777,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1823,7 +1829,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -1843,7 +1849,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

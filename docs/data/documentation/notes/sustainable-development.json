@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -498,6 +498,72 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "A holistically sustainable development meets these criteria:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "It meets the needs of the present population by having high standards of living for all.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Ensures that future generations can meet their needs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "An over-focus on one dimension may lead to other dimensions being overlooked.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Approaches to sustainable development vary from place to time",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "Ecosystem-services-in-urban-neighbourhoods",
           "level" : 2,
           "text" : "Ecosystem services in urban neighbourhoods",
@@ -578,6 +644,12 @@
           "type" : "heading"
         },
         {
+          "anchor" : "Ecosystem-Services",
+          "level" : 4,
+          "text" : "Ecosystem Services",
+          "type" : "heading"
+        },
+        {
           "content" : [
             {
               "inlineContent" : [
@@ -611,6 +683,12 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Provisioning-Services",
+          "level" : 4,
+          "text" : "Provisioning Services",
+          "type" : "heading"
+        },
+        {
           "content" : [
             {
               "inlineContent" : [
@@ -642,6 +720,12 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Regulating-Services",
+          "level" : 4,
+          "text" : "Regulating Services",
+          "type" : "heading"
         },
         {
           "content" : [
@@ -683,6 +767,12 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Cultural-Services",
+          "level" : 4,
+          "text" : "Cultural Services",
+          "type" : "heading"
         },
         {
           "content" : [
@@ -742,6 +832,12 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Supporting-Services",
+          "level" : 4,
+          "text" : "Supporting Services",
+          "type" : "heading"
         },
         {
           "content" : [
@@ -1512,11 +1608,188 @@
         {
           "inlineContent" : [
             {
-              "text" : "Can be developed by strengthening relationships among residents and raising their awareness of potential hazards",
+              "text" : "Can be developed by:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Strengthening relationships between residents",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "raising their awareness of potential hazards",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Allowing residents to develop the ability to organise themselves",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Equip them with resources to resist, adapt and recover from a disaster",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Strengthening-of-relationships-and-raising-threat-awareness",
+          "level" : 4,
+          "text" : "Strengthening of relationships and raising threat awareness",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Disaster risk management plans in neighbourhoods may only be effective and sustain ble if there is widespread support",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and long-term participation from residents",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Residents are encouraged to get to know their neighbours so that they can depend on one another during an emergency.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Important to take note that neighbour to neighbour relationships are highly diverse, varying from one group to the other,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and may occasionally cause problems.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Developing-self-organisation-and-resources-for-disaster-fallout",
+          "level" : 4,
+          "text" : "Developing self-organisation and resources for disaster fallout",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Resist, Adapt and Recover",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Residents can be involved in planning process that involve community leaders, civil society organisations and the government.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By actively participating in projects to minimise potential hazards in the neighbourhood, they can better understand the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "risks and adaptations to communicate to the planners and government bodies.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -1543,9 +1816,9 @@
   ]
 , 
 "references": {
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
     {
@@ -1553,7 +1826,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -1579,6 +1852,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Geographical Methods",
@@ -1609,7 +1888,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

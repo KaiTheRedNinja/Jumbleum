@@ -1,5 +1,9 @@
 # Geographical Methods
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Survey survey survey
 
 ## Overview

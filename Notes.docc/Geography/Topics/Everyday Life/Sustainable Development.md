@@ -1,10 +1,10 @@
 # Sustainable Development
 
-How urban areas can be sustainable
-
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
+
+How urban areas can be sustainable
 
 ## Overview
 
@@ -60,6 +60,12 @@ change to support the needs of present and future generations.
 The approach to these sustainability requirements varies from place to place, and across time. For example, China has 
 focused a lot on economic sustainability and largely ignored environmental sustainability.
 
+A holistically sustainable development meets these criteria:
+- It meets the needs of the present population by having high standards of living for all.
+- Ensures that future generations can meet their needs
+- An over-focus on one dimension may lead to other dimensions being overlooked.
+- Approaches to sustainable development vary from place to time
+
 ## Ecosystem services in urban neighbourhoods
 
 > Definition: Ecosystem: An ecosystem is a geographic area where living communities and non-living environments interact 
@@ -71,22 +77,27 @@ with each other to form a bubble of life.
 
 ### Ecosystem Resources
 
+#### Ecosystem Services
+
 > Definition: Ecosystem services: The benefits people obtain from ecosystems to make human life possible. It is 
 categorised into provisioning, regulating, cultural and supporting services.
 
 There are four main ecosystem services:
 
+#### Provisioning Services
 > Definition: Provisioning services: Tangible resources that people can get from ecosystems such as food, water, and 
 wood.
 
 Tangible resources, eg food, water, timber, fibre
 
+#### Regulating Services
 > Definition: Regulating services: benefits obtained from the regulation of ecosystem processes including microclimate 
 regulation, flood mitigation, and air and water quality control.
 
 Tangible service, eg climate regulation, flood control, air quality. Ecosystem processes work together to ensure that 
 the ecosystems are functional, clean, sustainable and resilient to changes.
 
+#### Cultural Services
 > Definition: Cultural services: Non-material benefits people obtain from ecosystems and include aesthetic experiences, 
 education and recreation.
 
@@ -95,6 +106,7 @@ mental health and foster social belonging and group identity, strengthening thei
 
 See <doc:#Tourism-Development> for more information on cultural services
 
+#### Supporting Services
 > Definition: Supporting services: Services necessary for the functioning of all other ecosystem services, including 
 soil formation, pollination and photosynthesis.
 
@@ -166,4 +178,24 @@ Strengthening community resilience is a key aspect of disaster risk management.
 > Definition: Community Resillience: Residents' ability to organise/equip themselves to resist, adapt and recover from 
 disasters.
 
-Can be developed by strengthening relationships among residents and raising their awareness of potential hazards
+Can be developed by:
+- Strengthening relationships between residents
+- raising their awareness of potential hazards
+- Allowing residents to develop the ability to organise themselves
+- Equip them with resources to resist, adapt and recover from a disaster
+
+#### Strengthening of relationships and raising threat awareness
+
+- Disaster risk management plans in neighbourhoods may only be effective and sustain ble if there is widespread support 
+and long-term participation from residents
+- Residents are encouraged to get to know their neighbours so that they can depend on one another during an emergency.
+- Important to take note that neighbour to neighbour relationships are highly diverse, varying from one group to the other, 
+and may occasionally cause problems.
+
+#### Developing self-organisation and resources for disaster fallout
+
+Resist, Adapt and Recover
+
+- Residents can be involved in planning process that involve community leaders, civil society organisations and the government.
+- By actively participating in projects to minimise potential hazards in the neighbourhood, they can better understand the 
+risks and adaptations to communicate to the planners and government bodies.

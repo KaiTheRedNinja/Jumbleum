@@ -479,6 +479,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geographical-Methods",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Geographical Methods",
@@ -529,7 +535,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Development",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -560,7 +566,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Thinking-Geographically",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

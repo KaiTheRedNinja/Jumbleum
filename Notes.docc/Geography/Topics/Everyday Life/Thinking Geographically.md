@@ -1,10 +1,10 @@
 # Thinking Geographically
 
-The relationship between people and their environment
-
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
+
+The relationship between people and their environment
 
 ## Overview
 
@@ -17,13 +17,22 @@ The relationship between people and their environment
 
 - Local communities and nearby nature areas are dependent on each other
     - People are dependent on nature
+        - Oxygen, food, recreation
     - Nature is dependent on people
+        - Care/conservation/protection
 
 - Local communities and nearby nature areas mutually affect each other
     - Nature areas benefit people
+        - See <doc:Sustainable-Development#Ecosystem-Resources>
     - People benefit nature areas
+        - Conservation
     - Nature brings disadvantages to people
+        - Wildlife hurting people
+        - Natural hazards
     - People brings disadvantages to nature areas
+        - Pollution
+        - Deforestation
+        - Animal testing
 
 ## People's Sense of place
 
