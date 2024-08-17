@@ -708,7 +708,7 @@
                 "type" : "groupMarker"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/plate-tectonics",
                 "title" : "Plate Tectonics",
                 "type" : "article"
@@ -833,7 +833,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

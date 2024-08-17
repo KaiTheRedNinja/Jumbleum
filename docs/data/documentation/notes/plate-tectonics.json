@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -33,25 +33,356 @@
     {
       "content" : [
         {
-          "anchor" : "Types-of-Plate-Boundaries",
+          "anchor" : "Overview",
           "level" : 2,
-          "text" : "Types of Plate Boundaries",
+          "text" : "Overview",
           "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Plate tectonic theory",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Plate boundaries",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Seafloor spreading and how it supports plate tectonics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magnetic striping and how it supports plate tectonics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Plate-Tectonic-Theory",
+          "level" : 2,
+          "text" : "Plate Tectonic Theory",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Parts-of-the-Earth",
+          "level" : 3,
+          "text" : "Parts of the Earth",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Ogres",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strikethrough"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The Earth",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "emphasis"
+                },
+                {
+                  "text" : " are like onions. They have layers. ~ Shrek",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
         },
         {
           "inlineContent" : [
             {
-              "text" : "Transform isn’t tested in the exam, so we’re not including it.",
+              "text" : "The earth has three general layers, though two of them have two sub-layers so technically the earth has five.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "anchor" : "Divergent",
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Layer",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Position",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Temperature",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Thickness",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Crust",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Outermost",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "-50 to 50c",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "6 to 70km",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Mantle",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Middle",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1000c to 3700c",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "2900km",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Core",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Innermost",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "4400c to 6000c",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "3300km",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Earth Layers",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Tectonic-Plates",
           "level" : 3,
-          "text" : "Divergent",
+          "text" : "Tectonic Plates",
           "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Lithosphere: The crust (whether continental or oceanic) and the uppermost part of the upper mantle",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The lithosphere is divided into many pieces, called tectonic plates. There are two types of tectonic plates:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "items" : [
@@ -60,11 +391,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "O-O",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", aka seafloor spreading, forms mid-oceanic ridges",
+                      "text" : "Continental, makes up land masses",
                       "type" : "text"
                     }
                   ],
@@ -77,11 +404,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "O-C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " forms rift valleys or block mountains",
+                      "text" : "Oceanic, makes up the seafloor",
                       "type" : "text"
                     }
                   ],
@@ -93,10 +416,52 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Convergent",
+          "inlineContent" : [
+            {
+              "text" : "Note that the same plate can be both types at once. The atlantic parts of the African, Eurasian and Americas plates are oceanic.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Plate-Movement-and-Boundaries",
           "level" : 3,
-          "text" : "Convergent",
+          "text" : "Plate Movement and Boundaries",
           "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Athenosphere: Basically the upper mantle. In O level geography questions, this is interchangable with the mantle as a whole.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Heat form the core causes rock in the asthenosphere to melt. Movement of the mantle results in tectonic plate movement. There are three",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "types of plate movement, which lead to 3 types of plate boundaries:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "items" : [
@@ -105,11 +470,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "O-O",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " forms island arcs",
+                      "text" : "Divergent: Plates moving away from each other",
                       "type" : "text"
                     }
                   ],
@@ -122,11 +483,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "O-C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " forms volcanoes and trenches",
+                      "text" : "Convergent: Plates move towards each other",
                       "type" : "text"
                     }
                   ],
@@ -139,11 +496,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "C-C",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " forms mountain ranges",
+                      "text" : "Transform (not tested): Plates slide against each other",
                       "type" : "text"
                     }
                   ],
@@ -155,10 +508,875 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Transform",
+          "inlineContent" : [
+            {
+              "text" : "In the textbook, they put slab-pull force and tectonic processes in different subchapters, after evidence for plate tectonics (which is also",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "two subchapters). I find that weird, so they’re here in one subsection.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Divergent",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "code" : "O-O",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : ", aka seafloor spreading, forms mid-oceanic ridges",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "code" : "C-C",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " forms rift valleys or block mountains",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Note that ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "O-C",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " doesn’t exist, because it turns into O-O divergence. No such boundaries exist.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Convergent",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "code" : "O-O",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " forms island arcs",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "code" : "O-C",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " forms volcanoes and trenches",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "code" : "C-C",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : " forms mountain ranges",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Causes",
           "level" : 3,
-          "text" : "Transform",
+          "text" : "Causes",
           "type" : "heading"
+        },
+        {
+          "anchor" : "Convection-Currents",
+          "level" : 4,
+          "text" : "Convection Currents",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Slab-Pull-Force",
+          "level" : 4,
+          "text" : "Slab-Pull Force",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Describing-Divergence-and-Convergence",
+          "level" : 3,
+          "text" : "Describing Divergence and Convergence",
+          "type" : "heading"
+        },
+        {
+          "tabs" : [
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Mid Oceanic Ridges, underwater volcanoes",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Note",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Two oceanic plates move apart (see convection currents above)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The decrease in ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "overlying pressure",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " causes parts of the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "underlying mantle",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " to melt, forming ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "magma",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Magma rises through weak areas in the crust to the Earth’s surface and fills gaps caused by the spreading plates.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The Lava cools and solidifies to form ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "basaltic rocks",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The rocks make up a new oceanic crust.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "An extensive underwater mountain chain - The mid-oceanic ridge - forms",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "orderedList"
+                }
+              ],
+              "title" : "O-O Divergence"
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Volcanoes, rift valleys",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Note",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "two continental plates move apart (see convection currents above).",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "rocks eventually fracture to form parallel faults.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The work between these faults collapses to form a deep rift valley with steep sides.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "As the plates move apart, the decrease in ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "overlying pressure",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " causes parts of the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "underlying mantle",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " to melt, forming ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "magma",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Magma rises through weak areas in the crust to the Earth’s surface, forming volcanoes",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "orderedList"
+                }
+              ],
+              "title" : "C-C Divergence"
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Trenches, volcanoes",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Note",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Two oceanic plates collide",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The denser plate ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "subducts",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " beneath the other plate (see slab pull force above)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "This forms a deep depression known as an ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "oceanic trench",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "As the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "subducting plate sinks into the mantle",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : ", the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "high-pressure",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " forces water out of its oceanic crust",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Water ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "lowers the melting point",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "strong"
+                            },
+                            {
+                              "text" : " of the overlying mantle, causing it to melt and form magma",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Magma rises through weak areas in the crust to the Earth’s surface",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "This forms a chain of volcanoes known as ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "volcanic islands",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "orderedList"
+                }
+              ],
+              "title" : "O-O Convergence"
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Fold Mountains",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Note",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Two continental plates collide",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Subduction does not occur because continental plates are too buoyant to subduct (low density)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Enormous pressure causes the rocks to be uplifted and buckled to form fold mountains.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "orderedList"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Friction along the convergent plate boundary also causes earthquakes.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magma does not rise to the surface, no volcanoes are formed.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "C-C Convergence"
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Trenches, volcanoes, fold mountains",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Note",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "An oceanic plate collided with a continental plate.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The denser oceanic plate subjects beneath the continental plate.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "This forms an oceanic trench in the subduction zone.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Enormous pressure at this plate boundary causes rocks on the continental plate to obe uplifted and buckled, forming fold mountains.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "As the subjecting plate sinks into the mantle, the high-pressure forces water out of its oceanic crust.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Water lowers the melting point of the overlying mantle, causing it to melt, forming magma",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "magma rises through the weak areas in the crust to the Earth’s surface, forming volcanoes on the continental plate.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "orderedList"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Friction along the subducting oceanic plate causes earthquakes",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "title" : "O-C Convergence"
+            }
+          ],
+          "type" : "tabNavigator"
         },
         {
           "anchor" : "Evidence-for-Plate-Tectonics",
@@ -173,27 +1391,240 @@
           "type" : "heading"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Seafloor Spreading: A process where the magma from deep within the Earth rises through mid-ocean ridges to create a new oceanic crust",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "Definition: Mid-ocean Ridge: A submerged chain linearly located on the ocean floor at a divergent plate boundary.",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "Definition: Oceanic Trench: Deep depressions are found in the ocean floor where one oceanic plate is ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "subducting",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "strong"
+                },
+                {
+                  "text" : " beneath another.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "In O-O divergent boundaries, magma rises to the surface and cools, forming new crust. This pushes the older",
-              "type" : "text"
+              "identifier" : "Diagram_Seafloor Spreading",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When two tectonic plates diverge at its plate boundary, seafloor spreading occurs.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             },
             {
-              "text" : " ",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Magma from deep in the earth rises through the mid-oceanic ridges.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             },
             {
-              "text" : "crust away from the boundary, creating a conveyor belt effect.",
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A new oceanic crust is formed.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If you are asked about why this proves plate tectonics, basically vomit this out:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Rocks closer to the mid-oceanic ridge are younger, and those further are older.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "It shows how a new oceanic crust is created at divergent boundaries and then moves laterally on both sides of the mid-ocean ridge as",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "seafloor spreading continues.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Little sediment accumulation is found in oceanic trenches. This is due to older oceanic crust being destroyed at oceanic trenches as",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "the plates converge and one subducts.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Thus, Oceanic crusts are usually younger than continental crusts.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "This proves that new crust is continually formed at divergent plate boundaries and mid-oceanic ridges as plates move and older",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "crust is destroyed further away at oceanic trenches.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
           "anchor" : "Magnetic-Striping",
           "level" : 3,
           "text" : "Magnetic Striping",
           "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Magnetic striping: A zebra-like pattern where strips of Normal Polarity Rocks alternate alongside strips of reversed",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "polarity rocks on the sea floor.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
         },
         {
           "inlineContent" : [
@@ -211,6 +1642,196 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Magnetic Striping",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Earth has a Geographic North and Geographic South as well as a Magnetic North and Magnetic South.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Geographic North and Geographic South do not change.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Over time, magnetic North and magnetic South can shift. They have already reversed many times. (Shown by magnetic striping)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Currently, the earth is in ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "Normal Polarity",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Over time, Earth’s polarity has flipped many times. Alternating between ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "Normal Polarity",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "Reverse Polarity",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The symmetrical pattern on either side of the mid-ocean ridges shows that it is not a random\/isolated occurrence.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Proof:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Oceanic plates move away from each other.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Basaltic rocks from the oceanic crust are formed from iron-rich lava, which has magnetic properties.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The rock solidifies as it cools and its polarity is determined by Earth’s magnetic North and South. Recording evidence of",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : " ",
+                              "type" : "text"
+                            },
+                            {
+                              "text" : "Earth’s polarity at that time. This means that the reversals of polarity are also recorded.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Over time as more lava moves from the ridge due to plate divergence, a symmetrical zebra-like pattern forms.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -237,6 +1858,62 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : null,
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Diagram_Earth Layers": {
+  "alt" : "Diagram showing the internal structure of the earth",
+  "identifier" : "Diagram_Earth Layers",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Earth%20Layers.jpg"
+    }
+  ]
+},
+"Diagram_Magnetic Striping": {
+  "alt" : "Magnetic striping",
+  "identifier" : "Diagram_Magnetic Striping",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Magnetic%20Striping.jpg"
+    }
+  ]
+},
+"Diagram_Seafloor Spreading": {
+  "alt" : "Diagram of seafloor spreading",
+  "identifier" : "Diagram_Seafloor Spreading",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Seafloor%20Spreading.jpg"
+    }
+  ]
+},
 "In Progress.png": {
   "alt" : "In Progress",
   "identifier" : "In Progress.png",
