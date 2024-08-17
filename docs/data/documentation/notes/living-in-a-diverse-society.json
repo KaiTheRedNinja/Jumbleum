@@ -95,16 +95,18 @@
               "type" : "text"
             },
             {
-              "text" : "doc:Exploring-CItizenship-and-Governance",
-              "type" : "text"
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance",
+              "isActive" : true,
+              "type" : "reference"
             },
             {
               "text" : ", you learned that your ",
               "type" : "text"
             },
             {
-              "text" : "doc:Exploring-CItizenship-and-Governance#Sense-of-Identity",
-              "type" : "text"
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance#Sense-of-Identity",
+              "isActive" : true,
+              "type" : "reference"
             },
             {
               "text" : " ",
@@ -1379,6 +1381,16 @@
   "title" : "Exploring Citizenship and Governance",
   "type" : "topic",
   "url" : "\/documentation\/notes\/exploring-citizenship-and-governance"
+},
+"doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance#Sense-of-Identity": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exploring-Citizenship-and-Governance#Sense-of-Identity",
+  "kind" : "section",
+  "title" : "Sense of Identity",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exploring-citizenship-and-governance#Sense-of-Identity"
 },
 "doc://Notes/documentation/Notes/Social-Studies": {
   "abstract" : [

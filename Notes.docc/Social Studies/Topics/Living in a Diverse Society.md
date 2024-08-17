@@ -14,7 +14,7 @@ Diversity 🏳️‍🌈💅📈
 
 ## Factors that shape the identities of people and diversity
 
-In <doc:Exploring-CItizenship-and-Governance>, you learned that your <doc:Exploring-CItizenship-and-Governance#Sense-of-Identity>
+In <doc:Exploring-Citizenship-and-Governance>, you learned that your <doc:Exploring-Citizenship-and-Governance#Sense-of-Identity>
 refers both to how you perceive yourself and how others peceive you
 
 There are several main identities that are the target of categorisation when it comes to diversity.
