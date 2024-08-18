@@ -796,7 +796,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -825,9 +825,18 @@
 },
 "doc://Notes/documentation/Notes/Essay-Question": {
   "abstract" : [
-
+    {
+      "text" : "The chonky one where you answer with your own examples",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Essay-Question",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Essay Question",

@@ -1,5 +1,11 @@
 # Essay Question
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
+The chonky one where you answer with your own examples
+
 ## Overview
 
 ## Format

@@ -1,7 +1,7 @@
 # Earthquakes and Volcanoes
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 ## Overview

@@ -15,7 +15,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -2479,20 +2479,6 @@
     }
   ]
 },
-"In Progress.png": {
-  "alt" : null,
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -2509,9 +2495,18 @@
 },
 "doc://Notes/documentation/Notes/Disaster-Risk-Management": {
   "abstract" : [
-
+    {
+      "text" : "How to not disaster as disastrously",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Disaster-Risk-Management",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Disaster Risk Management",

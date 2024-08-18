@@ -714,12 +714,13 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/earthquakes-and-volcanoes",
                 "title" : "Earthquakes and Volcanoes",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/disaster-risk-management",
                 "title" : "Disaster Risk Management",
                 "type" : "article"
@@ -729,6 +730,7 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/essay-question",
                 "title" : "Essay Question",
                 "type" : "article"
