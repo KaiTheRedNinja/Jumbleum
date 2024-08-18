@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "In Progress.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Being Part of a Globalised World"
@@ -44,56 +50,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Driving forces of globalisation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Technological advancements",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Developments in transportation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Developments in digital technology",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Growth of Multinational Corporations",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -107,72 +63,6 @@
                     }
                   ],
                   "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Economic impacts of globalisation and responses of countries and individuals",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Economic impacts of globalisation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Economic growth and economic vulnerability experienced by countries",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Employment opportunities and challenges experienced by individuals",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses to economic impacts of globalisation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Government support",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Acquisition of knowledge and skills by individuals",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
                 }
               ]
             },
@@ -186,6 +76,59 @@
                     }
                   ],
                   "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "How can we respond to the security impacts of globalisation?",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Globalisation: The process through which ideas and activities of people living in different parts of the world become interconnected.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Globalisations-Driving-Forces",
+          "level" : 2,
+          "text" : "Globalisation’s Driving Forces",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Driving forces of globalisation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
                 },
                 {
                   "items" : [
@@ -194,47 +137,124 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Cultural impacts of globalisation and responses of countries and individuals",
+                              "text" : "Technological advancements",
                               "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Developments in transportation",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
                             },
                             {
-                              "text" : " ",
-                              "type" : "text"
-                            },
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Developments in digital technology",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : "− Cultural impacts of globalisation",
+                              "text" : "Growth of Multinational Corporations",
                               "type" : "text"
-                            },
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Technological-Advancements",
+          "level" : 3,
+          "text" : "Technological Advancements",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Technological advancements have led to improvements in transportation. This improvement came in the format of speed, capacity, and cost.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Speed",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The time taken to travel from one place to another has been reduced significantly. This has allowed people to travel to different parts of the world more easily.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : " ",
+                              "text" : "1830: Liverpool to Manchester rail travel, 50km, 48km\/h",
                               "type" : "text"
-                            },
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : "- Spread of culture",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Dilution of culture",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses to cultural impacts of globalisation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Varying degrees of acceptance and rejection",
+                              "text" : "2023: Shinkansen, 500km, 320km\/h",
                               "type" : "text"
                             }
                           ],
@@ -252,7 +272,16 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "How can we respond to the security impacts of globalisation?",
+                      "inlineContent" : [
+                        {
+                          "text" : "Capacity",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The number of people and cargo that can be transported has increased. This has allowed more people to travel to different parts of the world.",
                       "type" : "text"
                     }
                   ],
@@ -265,63 +294,73 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Security impacts of globalisation and responses of countries and individuals",
+                              "text" : "1800: Limited carrying capacity of ships",
                               "type" : "text"
-                            },
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : " ",
+                              "text" : "2023: Large cargo ships can carry up to 600,000 tonnes of containers",
                               "type" : "text"
-                            },
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Cost",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": The cost of transportation has decreased. This has made it more affordable for people to travel to different parts of the world.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : "− Security impacts of globalisation",
+                              "text" : "1950: Expensive air travel",
                               "type" : "text"
-                            },
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
                             {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Transnational terrorism",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Cyber threats",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "− Responses to security impacts of globalisation",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Vigilance by individuals",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Security measures by governments within their countries",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : " ",
-                              "type" : "text"
-                            },
-                            {
-                              "text" : "- Cooperation among countries",
+                              "text" : "2023: Affordable air travel",
                               "type" : "text"
                             }
                           ],
@@ -335,7 +374,389 @@
               ]
             }
           ],
-          "type" : "orderedList"
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Additionally, technological advancements have led to developments in digital technology. This has allowed people to communicate with each other more easily. Most",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "recently, the internet has allowed people to communicate with each other in real-time. This has allowed people to share ideas and information more easily, leading to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "increased interconnectedness.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Growth-of-Multinational-Corporations",
+          "level" : 3,
+          "text" : "Growth of Multinational Corporations",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Globalisations-Economic-Impact",
+          "level" : 2,
+          "text" : "Globalisation’s Economic Impact",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Economic impacts of globalisation and responses of countries and individuals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Economic impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Economic growth and economic vulnerability experienced by countries",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Employment opportunities and challenges experienced by individuals",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses to economic impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Government support",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Acquisition of knowledge and skills by individuals",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Globalisations-Cultural-Impact",
+          "level" : 2,
+          "text" : "Globalisation’s Cultural Impact",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Cultural impacts of globalisation and responses of countries and individuals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Cultural impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Spread of culture",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Dilution of culture",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses to cultural impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Varying degrees of acceptance and rejection",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Globalisations-Security-Impact",
+          "level" : 2,
+          "text" : "Globalisation’s Security Impact",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Security impacts of globalisation and responses of countries and individuals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Security impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Transnational terrorism",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Cyber threats",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Responses to security impacts of globalisation",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        },
+                        {
+                          "items" : [
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Vigilance by individuals",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Security measures by governments within their countries",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            },
+                            {
+                              "content" : [
+                                {
+                                  "inlineContent" : [
+                                    {
+                                      "text" : "Cooperation among countries",
+                                      "type" : "text"
+                                    }
+                                  ],
+                                  "type" : "paragraph"
+                                }
+                              ]
+                            }
+                          ],
+                          "type" : "unorderedList"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"

@@ -4578,7 +4578,7 @@
   ]
 },
 "In Progress.png": {
-  "alt" : null,
+  "alt" : "In Progress",
   "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
@@ -4613,6 +4613,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
+  "images" : [
+    {
+      "identifier" : "In Progress.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Being Part of a Globalised World",
