@@ -100,7 +100,15 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "Globalisation: The process through which ideas and activities of people living in different parts of the world become interconnected.",
+                  "text" : "Globalisation: The process through which ideas and activities of people living in different parts of the world become",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "interconnected.",
                   "type" : "text"
                 }
               ],
@@ -228,7 +236,15 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : ": The time taken to travel from one place to another has been reduced significantly. This has allowed people to travel to different parts of the world more easily.",
+                      "text" : ": The time taken to travel from one place to another has been reduced significantly. This has allowed people to travel to",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "different parts of the world more easily.",
                       "type" : "text"
                     }
                   ],
@@ -281,7 +297,15 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : ": The number of people and cargo that can be transported has increased. This has allowed more people to travel to different parts of the world.",
+                      "text" : ": The number of people and cargo that can be transported has increased. This has allowed more people to travel to different",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "parts of the world.",
                       "type" : "text"
                     }
                   ],
@@ -334,7 +358,15 @@
                       "type" : "strong"
                     },
                     {
-                      "text" : ": The cost of transportation has decreased. This has made it more affordable for people to travel to different parts of the world.",
+                      "text" : ": The cost of transportation has decreased. This has made it more affordable for people to travel to different parts of the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "world.",
                       "type" : "text"
                     }
                   ],
@@ -379,7 +411,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Additionally, technological advancements have led to developments in digital technology. This has allowed people to communicate with each other more easily. Most",
+              "text" : "Additionally, technological advancements have led to developments in digital technology. This has allowed people to communicate with each",
               "type" : "text"
             },
             {
@@ -387,7 +419,7 @@
               "type" : "text"
             },
             {
-              "text" : "recently, the internet has allowed people to communicate with each other in real-time. This has allowed people to share ideas and information more easily, leading to",
+              "text" : "other more easily. Most recently, the internet has allowed people to communicate with each other in real-time. This has allowed people to",
               "type" : "text"
             },
             {
@@ -395,7 +427,7 @@
               "type" : "text"
             },
             {
-              "text" : "increased interconnectedness.",
+              "text" : "share ideas and information more easily, leading to increased interconnectedness.",
               "type" : "text"
             }
           ],
@@ -408,116 +440,321 @@
           "type" : "heading"
         },
         {
-          "anchor" : "Globalisations-Economic-Impact",
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Multinational Corporations (MNCs): Companies that operate in multiple countries.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "MNCs drive globalisation due to their global supply chains. These supply chains allow companies to produce goods in and for different",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "parts of the world.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MNCs may choose to operate in different countries due to their unique advantages such as lower costs, access to resources, and access",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "to markets.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MNCs increase the interconnectedness of different countries by creating jobs, transferring knowledge, and promoting economic growth.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Globalisation-from-an-Economic-lens",
           "level" : 2,
+          "text" : "Globalisation from an Economic lens",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Economic impacts of globalisation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Economic growth and economic vulnerability experienced by countries",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Employment opportunities and challenges experienced by individuals",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Responses to economic impacts of globalisation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Government support",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Acquisition of knowledge and skills by individuals",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "The-Global-Economy",
+          "level" : 3,
+          "text" : "The Global Economy",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Countries participate in the global economy through international trade, where they exchange goods and services with other countries.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Countries may trade in goods (e.g. cars, electronics) and services (e.g. tourism, education).",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Countries trade because they have different resources and capabilities. For example, Singapore may trade with Malaysia because",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "Singapore has a strong financial sector while Malaysia has a strong manufacturing sector.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Other than trade, countries also participate in the global economy through foreign direct investment (FDI). This is where companies",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "invest in other countries by setting up factories, offices, or stores. For example, Apple has set up factories in China to produce",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "iPhones.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Globalisations-Economic-Impact",
+          "level" : 3,
           "text" : "Globalisation’s Economic Impact",
           "type" : "heading"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Being part of the international economy can mean:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Economic impacts of globalisation and responses of countries and individuals",
+                      "text" : "Opportunities for economic growth",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
-                },
+                }
+              ]
+            },
+            {
+              "content" : [
                 {
-                  "items" : [
+                  "inlineContent" : [
                     {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Economic impacts of globalisation",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        },
-                        {
-                          "items" : [
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Economic growth and economic vulnerability experienced by countries",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Employment opportunities and challenges experienced by individuals",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            }
-                          ],
-                          "type" : "unorderedList"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Responses to economic impacts of globalisation",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        },
-                        {
-                          "items" : [
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Government support",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Acquisition of knowledge and skills by individuals",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            }
-                          ],
-                          "type" : "unorderedList"
-                        }
-                      ]
+                      "text" : "More vulnerable to external economic shocks",
+                      "type" : "text"
                     }
                   ],
-                  "type" : "unorderedList"
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Employment opportunities for individuals",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Employment challenges, affect income",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
                 }
               ]
             }
@@ -525,9 +762,67 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Globalisations-Cultural-Impact",
-          "level" : 2,
-          "text" : "Globalisation’s Cultural Impact",
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "GDP: Gross Domestic Product, the total value of goods and services produced in a country in a year.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As countries participate in the global economy through international trade, their goods and services can reach a larger market. This can",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "mean economic growth, because there is a larger demand for their goods and services. For example, Singapore’s GDP has grown over the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "years due to its participation in the global economy.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "However, being part of the global economy can also mean that countries are more vulnerable to external economic shocks. For example, the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "2008 Global Financial Crisis affected many countries around the world, including Singapore.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Employment",
+          "level" : 3,
+          "text" : "Employment",
           "type" : "heading"
         },
         {
@@ -537,7 +832,219 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Cultural impacts of globalisation and responses of countries and individuals",
+                      "text" : "Where there is economic growth, more opportunities such as jobs are created",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "However, there are also challenges such as job losses due to competition from other countries",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Economic decline can lead to job losses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Globalisation creates jobs",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "But the country is open to the global economy businesses can reach a larger market resulting in hired demand. This leads to the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "creation of jobs.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The presence of MNCs and increased investments encourage the use of more advanced technologies, which create higher level jobs.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "People can also find jobs overseas due to developments in digital and transportation technology.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Globalisation challenges jobs",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "MNCs may relocate their operations to countries with lower costs, leading to job losses in the country they move away from.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Advancements technology can result in the automation of certain jobs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Local workers may face great competition from foreign labour",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Responses-to-Economic-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Responses to Economic Impacts of Globalisation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The government may respond",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Through economic cooperation with other countries",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By attracting and making foreign investments",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "By providing financial support and developing local expertise",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pursuing free trade policies",
                       "type" : "text"
                     }
                   ],
@@ -550,73 +1057,11 @@
                         {
                           "inlineContent" : [
                             {
-                              "text" : "Cultural impacts of globalisation",
+                              "text" : "Reduces tariffs between agreeing countries to allow lower cost trades",
                               "type" : "text"
                             }
                           ],
                           "type" : "paragraph"
-                        },
-                        {
-                          "items" : [
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Spread of culture",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            },
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Dilution of culture",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            }
-                          ],
-                          "type" : "unorderedList"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Responses to cultural impacts of globalisation",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        },
-                        {
-                          "items" : [
-                            {
-                              "content" : [
-                                {
-                                  "inlineContent" : [
-                                    {
-                                      "text" : "Varying degrees of acceptance and rejection",
-                                      "type" : "text"
-                                    }
-                                  ],
-                                  "type" : "paragraph"
-                                }
-                              ]
-                            }
-                          ],
-                          "type" : "unorderedList"
                         }
                       ]
                     }
@@ -629,9 +1074,458 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Globalisations-Security-Impact",
+          "anchor" : "Acquisition-of-Knowledge-and-Skills-by-Individuals",
+          "level" : 3,
+          "text" : "Acquisition of Knowledge and Skills by Individuals",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Individuals who are digital savvy or possess sought-after skills may be able to get more job opportunities overseas",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "However, individuals may find themselves competing with foreign labour. They may also risk losing their jobs when their companies",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "relocate.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Globalisation-from-a-Cultural-lens",
           "level" : 2,
-          "text" : "Globalisation’s Security Impact",
+          "text" : "Globalisation from a Cultural lens",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Cultural impacts of globalisation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Spread of culture",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Dilution of culture",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Responses to cultural impacts of globalisation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Varying degrees of acceptance and rejection",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Ethnic-culture",
+          "level" : 3,
+          "text" : "Ethnic culture",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Living-in-a-Diverse-Society",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", we covered that ethnic culture is understood in terms of customs and traditions of different groups.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Commonly reflected in language, clothing, art and music",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Encompasses the police, values and practices of the members",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Shared identity and cohesion are created among members",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A “pure” culture does not exist, due to globalisation and mingling",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Ethnic culture may evolve over time",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Spread-of-Culture",
+          "level" : 3,
+          "text" : "Spread of Culture",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Globalisation has led to the spread of popular and consumer culture. This is explored in terms of:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "American influence on fast food and media",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The Korean wave",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Around the world, many people embrace American culture. This could be because people find aspects of their culture, familiar and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "relatable. As people continue to consume American media, they may also adopt the values and believes represented in their movies.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Dilution-of-Culture",
+          "level" : 3,
+          "text" : "Dilution of Culture",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Local cultures may come under threat as a result of the spread of other cultures. They can risk being diluted or lose their uniqueness.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "As people become more immersed in global culture, the practice of local cultures may be less widespread",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The dilution of local cultures may eventually lead to some of them being forgotten over time",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Younger generations grew up under the cultural influences of globalisation, and may face difficulties relating to older generations,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "who are more rooted in traditional cultures",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Responses-to-Cultural-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Responses to Cultural Impacts of Globalisation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Countries and individuals have varying degrees of acceptance and rejection of cultural globalisation. This may be due to social political",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "or economic reasons.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Countries like friends have sweeping requirements for French media to protect French culture",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Countries like China have strict policies about imported movies and music to protect their own culture",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Individuals may embrace the spread of foreign products and ideas",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "They may also choose to resist the influences of globalisation by supporting local products and practices",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Globalisation-from-a-Security-lens",
+          "level" : 2,
+          "text" : "Globalisation from a Security lens",
           "type" : "heading"
         },
         {
@@ -752,6 +1646,229 @@
                     }
                   ],
                   "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Security: The state of being safe, and being free from danger or threat",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Remember that one of the <Exploring-Citizenship-and-Governance#Roles-of-government> is to ensure National Security.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Singapore maintains its food, water and energy security through globalisation",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Food: More than 90% of Singapore food is imported",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Water: Singapore imports a large amount of water from Malaysia",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Energy: Singapore imports international energy and fossil fuel",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Terrorism",
+          "level" : 3,
+          "text" : "Terrorism",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Terrorism: The unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Impacts of terrorism:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Immediate physical impact such as injuries, death and destruction of properties",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Feelings of distrust and fear among people",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "After the Paris terrorist attacks in 2015, people started to discriminate and carry out hate crimes against brown people.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Cyber-Threats",
+          "level" : 3,
+          "text" : "Cyber Threats",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Basically cybercriminals are transnational and because they can be anywhere, its very hard to find them and charge them.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Responses-to-Security-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Responses to Security Impacts of Globalisation",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Security checks",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Biometrics",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Cooperation among countries, such as Interpol",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
                 }
               ]
             }
