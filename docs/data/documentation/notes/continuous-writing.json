@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -622,9 +622,9 @@
   ]
 , 
 "references": {
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
     {
@@ -632,7 +632,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
@@ -658,6 +658,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "English",
@@ -674,7 +680,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -694,7 +700,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -714,7 +720,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -734,7 +740,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

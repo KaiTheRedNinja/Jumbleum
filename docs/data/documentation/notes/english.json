@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "English"
   },
@@ -98,20 +104,6 @@
     }
   ]
 },
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -128,9 +120,18 @@
 },
 "doc://Notes/documentation/Notes/Comprehension": {
   "abstract" : [
-
+    {
+      "text" : "The paper that is really difficult because so many answers are wrong",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comprehension",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Comprehension",
@@ -147,7 +148,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Continuous-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -167,7 +168,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Expository-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -187,7 +188,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Language-Use",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -207,7 +208,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Paragraph-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -227,7 +228,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reflective-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -247,7 +248,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Situational-Writing",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

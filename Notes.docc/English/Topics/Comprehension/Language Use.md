@@ -1,6 +1,7 @@
 # Language Use
+
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Language use questions ask how language is used to show stuff
@@ -38,3 +39,4 @@ answers.
 choose an alternative word.
 - Do not use the same word to explain different phrases. If you use similar explanations to link back to an overall 
 point, change both the words AND the sentence structure.
+- Do as many as the points or question indicate. If the question does not specify how many to write, do one per mark.

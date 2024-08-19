@@ -1,6 +1,7 @@
 # Situational Writing
+
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Candidates write 250–350 words on a given situation which will involve viewing a visual text
