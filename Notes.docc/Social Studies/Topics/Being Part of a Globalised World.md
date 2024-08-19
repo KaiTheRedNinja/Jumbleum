@@ -1,7 +1,7 @@
 # Being Part of a Globalised World
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 America never stopped being a colonial power

@@ -1,7 +1,7 @@
 # SS Examples
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 A collection of SS content examples, organised by chapter.
@@ -650,3 +650,111 @@ approach to managing SES differences, and Singapore's shared responsibility appr
 
 ### Chapter 9: How Can We Respond to the Economic Impacts of Globalisation?
 
+@Row(numberOfColumns: 3) {
+    @Column(size: 1) {
+        **Free trade agreements**: treaties between two or more economies to make trade and investments easier; typically 
+        reduce or remove tariffs between countries to allow foreign imports and exports to be cheaper
+    }
+
+    @Column(size: 2) {
+        > Example: The Singapore-Australia FTA (SAFTA) came into force in 2003. Under this agreement, tariffs on all imported 
+        goods are removed, the number of Australian universities whose law degrees are recognised in Singapore increased from
+        four to eight, the period of stay granted to business visitors between Singapore and Australia increased from one to 
+        three months.
+
+        > Example: European Union (EU) Singapore Free Trade Agreement (EUSFTA), which came into effect in November 2019. Under 
+        this agreement, the EU would remove tariffs on 84 per cent of all Singapore products entering the EU within the first 
+        year and the remaining 16 per cent over a period of three to five years. market access for Asian food products made in 
+        Singapore was also enhanced.
+
+        > Example: The Monetary Authority of Singapore (MAS), Singapore's central bank, ensures low and stable inflation in 
+        Singapore, which helps attract foreign investors. It also manages and invests the country's foreign reserves, namely 
+        foreign currencies accumulated from international trade and investment.
+
+        > Example: Government of Singapore Investment Corporation’s (GIC) mission is to grow the government's financial assets 
+        for the long term. It invests foreign reserves globally in public and private market assets, such as stocks, real estate 
+        and infrastructure, to preserve and enhance their value.
+
+        > Example: The Economic Development Board (EDB) and Enterprise Singapore (EnterpriseSG) create a vibrant business landscape 
+        to ensure sustainable economic growth for Singapore and good job opportunities for Singaporeans. EDB attracts globally-leading 
+        ompanies from around the world to Singapore and partners with government agencies in industry development. This enhances 
+        Singapore's position as a global centre for business, innovation, and talent. 
+    }
+}
+
+### Chapter 10: How Can We Respond to the Cultural Impacts of Globalisation?
+
+@Row(numberOfColumns: 3) {
+    @Column(size: 1) {
+        **Dilution of culture**: when a culture loses its significance or distinctiveness
+    }
+
+    @Column(size: 2) {
+        > Example: Countries of origin like America and Korea are more technologically advanced. Thus, they can use digital 
+        technology to transmit their entertainment products in digital format and share them via various digital platforms. Hence, 
+        American and Korean influences can be observed in people's entertainment choices, food and fashion. Some people may also 
+        adopt the values and beliefs represented in American or Korean shows and movies.
+
+        > Example: Every Christmas, millions of Japanese families treat themselves to KFC, which is considered a nationwide 
+        tradition. Shortly after KFC entered Japan in 1970, the manager of the first KFC store developed a marketing campaign 
+        to promote a "party barrel" to celebrate Christmas, known as "Kentucky for Christmas". The marketing campaign was a 
+        great success, and the tradition of having KFC on Christmas Day became widely practised in the country. Japanese consumers 
+        have given KFC a new meaning, which differs significantly from its original American context.
+
+        > Example: In 1993, there was a rule in place requiring at least 40 per cent of TV programmes to be French. In 1994, 
+        another rule was introduced, stipulating that 40 per cent of the songs played over the radio must also be French. In 2016, 
+        following a protest staged by French radio stations, the quota for French songs on the radio was lowered to 35 per cent. 
+        French radio stations were struggling to compete with music streaming services like Spotify, which offered popular American 
+        music. Also, French artistes were producing more songs in English as they attempted to enter the global market.
+
+        > Example: Chinese authorities control foreign film distribution in the country through censorship, policies limiting the 
+        import of foreign movies, and control of release dates. Foreign films can only be distributed in China through Chinese 
+        state-owned cinema businesses. This means that profits are shared with the Chinese cinema businesses. As a result, about 
+        83% of movies screened in China are locally produced, with foreign movies only contributing to about 15 per cent of the 
+        total box office revenue in the country.
+
+        > Example: As Korean pop culture continues to gain massive and rapid fame in Japan, it has also received backlash from some 
+        locals. Some of this backlash stems from concerns over how Korean influences threaten or dilute Japanese culture and 
+        cultural businesses. As a result, some Japanese do not buy Korean products because they are made in Korea. Major Japanese 
+        websites that promote Korean culture have also seen dramatic declines in their number of visitors.
+    }
+}
+
+### Chapter 11: How Can We Respond to the Security Impacts of Globalisation?
+
+@Row(numberOfColumns: 3) {
+    @Column(size: 1) {
+        **Non-traditional security concerns**: food, water and energy security
+    }
+
+    @Column(size: 2) {
+        > Example: Many countries depend on each other for resources like food, water and energy supplies. Singapore imports more 
+        than 90 per cent of its food. A lot of countries import energy supplies like fossil fuels (such as natural gas, oil and 
+        coal) to ensure their energy security.
+    }
+}
+
+@Row(numberOfColumns: 3) {
+    @Column(size: 1) {
+        **Transnational Terrorism**: arises when terrorists take advantage of these conditions of globalisation and attack beyond 
+        their country’s borders to achieve their objectives and operations
+    }
+
+    @Column(size: 2) {
+        > Example: On 11 September 2001, within 102 minutes, 19 terrorists from Al-Qaeda hijacked four American aeroplanes and 
+        crashed them into various locations in the United States. The attacks killed over 3,000 people, resulted in over 25,000 
+        injuries and caused infrastructure and property damage amounting to US$10 billion. The motive behind these attacks was 
+        to take revenge for America's military involvement in the Middle East.
+
+        > Example: On the night of 13 November 2015 in Paris, Islamic State in Iraq and Syria militant gunmen and suicide bombers 
+        attacked a concert hall, a major stadium, restaurants and bars almost simultaneously. After the attacks, people started 
+        to discriminate and carry out hate crimes against others who "looked like terrorists" or had a similar religious background 
+        as the gunmen. One of the victims of hate crimes was a British Sikh in Poland. He was assaulted and spat on because he 
+        looked like a "terrorist".
+
+        > Example: Al-Qaeda and the Islamic State in Iraq and Syria have global transnational objectives. Al-Qaeda used the idea 
+        of a global "holy war" to encourage extremist Islamic groups in different countries to engage in terrorism. ISIS seeks 
+        to establish an Islamic state with authority over Muslims throughout the world. ISIS also made use of social media, such 
+        as Twitter and Facebook, to spread terrorist propaganda and recruit members.
+    }
+}

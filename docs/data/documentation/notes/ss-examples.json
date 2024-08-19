@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -4537,6 +4537,738 @@
           "level" : 3,
           "text" : "Chapter 9: How Can We Respond to the Economic Impacts of Globalisation?",
           "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Free trade agreements",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": treaties between two or more economies to make trade and investments easier; typically",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "reduce or remove tariffs between countries to allow foreign imports and exports to be cheaper",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Singapore-Australia FTA (SAFTA) came into force in 2003. Under this agreement, tariffs on all imported",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "goods are removed, the number of Australian universities whose law degrees are recognised in Singapore increased from",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "four to eight, the period of stay granted to business visitors between Singapore and Australia increased from one to",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "three months.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "European Union (EU) Singapore Free Trade Agreement (EUSFTA), which came into effect in November 2019. Under",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "this agreement, the EU would remove tariffs on 84 per cent of all Singapore products entering the EU within the first",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "year and the remaining 16 per cent over a period of three to five years. market access for Asian food products made in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore was also enhanced.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Monetary Authority of Singapore (MAS), Singapore’s central bank, ensures low and stable inflation in",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore, which helps attract foreign investors. It also manages and invests the country’s foreign reserves, namely",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "foreign currencies accumulated from international trade and investment.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Government of Singapore Investment Corporation’s (GIC) mission is to grow the government’s financial assets",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "for the long term. It invests foreign reserves globally in public and private market assets, such as stocks, real estate",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "and infrastructure, to preserve and enhance their value.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "The Economic Development Board (EDB) and Enterprise Singapore (EnterpriseSG) create a vibrant business landscape",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to ensure sustainable economic growth for Singapore and good job opportunities for Singaporeans. EDB attracts globally-leading",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "ompanies from around the world to Singapore and partners with government agencies in industry development. This enhances",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "Singapore’s position as a global centre for business, innovation, and talent.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-10-How-Can-We-Respond-to-the-Cultural-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Chapter 10: How Can We Respond to the Cultural Impacts of Globalisation?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Dilution of culture",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": when a culture loses its significance or distinctiveness",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Countries of origin like America and Korea are more technologically advanced. Thus, they can use digital",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "technology to transmit their entertainment products in digital format and share them via various digital platforms. Hence,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "American and Korean influences can be observed in people’s entertainment choices, food and fashion. Some people may also",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "adopt the values and beliefs represented in American or Korean shows and movies.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Every Christmas, millions of Japanese families treat themselves to KFC, which is considered a nationwide",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "tradition. Shortly after KFC entered Japan in 1970, the manager of the first KFC store developed a marketing campaign",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to promote a “party barrel” to celebrate Christmas, known as “Kentucky for Christmas”. The marketing campaign was a",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "great success, and the tradition of having KFC on Christmas Day became widely practised in the country. Japanese consumers",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "have given KFC a new meaning, which differs significantly from its original American context.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "In 1993, there was a rule in place requiring at least 40 per cent of TV programmes to be French. In 1994,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "another rule was introduced, stipulating that 40 per cent of the songs played over the radio must also be French. In 2016,",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "following a protest staged by French radio stations, the quota for French songs on the radio was lowered to 35 per cent.",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "French radio stations were struggling to compete with music streaming services like Spotify, which offered popular American",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "music. Also, French artistes were producing more songs in English as they attempted to enter the global market.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Chinese authorities control foreign film distribution in the country through censorship, policies limiting the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "import of foreign movies, and control of release dates. Foreign films can only be distributed in China through Chinese",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "state-owned cinema businesses. This means that profits are shared with the Chinese cinema businesses. As a result, about",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "83% of movies screened in China are locally produced, with foreign movies only contributing to about 15 per cent of the",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "total box office revenue in the country.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "As Korean pop culture continues to gain massive and rapid fame in Japan, it has also received backlash from some",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "locals. Some of this backlash stems from concerns over how Korean influences threaten or dilute Japanese culture and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "cultural businesses. As a result, some Japanese do not buy Korean products because they are made in Korea. Major Japanese",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "websites that promote Korean culture have also seen dramatic declines in their number of visitors.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Chapter-11-How-Can-We-Respond-to-the-Security-Impacts-of-Globalisation",
+          "level" : 3,
+          "text" : "Chapter 11: How Can We Respond to the Security Impacts of Globalisation?",
+          "type" : "heading"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Non-traditional security concerns",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": food, water and energy security",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Many countries depend on each other for resources like food, water and energy supplies. Singapore imports more",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "than 90 per cent of its food. A lot of countries import energy supplies like fossil fuels (such as natural gas, oil and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "coal) to ensure their energy security.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Transnational Terrorism",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": arises when terrorists take advantage of these conditions of globalisation and attack beyond",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "their country’s borders to achieve their objectives and operations",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "On 11 September 2001, within 102 minutes, 19 terrorists from Al-Qaeda hijacked four American aeroplanes and",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "crashed them into various locations in the United States. The attacks killed over 3,000 people, resulted in over 25,000",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "injuries and caused infrastructure and property damage amounting to US$10 billion. The motive behind these attacks was",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to take revenge for America’s military involvement in the Middle East.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "On the night of 13 November 2015 in Paris, Islamic State in Iraq and Syria militant gunmen and suicide bombers",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "attacked a concert hall, a major stadium, restaurants and bars almost simultaneously. After the attacks, people started",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to discriminate and carry out hate crimes against others who “looked like terrorists” or had a similar religious background",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "as the gunmen. One of the victims of hate crimes was a British Sikh in Poland. He was assaulted and spat on because he",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "looked like a “terrorist”.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                },
+                {
+                  "content" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Al-Qaeda and the Islamic State in Iraq and Syria have global transnational objectives. Al-Qaeda used the idea",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "of a global “holy war” to encourage extremist Islamic groups in different countries to engage in terrorism. ISIS seeks",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "to establish an Islamic state with authority over Muslims throughout the world. ISIS also made use of social media, such",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : " ",
+                          "type" : "text"
+                        },
+                        {
+                          "text" : "as Twitter and Facebook, to spread terrorist propaganda and recruit members.",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "paragraph"
+                    }
+                  ],
+                  "name" : "Example",
+                  "style" : "note",
+                  "type" : "aside"
+                }
+              ],
+              "size" : 2
+            }
+          ],
+          "numberOfColumns" : 3,
+          "type" : "row"
         }
       ],
       "kind" : "content"
@@ -4577,20 +5309,6 @@
     }
   ]
 },
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -4615,7 +5333,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Being-Part-of-a-Globalised-World",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
