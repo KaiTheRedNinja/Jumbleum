@@ -1,5 +1,9 @@
 # Impact of Technology on Everyday Life
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 How technology has impacted various aspects of people's lives
 
 ## Communication

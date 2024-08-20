@@ -378,31 +378,37 @@
               {
                 "children" : [
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/data-corruption",
                     "title" : "Data Corruption",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/unauthorised-access",
                     "title" : "Unauthorised Access",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/authorisation",
                     "title" : "Authorisation",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/threats-to-privacy-and-security",
                     "title" : "Threats to Privacy and Security",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/intellectual-property",
                     "title" : "Intellectual Property",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/impact-of-technology-on-everyday-life",
                     "title" : "Impact of Technology on Everyday Life",
                     "type" : "article"
@@ -836,7 +842,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

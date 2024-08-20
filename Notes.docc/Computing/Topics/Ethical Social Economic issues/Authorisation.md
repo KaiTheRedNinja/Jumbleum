@@ -1,5 +1,9 @@
 # Authorisation
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Once the user is authenticated, the ability of a computer to control the access of data and resources by that user is 
 called access control/authorisation
 

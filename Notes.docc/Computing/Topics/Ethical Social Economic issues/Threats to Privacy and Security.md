@@ -1,5 +1,9 @@
 # Threats to Privacy and Security
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Things that can threaten privacy and security, and how to defend against them
 
 ## General Threats

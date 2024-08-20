@@ -20,6 +20,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Impact of Technology on Everyday Life"
@@ -809,6 +815,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Authorisation",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Authorisation",
@@ -843,6 +855,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Data-Corruption",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Data Corruption",
@@ -877,6 +895,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Intellectual-Property",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Intellectual Property",
@@ -891,6 +915,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Threats-to-Privacy-and-Security",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Threats to Privacy and Security",
@@ -905,6 +935,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Unauthorised-Access",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Unauthorised Access",

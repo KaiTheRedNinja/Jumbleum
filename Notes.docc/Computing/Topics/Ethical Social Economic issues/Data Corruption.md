@@ -1,5 +1,9 @@
 # Data Corruption
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 Data corruption occurs when computer data is made unusable by errors or alterations
 
 ## Effects of Corruption and Data Loss

@@ -1,5 +1,9 @@
 # Unauthorised Access
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 A situation where data owned by someone is used by someone else without permission. 
 
 ## Cases of Unauthorised Access
