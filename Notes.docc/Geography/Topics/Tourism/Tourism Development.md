@@ -1,5 +1,9 @@
 # Tourism Development
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Minimal", alt: "Minimally Complete")
+}
+
 How tourist destination regions develop
 
 ## Overview

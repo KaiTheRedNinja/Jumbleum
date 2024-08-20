@@ -1,5 +1,9 @@
 # Sustainable Tourism Development
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Minimal", alt: "Minimally Complete")
+}
+
 Tourism, sustainably.
 
 ## Overview

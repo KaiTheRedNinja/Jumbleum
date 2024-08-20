@@ -195,6 +195,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Geography",

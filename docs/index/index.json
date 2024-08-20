@@ -711,16 +711,19 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/tourism-activity",
                 "title" : "Tourism Activity",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/tourism-development",
                 "title" : "Tourism Development",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/sustainable-tourism-development",
                 "title" : "Sustainable Tourism Development",
                 "type" : "article"
@@ -770,6 +773,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Checkmark.png",
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "symbol"
@@ -865,7 +869,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

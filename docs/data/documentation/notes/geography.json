@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Geography"
   },
@@ -385,6 +391,20 @@
     }
   ]
 },
+"Minimal.jpg": {
+  "alt" : "Minimally Complete",
+  "identifier" : "Minimal.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -584,6 +604,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Tourism-Development",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Sustainable Tourism Development",
@@ -618,6 +644,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Tourism Activity",
@@ -632,6 +664,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Tourism Development",

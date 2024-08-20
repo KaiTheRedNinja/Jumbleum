@@ -6,6 +6,8 @@
         purpose: link,
         label: "Curriculum (pg 16-43)"
     )
+
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Humanities, social and natural sciences

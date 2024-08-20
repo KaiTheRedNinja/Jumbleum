@@ -1,5 +1,9 @@
 # Tourism Activity
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Minimal", alt: "Minimally Complete")
+}
+
 The nature of tourism
 
 ## Overview
