@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "When shapes are the same but different, or similar enough to be considered the same but still different.",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,213 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Minimal.jpg",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Congruence and similarity"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "congruent figures and similar figures",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "properties of similar triangles and polygons:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "corresponding angles are equal",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "corresponding sides are proportional",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "enlargement and reduction of a plane figure",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "scale drawings",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "properties and construction of perpendicular bisectors of line segments and angle bisectors",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "determining whether two triangles are",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "congruent",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "similar",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ratio of areas of similar plane figures",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ratio of volumes of similar solids",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "solving simple problems involving similarity and congruence",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -42,6 +251,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Minimal.jpg": {
+  "alt" : "Minimally Complete",
+  "identifier" : "Minimal.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -58,9 +295,18 @@
 },
 "doc://Notes/documentation/Notes/Angles-triangles-and-polygons": {
   "abstract" : [
-
+    {
+      "text" : "When lines meet and form pretty (or not pretty) shapes",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Angles triangles and polygons",
@@ -69,9 +315,18 @@
 },
 "doc://Notes/documentation/Notes/Coordinate-Geometry": {
   "abstract" : [
-
+    {
+      "text" : "Working with lines and points",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Coordinate Geometry",
@@ -86,6 +341,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Emath",
@@ -94,9 +355,18 @@
 },
 "doc://Notes/documentation/Notes/Mensuration": {
   "abstract" : [
-
+    {
+      "text" : "The study of measurement. Not that other similar sounding thing, of course not that.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Mensuration",
@@ -105,9 +375,18 @@
 },
 "doc://Notes/documentation/Notes/Properties-of-circles": {
   "abstract" : [
-
+    {
+      "text" : "The rules that lines within circles follow",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Properties of circles",
@@ -116,9 +395,18 @@
 },
 "doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
   "abstract" : [
-
+    {
+      "text" : "An old guy claims credit for something invented far earlier. Its useful though!",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Pythagoras Theorem and Trigonometry",
@@ -127,9 +415,18 @@
 },
 "doc://Notes/documentation/Notes/Vectors-in-2D": {
   "abstract" : [
-
+    {
+      "text" : "Direction and magnitude, but flat.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Vectors in 2D",

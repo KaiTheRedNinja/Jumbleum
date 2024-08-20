@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Working with lines and points",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,86 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Minimal.jpg",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Coordinate Geometry"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "finding the gradient of a straight line given the coordinates of two points on it",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "finding the length of a line segment given the coordinates of its end points",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "interpreting and finding the equation of a straight line graph in the form y = mx + c",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "geometric problems involving the use of coordinates",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -42,6 +124,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Minimal.jpg": {
+  "alt" : "Minimally Complete",
+  "identifier" : "Minimal.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -58,9 +168,18 @@
 },
 "doc://Notes/documentation/Notes/Angles-triangles-and-polygons": {
   "abstract" : [
-
+    {
+      "text" : "When lines meet and form pretty (or not pretty) shapes",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Angles triangles and polygons",
@@ -69,9 +188,18 @@
 },
 "doc://Notes/documentation/Notes/Congruence-and-similarity": {
   "abstract" : [
-
+    {
+      "text" : "When shapes are the same but different, or similar enough to be considered the same but still different.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Congruence and similarity",
@@ -86,6 +214,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Emath",
@@ -94,9 +228,18 @@
 },
 "doc://Notes/documentation/Notes/Mensuration": {
   "abstract" : [
-
+    {
+      "text" : "The study of measurement. Not that other similar sounding thing, of course not that.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Mensuration",
@@ -105,9 +248,18 @@
 },
 "doc://Notes/documentation/Notes/Properties-of-circles": {
   "abstract" : [
-
+    {
+      "text" : "The rules that lines within circles follow",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Properties of circles",
@@ -116,9 +268,18 @@
 },
 "doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
   "abstract" : [
-
+    {
+      "text" : "An old guy claims credit for something invented far earlier. Its useful though!",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Pythagoras Theorem and Trigonometry",
@@ -127,9 +288,18 @@
 },
 "doc://Notes/documentation/Notes/Vectors-in-2D": {
   "abstract" : [
-
+    {
+      "text" : "Direction and magnitude, but flat.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Vectors in 2D",

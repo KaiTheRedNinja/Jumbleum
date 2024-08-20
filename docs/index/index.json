@@ -17,46 +17,55 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/numbers-and-their-operations",
                 "title" : "Numbers and their Operations",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/ratio-and-proportion",
                 "title" : "Ratio and Proportion",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/percentage",
                 "title" : "Percentage",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/rate-and-speed",
                 "title" : "Rate and Speed",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/algebraic-expressions-and-formulae",
                 "title" : "Algebraic expressions and formulae",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/functions-and-graphs",
                 "title" : "Functions and Graphs",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/equations-and-inequalities-e",
                 "title" : "Equations and Inequalities E",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/set-language-and-notation",
                 "title" : "Set language and notation",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/matrices",
                 "title" : "Matrices",
                 "type" : "article"
@@ -66,36 +75,43 @@
                 "type" : "groupMarker"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/angles-triangles-and-polygons",
                 "title" : "Angles triangles and polygons",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/congruence-and-similarity",
                 "title" : "Congruence and similarity",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/properties-of-circles",
                 "title" : "Properties of circles",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/pythagoras-theorem-and-trigonometry",
                 "title" : "Pythagoras Theorem and Trigonometry",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/mensuration",
                 "title" : "Mensuration",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/coordinate-geometry",
                 "title" : "Coordinate Geometry",
                 "type" : "article"
               },
               {
+                "icon" : "Minimal.jpg",
                 "path" : "\/documentation\/notes\/vectors-in-2d",
                 "title" : "Vectors in 2D",
                 "type" : "article"
@@ -117,6 +133,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Checkmark.png",
             "path" : "\/documentation\/notes\/emath",
             "title" : "Emath",
             "type" : "symbol"
@@ -852,6 +869,20 @@
             "light"
           ],
           "url" : "\/images\/Notes\/In%20Progress.png"
+        }
+      ]
+    },
+    "Minimal.jpg" : {
+      "alt" : "Minimally Complete",
+      "identifier" : "Minimal.jpg",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Minimal.jpg"
         }
       ]
     }

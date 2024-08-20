@@ -14,6 +14,13 @@ Each subject has multiple topic. Generally, the `Overview` of each topic will be
 - A list of subtopics in `Topics`. The subtopics will be a list of links to the notes for that subtopic.
 - Sections for each subtopic. The sections will contain the notes for that subtopic.
 
+## Icon Key
+
+- ✅: Completed
+- 🔄: In Progress
+- 📝: Minimally complete, with no plans to improve
+- No icon: Not started
+
 ## Topics
 ### Mathematics
 - <doc:Emath>

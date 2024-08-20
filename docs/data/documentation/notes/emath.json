@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Emath"
   },
@@ -116,6 +122,20 @@
     }
   ]
 },
+"Minimal.jpg": {
+  "alt" : "Minimally Complete",
+  "identifier" : "Minimal.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -132,9 +152,18 @@
 },
 "doc://Notes/documentation/Notes/Algebraic-expressions-and-formulae": {
   "abstract" : [
-
+    {
+      "text" : "The English have come to colonise math too",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algebraic-expressions-and-formulae",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Algebraic expressions and formulae",
@@ -157,9 +186,18 @@
 },
 "doc://Notes/documentation/Notes/Angles-triangles-and-polygons": {
   "abstract" : [
-
+    {
+      "text" : "When lines meet and form pretty (or not pretty) shapes",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Angles-triangles-and-polygons",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Angles triangles and polygons",
@@ -168,9 +206,18 @@
 },
 "doc://Notes/documentation/Notes/Congruence-and-similarity": {
   "abstract" : [
-
+    {
+      "text" : "When shapes are the same but different, or similar enough to be considered the same but still different.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Congruence-and-similarity",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Congruence and similarity",
@@ -179,9 +226,18 @@
 },
 "doc://Notes/documentation/Notes/Coordinate-Geometry": {
   "abstract" : [
-
+    {
+      "text" : "Working with lines and points",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-Geometry",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Coordinate Geometry",
@@ -210,9 +266,18 @@
 },
 "doc://Notes/documentation/Notes/Equations-and-Inequalities-E": {
   "abstract" : [
-
+    {
+      "text" : "I am me. You are you. We are not equal.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Equations and Inequalities E",
@@ -221,9 +286,18 @@
 },
 "doc://Notes/documentation/Notes/Functions-and-Graphs": {
   "abstract" : [
-
+    {
+      "text" : "a relation or expression involving one or more variables, and also how it looks when drawn out",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Functions and Graphs",
@@ -232,9 +306,18 @@
 },
 "doc://Notes/documentation/Notes/Matrices": {
   "abstract" : [
-
+    {
+      "text" : "There is no spoon.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Matrices",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Matrices",
@@ -243,9 +326,18 @@
 },
 "doc://Notes/documentation/Notes/Mensuration": {
   "abstract" : [
-
+    {
+      "text" : "The study of measurement. Not that other similar sounding thing, of course not that.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mensuration",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Mensuration",
@@ -254,9 +346,18 @@
 },
 "doc://Notes/documentation/Notes/Numbers-and-their-Operations": {
   "abstract" : [
-
+    {
+      "text" : "Basics of how to use numbers",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Numbers and their Operations",
@@ -265,9 +366,18 @@
 },
 "doc://Notes/documentation/Notes/Percentage": {
   "abstract" : [
-
+    {
+      "text" : "A proportion or share in relation to a whole",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Percentage",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Percentage",
@@ -310,9 +420,18 @@
 },
 "doc://Notes/documentation/Notes/Properties-of-circles": {
   "abstract" : [
-
+    {
+      "text" : "The rules that lines within circles follow",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Properties-of-circles",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Properties of circles",
@@ -321,9 +440,18 @@
 },
 "doc://Notes/documentation/Notes/Pythagoras-Theorem-and-Trigonometry": {
   "abstract" : [
-
+    {
+      "text" : "An old guy claims credit for something invented far earlier. Its useful though!",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Pythagoras-Theorem-and-Trigonometry",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Pythagoras Theorem and Trigonometry",
@@ -332,9 +460,18 @@
 },
 "doc://Notes/documentation/Notes/Rate-and-Speed": {
   "abstract" : [
-
+    {
+      "text" : "Change of something over time, also movement",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Rate-and-Speed",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Rate and Speed",
@@ -343,9 +480,18 @@
 },
 "doc://Notes/documentation/Notes/Ratio-and-Proportion": {
   "abstract" : [
-
+    {
+      "text" : "How much of something is there compared to something else",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Ratio and Proportion",
@@ -354,9 +500,18 @@
 },
 "doc://Notes/documentation/Notes/Set-language-and-notation": {
   "abstract" : [
-
+    {
+      "text" : "Unordered collection of unique objects",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Set language and notation",
@@ -365,9 +520,18 @@
 },
 "doc://Notes/documentation/Notes/Vectors-in-2D": {
   "abstract" : [
-
+    {
+      "text" : "Direction and magnitude, but flat.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Vectors-in-2D",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Vectors in 2D",

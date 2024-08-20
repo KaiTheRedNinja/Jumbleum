@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "A proportion or share in relation to a whole",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,99 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Minimal.jpg",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "Percentage"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "expressing one quantity as a percentage of another",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "comparing two quantities by percentage",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "percentages greater than 100%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "increasing\/decreasing a quantity by a given percentage",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "reverse percentages",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -44,6 +139,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Minimal.jpg": {
+  "alt" : "Minimally Complete",
+  "identifier" : "Minimal.jpg",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -60,9 +183,18 @@
 },
 "doc://Notes/documentation/Notes/Algebraic-expressions-and-formulae": {
   "abstract" : [
-
+    {
+      "text" : "The English have come to colonise math too",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Algebraic-expressions-and-formulae",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Algebraic expressions and formulae",
@@ -77,6 +209,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Emath",
@@ -85,9 +223,18 @@
 },
 "doc://Notes/documentation/Notes/Equations-and-Inequalities-E": {
   "abstract" : [
-
+    {
+      "text" : "I am me. You are you. We are not equal.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-E",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Equations and Inequalities E",
@@ -96,9 +243,18 @@
 },
 "doc://Notes/documentation/Notes/Functions-and-Graphs": {
   "abstract" : [
-
+    {
+      "text" : "a relation or expression involving one or more variables, and also how it looks when drawn out",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Functions-and-Graphs",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Functions and Graphs",
@@ -107,9 +263,18 @@
 },
 "doc://Notes/documentation/Notes/Matrices": {
   "abstract" : [
-
+    {
+      "text" : "There is no spoon.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Matrices",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Matrices",
@@ -118,9 +283,18 @@
 },
 "doc://Notes/documentation/Notes/Numbers-and-their-Operations": {
   "abstract" : [
-
+    {
+      "text" : "Basics of how to use numbers",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Numbers-and-their-Operations",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Numbers and their Operations",
@@ -129,9 +303,18 @@
 },
 "doc://Notes/documentation/Notes/Rate-and-Speed": {
   "abstract" : [
-
+    {
+      "text" : "Change of something over time, also movement",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Rate-and-Speed",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Rate and Speed",
@@ -140,9 +323,18 @@
 },
 "doc://Notes/documentation/Notes/Ratio-and-Proportion": {
   "abstract" : [
-
+    {
+      "text" : "How much of something is there compared to something else",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Ratio-and-Proportion",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Ratio and Proportion",
@@ -151,9 +343,18 @@
 },
 "doc://Notes/documentation/Notes/Set-language-and-notation": {
   "abstract" : [
-
+    {
+      "text" : "Unordered collection of unique objects",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Set-language-and-notation",
+  "images" : [
+    {
+      "identifier" : "Minimal.jpg",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Set language and notation",
