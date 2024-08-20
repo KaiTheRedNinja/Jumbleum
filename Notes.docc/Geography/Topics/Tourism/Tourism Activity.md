@@ -48,3 +48,13 @@ The nature of tourism
     - Personality characteristics influence travel patterns
         - different types of tourist destination regions appeal to tourists with different personality characteristics
         - tourists who are more Venturer types influence travel decisions of those who are more Dependable types
+
+## Butler Model
+
+1. Exploration: Small number of tourists who are more venturer type
+2. Involvement: Locals offer tourist services, advertising the destination, start to develop the area for tourism
+3. Development: Sharp increase in tourist numbers, large focus on development
+4. Consolidation: Tourists outnumber locals, tourism dependent economy
+5. Stagnation: Tourist numbers peak. Because there is no perceived growth, investment may stagnate
+6. Decline: Tourist numbers decline as the destination loses its appeal
+7. Rejuvenation: Destination is rejuvenated (usually by renovations)
