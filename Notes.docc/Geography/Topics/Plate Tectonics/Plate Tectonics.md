@@ -8,9 +8,45 @@ Plate tectonics is how and why continental plates interact with each other
 
 ## Overview
 - Plate tectonic theory
+    - Plate tectonic theory
+        - Earth’s internal structure consists of core, mantle and crust, including continental and oceanic crusts
+        - explains how forces within Earth drive global plate movements
+    - Convection currents
+        - within the hot softened mantle below the crust
+        - being the driving force of overlying plates
+    - Slab-pull force
+        - gravity-controlled subduction of denser oceanic plate
+        - drags the rest of the plate along
 - Plate boundaries
+    - Divergent plate boundaries
+        - plates move away from each other
+        - results in mid-oceanic ridges, volcanoes including submarine volcanoes and volcanic islands, rift systems and earthquakes
+    - Convergent plate boundaries
+        - plates move towards each other
+        - results in fold mountains, volcanoes including submarine volcanoes, oceanic trenches and earthquakes
+    - Transform plate boundaries
+        - plates slide past each other
+        - results in faults and earthquakes
 - Seafloor spreading and how it supports plate tectonics
+    - Seafloor spreading
+        - magma rises through mid-ocean ridges
+        - forms new oceanic crusts
+    - Evidence from age of rocks
+        - younger rocks are found nearer to the crest of mid-ocean ridges
+        - rocks get progressively older further away from mid-ocean ridges
+    - Evidence from limited sediment accumulation
+        - destruction of older oceanic crusts at trenches
+        - oceanic crusts younger than continental crusts
 - Magnetic striping and how it supports plate tectonics
+    - Magnetic striping
+        - normal and reversed polarity
+        - stripes of rock on the seafloor with alternating magnetic properties
+    - Evidence from rock composition
+        - basalt is a volcanic rock that forms the oceanic crust
+        - contains minerals that can be influenced by Earth’s magnetic field
+    - Evidence from rock patterns
+        - alternating polarity forms a striped pattern
+        - not random or isolated occurrences
 
 ## Plate Tectonic Theory
 

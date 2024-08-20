@@ -9,8 +9,44 @@ How to not disaster as disastrously
 ## Overview
 
 - Disaster risk management in the context of sustainable development
+    - Disaster risk management
+        - prevent, reduce and manage disaster risks thus strengthening resilience
+        - apply plans and actions which are developed into various strategies by communities
+    - Disaster risk and loss
+        - brings about serious economic, social and environmental consequences
+        - costly for individuals and countries, and may hinder development
+    - Reducing disaster risks
+        - important for disaster-prone developing countries
+        - cost-effective investment in preventing future losses, thus contributing to sustainable development
 - Disparity between impacts of tectonic hazards
+    - Tectonic disaster risk
+        - interaction between tectonic hazards, and vulnerability and exposure to earthquakes and volcanic eruptions
+        - results in potential loss of human lives and damage to properties
+    - Factors influencing disaster risks related to earthquakes
+        - nature of hazards including duration and time of shaking
+        - vulnerable conditions including quality of building design and construction, soil and rock properties, and exposure including population density and distance from epicentre
+    - Factors influencing disaster risks related to volcanic eruptions
+        - nature of hazards including chemical composition of magma
+        - vulnerable conditions including availability of surface and ground water facilitating the development of lahars, prevailing wind conditions affecting distribution of tephra, and exposure including presence of human settlements
 - Effectiveness of community resilience strategies
+    - Strengthening resilience
+        - important for communities living in hazard-prone zones
+        - to resist, adapt and recover from impacts of disasters in a timely and efficient manner
+    - Strategies in building community resilience
+        - reducing exposure including land use planning, reducing vulnerability including hazard-resistant building designs, and monitoring and warning systems
+        - increasing preparedness for response and recovery
+    - Challenges in building community resilience
+        - extent of community’s resources
+        - capability of community to organise itself for disasters
+    - Disaster management
+        - organisation, planning and application of strategies
+        - responding to and recovering from disasters
+    - Disaster management strategies
+        - disaster response includes search and rescue efforts, timely evacuation, and provision of basic social and psychosocial services to affected communities
+        - disaster recovery includes restoring and improving facilities and living conditions of affected communities
+    - Challenges in disaster management
+        - lack of domestic resources, including technological and financial resources
+        - engaging relevant stakeholders to collaborate and integrate disaster management strategies into their practices
 
 ## What does Disaster Management Mean
 

@@ -557,7 +557,10 @@
 },
 "doc://Notes/documentation/Notes/Sustainable-Tourism-Development": {
   "abstract" : [
-
+    {
+      "text" : "Tourism, sustainably.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Sustainable-Tourism-Development",
   "kind" : "article",
@@ -588,7 +591,10 @@
 },
 "doc://Notes/documentation/Notes/Tourism-Activity": {
   "abstract" : [
-
+    {
+      "text" : "The nature of tourism",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Activity",
   "kind" : "article",
@@ -599,7 +605,10 @@
 },
 "doc://Notes/documentation/Notes/Tourism-Development": {
   "abstract" : [
-
+    {
+      "text" : "How tourist destination regions develop",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Tourism-Development",
   "kind" : "article",

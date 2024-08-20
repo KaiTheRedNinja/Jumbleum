@@ -9,9 +9,45 @@ How urban areas can be sustainable
 ## Overview
 
 - Sustainable urban neighbourhoods
+    - Sustainable development
+        - meet the needs of the present population by achieving high standards of living for all
+        - ensure the ability of future generations to meet their own needs
+    - Economic and social sustainability in urban neighbourhoods
+        - high enough population density to support local businesses, and keep transport and infrastructure costs low
+        - small population size to enable regular interaction among residents and to discuss decisions affecting the neighbourhood
+    - Environmental sustainability in urban neighbourhoods
+        - ample protection for nature and facilities that support waste minimisation and recycling
+        - adopts energy and water efficient design approaches for buildings and landscapes
 - Ecosystem services found in urban neighbourhoods
+    - Urban neighbourhoods as ecosystems
+        - ecosystems consist of living communities and the non-living environment interacting with one another
+        - aquatic and terrestrial ecosystems in neighbourhoods including ponds, lakes, parks and forests
+    - Provisioning and regulating services
+        - provisioning services available in neighbourhoods include fresh water and food
+        - regulating services in neighbourhoods include microclimate regulation, flood mitigation, air and water quality control
+    - Cultural and supporting services
+        - cultural services in neighbourhoods include aesthetics, education and recreation
+        - supporting services in neighbourhoods include soil formation, pollination and photosynthesis
 - Common hazards in urban neighbourhoods
+    - Fire hazards
+        - fires in neighbourhoods are commonly caused by faulty electrical appliances and wiring, and unattended cooking fires
+        - negative consequences of fires include burn injuries, smoke inhalation and property damage
+    - Air pollution hazards
+        - air pollution in neighbourhoods is commonly caused by burning vegetation and industrial and motor vehicle emissions
+        - negative consequences of air pollution include respiratory infections, heart disease and lung cancer
+    - Traffic hazards
+        - traffic accidents in neighbourhoods are commonly caused by speeding, red-light running and drunk driving
+        - negative consequences of traffic accidents include serious injury and loss of life
 - Building sustainable urban neighbourhoods
+    - Environmental stewardship
+        - promote volunteerism among neighbourhood residents to share knowledge with others about the importance of healthy ecosystems
+        - partner public and private stakeholders in environmental stewardship efforts
+    - Disaster risk management
+        - reduce neighbourhoods’ exposure to hazards and the vulnerability of people and properties to hazards
+        - improve residents’ preparedness in responding to hazards and implement monitoring and warning systems
+    - Community resilience
+        - strengthen relationships among residents and raise their awareness of potential hazards
+        - develop residents’ ability to organise themselves and equip themselves with resources to resist, adapt and recover from a disaster
 
 ## Sustainable Urban Neighbourhoods
 

@@ -7,9 +7,45 @@
 ## Overview
 
 - Impact of tectonic processes on the magnitude of earthquakes
+    - Tectonic processes of earthquakes
+        - stress builds up and exceeds strength of the fault
+        - sudden release of seismic waves, radiating energy from the focus
+    - Magnitude of earthquakes
+        - affected by amount of energy released through ground movement
+        - recorded using seismometers
+    - Measuring earthquakes
+        - Richter scale measures local magnitude of earthquakes
+        - Moment Magnitude scale measures larger earthquakes more reliably
 - Impact of tectonic processes on the magnitude of volcanic eruptions 
+    - Tectonic processes of volcanic eruptions
+        - magma consisting of dissolved gases is less dense
+        - forces its way upward and breaks through weak areas in the Earth’s crust
+    - Magnitude of volcanic eruptions
+        - determined by amount of dissolved gases and magma viscosity
+        - stratovolcanoes erupt violently and shield volcanoes emit magma gently
+    - Measuring volcanic eruptions
+        - Volcanic Explosivity Index measures relative explosivity of historic eruptions
+        - considers the volume of ejected materials, height of eruption cloud and duration of the eruption
 - Distribution of earthquakes, volcanoes, and tectonic hazards 
+    - Distribution of earthquakes
+        - along all plate boundaries
+        - largest concentration at the Pacific Ring of Fire
+    - Distribution of volcanoes
+        - located near convergent and divergent plate boundaries
+        - hot spot volcanoes are found away from plate boundaries
+    - Distribution of tectonic hazards
+        - most located near plate boundaries, and near earthquakes and volcanoes
+        - tsunamis and volcanic ash may spread beyond geographic region
 - Impacts on natural and human systems
+    - Earthquake hazards and their impacts
+        - hazards include ground shaking, soil liquefaction, landslides and tsunamis
+        - impacts include destroying ecosystems, properties and infrastructure, disrupting services, and causing injury and loss of life
+    - Volcanic eruption hazards and their impacts
+        - hazards include tephra, volcanic gases, lava flows, pyroclastic flows, lahars and volcanic landslides
+        - impacts include destroying ecosystems, properties and infrastructure, disrupting services, and threatening public health and cause injury and loss of life
+    - Benefits of volcanic eruptions and living near volcanoes
+        - volcanic eruption provides fertile soil for farming after volcanic materials are broken down and weathered, and makes available valuable minerals and building materials
+        - living near volcanoes allow harnessing of geothermal energy and tourism activities
 
 ## How Tectonics Result in Earthquakes
 

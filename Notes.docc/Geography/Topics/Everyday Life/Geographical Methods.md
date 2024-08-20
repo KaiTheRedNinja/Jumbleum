@@ -9,9 +9,45 @@ Survey survey survey
 ## Overview
 
 - How to design fieldwork (surveying)
+    - Research questions and hypotheses
+        - identify a topic or thesis from textbooks, news articles, websites
+        - craft a question that outlines a specific scope and a measurable hypothesis about one or two variables
+    - Data collection sequence through primary and/or secondary sources
+        - collect quantitative data, then design qualitative data collection to examine patterns and trends
+        - collect qualitative data, then design quantitative data collection to verify observations
+    - Limitations and risks
+        - adjust research aim, study area, sample size and timeframe according to available resources
+        - implement measures to avoid harming oneself, other people and nature
 - How to collect primary data
+    - Sampling
+        - use non-probability sampling methods including convenienceand quota sampling
+        - use probability sampling methods including simple random sampling and stratified random sampling
+    - Closed-ended questionnaire surveys
+        - create pre-defined responses to questions that are limited to short phrases, single words or numbers
+        - use rating scales to guide responses including the Likert scale, frequency scale and ranking scale
+    - Mental maps
+        - visualise experiences by drawing features and adding labels onto the base map of a study area
+        - conduct semi-structured interviews with open-ended questions exploring features and labels added to the map
 - How to process and analyse data
+    - Closed-ended questionnaire surveys
+        - interpret responses using measures of frequency including counts and percentages
+        - interpret responses using measures of central tendency including mean, mode and median
+    - Mental maps
+        - analyse how well maps represent reality, and how features and labels are drawn or added
+        - examine how memories of experiences are represented on maps and described during semi-structured interviews
+    - Relationships and patterns
+        - visualise positive and negative correlations using scatter plots and best-fit lines
+        - identify recognisable geometric shapes, clusters and repetitions
 - How to present findings
+    - Maps
+        - represent spatial information using dots, lines and polygons
+        - provide title, date, orientation, scale, legend, author and source(s) on maps
+    - Graphs
+        - use bar graphs and pie charts to show distributions
+        - use line graphs to show trends and relationships between two variables
+    - Photographs and texts
+        - use satellite and aerial images to display spatial information
+        - use colour-coded quotations and word clouds to represent qualitative analyses
 
 ## Fieldwork
 

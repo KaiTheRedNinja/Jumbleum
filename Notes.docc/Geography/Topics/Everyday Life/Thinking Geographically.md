@@ -9,9 +9,45 @@ The relationship between people and their environment
 ## Overview
 
 - Relationship between people and nature in their neighbourhoods
+    - Relationship between people and nature
+        - local communities and nearby nature areas are dependent upon each other
+        - local communities and nearby nature areas mutually affect each other
+    - Benefits enjoyed by people and nature
+        - nature areas lower air temperatures, remove pollutants and provide space for recreation
+        - community activities promote the importance of environmental protection
+    - Disadvantages to people and nature
+        - wildlife from nearby nature areas may harm people and environmental protection limits development
+        - visitors to nature areas cause soil erosion, damage vegetation, worsen pollution and disturb wildlife
 - How people acquire a sense of place in their neighbourhoods
+    - Sense of place
+        - people associate importance, meanings and memories with specific locations in their neighbourhoods
+        - people’s experiences with natural and built environments, and interaction with others at these locations
+    - Acquiring a sense of place
+        - individuals repeatedly encounter people and objects along familiar paths or roads during regular travel
+        - individuals experience significant or memorable events at local landmarks and gathering places
+    - Representing a sense of place
+        - individuals and organisations use different forms and types of media to express people’s sense of place
+        - individuals’ sense of place could be enhanced or contradicted by these different representations
 - The relationship between locations in a neighbourhood
+    - Regions
+        - areas with similar physical and/or human characteristics or are known for something
+        - spheres of influence of services, events and objects on other locations in the area
+    - Spatial patterns
+        - non-random arrangement of services, events and objects in an area
+        - services, events and objects arranged in recognisable shapes, geometry, clusters or at regular intervals
+    - Spatial associations
+        - tendency of a pair of services, events and objects to locate near each other
+        - tendency suggests a connection between a service, event or object and an other service, event or object
 - How neighbourhoods are organised in Singapore
+    - Spatial scales in Singapore
+        - more than 20 towns spread across the country, catering to different lifestyles
+        - each town has a town centre, serving as commercial and social hubs for residents living in its neighbourhoods
+    - Spatial hierarchies in Singapore
+        - nested areas of different sizes beginning with a single residential unit
+        - clusters of residential units form a precinct, which in turn forms neighbourhoods that combine into a town
+    - Town planning in Singapore
+        - serve residents and provide for nature at distinct levels of the precinct, neighbourhood and town
+        - create connections and synergies across precincts, neighbourhoods and towns
 
 ## People and Nature
 
