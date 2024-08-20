@@ -363,7 +363,8 @@
       "anchor" : "Exam-Questions",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Essay-Question",
-        "doc:\/\/Notes\/documentation\/Notes\/Essay-Writing"
+        "doc:\/\/Notes\/documentation\/Notes\/Essay-Writing",
+        "doc:\/\/Notes\/documentation\/Notes\/Geography-Examples"
       ],
       "title" : "Exam Questions"
     }
@@ -494,6 +495,26 @@
   "title" : "Geographical Methods",
   "type" : "topic",
   "url" : "\/documentation\/notes\/geographical-methods"
+},
+"doc://Notes/documentation/Notes/Geography-Examples": {
+  "abstract" : [
+    {
+      "text" : "A collection of geography content examples, organised by chapter.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography-Examples",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Geography Examples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/geography-examples"
 },
 "doc://Notes/documentation/Notes/Plate-Tectonics": {
   "abstract" : [

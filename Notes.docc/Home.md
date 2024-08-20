@@ -18,7 +18,7 @@ Each subject has multiple topic. Generally, the `Overview` of each topic will be
 
 - ✅: Completed
 - 🔄: In Progress
-- 📝: Minimally complete, with no plans to improve
+- 📝: Theres the minimal amount of something there, and I'm not planning to elaborate on it any time soon
 - No icon: Not started
 
 ## Topics
