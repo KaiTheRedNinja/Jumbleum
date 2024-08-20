@@ -1,5 +1,9 @@
 # Exam Techniques
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 How to answer the questions
 
 ## Overview
@@ -37,13 +41,11 @@ that structure
 See the following for more details:
 - <doc:Inference>
 - <doc:Reliability-Utility-and-Surprise> (lumped together because they're quite similar)
-- <doc:Comparison>
 - <doc:Assertion>
 
 ## Topics
 
 - <doc:Inference>
 - <doc:Reliability-Utility-and-Surprise>
-- <doc:Comparison>
 - <doc:Assertion>
 - <doc:Standard-Response-Question>

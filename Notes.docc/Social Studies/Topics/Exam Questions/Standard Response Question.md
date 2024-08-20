@@ -1,5 +1,9 @@
 # Standard Response Question
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 ## Overview
 
 There are two types of SRQ: Opinion-type and evaluative-type.

@@ -1936,6 +1936,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Exam Techniques",
@@ -2010,6 +2016,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Social Studies",

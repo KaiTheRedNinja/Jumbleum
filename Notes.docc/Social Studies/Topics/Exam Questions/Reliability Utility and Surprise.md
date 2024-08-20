@@ -1,7 +1,9 @@
 # Reliability, Utility and Surprise
+
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
+
 Basically the same question but three times
 
 ## Overview

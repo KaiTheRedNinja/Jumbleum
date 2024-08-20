@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "Exam Techniques"
   },
@@ -463,20 +469,6 @@
                 {
                   "inlineContent" : [
                     {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparison",
-                      "isActive" : true,
-                      "type" : "reference"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
                       "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
                       "isActive" : true,
                       "type" : "reference"
@@ -518,7 +510,6 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
-        "doc:\/\/Notes\/documentation\/Notes\/Comparison",
         "doc:\/\/Notes\/documentation\/Notes\/Assertion",
         "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question"
       ]
@@ -537,20 +528,6 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -578,7 +555,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Assertion",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -607,17 +584,6 @@
   "title" : "Being Part of a Globalised World",
   "type" : "topic",
   "url" : "\/documentation\/notes\/being-part-of-a-globalised-world"
-},
-"doc://Notes/documentation/Notes/Comparison": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparison",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Comparison",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/comparison"
 },
 "doc://Notes/documentation/Notes/Exploring-Citizenship-and-Governance": {
   "abstract" : [
@@ -689,7 +655,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -727,6 +693,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Social Studies",
@@ -738,6 +710,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Standard Response Question",

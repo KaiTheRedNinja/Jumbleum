@@ -630,33 +630,31 @@
                     "type" : "article"
                   },
                   {
-                    "icon" : "In Progress.png",
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/reliability-utility-and-surprise",
                     "title" : "Reliability, Utility and Surprise",
                     "type" : "article"
                   },
                   {
-                    "path" : "\/documentation\/notes\/comparison",
-                    "title" : "Comparison",
-                    "type" : "article"
-                  },
-                  {
-                    "icon" : "In Progress.png",
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/assertion",
                     "title" : "Assertion",
                     "type" : "article"
                   },
                   {
+                    "icon" : "Checkmark.png",
                     "path" : "\/documentation\/notes\/standard-response-question",
                     "title" : "Standard Response Question",
                     "type" : "article"
                   }
                 ],
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/exam-techniques",
                 "title" : "Exam Techniques",
                 "type" : "symbol"
               }
             ],
+            "icon" : "Checkmark.png",
             "path" : "\/documentation\/notes\/social-studies",
             "title" : "Social Studies",
             "type" : "symbol"
@@ -838,7 +836,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [

@@ -22,7 +22,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -1200,7 +1200,6 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Inference",
         "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
-        "doc:\/\/Notes\/documentation\/Notes\/Comparison",
         "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question"
       ]
     }
@@ -1221,20 +1220,6 @@
     }
   ]
 },
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -1249,17 +1234,6 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Comparison": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Comparison",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Comparison",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/comparison"
-},
 "doc://Notes/documentation/Notes/Exam-Techniques": {
   "abstract" : [
     {
@@ -1268,6 +1242,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exam-Techniques",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Exam Techniques",
@@ -1304,7 +1284,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Reliability-Utility-and-Surprise",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],
@@ -1332,6 +1312,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Social Studies",
@@ -1343,6 +1329,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Standard-Response-Question",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Standard Response Question",

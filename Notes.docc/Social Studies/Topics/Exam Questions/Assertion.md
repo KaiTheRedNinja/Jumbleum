@@ -1,6 +1,7 @@
 # Assertion
+
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Assertion is an educated guess on what will happen on the future, based on what the source tells you

@@ -6,6 +6,8 @@
         purpose: link,
         label: "Curriculum (pg 1-15)"
     )
+
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours
