@@ -378,7 +378,10 @@
 },
 "doc://Notes/documentation/Notes/Equations-and-Inequalities-A": {
   "abstract" : [
-
+    {
+      "text" : "I am me. You are you. We are equal at possibly multiple points.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
   "images" : [
@@ -415,9 +418,31 @@
 },
 "doc://Notes/documentation/Notes/Polymomials-and-partial-fractions": {
   "abstract" : [
-
+    {
+      "text" : "Poly wants a ",
+      "type" : "text"
+    },
+    {
+      "inlineContent" : [
+        {
+          "text" : "cracker",
+          "type" : "text"
+        }
+      ],
+      "type" : "strikethrough"
+    },
+    {
+      "text" : " partial fraction",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Polymomials-and-partial-fractions",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Polymomials and partial fractions",

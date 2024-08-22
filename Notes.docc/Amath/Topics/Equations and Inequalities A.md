@@ -4,6 +4,8 @@
     @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
+I am me. You are you. We are equal at possibly multiple points.
+
 ## Overview
 
 - Conditions for a quadratic equation to have:

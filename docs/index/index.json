@@ -163,6 +163,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/polymomials-and-partial-fractions",
                 "title" : "Polymomials and partial fractions",
                 "type" : "article"
@@ -871,7 +872,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : "In Progress",
+      "alt" : null,
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
