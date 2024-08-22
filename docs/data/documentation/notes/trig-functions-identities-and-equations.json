@@ -1428,6 +1428,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Proofs-in-plane-geometry",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Proofs in plane geometry",

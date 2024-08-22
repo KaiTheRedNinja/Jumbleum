@@ -197,6 +197,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/proofs-in-plane-geometry",
                 "title" : "Proofs in plane geometry",
                 "type" : "article"
