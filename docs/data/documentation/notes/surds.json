@@ -426,6 +426,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Quadratic functions",
