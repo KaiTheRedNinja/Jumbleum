@@ -245,6 +245,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Equations and Inequalities A",

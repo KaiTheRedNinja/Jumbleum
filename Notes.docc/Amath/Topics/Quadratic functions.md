@@ -95,6 +95,8 @@ The discriminant is defined as:
 \Delta = b^2 - 4ac
 ```
 
+### Conditions
+
 For a quadratic function to be always positive, the discriminant must be less than zero and the coefficient of the x^2 term must be positive:
 ```math
 \Delta < 0

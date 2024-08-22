@@ -729,6 +729,12 @@
           "type" : "codeListing"
         },
         {
+          "anchor" : "Conditions",
+          "level" : 3,
+          "text" : "Conditions",
+          "type" : "heading"
+        },
+        {
           "inlineContent" : [
             {
               "text" : "For a quadratic function to be always positive, the discriminant must be less than zero and the coefficient of the x^2 term must be positive:",
@@ -873,6 +879,12 @@
 
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Equations-and-Inequalities-A",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Equations and Inequalities A",

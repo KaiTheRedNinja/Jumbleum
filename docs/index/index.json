@@ -151,6 +151,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/equations-and-inequalities-a",
                 "title" : "Equations and Inequalities A",
                 "type" : "article"
@@ -870,7 +871,7 @@
       ]
     },
     "In Progress.png" : {
-      "alt" : null,
+      "alt" : "In Progress",
       "identifier" : "In Progress.png",
       "type" : "image",
       "variants" : [
