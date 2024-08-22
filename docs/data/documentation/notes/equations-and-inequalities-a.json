@@ -808,6 +808,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Amath",
