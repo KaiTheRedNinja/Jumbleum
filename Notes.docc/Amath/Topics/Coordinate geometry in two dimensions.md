@@ -1,7 +1,7 @@
 # Coordinate geometry in two dimensions
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Lines, squares, circles, your waifu. All examples of things that exist on flat planes.
@@ -124,6 +124,13 @@ The shoelace formula is a formula used to calculate the area of a polygon given 
 
 Sorry for the LaTeX jargon, I can't get it to render the way I want it to.
 
+To use the shoelace formula,
+1. Write down the coordinates of the vertices in order, with the first vertex repeated at the end. Go anti-clockwise.
+2. Multiply the x-coordinate of each vertex by the y-coordinate of the next vertex.
+3. Multiply the y-coordinate of each vertex by the x-coordinate of the next vertex.
+4. Subtract the second sum from the first sum.
+5. Divide the result by 2, take the absolute value of the result.
+
 ## Circles
 
 There are two forms of circles: the standard form and the general form.
@@ -153,3 +160,11 @@ There are certain properties about the circle that you can determine quite easil
 | abs(a) = r | Circle touches the Y axis |
 | abs(b) = r | Circle touches the X axis |
 | a = b | Circle lies on the line y = x |
+
+## Transformation of Relationships
+
+AKA linear law, basically turn a relationship into a straight line graph in the format of
+```math
+y = mx + c
+```
+where y and x may be replaced with other variables. m and c tend to be constants.

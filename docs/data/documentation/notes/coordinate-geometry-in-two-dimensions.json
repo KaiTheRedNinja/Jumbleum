@@ -21,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -746,6 +746,85 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "To use the shoelace formula,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write down the coordinates of the vertices in order, with the first vertex repeated at the end. Go anti-clockwise.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Multiply the x-coordinate of each vertex by the y-coordinate of the next vertex.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Multiply the y-coordinate of each vertex by the x-coordinate of the next vertex.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Subtract the second sum from the first sum.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Divide the result by 2, take the absolute value of the result.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
           "anchor" : "Circles",
           "level" : 2,
           "text" : "Circles",
@@ -1034,6 +1113,37 @@
             ]
           ],
           "type" : "table"
+        },
+        {
+          "anchor" : "Transformation-of-Relationships",
+          "level" : 2,
+          "text" : "Transformation of Relationships",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "AKA linear law, basically turn a relationship into a straight line graph in the format of",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = mx + c"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where y and x may be replaced with other variables. m and c tend to be constants.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -1071,20 +1181,6 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : null,
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },

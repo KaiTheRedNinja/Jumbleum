@@ -1362,7 +1362,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1372,20 +1372,6 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
     }
   ]
 },
@@ -1427,7 +1413,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

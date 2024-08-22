@@ -52,20 +52,6 @@
     }
   ]
 },
-"In Progress.png": {
-  "alt" : "In Progress",
-  "identifier" : "In Progress.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -104,7 +90,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Coordinate-geometry-in-two-dimensions",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

@@ -191,7 +191,7 @@
                 "type" : "article"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/coordinate-geometry-in-two-dimensions",
                 "title" : "Coordinate geometry in two dimensions",
                 "type" : "article"
