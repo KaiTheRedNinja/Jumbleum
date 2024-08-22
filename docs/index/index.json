@@ -185,7 +185,7 @@
                 "type" : "groupMarker"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/trig-functions-identities-and-equations",
                 "title" : "Trig functions identities and equations",
                 "type" : "article"

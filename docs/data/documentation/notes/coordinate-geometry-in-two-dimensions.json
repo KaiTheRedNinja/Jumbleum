@@ -1060,8 +1060,22 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
 "In Progress.png": {
-  "alt" : "In Progress",
+  "alt" : null,
   "identifier" : "In Progress.png",
   "type" : "image",
   "variants" : [
@@ -1123,7 +1137,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations",
   "images" : [
     {
-      "identifier" : "In Progress.png",
+      "identifier" : "Checkmark.png",
       "type" : "icon"
     }
   ],

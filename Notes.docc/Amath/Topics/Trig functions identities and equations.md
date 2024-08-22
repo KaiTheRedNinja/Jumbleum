@@ -1,7 +1,7 @@
 # Trig functions identities and equations
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
 Manipulating curves in ways that are unholy
@@ -20,8 +20,7 @@ functions
   - the formulae for sin2A , cos2A and tan2A
   - the R formula
 - Simplification of trigonometric expressions
-- Solution of simple trigonometric equations in a given interval (excluding
-general solution)
+- Solution of simple trigonometric equations in a given interval (excluding general solution)
 - Proofs of simple trigonometric identities
 - Using trigonometric functions as model
 
@@ -183,3 +182,9 @@ a^2 = b^2 + c^2 - 2bc \cos(A)
 ```math
 \dfrac{a}{\sin(A)} = \dfrac{b}{\sin(B)} = \dfrac{c}{\sin(C)} 
 ```
+
+## Solving Trigonometric Equations
+
+Literally just keep on spamming identities until you convert it to a form that you can solve.
+
+In general, you can only solve a trig equation when it only consists of ONE trig function.
