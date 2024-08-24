@@ -1,23 +1,35 @@
 # Radioactivity
 
 @Metadata {
-    @PageImage(purpose: icon, source: "In Progress", alt: "In Progress")
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
 }
 
+When a neutron decides its done with life and decides to become a proton. Or when protons just decide to leave the nucleus. Or energy is emitted randomly for no reason.
+
 ## Overview
-### Learning outcomes:
-1. describe the compisition of an atomi in terms of a pisitive nucleus and negatively charged electrons
-2. use the terms proton(atomic) number Z, nucleon(mass) number A and isotope
-3. use and interpret the term nuclide and use the nuclied notation
-4. Show an understanding that nuclear decay is a random and spontaneous process where unstable nucleus loses energy by emitting radiation.
-5. show an understanding of the nature of alpha, beta and gamma radiation. Including ionising effect and penetrating particles [β-particles are assumed to be β⁻ particles only]
-6. Use equations involving nuclide notation to represent changes in the compisition of the nnucleus when radioactive emissions occur. 
-7. Show an understanding of background radiation
-8. Use the term half-life in simple calculations [information in tables and decay curves]
-9. Discuss the applications and hazards of radioactivity based on:
-    - Half-life of radioactive materials
-    - Penetrating abilities and Ionising effect of radiation
-10. State the meaning of nuclear fusion and fission and relate these nuclear processes to the release of energy from nulcear fuels.
+
+- The composition of the atom
+- Radioactive decay
+- Dangers and uses of radioactivity
+
+## The Composition of the Atom
+
+Atoms contain three types of particles that are of interest to us
+
+| Particle | Charge | Mass |
+|:-------- |:------ |:---- |
+| Proton   | +1     | 1    |
+| Neutron  | 0      | 1    |
+| Electron | -1     | Basically 0 |
+
+The **mass number** of an atom is the total number of protons and neutrons in the nucleus. What appears to be the "atomic number" for chemistry
+is actually the **charge number** for physics, which is equal to the number of protons in the nucleus. For electrons, its equal to -1 due to its negative charge.
+
+```math
+^A_ZX
+```
+
+Isotopes are atoms of the same element with the same number of protons but different number of neutrons. 
 
 ## Radioactive Decay
 
@@ -34,7 +46,7 @@ Radioactive Decay can come in many forms, the equations below are just examples.
 
 ### Beta Decay
 ```math
-^A_ZX \rightarrow ^A_{Z+1}Y + \beta^- + \bar{\nu_e}
+^A_ZX \rightarrow ^A_{Z+1}Y + ^0_{-1}e
 ```
 
 ### Gamma Decay
@@ -42,9 +54,8 @@ Radioactive Decay can come in many forms, the equations below are just examples.
 ^A_ZX \rightarrow ^A_ZX + \gamma
 ```
 
-> In general, the equations are usually given, all you have to do is calculate. 
-> 
-> It'sjust conservation of mass for the Mass numbers, and conservation of charges for the proton numbers. 
+In general, the equations are usually given, all you have to do is calculate. It's just conservation of mass for the Mass numbers, and 
+conservation of charges for the proton numbers. 
 
 ## Radioactive Emissions
 
@@ -78,8 +89,28 @@ Radioactive Decay can come in many forms, the equations below are just examples.
     - etc.
 
 ## Isotope half-life
-The time taken for half the radioactive nuclei in a sample to decay.
-This is a *random* and *spontaneous* process.
+The time taken for half the radioactive nuclei in a sample to decay. This is a *random* and *spontaneous* process.
+
+The equation that determines the rate of decay is:
+```math
+N = N_0 e^{-\lambda t}
+
+\textrm{Where}
+t = \frac{t_{1/2}}{\ln(2)}
+
+N = N_0 \times (\frac{1}{2})^{\frac{t}{t_{1/2}}}
+```
+
+Where:
+- `N` is any of the following:
+    - The number of radioactive nuclei remaining at time `t`
+    - The rate of decay of the radioactive nuclei
+- `N_0` is (corresponding with `N`):
+    - The initial number of radioactive nuclei
+    - The initial rate of decay of the radioactive nuclei
+- `λ` is the decay constant
+- `t` is the time since N_0 was measured
+- `t_{1/2}` is the half-life of the isotope
 
 ## Fusion and Fission
 > Principal Energy Transfer: 

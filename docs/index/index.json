@@ -359,7 +359,7 @@
                 "type" : "groupMarker"
               },
               {
-                "icon" : "In Progress.png",
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/radioactivity",
                 "title" : "Radioactivity",
                 "type" : "article"
@@ -874,20 +874,6 @@
             "light"
           ],
           "url" : "\/images\/Notes\/Checkmark.png"
-        }
-      ]
-    },
-    "In Progress.png" : {
-      "alt" : null,
-      "identifier" : "In Progress.png",
-      "type" : "image",
-      "variants" : [
-        {
-          "traits" : [
-            "1x",
-            "light"
-          ],
-          "url" : "\/images\/Notes\/In%20Progress.png"
         }
       ]
     },

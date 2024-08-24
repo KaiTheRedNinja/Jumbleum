@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "When a neutron decides its done with life and decides to become a proton. Or when protons just decide to leave the nucleus. Or energy is emitted randomly for no reason.",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -15,7 +21,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "In Progress.png",
+        "identifier" : "Checkmark.png",
         "type" : "icon"
       }
     ],
@@ -33,19 +39,13 @@
           "type" : "heading"
         },
         {
-          "anchor" : "Learning-outcomes",
-          "level" : 3,
-          "text" : "Learning outcomes:",
-          "type" : "heading"
-        },
-        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "describe the compisition of an atomi in terms of a pisitive nucleus and negatively charged electrons",
+                      "text" : "The composition of the atom",
                       "type" : "text"
                     }
                   ],
@@ -58,7 +58,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "use the terms proton(atomic) number Z, nucleon(mass) number A and isotope",
+                      "text" : "Radioactive decay",
                       "type" : "text"
                     }
                   ],
@@ -71,129 +71,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "use and interpret the term nuclide and use the nuclied notation",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Show an understanding that nuclear decay is a random and spontaneous process where unstable nucleus loses energy by emitting radiation.",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "show an understanding of the nature of alpha, beta and gamma radiation. Including ionising effect and penetrating particles [β-particles are assumed to be β⁻ particles only]",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Use equations involving nuclide notation to represent changes in the compisition of the nnucleus when radioactive emissions occur.",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Show an understanding of background radiation",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Use the term half-life in simple calculations [information in tables and decay curves]",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Discuss the applications and hazards of radioactivity based on:",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Half-life of radioactive materials",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Penetrating abilities and Ionising effect of radiation",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "State the meaning of nuclear fusion and fission and relate these nuclear processes to the release of energy from nulcear fuels.",
+                      "text" : "Dangers and uses of radioactivity",
                       "type" : "text"
                     }
                   ],
@@ -202,7 +80,232 @@
               ]
             }
           ],
-          "type" : "orderedList"
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "The-Composition-of-the-Atom",
+          "level" : 2,
+          "text" : "The Composition of the Atom",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Atoms contain three types of particles that are of interest to us",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "alignments" : [
+            "left",
+            "left",
+            "left"
+          ],
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Particle",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Charge",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Mass",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Proton",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "+1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Neutron",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Electron",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "-1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Basically 0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "mass number",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " of an atom is the total number of protons and neutrons in the nucleus. What appears to be the “atomic number” for chemistry",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is actually the ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "charge number",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
+            },
+            {
+              "text" : " for physics, which is equal to the number of protons in the nucleus. For electrons, its equal to -1 due to its negative charge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "^A_ZX"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Isotopes are atoms of the same element with the same number of protons but different number of neutrons.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Radioactive-Decay",
@@ -272,7 +375,7 @@
         },
         {
           "code" : [
-            "^A_ZX \\rightarrow ^A_{Z+1}Y + \\beta^- + \\bar{\\nu_e}"
+            "^A_ZX \\rightarrow ^A_{Z+1}Y + ^0_{-1}e"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -291,29 +394,21 @@
           "type" : "codeListing"
         },
         {
-          "content" : [
+          "inlineContent" : [
             {
-              "inlineContent" : [
-                {
-                  "text" : "In general, the equations are usually given, all you have to do is calculate.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
+              "text" : "In general, the equations are usually given, all you have to do is calculate. It’s just conservation of mass for the Mass numbers, and",
+              "type" : "text"
             },
             {
-              "inlineContent" : [
-                {
-                  "text" : "It’sjust conservation of mass for the Mass numbers, and conservation of charges for the proton numbers.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "conservation of charges for the proton numbers.",
+              "type" : "text"
             }
           ],
-          "name" : "Note",
-          "style" : "note",
-          "type" : "aside"
+          "type" : "paragraph"
         },
         {
           "anchor" : "Radioactive-Emissions",
@@ -728,15 +823,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "The time taken for half the radioactive nuclei in a sample to decay.",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "This is a ",
+              "text" : "The time taken for half the radioactive nuclei in a sample to decay. This is a ",
               "type" : "text"
             },
             {
@@ -767,6 +854,200 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The equation that determines the rate of decay is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "N = N_0 e^{-\\lambda t}",
+            "",
+            "\\textrm{Where}",
+            "t = \\frac{t_{1\/2}}{\\ln(2)}",
+            "",
+            "N = N_0 \\times (\\frac{1}{2})^{\\frac{t}{t_{1\/2}}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "N",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is any of the following:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The number of radioactive nuclei remaining at time ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "t",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The rate of decay of the radioactive nuclei",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "N_0",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is (corresponding with ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "N",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "):",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The initial number of radioactive nuclei",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The initial rate of decay of the radioactive nuclei",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "λ",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the decay constant",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "t",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the time since N_0 was measured",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "t_{1\/2}",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the half-life of the isotope",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Fusion-and-Fission",
@@ -875,9 +1156,9 @@
   ]
 , 
 "references": {
-"In Progress.png": {
+"Checkmark.png": {
   "alt" : null,
-  "identifier" : "In Progress.png",
+  "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
     {
@@ -885,7 +1166,7 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/In%20Progress.png"
+      "url" : "\/images\/Notes\/Checkmark.png"
     }
   ]
 },
