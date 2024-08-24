@@ -7,7 +7,7 @@
         label: "Curriculum (pg 16-43)"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_Geography", alt: "Geography Icon")
 }
 
 Humanities, social and natural sciences

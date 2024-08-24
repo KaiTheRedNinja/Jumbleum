@@ -20,7 +20,7 @@
   "metadata" : {
     "images" : [
       {
-        "identifier" : "Checkmark.png",
+        "identifier" : "Subject_E Math.png",
         "type" : "icon"
       }
     ],
@@ -136,6 +136,48 @@
     }
   ]
 },
+"Subject_A Math.png": {
+  "alt" : "A Math Icon",
+  "identifier" : "Subject_A Math.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_A%20Math.png"
+    }
+  ]
+},
+"Subject_E Math.png": {
+  "alt" : null,
+  "identifier" : "Subject_E Math.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_E%20Math.png"
+    }
+  ]
+},
+"Subject_Physics.png": {
+  "alt" : "Physics Icon",
+  "identifier" : "Subject_Physics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Physics.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -180,7 +222,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_A Math.png",
       "type" : "icon"
     }
   ],
@@ -400,7 +442,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Physics.png",
       "type" : "icon"
     }
   ],

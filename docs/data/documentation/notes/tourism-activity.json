@@ -770,20 +770,6 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : "Checkmark",
-  "identifier" : "Checkmark.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
 "Minimal.jpg": {
   "alt" : "Minimally Complete",
   "identifier" : "Minimal.jpg",
@@ -795,6 +781,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
+"Subject_Geography.png": {
+  "alt" : "Geography Icon",
+  "identifier" : "Subject_Geography.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Geography.png"
     }
   ]
 },
@@ -822,7 +822,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Geography.png",
       "type" : "icon"
     }
   ],

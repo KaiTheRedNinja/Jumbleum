@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_A Math", alt: "A Math Icon")
 }
 
 Strong algebraic manipulation and mathematical reasoning skills

@@ -675,6 +675,20 @@
     }
   ]
 },
+"Subject_English.png": {
+  "alt" : "English Icon",
+  "identifier" : "Subject_English.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_English.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -699,7 +713,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_English.png",
       "type" : "icon"
     }
   ],

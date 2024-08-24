@@ -1428,6 +1428,34 @@
     }
   ]
 },
+"Subject_Electronics.png": {
+  "alt" : "Electronics Icon",
+  "identifier" : "Subject_Electronics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Electronics.png"
+    }
+  ]
+},
+"Subject_Physics.png": {
+  "alt" : "Physics Icon",
+  "identifier" : "Subject_Physics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Physics.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -1509,7 +1537,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Electronics.png",
       "type" : "icon"
     }
   ],
@@ -1549,7 +1577,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Physics.png",
       "type" : "icon"
     }
   ],

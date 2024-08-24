@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_Physics", alt: "Physics Icon")
 }
 
 Energy, matter, and their interrelationships

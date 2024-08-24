@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_English", alt: "English Icon")
 }
 
 The English language

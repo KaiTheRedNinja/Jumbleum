@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_E Math", alt: "E Math Icon")
 }
 
 Fundamental mathematical knowledge and skills

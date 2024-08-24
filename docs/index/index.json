@@ -133,7 +133,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_E Math.png",
             "path" : "\/documentation\/notes\/emath",
             "title" : "Emath",
             "type" : "symbol"
@@ -213,7 +213,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_A Math.png",
             "path" : "\/documentation\/notes\/amath",
             "title" : "Amath",
             "type" : "symbol"
@@ -375,7 +375,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_Physics.png",
             "path" : "\/documentation\/notes\/physics",
             "title" : "Physics",
             "type" : "symbol"
@@ -501,7 +501,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_Computing.png",
             "path" : "\/documentation\/notes\/computing",
             "title" : "Computing",
             "type" : "symbol"
@@ -619,7 +619,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_Electronics.png",
             "path" : "\/documentation\/notes\/electronics",
             "title" : "Electronics",
             "type" : "symbol"
@@ -687,7 +687,7 @@
                 "type" : "symbol"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_Social Studies.png",
             "path" : "\/documentation\/notes\/social-studies",
             "title" : "Social Studies",
             "type" : "symbol"
@@ -783,7 +783,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_Geography.png",
             "path" : "\/documentation\/notes\/geography",
             "title" : "Geography",
             "type" : "symbol"
@@ -851,7 +851,7 @@
                 "type" : "article"
               }
             ],
-            "icon" : "Checkmark.png",
+            "icon" : "Subject_English.png",
             "path" : "\/documentation\/notes\/english",
             "title" : "English",
             "type" : "symbol"
@@ -889,6 +889,118 @@
             "light"
           ],
           "url" : "\/images\/Notes\/Minimal.jpg"
+        }
+      ]
+    },
+    "Subject_A Math.png" : {
+      "alt" : null,
+      "identifier" : "Subject_A Math.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_A%20Math.png"
+        }
+      ]
+    },
+    "Subject_Computing.png" : {
+      "alt" : null,
+      "identifier" : "Subject_Computing.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_Computing.png"
+        }
+      ]
+    },
+    "Subject_E Math.png" : {
+      "alt" : null,
+      "identifier" : "Subject_E Math.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_E%20Math.png"
+        }
+      ]
+    },
+    "Subject_Electronics.png" : {
+      "alt" : null,
+      "identifier" : "Subject_Electronics.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_Electronics.png"
+        }
+      ]
+    },
+    "Subject_English.png" : {
+      "alt" : null,
+      "identifier" : "Subject_English.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_English.png"
+        }
+      ]
+    },
+    "Subject_Geography.png" : {
+      "alt" : null,
+      "identifier" : "Subject_Geography.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_Geography.png"
+        }
+      ]
+    },
+    "Subject_Physics.png" : {
+      "alt" : null,
+      "identifier" : "Subject_Physics.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_Physics.png"
+        }
+      ]
+    },
+    "Subject_Social Studies.png" : {
+      "alt" : null,
+      "identifier" : "Subject_Social Studies.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Subject_Social%20Studies.png"
         }
       ]
     }

@@ -7,7 +7,7 @@
         label: "Curriculum (pg 1-15)"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_Social Studies", alt: "Social Studies icon")
 }
 
 Knowledge and understanding of events and phenomenon, issues and perspectives, and human actions and behaviours

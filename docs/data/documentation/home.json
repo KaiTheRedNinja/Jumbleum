@@ -103,19 +103,6 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "✅: Completed",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
                       "text" : "🔄: In Progress",
                       "type" : "text"
                     }
@@ -142,7 +129,20 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "No icon: Not started",
+                      "text" : "📄 or something that looks like it: Not started (docc uses a custom icon that looks like that emoji’s outline)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "✅ or anything else: Completed (I might use different icons for different subjects or topics)",
                       "type" : "text"
                     }
                   ],
@@ -201,9 +201,9 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : "Checkmark",
-  "identifier" : "Checkmark.png",
+"Subject_A Math.png": {
+  "alt" : "A Math Icon",
+  "identifier" : "Subject_A Math.png",
   "type" : "image",
   "variants" : [
     {
@@ -211,7 +211,105 @@
         "1x",
         "light"
       ],
-      "url" : "\/images\/Notes\/Checkmark.png"
+      "url" : "\/images\/Notes\/Subject_A%20Math.png"
+    }
+  ]
+},
+"Subject_Computing.png": {
+  "alt" : "Computing Icon",
+  "identifier" : "Subject_Computing.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Computing.png"
+    }
+  ]
+},
+"Subject_E Math.png": {
+  "alt" : "E Math Icon",
+  "identifier" : "Subject_E Math.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_E%20Math.png"
+    }
+  ]
+},
+"Subject_Electronics.png": {
+  "alt" : "Electronics Icon",
+  "identifier" : "Subject_Electronics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Electronics.png"
+    }
+  ]
+},
+"Subject_English.png": {
+  "alt" : "English Icon",
+  "identifier" : "Subject_English.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_English.png"
+    }
+  ]
+},
+"Subject_Geography.png": {
+  "alt" : "Geography Icon",
+  "identifier" : "Subject_Geography.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Geography.png"
+    }
+  ]
+},
+"Subject_Physics.png": {
+  "alt" : "Physics Icon",
+  "identifier" : "Subject_Physics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Physics.png"
+    }
+  ]
+},
+"Subject_Social Studies.png": {
+  "alt" : "Social Studies icon",
+  "identifier" : "Subject_Social Studies.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Social%20Studies.png"
     }
   ]
 },
@@ -225,7 +323,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_A Math.png",
       "type" : "icon"
     }
   ],
@@ -245,7 +343,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Computing.png",
       "type" : "icon"
     }
   ],
@@ -265,7 +363,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Electronics.png",
       "type" : "icon"
     }
   ],
@@ -285,7 +383,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_E Math.png",
       "type" : "icon"
     }
   ],
@@ -305,7 +403,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/English",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_English.png",
       "type" : "icon"
     }
   ],
@@ -325,7 +423,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Geography.png",
       "type" : "icon"
     }
   ],
@@ -345,7 +443,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Physics.png",
       "type" : "icon"
     }
   ],
@@ -365,7 +463,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Social Studies.png",
       "type" : "icon"
     }
   ],

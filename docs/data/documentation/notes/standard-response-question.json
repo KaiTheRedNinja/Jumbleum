@@ -462,6 +462,20 @@
     }
   ]
 },
+"Subject_Social Studies.png": {
+  "alt" : "Social Studies icon",
+  "identifier" : "Subject_Social Studies.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Social%20Studies.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -566,7 +580,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Social-Studies",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Social Studies.png",
       "type" : "icon"
     }
   ],

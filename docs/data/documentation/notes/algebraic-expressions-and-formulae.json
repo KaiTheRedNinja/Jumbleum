@@ -282,20 +282,6 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : "Checkmark",
-  "identifier" : "Checkmark.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
 "Minimal.jpg": {
   "alt" : "Minimally Complete",
   "identifier" : "Minimal.jpg",
@@ -307,6 +293,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Minimal.jpg"
+    }
+  ]
+},
+"Subject_E Math.png": {
+  "alt" : "E Math Icon",
+  "identifier" : "Subject_E Math.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_E%20Math.png"
     }
   ]
 },
@@ -334,7 +334,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Emath",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_E Math.png",
       "type" : "icon"
     }
   ],

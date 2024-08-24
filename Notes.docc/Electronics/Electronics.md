@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_Electronics", alt: "Electronics Icon")
 }
 
 Fundamental workings of electronic components, systems, and ideas of engineering design

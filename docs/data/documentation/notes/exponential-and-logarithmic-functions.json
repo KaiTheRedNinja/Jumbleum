@@ -504,6 +504,20 @@
     }
   ]
 },
+"Subject_A Math.png": {
+  "alt" : "A Math Icon",
+  "identifier" : "Subject_A Math.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_A%20Math.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -528,7 +542,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Amath",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_A Math.png",
       "type" : "icon"
     }
   ],

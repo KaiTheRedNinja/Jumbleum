@@ -1143,7 +1143,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : "Checkmark",
+  "alt" : null,
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1153,6 +1153,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Subject_Computing.png": {
+  "alt" : "Computing Icon",
+  "identifier" : "Subject_Computing.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Computing.png"
     }
   ]
 },
@@ -1180,7 +1194,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Computing",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Computing.png",
       "type" : "icon"
     }
   ],

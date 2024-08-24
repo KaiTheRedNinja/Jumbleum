@@ -2462,6 +2462,20 @@
     }
   ]
 },
+"Subject_Geography.png": {
+  "alt" : "Geography Icon",
+  "identifier" : "Subject_Geography.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Geography.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -2523,7 +2537,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Geography",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Geography.png",
       "type" : "icon"
     }
   ],

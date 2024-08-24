@@ -7,7 +7,7 @@
         label: "Curriculum"
     )
 
-    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+    @PageImage(purpose: icon, source: "Subject_Computing", alt: "Computing Icon")
 }
 
 Basic computing technology and systems, concepts, algorithms, techniques and tools

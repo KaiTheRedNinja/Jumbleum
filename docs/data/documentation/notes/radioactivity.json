@@ -1157,7 +1157,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : "Checkmark",
+  "alt" : null,
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1167,6 +1167,20 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Subject_Physics.png": {
+  "alt" : "Physics Icon",
+  "identifier" : "Subject_Physics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Physics.png"
     }
   ]
 },
@@ -1194,7 +1208,7 @@
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
   "images" : [
     {
-      "identifier" : "Checkmark.png",
+      "identifier" : "Subject_Physics.png",
       "type" : "icon"
     }
   ],

@@ -16,10 +16,10 @@ Each subject has multiple topic. Generally, the `Overview` of each topic will be
 
 ## Icon Key
 
-- ✅: Completed
 - 🔄: In Progress
 - 📝: Theres the minimal amount of something there, and I'm not planning to elaborate on it any time soon
-- No icon: Not started
+- 📄 or something that looks like it: Not started (docc uses a custom icon that looks like that emoji's outline)
+- ✅ or anything else: Completed (I might use different icons for different subjects or topics)
 
 ## Topics
 ### Mathematics
