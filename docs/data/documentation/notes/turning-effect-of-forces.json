@@ -1254,6 +1254,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Physics",

@@ -1275,7 +1275,7 @@
 , 
 "references": {
 "Checkmark.png": {
-  "alt" : null,
+  "alt" : "Checkmark",
   "identifier" : "Checkmark.png",
   "type" : "image",
   "variants" : [
@@ -1320,6 +1320,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "Physics",

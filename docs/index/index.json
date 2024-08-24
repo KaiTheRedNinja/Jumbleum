@@ -375,6 +375,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Checkmark.png",
             "path" : "\/documentation\/notes\/physics",
             "title" : "Physics",
             "type" : "symbol"
