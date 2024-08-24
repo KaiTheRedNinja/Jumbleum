@@ -325,6 +325,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/d.c.-circuits",
                 "title" : "D.C. Circuits",
                 "type" : "article"

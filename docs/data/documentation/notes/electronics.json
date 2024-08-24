@@ -351,9 +351,18 @@
 },
 "doc://Notes/documentation/Notes/D.C.-Circuits": {
   "abstract" : [
-
+    {
+      "text" : "When electrons vroom through pieces of metal in a loop",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "D.C. Circuits",

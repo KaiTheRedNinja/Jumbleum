@@ -103,3 +103,9 @@ all resistors in parallel are the same resistance, the effective resistance is:
 R_{eff} = \frac{R}{n}
 ```
 where `n` is the number of resistors in parallel.
+
+When you are calculating the effective resistance of a circuit, always work from the inside out. That means taking
+groups of resistors and then simplifying them into a single resistor, until you have a single effective resistance. In general,
+1. Simplify all single resistors in series
+2. Simplify all single resistors in parallel
+3. Repeat steps 1 and 2 until you have a single effective resistance
