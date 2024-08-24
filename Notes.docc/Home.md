@@ -21,6 +21,14 @@ Each subject has multiple topic. Generally, the `Overview` of each topic will be
 - 📄 or something that looks like it: Not started (docc uses a custom icon that looks like that emoji's outline)
 - ✅ or anything else: Completed (I might use different icons for different subjects or topics)
 
+## Disclaimer
+
+> Warning: While I have full confidence that scientific/mathematical information within these notes are factually correct, I cannot
+guarantee that all the explanations or exam tips match syllabus requirements.
+>
+> Certain notes may be incomplete. Please refer to the official syllabus (linked at the top of each subject's page) or school-issued
+notes for the most accurate information.
+
 ## Topics
 ### Mathematics
 - <doc:Emath>

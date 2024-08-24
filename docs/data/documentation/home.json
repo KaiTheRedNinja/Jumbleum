@@ -152,6 +152,53 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Disclaimer",
+          "level" : 2,
+          "text" : "Disclaimer",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "While I have full confidence that scientific\/mathematical information within these notes are factually correct, I cannot",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "guarantee that all the explanations or exam tips match syllabus requirements.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Certain notes may be incomplete. Please refer to the official syllabus (linked at the top of each subject’s page) or school-issued",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "notes for the most accurate information.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Warning",
+          "style" : "warning",
+          "type" : "aside"
         }
       ],
       "kind" : "content"
