@@ -37,12 +37,26 @@
         {
           "inlineContent" : [
             {
+              "text" : "The Jumbleum is my personal collection of notes, in website form because thats the only way I could motivate myself to write notes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Each subject has multiple topic. Generally, the ",
               "type" : "text"
             },
             {
-              "code" : "Overview",
-              "type" : "codeVoice"
+              "inlineContent" : [
+                {
+                  "text" : "Overview",
+                  "type" : "text"
+                }
+              ],
+              "type" : "strong"
             },
             {
               "text" : " of each topic will be a summary of the topic, followed by either",
@@ -62,8 +76,13 @@
                       "type" : "text"
                     },
                     {
-                      "code" : "Topics",
-                      "type" : "codeVoice"
+                      "inlineContent" : [
+                        {
+                          "text" : "Topics",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
                     },
                     {
                       "text" : ". The subtopics will be a list of links to the notes for that subtopic.",
@@ -199,6 +218,205 @@
           "name" : "Warning",
           "style" : "warning",
           "type" : "aside"
+        },
+        {
+          "anchor" : "Credits",
+          "level" : 2,
+          "text" : "Credits",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Swift-Docc",
+          "level" : 3,
+          "text" : "Swift Docc",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "https:\/\/www.swift.org\/documentation\/docc\/",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " is the engine that powers this documentation",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My fork of the Docc renderer is available ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". It adds LaTeX and colourful quotes,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "among other modifications.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Michael-de-Beyer",
+          "level" : 3,
+          "text" : "Michael de Beyer",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Large parts of the Computing subject notes are based on Michael de Beyer’s Holy Grail Computing Textbook.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Klifton-Cheng",
+          "level" : 3,
+          "text" : "Klifton Cheng",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Klifton Cheng has contributed to the Jumbleum in the following ways:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "His contributions to parts of the Computing, Electronics, and Social Studies subject notes in the Jumbleum",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "His geography notes, which large parts of the Geography subject notes are based on",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Educational-Institutes",
+          "level" : 3,
+          "text" : "Educational Institutes",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The Physics, Electronics, Emath, and Amath content is largely based on notes issued by the School of Science and Technology, Singapore to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "its students.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Social Studies content is based on the Social Studies Coursebook for Express\/Normal (Academic) stream issued by the Ministry of Education, Singapore.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "About-Jumbleum",
+          "level" : 2,
+          "text" : "About Jumbleum",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The source code for the Jumbleum is available ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/Jumbleum",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ". It was written largely by me (Tay Kai Quan),",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "with direct contributions from Klifton Cheng. Parts of the Jumbleum’s notes are derived from public educational materials, along with notes and materials",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "written by the above contributors.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Copyright © 2024 Tay Kai Quan. Jumbleum is licensed under the GPL-3.0 license",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            }
+          ],
+          "type" : "small"
         }
       ],
       "kind" : "content"
@@ -519,6 +737,42 @@
   "title" : "Social Studies",
   "type" : "topic",
   "url" : "\/documentation\/notes\/social-studies"
+},
+"https://github.com/KaiTheRedNinja/Jumbleum": {
+  "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/Jumbleum",
+  "title" : "on my GitHub",
+  "titleInlineContent" : [
+    {
+      "text" : "on my GitHub",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/github.com\/KaiTheRedNinja\/Jumbleum"
+},
+"https://github.com/KaiTheRedNinja/swift-docc-render": {
+  "identifier" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render",
+  "title" : "here",
+  "titleInlineContent" : [
+    {
+      "text" : "here",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/github.com\/KaiTheRedNinja\/swift-docc-render"
+},
+"https://www.swift.org/documentation/docc/": {
+  "identifier" : "https:\/\/www.swift.org\/documentation\/docc\/",
+  "title" : "Swift Docc",
+  "titleInlineContent" : [
+    {
+      "text" : "Swift Docc",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.swift.org\/documentation\/docc\/"
 }
 }
 }
