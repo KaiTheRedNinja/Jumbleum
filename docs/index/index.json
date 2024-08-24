@@ -337,6 +337,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/magnetism",
                 "title" : "Magnetism",
                 "type" : "article"

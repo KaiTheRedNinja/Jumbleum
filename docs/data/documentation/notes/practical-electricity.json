@@ -1531,9 +1531,18 @@
 },
 "doc://Notes/documentation/Notes/Magnetism": {
   "abstract" : [
-
+    {
+      "text" : "Are you a magnet? Because the closer I get the more I’m attracted to you (and other bad pickup lines)",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Magnetism",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Magnetism",
