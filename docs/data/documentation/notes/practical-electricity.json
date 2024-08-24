@@ -1520,9 +1520,18 @@
 },
 "doc://Notes/documentation/Notes/Electromagnetism": {
   "abstract" : [
-
+    {
+      "text" : "When magnets and electricity kiss and have a baby called force",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electromagnetism",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Electromagnetism",

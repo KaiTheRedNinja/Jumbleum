@@ -343,6 +343,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/electromagnetism",
                 "title" : "Electromagnetism",
                 "type" : "article"
