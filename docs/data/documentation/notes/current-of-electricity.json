@@ -1555,9 +1555,18 @@
 },
 "doc://Notes/documentation/Notes/Practical-Electricity": {
   "abstract" : [
-
+    {
+      "text" : "Unfortunately, we can’t stay in theory-land forever. Electricity needs to be useful somehow.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Practical-Electricity",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "Practical Electricity",

@@ -331,6 +331,7 @@
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/practical-electricity",
                 "title" : "Practical Electricity",
                 "type" : "article"
