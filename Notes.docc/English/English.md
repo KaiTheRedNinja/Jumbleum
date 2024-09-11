@@ -16,6 +16,8 @@ The English language
 
 Paper 2 past year papers: https://drive.google.com/drive/folders/1n4xdt-_DIt_k771DWqI0rR-mIjF9CFhl
 
+> Warning: I got a B3 (between 65% and 69%) for my English, which is _not good_. Please take my notes with a pinch of salt.
+
 ## Topics
 
 ### Paper 1: Essay

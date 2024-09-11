@@ -16,6 +16,8 @@ Knowledge and understanding of events and phenomenon, issues and perspectives, a
 
 See the official [SS One-Stop](https://sites.google.com/sst.edu.sg/ss-one-stop-s4-2024/home) for more details.
 
+> Warning: I got a C5 (between 55% and 59%) for my SS, which is _really quite bad_. Please take my notes with a pinch of salt.
+
 ## Topics
 - <doc:Exploring-Citizenship-and-Governance>
 - <doc:Living-in-a-Diverse-Society>
