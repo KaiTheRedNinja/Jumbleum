@@ -68,18 +68,7 @@ written by the above contributors.
 }
 
 ## Topics
-### Mathematics
-- <doc:Emath>
-- <doc:Amath>
-- <doc:Physics>
 
-### Applied Subjects
-- <doc:Computing>
-- <doc:Electronics>
+### Secondary School
 
-### Humanities
-- <doc:Social-Studies>
-- <doc:Geography>
-
-### Languages
-- <doc:English>
+- <doc:SST>

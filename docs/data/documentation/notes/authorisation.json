@@ -17,6 +17,7 @@
     "paths" : [
       [
         "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/SST",
         "doc:\/\/Notes\/documentation\/Notes\/Computing",
         "doc:\/\/Notes\/documentation\/Notes\/Ethical-Social-Economic-issues"
       ]
@@ -1049,6 +1050,20 @@
   "title" : "Intellectual Property",
   "type" : "topic",
   "url" : "\/documentation\/notes\/intellectual-property"
+},
+"doc://Notes/documentation/Notes/SST": {
+  "abstract" : [
+    {
+      "text" : "Secondary school content for the School of Science and Technology: Engineering 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SST",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "SST",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/sst"
 },
 "doc://Notes/documentation/Notes/Threats-to-Privacy-and-Security": {
   "abstract" : [

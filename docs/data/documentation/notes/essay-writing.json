@@ -9,6 +9,7 @@
     "paths" : [
       [
         "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/SST",
         "doc:\/\/Notes\/documentation\/Notes\/Geography"
       ]
     ]
@@ -897,6 +898,20 @@
   "title" : "Geography Examples",
   "type" : "topic",
   "url" : "\/documentation\/notes\/geography-examples"
+},
+"doc://Notes/documentation/Notes/SST": {
+  "abstract" : [
+    {
+      "text" : "Secondary school content for the School of Science and Technology: Engineering 2024",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SST",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "SST",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/sst"
 },
 "https://docs.google.com/document/d/1jwNoQmP3XDiOJ-0TErhg3HK0R_Xws5Y8/edit": {
   "identifier" : "https:\/\/docs.google.com\/document\/d\/1jwNoQmP3XDiOJ-0TErhg3HK0R_Xws5Y8\/edit",
