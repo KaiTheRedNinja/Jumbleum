@@ -1,48 +1,22 @@
 {
-  "abstract" : [
-    {
-      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
-      "type" : "text"
-    }
-  ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/NP"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Programming"
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "collectionGroup",
-    "title" : "NP"
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Programming"
   },
-  "primaryContentSections" : [
-    {
-      "content" : [
-        {
-          "anchor" : "Overview",
-          "level" : 2,
-          "text" : "Overview",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "What the title says",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        }
-      ],
-      "kind" : "content"
-    }
-  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -51,15 +25,15 @@
   "sections" : [
 
   ],
-  "topicSections" : [
+  "seeAlsoSections" : [
     {
       "anchor" : "Year-1",
+      "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Integrated-Real-world-Project-1",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
-        "doc:\/\/Notes\/documentation\/Notes\/Programming",
         "doc:\/\/Notes\/documentation\/Notes\/Innovation-Made-Possible"
       ],
       "title" : "Year 1"
@@ -136,16 +110,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
 },
-"doc://Notes/documentation/Notes/Programming": {
+"doc://Notes/documentation/Notes/NP": {
   "abstract" : [
-
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
   "kind" : "article",
-  "role" : "article",
-  "title" : "Programming",
+  "role" : "collectionGroup",
+  "title" : "NP",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/programming"
+  "url" : "\/documentation\/notes\/np"
 }
 }
 }

@@ -11,9 +11,45 @@
             "type" : "groupMarker"
           },
           {
+            "children" : [
+              {
+                "title" : "Year 1",
+                "type" : "groupMarker"
+              },
+              {
+                "path" : "\/documentation\/notes\/applied-mathematics-1",
+                "title" : "Applied Mathematics 1",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/electrical-engineering-fundamentals",
+                "title" : "Electrical Engineering Fundamentals",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/integrated-real-world-project-1",
+                "title" : "Integrated Real-world Project 1",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",
+                "title" : "Mechanical Engineering Fundamentals",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/programming",
+                "title" : "Programming",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/innovation-made-possible",
+                "title" : "Innovation Made Possible",
+                "type" : "article"
+              }
+            ],
             "path" : "\/documentation\/notes\/np",
             "title" : "NP",
-            "type" : "article"
+            "type" : "symbol"
           },
           {
             "title" : "Secondary School",
