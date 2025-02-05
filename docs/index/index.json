@@ -7,6 +7,15 @@
       {
         "children" : [
           {
+            "title" : "Polytechnic",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/np",
+            "title" : "NP",
+            "type" : "article"
+          },
+          {
             "title" : "Secondary School",
             "type" : "groupMarker"
           },

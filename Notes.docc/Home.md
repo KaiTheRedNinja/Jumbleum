@@ -69,6 +69,10 @@ written by the above contributors.
 
 ## Topics
 
+### Polytechnic
+
+- <doc:NP>
+
 ### Secondary School
 
 - <doc:SST>
