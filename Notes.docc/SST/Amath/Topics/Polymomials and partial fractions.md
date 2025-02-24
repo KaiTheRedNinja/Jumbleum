@@ -82,6 +82,15 @@ The factor theorem states that if `P(a) = 0`, then `(x - a)` is a factor of `P(x
 P(a) = 0 \Rightarrow P(x) = (x - a)Q(x)
 ```
 
+For a function `f(x)` where `f(a) = Q(x)+p` and `f(b) = Q(x)+q` and A and B are constants, then `f(x)` can be expressed as:
+```math
+f(x) = (x - a)(x - b)Q(x) + A*x + B
+
+\textrm{By remainder theorem}
+f(a) = A*a + B = p
+f(b) = A*b + B = q
+```
+
 Usually, you'd use the factor and remainder theorems to factorise polynomials, or to build a polynomial from its factors.
 
 To factorise a polynomial,
