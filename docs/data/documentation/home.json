@@ -441,8 +441,7 @@
     {
       "anchor" : "SAT",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/SAT-English",
-        "doc:\/\/Notes\/documentation\/Notes\/SAT-Math"
+        "doc:\/\/Notes\/documentation\/Notes\/SAT"
       ],
       "title" : "SAT"
     },
@@ -470,33 +469,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
 },
-"doc://Notes/documentation/Notes/SAT-English": {
+"doc://Notes/documentation/Notes/SAT": {
   "abstract" : [
     {
-      "text" : "SAT English",
+      "text" : "The American Standardized Test (SAT) is a test that is used for college admissions in the United States",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT-English",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT",
   "kind" : "article",
-  "role" : "article",
-  "title" : "SAT English",
+  "role" : "collectionGroup",
+  "title" : "SAT",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/sat-english"
-},
-"doc://Notes/documentation/Notes/SAT-Math": {
-  "abstract" : [
-    {
-      "text" : "SAT Mathematics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT-Math",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "SAT Math",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/sat-math"
+  "url" : "\/documentation\/notes\/sat"
 },
 "doc://Notes/documentation/Notes/SST": {
   "abstract" : [

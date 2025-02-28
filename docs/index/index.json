@@ -56,14 +56,21 @@
             "type" : "groupMarker"
           },
           {
-            "path" : "\/documentation\/notes\/sat-english",
-            "title" : "SAT English",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/sat-math",
-            "title" : "SAT Math",
-            "type" : "article"
+            "children" : [
+              {
+                "path" : "\/documentation\/notes\/sat-english",
+                "title" : "SAT English",
+                "type" : "article"
+              },
+              {
+                "path" : "\/documentation\/notes\/sat-math",
+                "title" : "SAT Math",
+                "type" : "article"
+              }
+            ],
+            "path" : "\/documentation\/notes\/sat",
+            "title" : "SAT",
+            "type" : "symbol"
           },
           {
             "title" : "Secondary School",

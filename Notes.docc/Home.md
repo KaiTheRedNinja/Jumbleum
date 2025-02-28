@@ -75,8 +75,7 @@ written by the above contributors.
 
 ### SAT
 
-- <doc:SAT-English>
-- <doc:SAT-Math>
+- <doc:SAT>
 
 ### Secondary School
 
