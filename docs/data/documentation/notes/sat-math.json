@@ -334,6 +334,19 @@
                           "type" : "paragraph"
                         }
                       ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "⭐ Basic trigonometry",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
                     }
                   ],
                   "type" : "unorderedList"
@@ -539,6 +552,19 @@
                           "type" : "paragraph"
                         }
                       ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "⭐ Polynomials",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
                     }
                   ],
                   "type" : "unorderedList"
@@ -688,6 +714,36 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Basic-Trigonometry",
+          "level" : 2,
+          "text" : "Basic Trigonometry",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Other than the basics of what sin, cos, tan each mean, the SAT will sometimes test the following identity. Watch out",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "for it whenever you see things like sin(something) - cos(something else).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "sin(x) = cos(90 - x)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
         },
         {
           "anchor" : "Translation",
@@ -925,6 +981,37 @@
           ],
           "syntax" : "math",
           "type" : "codeListing"
+        },
+        {
+          "anchor" : "Polynomials",
+          "level" : 2,
+          "text" : "Polynomials",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You don’t really need to know much. Just know that for a point",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(x-a)^n"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If n is even, the graph only touches the x-axis. If n is odd, the graph crosses the x-axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"

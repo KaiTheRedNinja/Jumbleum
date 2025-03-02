@@ -28,6 +28,7 @@ SAT Math tests mainly test the following
     - Area/volume of a figure
     - Ratio of lengths/areas/volumes of figures
     - Radius/center of circle given equation
+    - ⭐ Basic trigonometry
 - Equation Solving
     - What is the solution to the equation XXX
     - How many solutions does the equation XXX have
@@ -43,6 +44,7 @@ SAT Math tests mainly test the following
     - Value of constant in line-parabola intersection
     - ⭐ Transfer between vertex and standard form
     - ⭐ In the given equation, XXX are constants, the (sum/product) of the solutions is YYY (some function of the constants). What is YYY
+    - ⭐ Polynomials
 
 ## Desmos
 
@@ -64,6 +66,15 @@ a quadratic.
 
 You can limit which part of the graph is shown by adding a restriction to the equation. For example, to only show the graph
 of `y = x^2` for `x > 0`, you can use `y = x^2 \cdot \{x > 0\}`.
+
+## Basic Trigonometry
+
+Other than the basics of what sin, cos, tan each mean, the SAT will sometimes test the following identity. Watch out
+for it whenever you see things like sin(something) - cos(something else).
+
+```math
+sin(x) = cos(90 - x)
+```
 
 ## Translation
 
@@ -145,3 +156,11 @@ line of symmetry.
 
 = \frac{4ac}{4a^2} = \frac{c}{a}
 ```
+
+## Polynomials
+
+You don't really need to know much. Just know that for a point
+```math
+(x-a)^n
+```
+If n is even, the graph only touches the x-axis. If n is odd, the graph crosses the x-axis.
