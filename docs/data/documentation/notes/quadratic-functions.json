@@ -574,7 +574,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "The maximum or minimum value of a quadratic function can be found using the vertex form of the equation. The vertex form is:",
+              "text" : "The maximum or minimum value of a quadratic function can be found using the vertex form of the equation, where “vertex”",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "refers to the min\/max point of the curve. The vertex form is:",
               "type" : "text"
             }
           ],

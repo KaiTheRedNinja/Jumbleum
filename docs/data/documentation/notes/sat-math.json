@@ -547,6 +547,384 @@
             }
           ],
           "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Desmos",
+          "level" : 2,
+          "text" : "Desmos",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Desmos is a graphing calculator. Any linear inequality can be solved trivially using Desmos.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "If you can use desmos, use desmos.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Equation-from-points",
+          "level" : 3,
+          "text" : "Equation from points",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Assuming you have a Desmos table of points, the column of X values being ",
+              "type" : "text"
+            },
+            {
+              "code" : "x1",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and y being ",
+              "type" : "text"
+            },
+            {
+              "code" : "y1",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", you can use ",
+              "type" : "text"
+            },
+            {
+              "code" : "~",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " instead of ",
+              "type" : "text"
+            },
+            {
+              "code" : "=",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "use linear regression to determine some unknowns. Remember that it takes two points for a line, and three points for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a quadratic.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\text{Linear} \\rightarrow y_1 ~ mx_1 + b",
+            "\\text{Quadratic} \\rightarrow y_1 ~ ax_1^2 + bx_1 + c"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Domain-restriction",
+          "level" : 3,
+          "text" : "Domain restriction",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can limit which part of the graph is shown by adding a restriction to the equation. For example, to only show the graph",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of ",
+              "type" : "text"
+            },
+            {
+              "code" : "y = x^2",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " for ",
+              "type" : "text"
+            },
+            {
+              "code" : "x > 0",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", you can use ",
+              "type" : "text"
+            },
+            {
+              "code" : "y = x^2 \\cdot \\{x > 0\\}",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Translation",
+          "level" : 2,
+          "text" : "Translation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There are two kinds of translation, horizontal and vertical. Assuming a top-right positive coordinate system, a function",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "f(x)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " could be translated as follows.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "PAY CLOSE ATTENTION TO THE SIGNS, ESPECIALLY FOR HORIZONTAL TRANSLATION. You can think of it like a point being",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "a “preview” of a point a certain distance ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "-h",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " away.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Warning",
+          "style" : "warning",
+          "type" : "aside"
+        },
+        {
+          "code" : [
+            "h\\text{ units right} \\rightarrow f(x-h)",
+            "h\\text{ units up} \\rightarrow f(x) + h"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Quadratic-Properties",
+          "level" : 2,
+          "text" : "Quadratic Properties",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The most advanced SAT questions will be about mostly unknown quadratic properties, eg. sum or product of roots, vertex form, etc.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For reference, the standar form is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = ax^2 + bx + c"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Vertex-Form",
+          "level" : 3,
+          "text" : "Vertex Form",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "MEMORISE THESE. It will be worth your time.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The vertex form is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = a(x-h)^2 + k"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To convert from standard form to vertex form, you need to complete the square.  See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions#Different-forms",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for how to do that. In summary,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = a(x^2 + \\frac{b}{2a}x) + (- a(\\frac{b}{2a})^2 + c)",
+            "",
+            "\\text{Where}",
+            "",
+            "h = -\\frac{b}{2a}",
+            "k = -a(\\frac{b}{2a})^2 + c"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To convert from vertex form to standard form (needed when the question gives you a line of symmetry or vertex), you can expand the square and simplify.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = ax^2 + 2ahx + (ah^2 + k)",
+            "",
+            "\\text{Where}",
+            "",
+            "b = 2ah",
+            "c = ah^2 + k"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "SumProduct-of-Roots",
+          "level" : 3,
+          "text" : "Sum\/Product of Roots",
+          "type" : "heading"
+        },
+        {
+          "code" : [
+            "\\text{Sum of roots} = -\\frac{b}{a}",
+            "",
+            "\\text{Product of roots} = \\frac{c}{a}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These can be derived from the quadratic formula. Note that the sum of roots is just double the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "line of symmetry.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\text{Sum of roots} = \\frac{-b + \\sqrt{b^2 - 4ac}}{2a} + \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}",
+            "",
+            "= \\frac{-b + \\sqrt{b^2 - 4ac} - b - \\sqrt{b^2 - 4ac}}{2a}",
+            "",
+            "= \\frac{-2b}{2a} = -\\frac{b}{a}",
+            "",
+            "",
+            "\\text{Product of roots} = \\frac{-b + \\sqrt{b^2 - 4ac}}{2a} \\cdot \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}",
+            "",
+            "= \\frac{b^2 - (b^2 - 4ac)}{4a^2}",
+            "",
+            "= \\frac{4ac}{4a^2} = \\frac{c}{a}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
         }
       ],
       "kind" : "content"
@@ -583,6 +961,16 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Quadratic-functions#Different-forms": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Quadratic-functions#Different-forms",
+  "kind" : "section",
+  "title" : "Different forms",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/quadratic-functions#Different-forms"
 },
 "doc://Notes/documentation/Notes/SAT": {
   "abstract" : [

@@ -72,7 +72,8 @@ The direction that the quadratic function "bends" is based on the coefficient of
 | Positive    | U     | Minimum                  |
 | Negative    | n     | Maximum                  |
 
-The maximum or minimum value of a quadratic function can be found using the vertex form of the equation. The vertex form is:
+The maximum or minimum value of a quadratic function can be found using the vertex form of the equation, where "vertex"
+refers to the min/max point of the curve. The vertex form is:
 ```math
 y = a(x-h)^2 + k
 ```

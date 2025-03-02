@@ -43,3 +43,105 @@ SAT Math tests mainly test the following
     - Value of constant in line-parabola intersection
     - ⭐ Transfer between vertex and standard form
     - ⭐ In the given equation, XXX are constants, the (sum/product) of the solutions is YYY (some function of the constants). What is YYY
+
+## Desmos
+
+Desmos is a graphing calculator. Any linear inequality can be solved trivially using Desmos. 
+If you can use desmos, use desmos.
+
+### Equation from points
+
+Assuming you have a Desmos table of points, the column of X values being `x1` and y being `y1`, you can use `~` instead of `=` to
+use linear regression to determine some unknowns. Remember that it takes two points for a line, and three points for
+a quadratic.
+
+```math
+\text{Linear} \rightarrow y_1 ~ mx_1 + b
+\text{Quadratic} \rightarrow y_1 ~ ax_1^2 + bx_1 + c
+```
+
+### Domain restriction
+
+You can limit which part of the graph is shown by adding a restriction to the equation. For example, to only show the graph
+of `y = x^2` for `x > 0`, you can use `y = x^2 \cdot \{x > 0\}`.
+
+## Translation
+
+There are two kinds of translation, horizontal and vertical. Assuming a top-right positive coordinate system, a function
+`f(x)` could be translated as follows. 
+
+> Warning: PAY CLOSE ATTENTION TO THE SIGNS, ESPECIALLY FOR HORIZONTAL TRANSLATION. You can think of it like a point being
+a "preview" of a point a certain distance `-h` away.
+
+```math
+h\text{ units right} \rightarrow f(x-h)
+h\text{ units up} \rightarrow f(x) + h
+```
+
+## Quadratic Properties
+
+The most advanced SAT questions will be about mostly unknown quadratic properties, eg. sum or product of roots, vertex form, etc.
+
+For reference, the standar form is:
+
+```math
+y = ax^2 + bx + c
+```
+
+### Vertex Form
+
+> Important: MEMORISE THESE. It will be worth your time.
+
+The vertex form is:
+
+```math
+y = a(x-h)^2 + k
+```
+
+To convert from standard form to vertex form, you need to complete the square.  See <doc:Quadratic-functions#Different-forms> for how to do that. In summary,
+
+```math
+y = a(x^2 + \frac{b}{2a}x) + (- a(\frac{b}{2a})^2 + c)
+
+\text{Where}
+
+h = -\frac{b}{2a}
+k = -a(\frac{b}{2a})^2 + c
+```
+
+To convert from vertex form to standard form (needed when the question gives you a line of symmetry or vertex), you can expand the square and simplify.
+
+```math
+y = ax^2 + 2ahx + (ah^2 + k)
+
+\text{Where}
+
+b = 2ah
+c = ah^2 + k
+```
+
+### Sum/Product of Roots
+
+```math
+\text{Sum of roots} = -\frac{b}{a}
+
+\text{Product of roots} = \frac{c}{a}
+```
+
+These can be derived from the quadratic formula. Note that the sum of roots is just double the
+line of symmetry.
+
+```math
+\text{Sum of roots} = \frac{-b + \sqrt{b^2 - 4ac}}{2a} + \frac{-b - \sqrt{b^2 - 4ac}}{2a}
+
+= \frac{-b + \sqrt{b^2 - 4ac} - b - \sqrt{b^2 - 4ac}}{2a}
+
+= \frac{-2b}{2a} = -\frac{b}{a}
+
+
+\text{Product of roots} = \frac{-b + \sqrt{b^2 - 4ac}}{2a} \cdot \frac{-b - \sqrt{b^2 - 4ac}}{2a}
+
+= \frac{b^2 - (b^2 - 4ac)}{4a^2}
+
+= \frac{4ac}{4a^2} = \frac{c}{a}
+```
