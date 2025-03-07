@@ -62,7 +62,8 @@ For example:
 - The dogs _(plural)_ bark _(plural)_
 
 The SAT will try to hide this, possibly by adding stuff in brackets or making the sentence very long. It is your
-job to identify which noun is the subject of the sentence, and pluralise the verb accordingly.
+job to identify which noun is the subject of the sentence, and pluralise the verb accordingly. For example, a term
+like "shape of ears" is SINGULAR, because the subject is "shape", not "ears".
 
 ### Punctuation
 
@@ -77,6 +78,12 @@ Connections should be used whenever two parts of a sentence are not directly rel
 
 Usually, you are taught to include the connecting word (eg. "however") with the sentence after the connector. But in this
 special case, the "however" has NOTHING to do with the succeeding sentence, so it goes BEFORE the colon ("book, however:")
+
+#### Semicolons
+
+Semicolons are used in these two situations:
+- A list where individual items have commas in them or are very long
+- To join together two related statements, where both statements could be their own sentence
 
 ### Apostrophe
 

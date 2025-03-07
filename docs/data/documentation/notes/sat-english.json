@@ -557,7 +557,15 @@
               "type" : "text"
             },
             {
-              "text" : "job to identify which noun is the subject of the sentence, and pluralise the verb accordingly.",
+              "text" : "job to identify which noun is the subject of the sentence, and pluralise the verb accordingly. For example, a term",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "like “shape of ears” is SINGULAR, because the subject is “shape”, not “ears”.",
               "type" : "text"
             }
           ],
@@ -629,6 +637,52 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Semicolons",
+          "level" : 4,
+          "text" : "Semicolons",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Semicolons are used in these two situations:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A list where individual items have commas in them or are very long",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "To join together two related statements, where both statements could be their own sentence",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Apostrophe",
