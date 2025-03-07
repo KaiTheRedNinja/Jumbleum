@@ -46,6 +46,15 @@ SAT Math tests mainly test the following
     - ⭐ In the given equation, XXX are constants, the (sum/product) of the solutions is YYY (some function of the constants). What is YYY
     - ⭐ Polynomials
 
+## Strategy
+
+Some general purpose strategies to answering questions
+
+- For simple arithmetic, use a physical scientific calculator for CHECKING your answers. It is almost always faster to
+do them in your head and check afterwards as a sanity check. This also reduces the chance of you making data entry mistakes
+- Understand what the question is asking for. The test will sometimes give you a complex-looking quadratic or exponential,
+but the question will ask you for something like "what is the y intercept"
+
 ## Desmos
 
 Desmos is a graphing calculator. Any linear inequality can be solved trivially using Desmos. 

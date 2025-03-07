@@ -575,6 +575,68 @@
           "type" : "unorderedList"
         },
         {
+          "anchor" : "Strategy",
+          "level" : 2,
+          "text" : "Strategy",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some general purpose strategies to answering questions",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For simple arithmetic, use a physical scientific calculator for CHECKING your answers. It is almost always faster to",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "do them in your head and check afterwards as a sanity check. This also reduces the chance of you making data entry mistakes",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Understand what the question is asking for. The test will sometimes give you a complex-looking quadratic or exponential,",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "but the question will ask you for something like “what is the y intercept”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "Desmos",
           "level" : 2,
           "text" : "Desmos",

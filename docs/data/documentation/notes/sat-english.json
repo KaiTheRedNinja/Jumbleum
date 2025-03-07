@@ -287,10 +287,166 @@
           "type" : "unorderedList"
         },
         {
+          "anchor" : "Strategy",
+          "level" : 2,
+          "text" : "Strategy",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some general purpose strategies to answering questions",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Weighing-Answers",
+          "level" : 3,
+          "text" : "Weighing Answers",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Don’t weigh your answers “pros” against each other (“A fits, but B also fits”). Insted, focus on the “cons” of each answer.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Two answers might both fit, but one might have a small detail that doesn’t fit, such as stating something that the text does",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "not actually say.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Annotations",
+          "level" : 3,
+          "text" : "Annotations",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As of the time of writing, there are two annotation tools: highlights and notes. Highlights give you three different colours.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Unlike a lot of SAT suggestions, I’d suggest NOT using annotations unless you’re stuck on a question (and have come back",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to it after solving the easy ones). Annotations take a lot of time to type, which is better spent on solving other simple",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "questions.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’d recommend using highlighters to highlight IMPORTANT parts of a passage or question. Unimportant parts stay",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "unhighlighted. Use different colours so that you can differentiate between different types of important parts.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Grammar",
           "level" : 2,
           "text" : "Grammar",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Grammar usually tests these three:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Plurality (of both nouns and verbs)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Tense (past, present, future, infinitive\/none)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Punctuation (commas, semicolons, colons, dashes)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Plurality",
@@ -451,6 +607,15 @@
         {
           "inlineContent" : [
             {
+              "text" : "Connections should be used whenever two parts of a sentence are not directly related to each other, for example, this sentence.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Usually, you are taught to include the connecting word (eg. “however”) with the sentence after the connector. But in this",
               "type" : "text"
             },
@@ -464,6 +629,232 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Apostrophe",
+          "level" : 3,
+          "text" : "Apostrophe",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Apostrophes are used to indicate possession. There are three general exceptions to the “’s indicates posession” rule:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If the subject is a plural that ends with an “s”, the apostrophe goes AFTER the “s”",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If the subject is “it”, the possessive form is “its” (no apostrophe), and the expansion “it is” has an apostrophe",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Other than those two cases, “’s” ALWAYS indicates possession.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Vocabulary",
+          "level" : 2,
+          "text" : "Vocabulary",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Vocabulary questions are usually the hardest, as they require you to know the meaning of a word in a specific context.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These types of questions usually fall under one of these categories:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Contrasting with other specific terms. These fit into sentences like “A tends to be X, wheras B tends to be BLANK” or vice versa. The word",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "you choose for BLANK should contrast with X. Note that contrasting sentences can be VERY sneaky, since the contrasting term (usually “but”) might come",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "at the start of the sentence instead of the middle.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Complementing with other specific terms. These usually fit into sentences like “A tends to be like X, similarly, B tends to be BLANK” or vice versa.",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "The word should be similar to X. These types of questions are more advanced than they seem, since it can actually occur within a contrast-looking",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "question that is involves a double negative, making it a complementing question.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Describing the next sentence. These fit into sentence pairs, where the first sentene (where the BLANK is) tends to be a statement",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and the next sentence tends to be an elaboration. They usually require you to identify the ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "purpose",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "emphasis"
+                    },
+                    {
+                      "text" : " of the elaboration. For example, if the elaboration",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "sentence talks about accuracy of a method, the BLANK might be “precise”\/“accurate”\/another synonym.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Relating to the previous sentence. These are similar to the previous type, except that the BLANK is within the explanation. They usually",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "require you to identify the ",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "subject matter",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "emphasis"
+                    },
+                    {
+                      "text" : " of the statement. For example, if the statement talks about a flare, the BLANK might have to do",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "with its location or brightness.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
