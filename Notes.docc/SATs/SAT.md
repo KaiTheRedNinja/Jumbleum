@@ -30,6 +30,9 @@ The SAT is done digitally. There are a LOT of questions and very little time to 
 - **Use highlights and annotations.** All sections allow you to highlight, and the English section allows you to annotate text. Use these features to help you remember important details.
 - **Identify the important parts of the question.** There WILL be parts of the passage or question which are irrelevant, or innocuous parts that are actually important.
 - **Use Desmos.** For most graph or inequality related questions, you can use desmos to find the solution very easily.
+- **Have drinks and a snack.** Theres a break in the middle, so bring a drink and a snack to keep you going.
+- **Watch the time.** Some people suggest hiding the timer - I say keep it on. Just know that for the reading/writing section, the faster questions are actually at the back.
+- **Sleep Early.** Exactly what it says. SATs are early, so sleep early.
 
 ## Topics
 

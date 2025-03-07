@@ -88,7 +88,7 @@ Other than those two cases, "'s" ALWAYS indicates possession.
 
 ## Vocabulary
 
-Vocabulary questions are usually the hardest, as they require you to know the meaning of a word in a specific context.
+Fill-the-blank questions are usually the hardest, as they require you to know the meaning of a word in a specific context.
 
 These types of questions usually fall under one of these categories:
 - Contrasting with other specific terms. These fit into sentences like "A tends to be X, wheras B tends to be BLANK" or vice versa. The word
@@ -103,3 +103,6 @@ sentence talks about accuracy of a method, the BLANK might be "precise"/"accurat
 - Relating to the previous sentence. These are similar to the previous type, except that the BLANK is within the explanation. They usually
 require you to identify the *subject matter* of the statement. For example, if the statement talks about a flare, the BLANK might have to do
 with its location or brightness.
+
+Theres also a different variant of this question, that goes something like "what does the underlined word mean?". These
+can also be treated as fill-the-blank questions, just treat each of the explanation phrases as a candidate word.
