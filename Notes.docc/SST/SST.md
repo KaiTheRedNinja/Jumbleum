@@ -4,7 +4,11 @@ Secondary school content for the School of Science and Technology: Engineering 2
 
 ## Overview
 
-This is my stuff from secondary school.
+This is my notes from secondary school.
+
+> Tip: I got top of subject for Emath, Physics, and Computing for S4 in 2024. Those notes should generally be the most reliable.
+
+> Warning: All these notes are written for the 2024 O-Level syllabus. They may not be relevant for other years. Computing specifically changed in 2025.
 
 ## Topics
 

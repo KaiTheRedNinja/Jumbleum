@@ -8,6 +8,8 @@ This is NOT intended to be a comprehensive guide to the SATs, this is mainly a c
 having gone through the Singapore secondary school system, found in the SAT that has not been explicitly covered
 in the Singapore system.
 
+> Tip: I got 1530/1600 in the March 2025 SAT, so these notes should generally be reliable.
+
 ## Structure
 
 The SAT is divided into 2 main sections, the English comprehension section, followed by the Math section. Each section is

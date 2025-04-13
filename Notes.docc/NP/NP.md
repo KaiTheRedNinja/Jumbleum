@@ -8,7 +8,7 @@ What the title says
 
 ## Topics
 
-### Year 1
+### Year 1 Semester 1
 - <doc:Applied-Mathematics-1>
 - <doc:Electrical-Engineering-Fundamentals>
 - <doc:Integrated-Real-world-Project-1>

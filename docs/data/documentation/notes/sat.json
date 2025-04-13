@@ -56,6 +56,22 @@
           "type" : "paragraph"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "I got 1530\/1600 in the March 2025 SAT, so these notes should generally be reliable.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Tip",
+          "style" : "tip",
+          "type" : "aside"
+        },
+        {
           "anchor" : "Structure",
           "level" : 2,
           "text" : "Structure",

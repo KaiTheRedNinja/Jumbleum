@@ -33,11 +33,43 @@
         {
           "inlineContent" : [
             {
-              "text" : "This is my stuff from secondary school.",
+              "text" : "This is my notes from secondary school.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "I got top of subject for Emath, Physics, and Computing for S4 in 2024. Those notes should generally be the most reliable.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Tip",
+          "style" : "tip",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "All these notes are written for the 2024 O-Level syllabus. They may not be relevant for other years. Computing specifically changed in 2025.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Warning",
+          "style" : "warning",
+          "type" : "aside"
         }
       ],
       "kind" : "content"
