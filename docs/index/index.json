@@ -32,9 +32,21 @@
                 "type" : "article"
               },
               {
+                "children" : [
+                  {
+                    "path" : "\/documentation\/notes\/1.1-physical-quantities-and-units",
+                    "title" : "Physical Quantities and Units",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.2-vector-quantities",
+                    "title" : "Vector Quantities",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",
                 "title" : "Mechanical Engineering Fundamentals",
-                "type" : "article"
+                "type" : "symbol"
               },
               {
                 "path" : "\/documentation\/notes\/programming",

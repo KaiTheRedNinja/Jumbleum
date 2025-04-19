@@ -1,0 +1,729 @@
+{
+  "abstract" : [
+    {
+      "text" : "How physical quantities are measured and represented",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Physical Quantities and Units"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "S.I. units (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#SI-Units",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Scientific form",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Significant figures",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Prefixes and their magnitudes (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Conversion of values within metric systems",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that SI units and prefixes\/magnitudes are covered within SST’s physics syllabus notes, so",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "I’ll just link to those instead of duplicating sections.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Scientific-Form",
+          "level" : 2,
+          "text" : "Scientific Form",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Scientific form is a way of expressing numbers that are too large or too small to be conveniently",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "expressed in decimal form. It is a standard way of writing numbers using powers of ten.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Scientific form is expressed as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a \\times 10^n"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "-10 < ",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "a",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : " < 10",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "n",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is an integer",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "0.000000123",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " can be expressed as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "1.23 * 10^{-7}",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "123000000",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " can be expressed as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "1.23 * 10^{8}",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "123000000",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " should NOT be expressed as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "123 * 10^{6}",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " (as ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "a",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is not between -10 and 10)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Significant-Figures",
+          "level" : 2,
+          "text" : "Significant Figures",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "All non-zero digits are significant: 1, 2, 3, 4, 5, 6, 7, 8, 9.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Zeros between non-zero digits are significant: 1",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "0",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : "2, 2",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "00",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : "5, 5",
+                      "type" : "text"
+                    },
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "000",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : "9.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Leading zeros are never significant: 0.02, 001.887, 0.000515.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A decimal point indicates all the numbers to the left of it are significant: 5000. is 4 s.f.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Trailing zeros are significant ONLY if they are a result of rounding off, or if they are after",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "the decimal point",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The exact value of 39000 has 2 s.f.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "But, 38995 rounded off to 3 s.f. = 39000 (3sf)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Similarly, 38995 rounded off to 4 s.f. = 39000 (4sf)",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "But, 1.000 has 4 s.f.",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Exact numbers and integer\/mathematical constants have an infinite number of significant",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "figures. For example, both “12 eggs” and “pi” have an infinite number of s.f.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Combining the conditions of rounding off and level of precision in scientific form:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "3.8995 \\times 10^4 \\textrm{to 4 s.f.} = 3.900 * 10^4"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You are encouraged to use 4 or 5sf for calculations, but you should round off to 3sf for final answers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Conversion-of-Values-within-Metric-Systems",
+          "level" : 2,
+          "text" : "Conversion of Values within Metric Systems",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To convert from one metric unit to another, you can use the following formula:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\textrm{new value} = \\textrm{old value} \\times \\frac{\\textrm{new unit}}{\\textrm{old unit}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "to convert 5 km to m:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "\\textrm{new value} = 5 \\textrm{ km} \\times \\frac{1000 \\textrm{ m}}{1 \\textrm{ km}} = 5000 \\textrm{ m}"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "to convert 5 km\/hr to m\/s:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "\\textrm{new value} = 5 \\textrm{ km\/hr} \\times \\frac{1000 \\textrm{ m}}{1 \\textrm{ km}} \\times \\frac{1 \\textrm{ hr}}{3600 \\textrm{ s}} = 1.3889 \\textrm{ m\/s}"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vector Quantities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-vector-quantities"
+},
+"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Mechanical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Prefixes-and-Magnitude",
+  "kind" : "section",
+  "title" : "Prefixes and Magnitude",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement#Prefixes-and-Magnitude"
+},
+"doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement#SI-Units": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#SI-Units",
+  "kind" : "section",
+  "title" : "SI Units",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement#SI-Units"
+}
+}
+}

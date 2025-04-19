@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,31 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Mechanical Engineering Fundamentals"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’ll write an overview when I understand the topic more",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -38,6 +65,15 @@
       ],
       "title" : "Year 1 Semester 1"
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
+      ]
+    }
   ]
 , 
 "references": {
@@ -54,6 +90,31 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
+  "abstract" : [
+    {
+      "text" : "How physical quantities are measured and represented",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physical Quantities and Units",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
+},
+"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vector Quantities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-vector-quantities"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

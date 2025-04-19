@@ -127,11 +127,14 @@
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
-
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Mechanical Engineering Fundamentals",
   "type" : "topic",
   "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
