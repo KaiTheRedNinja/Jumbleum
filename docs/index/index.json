@@ -27,11 +27,6 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/notes\/integrated-real-world-project-1",
-                "title" : "Integrated Real-world Project 1",
-                "type" : "article"
-              },
-              {
                 "children" : [
                   {
                     "path" : "\/documentation\/notes\/1.1-physical-quantities-and-units",
@@ -54,9 +49,16 @@
                 "type" : "article"
               },
               {
-                "path" : "\/documentation\/notes\/innovation-made-possible",
-                "title" : "Innovation Made Possible",
-                "type" : "article"
+                "children" : [
+                  {
+                    "path" : "\/documentation\/notes\/voice-framework",
+                    "title" : "VOICE Framework",
+                    "type" : "article"
+                  }
+                ],
+                "path" : "\/documentation\/notes\/find-your-voice",
+                "title" : "Find Your Voice",
+                "type" : "symbol"
               }
             ],
             "path" : "\/documentation\/notes\/np",

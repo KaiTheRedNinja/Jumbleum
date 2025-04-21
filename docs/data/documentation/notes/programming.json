@@ -32,9 +32,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
-        "doc:\/\/Notes\/documentation\/Notes\/Integrated-Real-world-Project-1",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
-        "doc:\/\/Notes\/documentation\/Notes\/Innovation-Made-Possible"
+        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice"
       ],
       "title" : "Year 1 Semester 1"
     }
@@ -77,27 +76,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
 },
-"doc://Notes/documentation/Notes/Innovation-Made-Possible": {
+"doc://Notes/documentation/Notes/Find-Your-Voice": {
   "abstract" : [
-
+    {
+      "text" : "Also called Confident Communication. I think this is a confidence\/speaking class? Not quite sure rn",
+      "type" : "text"
+    }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Innovation-Made-Possible",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
   "kind" : "article",
-  "role" : "article",
-  "title" : "Innovation Made Possible",
+  "role" : "collectionGroup",
+  "title" : "Find Your Voice",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/innovation-made-possible"
-},
-"doc://Notes/documentation/Notes/Integrated-Real-world-Project-1": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Integrated-Real-world-Project-1",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Integrated Real-world Project 1",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/integrated-real-world-project-1"
+  "url" : "\/documentation\/notes\/find-your-voice"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [

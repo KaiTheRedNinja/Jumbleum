@@ -1,0 +1,907 @@
+{
+  "abstract" : [
+    {
+      "text" : "Also called Confident Communication. I think this is a confidence\/speaking class? Not quite sure rn",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "collectionGroup",
+    "title" : "Find Your Voice"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Topics-Covered",
+          "level" : 3,
+          "text" : "Topics Covered:",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Identity as a communicator; self-diagnostic of strength & weakness",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Verbal and non-verbal techniques for engagement (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Storytelling structures in presentations",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pillars of Persuasion: Logos, Ethos, Pathos",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Referencing and Citations",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Module-Structure",
+          "level" : 3,
+          "text" : "Module Structure:",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "definition" : {
+                "content" : [
+                  {
+                    "inlineContent" : [
+                      {
+                        "text" : "",
+                        "type" : "text"
+                      }
+                    ],
+                    "type" : "paragraph"
+                  },
+                  {
+                    "items" : [
+                      {
+                        "content" : [
+                          {
+                            "inlineContent" : [
+                              {
+                                "text" : "Acquisition of baseline skills for storytelling and",
+                                "type" : "text"
+                              }
+                            ],
+                            "type" : "paragraph"
+                          }
+                        ]
+                      },
+                      {
+                        "content" : [
+                          {
+                            "inlineContent" : [
+                              {
+                                "text" : "Strategies for persuasion",
+                                "type" : "text"
+                              }
+                            ],
+                            "type" : "paragraph"
+                          }
+                        ]
+                      }
+                    ],
+                    "type" : "unorderedList"
+                  }
+                ]
+              },
+              "term" : {
+                "inlineContent" : [
+                  {
+                    "text" : "1",
+                    "type" : "text"
+                  }
+                ]
+              }
+            },
+            {
+              "definition" : {
+                "content" : [
+                  {
+                    "inlineContent" : [
+                      {
+                        "text" : "",
+                        "type" : "text"
+                      }
+                    ],
+                    "type" : "paragraph"
+                  },
+                  {
+                    "items" : [
+                      {
+                        "content" : [
+                          {
+                            "inlineContent" : [
+                              {
+                                "text" : "A selection of curated masterclasses,",
+                                "type" : "text"
+                              }
+                            ],
+                            "type" : "paragraph"
+                          }
+                        ]
+                      },
+                      {
+                        "content" : [
+                          {
+                            "inlineContent" : [
+                              {
+                                "text" : "Highlight of the Module - the celebratory VOICE Festival featuring the sharing of curated Tales and dramatised stories from the cohort, with fringe fest activities",
+                                "type" : "text"
+                              }
+                            ],
+                            "type" : "paragraph"
+                          }
+                        ]
+                      }
+                    ],
+                    "type" : "unorderedList"
+                  }
+                ]
+              },
+              "term" : {
+                "inlineContent" : [
+                  {
+                    "text" : "2",
+                    "type" : "text"
+                  }
+                ]
+              }
+            }
+          ],
+          "type" : "termList"
+        },
+        {
+          "anchor" : "Assignments",
+          "level" : 3,
+          "text" : "Assignments:",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment 1: The Tale (Personal Narratives)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment 2: The Quest (Pitching a Campaign)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment 3: The Inventory (Personal Growth Plan)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment 4A: The Quiz (Referencing and Citations)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment 4B: Class Participation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "“Assignment” is commonly shortened to “ASG”",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Note",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Class participation is basically attendance, but you also need to do the in-class activities",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "such as padlet",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Deadlines-and-Important-Dates",
+          "level" : 2,
+          "text" : "Deadlines and Important Dates",
+          "type" : "heading"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Date",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment or Event",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Done?",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 4",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "18 May",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASG 4A Quiz is due",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 5",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "19 - 23 May",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASG 1 is due - in-class delivery",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 6 & 7",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "26 May - 6 Jun",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Workshop Weeks",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 7",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "8 Jun",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASG 2 Email is due at 2359h",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 11",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "30 Jun - 4 Jul",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASST 2 MS Teams Meeting is held online synchronously",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 11",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "6 Jul",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASST 3 is due at 2359h",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 15",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "30 Jul",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "VOICE Festival! (9.30am - 12.30pm; 12.30 - 3pm)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Week 16",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "4 - 8 Aug",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ASST 2 Campaign is due - in-class delivery",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "❌",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note: Some of these dates are VERY close to each other. Do them AS SOON AS POSSIBLE.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Year-1-Semester-1",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
+        "doc:\/\/Notes\/documentation\/Notes\/Programming"
+      ],
+      "title" : "Year 1 Semester 1"
+    }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Electrical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Mechanical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Programming": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Programming",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/programming"
+},
+"doc://Notes/documentation/Notes/VOICE-Framework": {
+  "abstract" : [
+    {
+      "text" : "A framework for confident presentation",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "VOICE Framework",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/voice-framework"
+}
+}
+}
