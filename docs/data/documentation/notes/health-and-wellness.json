@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "text" : "Basically PE",
       "type" : "text"
     }
   ],
@@ -15,12 +15,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "collectionGroup",
-    "title" : "Mechanical Engineering Fundamentals"
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Health and Wellness"
   },
   "primaryContentSections" : [
     {
@@ -34,7 +35,29 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ll write an overview when I understand the topic more",
+              "text" : "Nothing much special, just remember to wear the shirt they gave you. And also dress for sports.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Theres not many lessons so if you are absent\/late for just ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "two",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " lessons, you get grade capped. Good luck!",
               "type" : "text"
             }
           ],
@@ -59,20 +82,11 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Programming",
-        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
-        "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
+        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice"
       ],
       "title" : "Year 1 Semester 1"
-    }
-  ],
-  "topicSections" : [
-    {
-      "anchor" : "Topics",
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
-      ]
     }
   ]
 , 
@@ -90,31 +104,6 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
-},
-"doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
-  "abstract" : [
-    {
-      "text" : "How physical quantities are measured and represented",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Physical Quantities and Units",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
-},
-"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Vector Quantities",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.2-vector-quantities"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
@@ -152,19 +141,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/find-your-voice"
 },
-"doc://Notes/documentation/Notes/Health-and-Wellness": {
+"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
     {
-      "text" : "Basically PE",
+      "text" : "Concepts and fundamental principles in engineering mechanics",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
   "kind" : "article",
-  "role" : "article",
-  "title" : "Health and Wellness",
+  "role" : "collectionGroup",
+  "title" : "Mechanical Engineering Fundamentals",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/health-and-wellness"
+  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
 },
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [

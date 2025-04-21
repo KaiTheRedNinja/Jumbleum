@@ -59,6 +59,11 @@
                 "path" : "\/documentation\/notes\/find-your-voice",
                 "title" : "Find Your Voice",
                 "type" : "symbol"
+              },
+              {
+                "path" : "\/documentation\/notes\/health-and-wellness",
+                "title" : "Health and Wellness",
+                "type" : "article"
               }
             ],
             "path" : "\/documentation\/notes\/np",

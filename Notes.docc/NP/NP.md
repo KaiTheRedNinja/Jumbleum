@@ -45,3 +45,4 @@ Usually lesson materials will be made available through MS Teams or [PoliteMall]
 - <doc:Mechanical-Engineering-Fundamentals>
 - <doc:Programming>
 - <doc:Find-Your-Voice>
+- <doc:Health-and-Wellness>

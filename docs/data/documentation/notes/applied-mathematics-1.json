@@ -33,7 +33,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Programming",
-        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice"
+        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
+        "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
       ],
       "title" : "Year 1 Semester 1"
     }
@@ -78,6 +79,20 @@
   "title" : "Find Your Voice",
   "type" : "topic",
   "url" : "\/documentation\/notes\/find-your-voice"
+},
+"doc://Notes/documentation/Notes/Health-and-Wellness": {
+  "abstract" : [
+    {
+      "text" : "Basically PE",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Health and Wellness",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/health-and-wellness"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
