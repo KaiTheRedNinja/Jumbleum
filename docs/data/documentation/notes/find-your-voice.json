@@ -125,115 +125,95 @@
         {
           "items" : [
             {
-              "definition" : {
-                "content" : [
-                  {
-                    "inlineContent" : [
-                      {
-                        "text" : "",
-                        "type" : "text"
-                      }
-                    ],
-                    "type" : "paragraph"
-                  },
-                  {
-                    "items" : [
-                      {
-                        "content" : [
-                          {
-                            "inlineContent" : [
-                              {
-                                "text" : "Acquisition of baseline skills for storytelling and",
-                                "type" : "text"
-                              }
-                            ],
-                            "type" : "paragraph"
-                          }
-                        ]
-                      },
-                      {
-                        "content" : [
-                          {
-                            "inlineContent" : [
-                              {
-                                "text" : "Strategies for persuasion",
-                                "type" : "text"
-                              }
-                            ],
-                            "type" : "paragraph"
-                          }
-                        ]
-                      }
-                    ],
-                    "type" : "unorderedList"
-                  }
-                ]
-              },
-              "term" : {
-                "inlineContent" : [
-                  {
-                    "text" : "1",
-                    "type" : "text"
-                  }
-                ]
-              }
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Term 1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Acquisition of baseline skills for storytelling and",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Strategies for persuasion",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
             },
             {
-              "definition" : {
-                "content" : [
-                  {
-                    "inlineContent" : [
-                      {
-                        "text" : "",
-                        "type" : "text"
-                      }
-                    ],
-                    "type" : "paragraph"
-                  },
-                  {
-                    "items" : [
-                      {
-                        "content" : [
-                          {
-                            "inlineContent" : [
-                              {
-                                "text" : "A selection of curated masterclasses,",
-                                "type" : "text"
-                              }
-                            ],
-                            "type" : "paragraph"
-                          }
-                        ]
-                      },
-                      {
-                        "content" : [
-                          {
-                            "inlineContent" : [
-                              {
-                                "text" : "Highlight of the Module - the celebratory VOICE Festival featuring the sharing of curated Tales and dramatised stories from the cohort, with fringe fest activities",
-                                "type" : "text"
-                              }
-                            ],
-                            "type" : "paragraph"
-                          }
-                        ]
-                      }
-                    ],
-                    "type" : "unorderedList"
-                  }
-                ]
-              },
-              "term" : {
-                "inlineContent" : [
-                  {
-                    "text" : "2",
-                    "type" : "text"
-                  }
-                ]
-              }
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Term 2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "A selection of curated masterclasses,",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "Highlight of the Module - the celebratory VOICE Festival featuring the sharing of curated Tales and dramatised stories from the cohort, with fringe fest activities",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
             }
           ],
-          "type" : "termList"
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Assignments",

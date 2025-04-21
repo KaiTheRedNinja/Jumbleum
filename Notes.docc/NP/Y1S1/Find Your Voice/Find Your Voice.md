@@ -12,12 +12,12 @@ Also called Confident Communication. I think this is a confidence/speaking class
 - Referencing and Citations
 
 ### Module Structure:
-- Term 1:
-    - Acquisition of baseline skills for storytelling and
-    - Strategies for persuasion
-- Term 2:
-    - A selection of curated masterclasses,
-    - Highlight of the Module - the celebratory VOICE Festival featuring the sharing of curated Tales and dramatised stories from the cohort, with fringe fest activities
+- Term 1
+  - Acquisition of baseline skills for storytelling and
+  - Strategies for persuasion
+- Term 2
+  - A selection of curated masterclasses,
+  - Highlight of the Module - the celebratory VOICE Festival featuring the sharing of curated Tales and dramatised stories from the cohort, with fringe fest activities
 
 ### Assignments:
 - Assignment 1: The Tale (Personal Narratives)
