@@ -14,5 +14,19 @@ Each week will have 1 hour of OAL, done BEFORE class. Refer to the schedule to s
 assignment/chapter/etc to complete. There will then be 3 hours of class time, which will be a mix of 
 theory and practical work.
 
+There are no "definition" questions in EEFD, according to my teacher.
+
+## Marks Allotment
+
+| Component | Weight |
+| -------- | ------ |
+| Common Test | 25% |
+| Lab | 5% |
+| Written Tutorial | 5% |
+| OAL | 5% |
+| Quiz | 5$ |
+| Lab Test | 15% |
+| Exam | 40% |
+
 ## Topics
 - <doc:1.1-Current-and-Voltage>
