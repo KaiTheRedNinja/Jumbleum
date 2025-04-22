@@ -646,7 +646,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion"
       ]
     }
   ]
@@ -679,6 +680,20 @@
   "title" : "Vector Quantities",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-vector-quantities"
+},
+"doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
+  "abstract" : [
+    {
+      "text" : "Ch 2: The study of motion in one dimension",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics of Linear Motion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [

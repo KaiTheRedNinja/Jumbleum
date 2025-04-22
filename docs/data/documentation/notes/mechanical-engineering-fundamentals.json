@@ -34,7 +34,182 @@
         {
           "inlineContent" : [
             {
-              "text" : "I’ll write an overview when I understand the topic more",
+              "text" : "Most of MEFD is covered in SST’s ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " subject, so certain chapters may just link to that subject.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Each week will have 1 hour of OAL, done BEFORE class. Refer to the schedule to see which Brightspace",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "assignment\/chapter\/etc to complete. There will then be 3 hours of class time, which will be a mix of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "theory and practical work.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Marks-Allotment",
+          "level" : 2,
+          "text" : "Marks Allotment",
+          "type" : "heading"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Component",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Weight",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Test",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "25%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Online Assignments (Brightspace)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "20%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Project",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "15%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Exam",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "40%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can repeat Online Assignments as many times as you want, but only the highest score will be counted. Only assignments marked with the 100 emoji (“💯”) are counted - review questions are not.",
               "type" : "text"
             }
           ],
@@ -71,12 +246,27 @@
       "anchor" : "Topics",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion"
       ]
     }
   ]
 , 
 "references": {
+"Subject_Physics.png": {
+  "alt" : "Physics Icon",
+  "identifier" : "Subject_Physics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Physics.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -118,6 +308,20 @@
   "title" : "Vector Quantities",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-vector-quantities"
+},
+"doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
+  "abstract" : [
+    {
+      "text" : "Ch 2: The study of motion in one dimension",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics of Linear Motion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
@@ -185,6 +389,26 @@
   "title" : "NP",
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Physics": {
+  "abstract" : [
+    {
+      "text" : "Energy, matter, and their interrelationships",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physics",
+  "images" : [
+    {
+      "identifier" : "Subject_Physics.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Physics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/physics"
 },
 "doc://Notes/documentation/Notes/Programming": {
   "abstract" : [

@@ -175,6 +175,32 @@
         {
           "inlineContent" : [
             {
+              "identifier" : "Diagram_Vector Resolution",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "Ax = A \\cos(\\theta)",
+            "Ay = A \\sin(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "See ",
               "type" : "text"
             },
@@ -255,6 +281,20 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can use my Desmos tool for vector sums ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c",
+              "isActive" : true,
+              "type" : "reference"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -272,12 +312,27 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units"
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion"
       ]
     }
   ]
 , 
 "references": {
+"Diagram_Vector Resolution": {
+  "alt" : "Vector resolution diagram",
+  "identifier" : "Diagram_Vector Resolution",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Vector%20Resolution.jpg"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -305,6 +360,20 @@
   "title" : "Physical Quantities and Units",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
+},
+"doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
+  "abstract" : [
+    {
+      "text" : "Ch 2: The study of motion in one dimension",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics of Linear Motion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
 },
 "doc://Notes/documentation/Notes/Dynamics#2D-Force-Resolution": {
   "abstract" : [
@@ -353,6 +422,18 @@
   "title" : "Scalar vs Vector",
   "type" : "topic",
   "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement#Scalar-vs-Vector"
+},
+"https://www.desmos.com/calculator/q5egv7ly5c": {
+  "identifier" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c",
+  "title" : "here",
+  "titleInlineContent" : [
+    {
+      "text" : "here",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c"
 }
 }
 }
