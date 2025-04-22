@@ -94,7 +94,7 @@
 "doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
   "abstract" : [
     {
-      "text" : "How physical quantities are measured and represented",
+      "text" : "Ch 1.1: How physical quantities are measured and represented",
       "type" : "text"
     }
   ],
@@ -107,7 +107,10 @@
 },
 "doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
   "abstract" : [
-
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
   "kind" : "article",
@@ -129,11 +132,14 @@
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
-
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Electrical Engineering Fundamentals",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"

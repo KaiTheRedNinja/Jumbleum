@@ -1,25 +1,28 @@
 {
   "abstract" : [
     {
-      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "text" : "Ch 1.1: Current and Voltage basics",
       "type" : "text"
     }
   ],
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals"
       ]
     ]
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/NP"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage"
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "collectionGroup",
-    "title" : "NP"
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Current and Voltage"
   },
   "primaryContentSections" : [
     {
@@ -33,35 +36,61 @@
         {
           "inlineContent" : [
             {
-              "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+              "text" : "Objectives of this subchapter:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "inlineContent" : [
+          "items" : [
             {
-              "text" : "Also a bit about how poly works, for my own reference.",
-              "type" : "text"
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define an atom and sketch a diagram to show the atom and its constituent parts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define electric current flow",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define potential, potential difference, and electromotive force (emf)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
             }
           ],
-          "type" : "paragraph"
+          "type" : "unorderedList"
         },
         {
-          "anchor" : "Semesters",
+          "anchor" : "Atoms-and-their-Structure",
           "level" : 2,
-          "text" : "Semesters",
+          "text" : "Atoms and their Structure",
           "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "2025-2026 Academic Year:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
         },
         {
           "header" : "row",
@@ -71,7 +100,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Semester",
+                      "text" : "Component",
                       "type" : "text"
                     }
                   ],
@@ -82,7 +111,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Term",
+                      "text" : "Charge",
                       "type" : "text"
                     }
                   ],
@@ -93,7 +122,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Start Date",
+                      "text" : "Mass (kg)",
                       "type" : "text"
                     }
                   ],
@@ -104,7 +133,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "End Date",
+                      "text" : "Location",
                       "type" : "text"
                     }
                   ],
@@ -117,7 +146,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Semester 1",
+                      "text" : "Proton",
                       "type" : "text"
                     }
                   ],
@@ -128,7 +157,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Term 1",
+                      "text" : "+1",
                       "type" : "text"
                     }
                   ],
@@ -139,7 +168,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "21 Apr 2025",
+                      "text" : "1.67e-27",
                       "type" : "text"
                     }
                   ],
@@ -150,7 +179,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "13 June 2025",
+                      "text" : "Nucleus",
                       "type" : "text"
                     }
                   ],
@@ -163,7 +192,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Semester 1",
+                      "text" : "Neutron",
                       "type" : "text"
                     }
                   ],
@@ -174,7 +203,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Term 2",
+                      "text" : "0",
                       "type" : "text"
                     }
                   ],
@@ -185,7 +214,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "30 June 2025",
+                      "text" : "1.67e-27",
                       "type" : "text"
                     }
                   ],
@@ -196,7 +225,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "29 Aug 2025",
+                      "text" : "Nucleus",
                       "type" : "text"
                     }
                   ],
@@ -209,7 +238,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Semester 2",
+                      "text" : "Electron",
                       "type" : "text"
                     }
                   ],
@@ -220,7 +249,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Term 3",
+                      "text" : "-1",
                       "type" : "text"
                     }
                   ],
@@ -231,7 +260,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "20 Oct 2025",
+                      "text" : "9.11e-31",
                       "type" : "text"
                     }
                   ],
@@ -242,53 +271,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "19 Dec 2025",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Semester 2",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Term 4",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "5 Jan 2026",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "27 Feb 2026",
+                      "text" : "Shells",
                       "type" : "text"
                     }
                   ],
@@ -300,15 +283,9 @@
           "type" : "table"
         },
         {
-          "anchor" : "Grade-Cap",
-          "level" : 2,
-          "text" : "Grade Cap",
-          "type" : "heading"
-        },
-        {
           "inlineContent" : [
             {
-              "text" : "Be on time. If you are late, you will be marked absent. If you are absent without reason for",
+              "text" : "Note that electrons are usually drawn in “orbits”, like planets. This is an inaccurate model because",
               "type" : "text"
             },
             {
@@ -316,93 +293,123 @@
               "type" : "text"
             },
             {
-              "text" : "more than 30% of curriculum time, your grade will be capped at the passing grade (“D” for",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "graded modules, “Pass” for pass\/fail modules).",
+              "text" : "of quantum physics, but it is a useful model because it helps visualize the atom.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "anchor" : "Lesson-Information",
-          "level" : 2,
-          "text" : "Lesson Information",
-          "type" : "heading"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "IPL: In-Person Learning",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Definition",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "OAL: Online Asynchronous Learning",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Definition",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "OSL: Online Synchronous Learning (conducted online and live)",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Definition",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "anchor" : "PoliteMall",
+          "anchor" : "Conductivity",
           "level" : 3,
-          "text" : "PoliteMall",
+          "text" : "Conductivity",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "Usually lesson materials will be made available through MS Teams or ",
+              "text" : "Extremely simplified, the conductivity of a material is determined by the number of free electrons in the material. Copper has one electron in its outer shell, which can easily move around, making it a good conductor.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Copper Electron Shell",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Copper Electron Flow",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Current-and-Voltage",
+          "level" : 2,
+          "text" : "Current and Voltage",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
               "type" : "text"
             },
             {
-              "identifier" : "https:\/\/nplms.polite.edu.sg\/d2l\/home",
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Current",
               "isActive" : true,
               "type" : "reference"
             },
             {
-              "text" : ". PoliteMall will also be where assignments and quizzes are submitted.",
+              "text" : " for more information on current, and ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Voltage",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more information on voltage.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some definitions are different in NP and SST, so be careful. Here are the NP versions, with the differences pointed out:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Potential Difference: The energy required to move a unit charge between two points in a circuit (SST is basically the same)",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Electromotive Force: The energy per unit charge produced by a voltage source (SST says “the whole circuit” instead of just a power source)",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I have absolutely no clue what “potential” refers to.",
               "type" : "text"
             }
           ],
@@ -419,23 +426,37 @@
   },
   "sections" : [
 
-  ],
-  "topicSections" : [
-    {
-      "anchor" : "Year-1-Semester-1",
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
-        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
-        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
-        "doc:\/\/Notes\/documentation\/Notes\/Programming",
-        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
-        "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
-      ],
-      "title" : "Year 1 Semester 1"
-    }
   ]
 , 
 "references": {
+"Diagram_Copper Electron Flow": {
+  "alt" : "Copper's free electrons are in random motion. When a potential difference is applied, they move in the same direction.",
+  "identifier" : "Diagram_Copper Electron Flow",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Copper%20Electron%20Flow.png"
+    }
+  ]
+},
+"Diagram_Copper Electron Shell": {
+  "alt" : "Copper has one electron in its outer shell",
+  "identifier" : "Diagram_Copper Electron Shell",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Copper%20Electron%20Shell.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -450,16 +471,25 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+"doc://Notes/documentation/Notes/Current-of-Electricity#Current": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Applied Mathematics 1",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Current",
+  "kind" : "section",
+  "title" : "Current",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/applied-mathematics-1"
+  "url" : "\/documentation\/notes\/current-of-electricity#Current"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity#Voltage": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Voltage",
+  "kind" : "section",
+  "title" : "Voltage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity#Voltage"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
@@ -475,70 +505,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
 },
-"doc://Notes/documentation/Notes/Find-Your-Voice": {
+"doc://Notes/documentation/Notes/NP": {
   "abstract" : [
     {
-      "text" : "Also called Confident Communication. I think this is a confidence\/speaking class? Not quite sure rn",
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Find Your Voice",
+  "title" : "NP",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/find-your-voice"
-},
-"doc://Notes/documentation/Notes/Health-and-Wellness": {
-  "abstract" : [
-    {
-      "text" : "Basically PE",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Health and Wellness",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/health-and-wellness"
-},
-"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
-  "abstract" : [
-    {
-      "text" : "Concepts and fundamental principles in engineering mechanics",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
-  "kind" : "article",
-  "role" : "collectionGroup",
-  "title" : "Mechanical Engineering Fundamentals",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
-},
-"doc://Notes/documentation/Notes/Programming": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Programming",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/programming"
-},
-"https://nplms.polite.edu.sg/d2l/home": {
-  "identifier" : "https:\/\/nplms.polite.edu.sg\/d2l\/home",
-  "title" : "PoliteMall",
-  "titleInlineContent" : [
-    {
-      "text" : "PoliteMall",
-      "type" : "text"
-    }
-  ],
-  "type" : "link",
-  "url" : "https:\/\/nplms.polite.edu.sg\/d2l\/home"
+  "url" : "\/documentation\/notes\/np"
 }
 }
 }

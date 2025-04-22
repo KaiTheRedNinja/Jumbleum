@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -13,10 +19,90 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Electrical Engineering Fundamentals"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "4 Credit Units",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Most of EEFD is covered in SST’s ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " subject, so certain chapters may just link to that subject.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Wear covered shoes, and bring your electronics set (multimeter, battery, breadboard, wires, etc). You may not be allowed in otherwise.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Each week will have 1 hour of OAL, done BEFORE class. Refer to the schedule to see which Brightspace",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "assignment\/chapter\/etc to complete. There will then be 3 hours of class time, which will be a mix of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "theory and practical work.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -38,9 +124,31 @@
       ],
       "title" : "Year 1 Semester 1"
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Topics",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage"
+      ]
+    }
   ]
 , 
 "references": {
+"Subject_Electronics.png": {
+  "alt" : "Electronics Icon",
+  "identifier" : "Subject_Electronics.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Subject_Electronics.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -55,6 +163,20 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/1.1-Current-and-Voltage": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: Current and Voltage basics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current and Voltage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
 
@@ -65,6 +187,26 @@
   "title" : "Applied Mathematics 1",
   "type" : "topic",
   "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Electronics": {
+  "abstract" : [
+    {
+      "text" : "Fundamental workings of electronic components, systems, and ideas of engineering design",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electronics",
+  "images" : [
+    {
+      "identifier" : "Subject_Electronics.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electronics",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electronics"
 },
 "doc://Notes/documentation/Notes/Find-Your-Voice": {
   "abstract" : [

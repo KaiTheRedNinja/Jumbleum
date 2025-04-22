@@ -57,11 +57,14 @@
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
-
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Electrical Engineering Fundamentals",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"

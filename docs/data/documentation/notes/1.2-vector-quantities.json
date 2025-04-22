@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -289,7 +295,7 @@
 "doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
   "abstract" : [
     {
-      "text" : "How physical quantities are measured and represented",
+      "text" : "Ch 1.1: How physical quantities are measured and represented",
       "type" : "text"
     }
   ],

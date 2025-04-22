@@ -22,9 +22,16 @@
                 "type" : "article"
               },
               {
+                "children" : [
+                  {
+                    "path" : "\/documentation\/notes\/1.1-current-and-voltage",
+                    "title" : "Current and Voltage",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/electrical-engineering-fundamentals",
                 "title" : "Electrical Engineering Fundamentals",
-                "type" : "article"
+                "type" : "symbol"
               },
               {
                 "children" : [

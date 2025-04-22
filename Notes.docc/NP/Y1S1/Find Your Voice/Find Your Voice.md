@@ -4,6 +4,8 @@ Also called Confident Communication. I think this is a confidence/speaking class
 
 ## Overview
 
+3 Credit Units
+
 ### Topics Covered:
 - Identity as a communicator; self-diagnostic of strength & weakness
 - Verbal and non-verbal techniques for engagement (see <doc:VOICE-Framework>)

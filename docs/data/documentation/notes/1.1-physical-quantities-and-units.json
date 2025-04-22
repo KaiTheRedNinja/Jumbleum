@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "How physical quantities are measured and represented",
+      "text" : "Ch 1.1: How physical quantities are measured and represented",
       "type" : "text"
     }
   ],
@@ -668,7 +668,10 @@
 },
 "doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
   "abstract" : [
-
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
   "kind" : "article",
