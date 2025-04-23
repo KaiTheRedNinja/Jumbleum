@@ -19,8 +19,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Programming"
   },
   "primaryContentSections" : [
@@ -36,6 +35,15 @@
           "inlineContent" : [
             {
               "text" : "3 Credit Units",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A module about programming and its purpose.",
               "type" : "text"
             }
           ],
@@ -66,6 +74,16 @@
       ],
       "title" : "Year 1 Semester 1"
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-C",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors"
+      ],
+      "title" : "Chapter 1: Fundamentals of C"
+    }
   ]
 , 
 "references": {
@@ -82,6 +100,34 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Fundamental-C": {
+  "abstract" : [
+    {
+      "text" : "Why is a programming language?",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Fundamental C",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-fundamental-c"
+},
+"doc://Notes/documentation/Notes/1.2-Syntax-Errors": {
+  "abstract" : [
+    {
+      "text" : "When you don’t follow a language’s syntax rules and the compiler tells you “i dont know what this means”",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Syntax Errors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-syntax-errors"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

@@ -1,0 +1,912 @@
+{
+  "abstract" : [
+    {
+      "text" : "Why is a programming language?",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Programming"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Fundamental C"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "On a high level, there are machine languages and human languages (theres actually something in between,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "but we don’t care about assembly right now).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Computers can only understand ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "machine code",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ", but it is unproductive for humans to write in it directly.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Therefore, we use ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "high level languages",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " (like C) to write programs, which are then translated into",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "machine code by a ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "compiler",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Program-Development#Programming",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for more information on programming languages and compilers.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "C is a good language to learn because every other language is based on or inspired by C. C is also quite",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "difficult so other languages are easy in comparison.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Basic-Syntax",
+          "level" : 2,
+          "text" : "Basic Syntax",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is a basic “hello world” program in C:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "#include <stdio.h>",
+            "",
+            "void main(void) {",
+            "    printf(\"Hello, world!\\n\");",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Comments",
+          "level" : 3,
+          "text" : "Comments",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Comments are ignored by the compiler. They are used to document code and make it easier to read.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\/\/ This is a single-line comment",
+            "\/* This is a",
+            "multi-line comment *\/",
+            "printf(\"Hello, world!\\n\"); \/\/ This is a comment at the end of a line"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Imports",
+          "level" : 3,
+          "text" : "Imports",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To import libraries, use the ",
+              "type" : "text"
+            },
+            {
+              "code" : "#include",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " directive. For example, to import the standard input\/output",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "library,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "#include <stdio.h>"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can also import individual files - however, most AllyLocal projects are single-file, so you are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "unlikely to need this.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "#include \"myfile.c\" \/\/ or \"myfile.h\""
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Functions-and-Main",
+          "level" : 3,
+          "text" : "Functions and Main",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Functions in C are the building blocks of programs. The ",
+              "type" : "text"
+            },
+            {
+              "code" : "main",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " function a special function - it is the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "“entry point” of a C program. A function is defined like this:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "returnType function_name(parameters) {",
+            "    \/\/ function body",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In a function like ",
+              "type" : "text"
+            },
+            {
+              "code" : "main",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", which (at this stage) takes no arguments\/parameters and returns no value,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "we can use ",
+              "type" : "text"
+            },
+            {
+              "code" : "void",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " as the return type and parameter type:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "void main(void) {",
+            "    \/\/ function body",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "code" : "main",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " cannot be renamed, and there may only be one main function in a program.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Print-Strings-and-Escape-Sequences",
+          "level" : 3,
+          "text" : "Print, Strings, and Escape Sequences",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "",
+                  "type" : "text"
+                },
+                {
+                  "code" : "printf",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : ": Prints a string to the console. It does NOT automatically add a new line at the",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "end, unlike other langages’ print functions.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "String: A sequence of characters. They are defined starting and ending with ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "\"",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : ".",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Escape sequence: A special character that is used to represent a character that cannot be",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "represented directly in a string. For example, ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "\\n",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " represents a new line, and ",
+                  "type" : "text"
+                },
+                {
+                  "code" : "\\\"",
+                  "type" : "codeVoice"
+                },
+                {
+                  "text" : " represents a double",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "quote.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We have escape characters for two special cases:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When a character is used for a dedicated purpose in C strings (eg. ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "\"",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "\\",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When a character does not have a human-typeable representation (eg. ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "\\n",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " for new line)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "code" : [
+            "printf(\"Hello,\")",
+            "printf(\" world!\"); \/\/ prints \"Hello, world!\" on a single line",
+            "",
+            "printf(\"Hello, world!\\n\"); \/\/ prints \"Hello, world!\" and moves to the next line",
+            "printf(\"Hello, \\\"world\\\"!\\n\"); \/\/ prints \"Hello, \"world\"!\" and moves to the next line"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Symbolic-Syntax",
+          "level" : 3,
+          "text" : "Symbolic Syntax",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Each line ends with a semicolon ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : ";",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Curly braces ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "{}",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are used to group statements together",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Parentheses ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "()",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are used to group expressions together",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Square brackets ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "[]",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are used to define arrays",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Convention",
+          "level" : 2,
+          "text" : "Convention",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "C has several conventions which I personally disagree with. The most notable is curly braces: In “normal” C, a main function might look like this:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "void main(void) ",
+            "{",
+            "    if (\/* some logic here *\/)",
+            "    {",
+            "        printf(\"It works!\\n\");",
+            "    } else",
+            "    {",
+            "        printf(\"It doesn't work!\\n\");",
+            "    }",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Which is, imo, hideous. I prefer to use the following style:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "void main(void) {",
+            "    if (\/* some logic here *\/) {",
+            "        printf(\"It works!\\n\");",
+            "    } else {",
+            "        printf(\"It doesn't work!\\n\");",
+            "    }",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some conventions I do agree with:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "camelCase",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " for variable names and function names",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "UPPER_SNAKE_CASE",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " for constants",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Some conventions that NP seems to like, but I’m pondering:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "void",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " as return type for ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "main",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " (most programs use ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "int",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " instead)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Explicit ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "void",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " when a function takes no parameters (most programs omit it in the ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "()",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " instead)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-C",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors"
+      ],
+      "title" : "Chapter 1: Fundamentals of C"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.2-Syntax-Errors": {
+  "abstract" : [
+    {
+      "text" : "When you don’t follow a language’s syntax rules and the compiler tells you “i dont know what this means”",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Syntax Errors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-syntax-errors"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Program-Development#Programming": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Program-Development#Programming",
+  "kind" : "section",
+  "title" : "Programming",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/program-development#Programming"
+},
+"doc://Notes/documentation/Notes/Programming": {
+  "abstract" : [
+    {
+      "text" : "Programming, mostly in C",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Programming",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/programming"
+}
+}
+}

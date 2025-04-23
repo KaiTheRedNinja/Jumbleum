@@ -67,9 +67,25 @@
                 "type" : "symbol"
               },
               {
+                "children" : [
+                  {
+                    "title" : "Chapter 1: Fundamentals of C",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.1-fundamental-c",
+                    "title" : "Fundamental C",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.2-syntax-errors",
+                    "title" : "Syntax Errors",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/programming",
                 "title" : "Programming",
-                "type" : "article"
+                "type" : "symbol"
               },
               {
                 "children" : [
@@ -984,7 +1000,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : "Checkmark",
+      "alt" : null,
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [

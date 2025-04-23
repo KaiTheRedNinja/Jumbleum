@@ -897,7 +897,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Programming",
   "type" : "topic",
   "url" : "\/documentation\/notes\/programming"
