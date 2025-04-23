@@ -27,3 +27,4 @@ You can repeat Online Assignments as many times as you want, but only the highes
 - <doc:1.1-Physical-Quantities-and-Units>
 - <doc:1.2-Vector-Quantities>
 - <doc:2-Kinematics-of-Linear-Motion>
+- <doc:3-Resultant-Forces>

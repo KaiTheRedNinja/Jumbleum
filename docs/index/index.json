@@ -74,6 +74,11 @@
                     "path" : "\/documentation\/notes\/2-kinematics-of-linear-motion",
                     "title" : "Kinematics of Linear Motion",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/3-resultant-forces",
+                    "title" : "Resultant Forces",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",

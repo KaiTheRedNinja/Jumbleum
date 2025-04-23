@@ -256,7 +256,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
-        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion"
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+        "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces"
       ]
     }
   ]
@@ -331,6 +332,20 @@
   "title" : "Kinematics of Linear Motion",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
+},
+"doc://Notes/documentation/Notes/3-Resultant-Forces": {
+  "abstract" : [
+    {
+      "text" : "What happens when you combine multiple forces acting on a single body",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resultant Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3-resultant-forces"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
