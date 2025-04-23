@@ -1,4 +1,10 @@
 {
+  "abstract" : [
+    {
+      "text" : "Programming, mostly in C",
+      "type" : "text"
+    }
+  ],
   "hierarchy" : {
     "paths" : [
       [
@@ -17,6 +23,28 @@
     "roleHeading" : "Article",
     "title" : "Programming"
   },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "3 Credit Units",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
   "schemaVersion" : {
     "major" : 0,
     "minor" : 3,
@@ -57,7 +85,10 @@
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
-
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
   "kind" : "article",

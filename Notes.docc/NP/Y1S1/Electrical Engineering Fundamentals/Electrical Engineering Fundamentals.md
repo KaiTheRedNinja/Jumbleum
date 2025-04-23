@@ -16,6 +16,8 @@ theory and practical work.
 
 There are no "definition" questions in EEFD, according to my teacher.
 
+> Note: "Online Tutorial" refers to the digital chapters in Brightspace. "Tutorial" or "Written tutorial" refers to the assignments which you have to fill out on paper - however, the questions are on Brightspace.
+
 ## Marks Allotment
 
 | Component | Weight |

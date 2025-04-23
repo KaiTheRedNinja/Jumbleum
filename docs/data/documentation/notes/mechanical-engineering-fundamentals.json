@@ -34,6 +34,15 @@
         {
           "inlineContent" : [
             {
+              "text" : "4 Credit Units",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Most of MEFD is covered in SST’s ",
               "type" : "text"
             },
@@ -325,7 +334,10 @@
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
-
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
   "kind" : "article",
@@ -412,7 +424,10 @@
 },
 "doc://Notes/documentation/Notes/Programming": {
   "abstract" : [
-
+    {
+      "text" : "Programming, mostly in C",
+      "type" : "text"
+    }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
   "kind" : "article",

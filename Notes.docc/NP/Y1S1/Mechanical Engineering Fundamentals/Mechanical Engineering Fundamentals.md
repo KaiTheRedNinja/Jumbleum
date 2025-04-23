@@ -4,6 +4,8 @@ Concepts and fundamental principles in engineering mechanics
 
 ## Overview
 
+4 Credit Units
+
 Most of MEFD is covered in SST's <doc:Physics> subject, so certain chapters may just link to that subject.
 
 Each week will have 1 hour of OAL, done BEFORE class. Refer to the schedule to see which Brightspace 
