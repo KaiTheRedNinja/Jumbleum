@@ -19,8 +19,7 @@
   },
   "kind" : "article",
   "metadata" : {
-    "role" : "article",
-    "roleHeading" : "Article",
+    "role" : "collectionGroup",
     "title" : "Applied Mathematics 1"
   },
   "primaryContentSections" : [
@@ -66,6 +65,15 @@
       ],
       "title" : "Year 1 Semester 1"
     }
+  ],
+  "topicSections" : [
+    {
+      "anchor" : "Chapter-1-Plane-Analytic-Geometry",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line"
+      ],
+      "title" : "Chapter 1: Plane Analytic Geometry"
+    }
   ]
 , 
 "references": {
@@ -82,6 +90,20 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-The-Straight-Line": {
+  "abstract" : [
+    {
+      "text" : "Straight lines, aka linear functions or linear graphs",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Straight Line",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-the-straight-line"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [

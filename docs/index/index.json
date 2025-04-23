@@ -17,9 +17,20 @@
                 "type" : "groupMarker"
               },
               {
+                "children" : [
+                  {
+                    "title" : "Chapter 1: Plane Analytic Geometry",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.1-the-straight-line",
+                    "title" : "The Straight Line",
+                    "type" : "article"
+                  }
+                ],
                 "path" : "\/documentation\/notes\/applied-mathematics-1",
                 "title" : "Applied Mathematics 1",
-                "type" : "article"
+                "type" : "symbol"
               },
               {
                 "children" : [

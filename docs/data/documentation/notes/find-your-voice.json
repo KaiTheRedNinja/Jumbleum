@@ -827,7 +827,7 @@
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
   "kind" : "article",
-  "role" : "article",
+  "role" : "collectionGroup",
   "title" : "Applied Mathematics 1",
   "type" : "topic",
   "url" : "\/documentation\/notes\/applied-mathematics-1"
