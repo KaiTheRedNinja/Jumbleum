@@ -1,0 +1,218 @@
+{
+  "abstract" : [
+    {
+      "text" : "Some basic formulae",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Ohm’s Law, Power, and Energy"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Ohms-Law",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for Ohm’s law. In summary, it relates resistance, current, and voltage:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "V = I*R"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for power. In summary, it is a measure of energy used per second",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "P = V*I = I^2*R = \\frac{V^2}{R} = \\frac{W}{t} = \\frac{Q*V}{t}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Energy is simply power multiplied by time:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "E = P*t"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-Electricity",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance"
+      ],
+      "title" : "Chapter 1: Fundamentals of Electricity"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Current-and-Voltage": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: Current and Voltage basics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current and Voltage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
+"doc://Notes/documentation/Notes/1.2-Resistance": {
+  "abstract" : [
+    {
+      "text" : "Resistors, but a bit more advanced than secondary school",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-resistance"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity#Ohms-Law": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Ohms-Law",
+  "kind" : "section",
+  "title" : "Ohm’s Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity#Ohms-Law"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity#Power": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
+  "kind" : "section",
+  "title" : "Power",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity#Power"
+},
+"doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electrical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

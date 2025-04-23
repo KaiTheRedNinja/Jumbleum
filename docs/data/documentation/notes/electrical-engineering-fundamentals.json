@@ -356,10 +356,13 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
+      "anchor" : "Chapter-1-Fundamentals-of-Electricity",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage"
-      ]
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy"
+      ],
+      "title" : "Chapter 1: Fundamentals of Electricity"
     }
   ]
 , 
@@ -405,6 +408,34 @@
   "title" : "Current and Voltage",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
+"doc://Notes/documentation/Notes/1.2-Resistance": {
+  "abstract" : [
+    {
+      "text" : "Resistors, but a bit more advanced than secondary school",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-resistance"
+},
+"doc://Notes/documentation/Notes/1.3-Ohms-Law-Power-and-Energy": {
+  "abstract" : [
+    {
+      "text" : "Some basic formulae",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ohm’s Law, Power, and Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-ohms-law-power-and-energy"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

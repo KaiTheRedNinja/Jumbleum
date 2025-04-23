@@ -1,0 +1,549 @@
+{
+  "abstract" : [
+    {
+      "text" : "Resistors, but a bit more advanced than secondary school",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Resistance"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for the following:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "General info",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Resistivity",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Types of resistors",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Colour code",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Effective resistance (across series and parallel circuits)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This document will instead focus on NP-specific topics, such as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Temperature coefficient",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Conductance",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Temperature-Coefficient",
+          "level" : 2,
+          "text" : "Temperature Coefficient",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For conductors, the resistance increases with temperature. This is because the atoms in the conductor",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "vibrate more at higher temperatures, making it harder for electrons to flow through.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We generally aproximate this as a linear relationship, where the resistance at a given temperature is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "equal to the resistance at 20°C",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R_2 = R_1 (1 + \\alpha (t_2 - t_1))"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "R_1",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resistance at temperature ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "t_1",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", in ohms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "R_2",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resistance at temperature ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "t_2",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", in ohms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "α",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the temperature coefficient of resistance, which is a measure of how much the resistance",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "changes with temperature, in ohms per degree Celsius (Ω\/°C) or per Kelvin (Ω\/K)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "t_1",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the reference temperature (usually 20°C)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "t_2",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the temperature at which we want to find the resistance",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Conductance",
+          "level" : 2,
+          "text" : "Conductance",
+          "type" : "heading"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The ability of a material to conduct electricity, measured in siemens (S). It is the",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "reciprocal of resistance.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Conductance",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "code" : [
+            "G = \\frac{1}{R}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "G",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the conductance, in siemens (S)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "R",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resistance, in ohms (Ω)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-Electricity",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy"
+      ],
+      "title" : "Chapter 1: Fundamentals of Electricity"
+    }
+  ]
+, 
+"references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Current-and-Voltage": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: Current and Voltage basics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current and Voltage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
+"doc://Notes/documentation/Notes/1.3-Ohms-Law-Power-and-Energy": {
+  "abstract" : [
+    {
+      "text" : "Some basic formulae",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ohm’s Law, Power, and Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-ohms-law-power-and-energy"
+},
+"doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electrical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Resistors": {
+  "abstract" : [
+    {
+      "text" : "Resistance is futile, except in electronics. You sorta need them to prevent your components from frying themselves.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/resistors"
+}
+}
+}

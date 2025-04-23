@@ -35,8 +35,22 @@
               {
                 "children" : [
                   {
+                    "title" : "Chapter 1: Fundamentals of Electricity",
+                    "type" : "groupMarker"
+                  },
+                  {
                     "path" : "\/documentation\/notes\/1.1-current-and-voltage",
                     "title" : "Current and Voltage",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.2-resistance",
+                    "title" : "Resistance",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.3-ohms-law-power-and-energy",
+                    "title" : "Ohm’s Law, Power, and Energy",
                     "type" : "article"
                   }
                 ],
@@ -1000,7 +1014,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [

@@ -31,4 +31,8 @@ There are no "definition" questions in EEFD, according to my teacher.
 | Exam | 40% |
 
 ## Topics
+
+### Chapter 1: Fundamentals of Electricity
 - <doc:1.1-Current-and-Voltage>
+- <doc:1.2-Resistance>
+- <doc:1.3-Ohms-Law-Power-and-Energy>
