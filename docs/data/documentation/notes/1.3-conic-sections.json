@@ -1,0 +1,1180 @@
+{
+  "abstract" : [
+    {
+      "text" : "Circles, ellipses, parabolas, and hyperbolas are all conic sections.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Conic Sections"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ellipses, parabolas, and hyperbolas are all defined as the intersection of a plane with a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "double-napped cone. Circles are considered a special case of ellipses, where the foci (plural for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "focus, aka centers) are equal. Rectangular hyperbolas are a special case of degenerate hyperbolas,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "where the focus is at the origin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Ellipses",
+          "level" : 2,
+          "text" : "Ellipses",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Ellipse",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is the standard form of an ellipse. The major difference from ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " are that ellipses have two radii:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "a",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", the horizontal radius, is the distance from the center to the rightmost point of the ellipse",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "b",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", the vertical radius, is the distance from the center to the topmost point of the ellipse",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ellipses are always symmetrical about the x-axis and y-axis, taking its center as the origin. This means that there are no “diagonal” ellipses with this form.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Standard-Form",
+          "level" : 3,
+          "text" : "Standard Form",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The standard form of an ellipse is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "a",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the horizontal radius",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "b",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the vertical radius",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note how, if ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is equal to ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the ellipse is a circle with radius ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " (or ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ").",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{x^2}{a^2} + \\frac{y^2}{a^2} = 1",
+            "",
+            "\\frac{x^2 + y^2}{a^2} = 1",
+            "",
+            "x^2 + y^2 = a^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The standard form of an ellipse with its center, ",
+              "type" : "text"
+            },
+            {
+              "code" : "(α, β)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{(x - \\alpha)^2}{a^2} + \\frac{(y - \\beta)^2}{b^2} = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Deriving-the-Standard-Form",
+          "level" : 4,
+          "text" : "Deriving the Standard Form",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Consider two points, A and B, with cartesian coordinates ",
+              "type" : "text"
+            },
+            {
+              "code" : "(c, 0)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "(-c, 0)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", respectively. The",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "distance from A to B is ",
+              "type" : "text"
+            },
+            {
+              "code" : "2c",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". A curve has a property such that for any point ",
+              "type" : "text"
+            },
+            {
+              "code" : "P",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " on the curve, the sum",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of the distances from ",
+              "type" : "text"
+            },
+            {
+              "code" : "P",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to A and B is a constant ",
+              "type" : "text"
+            },
+            {
+              "code" : "2a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Ellipse Derivation",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To derive the standard form of an ellipse, we first use the distance formula to mathematically express",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the sum-of-distances property:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\overline{PB}^2 = R_1^2 = y^2 + (x + c)^2",
+            "\\overline{PA}^2 = R_2^2 = y^2 + (x - c)^2",
+            "R_1 + R_2 = 2a \\quad \\textrm{(1)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where we define PB and PA as ",
+              "type" : "text"
+            },
+            {
+              "code" : "R_1",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "R_2",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", just to refer to them in a simple way. That is simply the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "pythagoras theorem. We then manipulate the equations to obtain the difference of squares of ",
+              "type" : "text"
+            },
+            {
+              "code" : "R_1",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "R_2",
+              "type" : "codeVoice"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R_1^2 - R_2^2 = [(x+c)^2 + y^2] - [(x-c)^2 + y^2]",
+            "= (x+c)^2 - (x-c)^2",
+            "= (x^2 + 2xc + c^2) - (x^2 - 2xc + c^2)",
+            "= 4cx \\quad \\textrm{(2)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Using the difference of squares formula, we can express this as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R_1^2 - R_2^2 = 4cx = (R_1 + R_2)(R_1 - R_2)",
+            "= (2a)(R_1 - R_2)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can hence calculate R_1 - R_2:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R_1 - R_2 = \\frac{R_1^2 - R_2^2}{2a} = \\frac{4cx}{2a} = \\frac{2cx}{a} \\quad \\textrm{(3)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Then sum the two equations (1) and (3) to obtain a value for ",
+              "type" : "text"
+            },
+            {
+              "code" : "R_1",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ":",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(R_1 + R_2) + (R_1 - R_2) = 2a + \\frac{2cx}{a}",
+            "2R_1 = 2a + \\frac{2cx}{a}",
+            "R_1 = a + \\frac{cx}{a}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can use the value of R_1 to obtain an equation",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R_1 = a + \\frac{cx}{a}",
+            "\\sqrt{y^2 + (x+c)^2} = a + \\frac{cx}{a}",
+            "\\text{Squaring both sides,}",
+            "y^2 + (x+c)^2 = (a + \\frac{cx}{a})^2",
+            "y^2 + x^2 + c^2 + 2cx = a^2 + \\frac{c^2x^2}{a^2} + 2cx",
+            "y^2 + x^2 + c^2 = a^2 + \\frac{c^2x^2}{a^2}",
+            "x^2(1-\\frac{c^2}{a^2}) + y^2 = a^2 - c^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "And finally simplify to obtain the standard form:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "x^2(1-\\frac{c^2}{a^2}) + y^2 = a^2 - c^2",
+            "",
+            "x^2(\\frac{a^2 - c^2}{a^2}) + y^2 = a^2 - c^2",
+            "",
+            "\\frac{x^2}{a^2} + \\frac{y^2}{a^2 - c^2} = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If we define ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to be equal to ",
+              "type" : "text"
+            },
+            {
+              "code" : "a^2 - c^2",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", we can express the standard form as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the horizontal radius, and ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the vertical radius.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Axes",
+          "level" : 3,
+          "text" : "Axes",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is greater than ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the ellipse is wider than it is tall, and the x-axis is the major axis. If",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is greater than ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the ellipse is taller than it is wide, and the y-axis is the major axis. In",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "both cases, the other axis is the minor axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Condition",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Major Axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Minor Axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "a > b",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "x-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "y-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "b > a",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "y-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "x-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "a = b",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "neither (circle)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "neither (circle)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Ignore the directrix - we will cover that later.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Vertices",
+          "level" : 3,
+          "text" : "Vertices",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A circle has ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "four",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " vertices, defined as the topmost, bottommost, leftmost, and rightmost points of the ellipse. The vertices are at the following coordinates:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Topmost: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "(0, b)",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Bottommost: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "(0, -b)",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Leftmost: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "(-a, 0)",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Rightmost: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "(a, 0)",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Foci",
+          "level" : 3,
+          "text" : "Foci",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Foci are the “centers” of an ellipse. They are defined as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\text{foci} = \\begin{cases} (0, \\pm ae) & \\text{if } a > b \\\\ (\\pm be, 0) & \\text{if } b > a \\end{cases}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "e",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the eccentricity of the ellipse (see next section)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Foci have the following properties:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The sum of the distances from any point on the ellipse to the two foci is constant.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Light rays emitted from one focus will reflect off the ellipse and converge at the other focus.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Eccentricity",
+          "level" : 3,
+          "text" : "Eccentricity",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Eccentricity is a measure of how “stretched” an ellipse is. It is defined as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "e^2 = \\begin{cases} \\frac{b^2}{a^2} & \\text{if } b < a \\\\ \\frac{a^2}{b^2} & \\text{if } a < b \\end{cases}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Basically, its the square root of the ratio of the squares of the radii, where the smaller radius is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the numerator.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Plane-Analytic-Geometry",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles"
+      ],
+      "title" : "Chapter 1: Plane Analytic Geometry"
+    }
+  ]
+, 
+"references": {
+"Graph_Ellipse": {
+  "alt" : "Ellipse",
+  "identifier" : "Graph_Ellipse",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Ellipse.png"
+    }
+  ]
+},
+"Graph_Ellipse Derivation": {
+  "alt" : "Ellipse Derivation",
+  "identifier" : "Graph_Ellipse Derivation",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Ellipse%20Derivation.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-The-Straight-Line": {
+  "abstract" : [
+    {
+      "text" : "Straight lines, aka linear functions or linear graphs",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Straight Line",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-the-straight-line"
+},
+"doc://Notes/documentation/Notes/1.2-Circles": {
+  "abstract" : [
+    {
+      "text" : "Basic coordinate geometry of a circle",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Circles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-circles"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

@@ -357,6 +357,22 @@
             {
               "inlineContent" : [
                 {
+                  "text" : "HBL: Home-Based Learning",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
                   "text" : "OAL: Online Asynchronous Learning",
                   "type" : "text"
                 }
@@ -383,6 +399,32 @@
           "name" : "Definition",
           "style" : "note",
           "type" : "aside"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "OAL lessons should be done on the HBL day BEFORE the week’s IPL lesson. The HBL lesson may be in the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "prior week.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Tutorial assignments are generally not handed in nor graded - however, you should still do them.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "PoliteMall",

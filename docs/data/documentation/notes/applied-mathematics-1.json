@@ -39,6 +39,182 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Additional content is available in ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "APM1 will cover up to Chapter 4 of this book - it is FURTHER LEARNING.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Chapter 4-6 is covered after the term break.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Marks-Allotment",
+          "level" : 2,
+          "text" : "Marks Allotment",
+          "type" : "heading"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Component",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Weight",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Classwork",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "20%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Written Test",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "15%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Common Test",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "25%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Exam",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "40%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "“Classwork” includes Online Quiz 1 and 2, Written Quiz, and attendance.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -70,7 +246,9 @@
     {
       "anchor" : "Chapter-1-Plane-Analytic-Geometry",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line"
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections"
       ],
       "title" : "Chapter 1: Plane Analytic Geometry"
     }
@@ -104,6 +282,34 @@
   "title" : "The Straight Line",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.1-the-straight-line"
+},
+"doc://Notes/documentation/Notes/1.2-Circles": {
+  "abstract" : [
+    {
+      "text" : "Basic coordinate geometry of a circle",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Circles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-circles"
+},
+"doc://Notes/documentation/Notes/1.3-Conic-Sections": {
+  "abstract" : [
+    {
+      "text" : "Circles, ellipses, parabolas, and hyperbolas are all conic sections.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Conic Sections",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-conic-sections"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
@@ -188,6 +394,18 @@
   "title" : "Programming",
   "type" : "topic",
   "url" : "\/documentation\/notes\/programming"
+},
+"https://nplms.polite.edu.sg/content/enforced/663095-25S1-93APM1_012724/Calculus_Volume%201%20-%20WEB.pdf": {
+  "identifier" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf",
+  "title" : "this OpenStax Calculus 1 book",
+  "titleInlineContent" : [
+    {
+      "text" : "this OpenStax Calculus 1 book",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf"
 }
 }
 }

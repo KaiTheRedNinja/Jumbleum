@@ -26,6 +26,16 @@
                     "path" : "\/documentation\/notes\/1.1-the-straight-line",
                     "title" : "The Straight Line",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.2-circles",
+                    "title" : "Circles",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.3-conic-sections",
+                    "title" : "Conic Sections",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/applied-mathematics-1",
