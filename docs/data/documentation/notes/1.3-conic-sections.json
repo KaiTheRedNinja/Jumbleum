@@ -1031,7 +1031,7 @@
         },
         {
           "code" : [
-            "e^2 = \\begin{cases} \\frac{b^2}{a^2} & \\text{if } b < a \\\\ \\frac{a^2}{b^2} & \\text{if } a < b \\end{cases}"
+            "e^2 = 1 - \\begin{cases} \\frac{b^2}{a^2} & \\text{if } b < a \\\\ \\frac{a^2}{b^2} & \\text{if } a < b \\end{cases}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
