@@ -19,10 +19,10 @@ The resistance of a material can be calculated using the formula:
 R = \rho \frac{l}{A}
 ```
 where:
-- `R` is the resistance
-- `ρ` is the resistivity of the material, measured in ohm-metres (Ωm)
-- `l` is the length of the material
-- `A` is the cross-sectional area of the material
+- `$R$` is the resistance
+- `$ρ$` is the resistivity of the material, measured in ohm-metres (Ωm)
+- `$l$` is the length of the material
+- `$A$` is the cross-sectional area of the material
 
 This formula results in some interesting properties, namely:
 - Doubling the length of a material doubles the resistance

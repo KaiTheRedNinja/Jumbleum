@@ -532,7 +532,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "D",
+                      "code" : "$D$",
                       "type" : "codeVoice"
                     },
                     {
@@ -566,7 +566,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "T",
+                      "code" : "$T$",
                       "type" : "codeVoice"
                     },
                     {

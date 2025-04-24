@@ -893,7 +893,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "N",
+                      "code" : "$N$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1001,7 +1001,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "λ",
+                      "code" : "$λ$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1018,7 +1018,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "t",
+                      "code" : "$t$",
                       "type" : "codeVoice"
                     },
                     {

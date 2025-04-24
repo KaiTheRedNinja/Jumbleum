@@ -35,26 +35,26 @@ There are some other formulas which are of particular use when calculating power
 V = W/Q
 ```
 where
-- `V` is the voltage in volts (V)
-- `W` is the energy in joules (J)
-- `Q` is the charge in coulombs (C)
+- `$V$` is the voltage in volts (V)
+- `$W$` is the energy in joules (J)
+- `$Q$` is the charge in coulombs (C)
 
 ```math
 \textrm{Work done is the product of work done, current, and time}
 W = V \times I \times t
 ```
 where
-- `W` is the energy in joules (J)
-- `V` is the voltage in volts (V)
-- `I` is the current in amperes (A)
-- `t` is the time in seconds (s)
+- `$W$` is the energy in joules (J)
+- `$V$` is the voltage in volts (V)
+- `$I$` is the current in amperes (A)
+- `$t$` is the time in seconds (s)
 
 ```math
 \textrm{The work done by the electric current is the electrical energy delivered}
 E = W
 ```
 where
-- `E` is the electrical energy in joules (J)
+- `$E$` is the electrical energy in joules (J)
 
 ## Calculating Electrical Cost
 

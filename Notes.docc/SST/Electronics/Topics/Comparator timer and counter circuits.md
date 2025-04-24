@@ -81,7 +81,7 @@ The timer has two resistors and a capacitor connected to it. The duration of the
 T = 1.1 * R1 * C1
 ```
 where 
-- `T` is the duration of the pulse, 
+- `$T$` is the duration of the pulse, 
 - `R1` is the resistance of the resistor connected to the timer, and 
 - `C1` is the capacitance of the capacitor connected to the timer. This formula is given in the test paper.
 
@@ -111,7 +111,7 @@ T_{on} = 0.693 * R_2 * C_1
 T_{off} = 0.693 * (R_1 + R_2) * C_1
 ```
 Where 
-- `T` is the period of the pulse, 
+- `$T$` is the period of the pulse, 
 - `T_on` is the duration of the high state, 
 - `T_off` is the duration of the low state, 
 - `R1` is the resistance of the resistor connected to the timer, and 

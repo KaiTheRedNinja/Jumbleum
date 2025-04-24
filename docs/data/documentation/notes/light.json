@@ -925,7 +925,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "n",
+                      "code" : "$n$",
                       "type" : "codeVoice"
                     },
                     {
@@ -942,7 +942,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "c",
+                      "code" : "$c$",
                       "type" : "codeVoice"
                     },
                     {
@@ -959,7 +959,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "v",
+                      "code" : "$v$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1188,7 +1188,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "i",
+                      "code" : "$i$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1205,7 +1205,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "r",
+                      "code" : "$r$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1491,7 +1491,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "n",
+                      "code" : "$n$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1508,7 +1508,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "c",
+                      "code" : "$c$",
                       "type" : "codeVoice"
                     },
                     {

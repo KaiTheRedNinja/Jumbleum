@@ -31,12 +31,12 @@ y = a(x-r_1)(x-r_2)
 ```
 
 Where
-- `a` is the coefficient of the x^2 term, which defines steepness and direction. If it is negative, its n shaped, 
+- `$a$` is the coefficient of the x^2 term, which defines steepness and direction. If it is negative, its n shaped, 
 else u shaped.
-- `b` is the coefficient of the x term, which defines which way the slope tends towards. A negative value makes it move to the right, and a positive value makes it move to the left.
-- `c` is the constant term. It defines the y-intercept.
-- `h` is the x-coordinate of the vertex. It defines the horizontal shift, aka line of symmetry.
-- `k` is the y-coordinate of the vertex. It defines the vertical shift, aka the minimum or maximum value of the function.
+- `$b$` is the coefficient of the x term, which defines which way the slope tends towards. A negative value makes it move to the right, and a positive value makes it move to the left.
+- `$c$` is the constant term. It defines the y-intercept.
+- `$h$` is the x-coordinate of the vertex. It defines the horizontal shift, aka line of symmetry.
+- `$k$` is the y-coordinate of the vertex. It defines the vertical shift, aka the minimum or maximum value of the function.
 - `r_1` and `r_2` are the roots of the equation, aka the x-intercepts.
 
 ## Completing the square
@@ -78,8 +78,8 @@ refers to the min/max point of the curve. The vertex form is:
 y = a(x-h)^2 + k
 ```
 where
-- `h` is the x-coordinate of the vertex, also known as the line of symmetry
-- `k` is the y-coordinate of the vertex, also known as the maximum or minimum value of the function
+- `$h$` is the x-coordinate of the vertex, also known as the line of symmetry
+- `$k$` is the y-coordinate of the vertex, also known as the maximum or minimum value of the function
 - (h, k) is the maximum point of the parabola
 
 ## Conditions for always positive or always negative

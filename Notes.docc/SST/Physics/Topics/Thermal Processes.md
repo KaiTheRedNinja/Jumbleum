@@ -46,11 +46,11 @@ Not tested, but heres the formula for conduction, aka Fourier's law
 q = k \cdot A \cdot \frac{\Delta T}{d}
 ```
 Where:
-- `q` is the rate of heat transfer
-- `k` is the thermal conductivity of the material
-- `A` is the cross-sectional area of the material
+- `$q$` is the rate of heat transfer
+- `$k$` is the thermal conductivity of the material
+- `$A$` is the cross-sectional area of the material
 - `ΔT` is the temperature difference between the two ends of the material
-- `d` is the thickness of the material
+- `$d$` is the thickness of the material
 
 ### Conduction as Molecular Vibration
 
@@ -95,9 +95,9 @@ Not tested, but heres the formula for convection, aka Newton's Law of Cooling
 q = h \cdot A \cdot \Delta T
 ```
 Where:
-- `q` is the rate of heat transfer
-- `h` is the heat transfer coefficient
-- `A` is the surface area of the object
+- `$q$` is the rate of heat transfer
+- `$h$` is the heat transfer coefficient
+- `$A$` is the surface area of the object
 - `ΔT` is the temperature difference between the object and the surrounding fluid
 
 ## Radiation

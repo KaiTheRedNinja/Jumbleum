@@ -102,14 +102,14 @@ N = N_0 \times (\frac{1}{2})^{\frac{t}{t_{1/2}}}
 ```
 
 Where:
-- `N` is any of the following:
+- `$N$` is any of the following:
     - The number of radioactive nuclei remaining at time `t`
     - The rate of decay of the radioactive nuclei
 - `N_0` is (corresponding with `N`):
     - The initial number of radioactive nuclei
     - The initial rate of decay of the radioactive nuclei
-- `λ` is the decay constant
-- `t` is the time since N_0 was measured
+- `$λ$` is the decay constant
+- `$t$` is the time since N_0 was measured
 - `t_{1/2}` is the half-life of the isotope
 
 ## Fusion and Fission

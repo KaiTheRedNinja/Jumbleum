@@ -31,9 +31,9 @@ Its either perspective based, or role based. For example:
     because the government should be responsible"
 
 Write FOUR paragraphs, in an `ABDAD` or `DBADA` format where 
-- `A` is agree 
-- `D` is disagree.
-- `B` is the bonus task
+- `$A$` is agree 
+- `$D$` is disagree.
+- `$B$` is the bonus task
 
 This means that even if you don't have time to finish the last few paragraphs, you can still get a pass for the question.
 

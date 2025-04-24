@@ -233,7 +233,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "V",
+                      "code" : "$V$",
                       "type" : "codeVoice"
                     },
                     {
@@ -250,7 +250,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "W",
+                      "code" : "$W$",
                       "type" : "codeVoice"
                     },
                     {
@@ -267,7 +267,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "Q",
+                      "code" : "$Q$",
                       "type" : "codeVoice"
                     },
                     {
@@ -306,7 +306,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "W",
+                      "code" : "$W$",
                       "type" : "codeVoice"
                     },
                     {
@@ -323,7 +323,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "V",
+                      "code" : "$V$",
                       "type" : "codeVoice"
                     },
                     {
@@ -340,7 +340,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "I",
+                      "code" : "$I$",
                       "type" : "codeVoice"
                     },
                     {
@@ -357,7 +357,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "t",
+                      "code" : "$t$",
                       "type" : "codeVoice"
                     },
                     {
@@ -396,7 +396,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "E",
+                      "code" : "$E$",
                       "type" : "codeVoice"
                     },
                     {

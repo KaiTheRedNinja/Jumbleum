@@ -106,7 +106,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "a",
+                      "code" : "$a$",
                       "type" : "codeVoice"
                     },
                     {
@@ -123,7 +123,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "b",
+                      "code" : "$b$",
                       "type" : "codeVoice"
                     },
                     {
@@ -185,7 +185,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "a",
+                      "code" : "$a$",
                       "type" : "codeVoice"
                     },
                     {
@@ -202,7 +202,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "b",
+                      "code" : "$b$",
                       "type" : "codeVoice"
                     },
                     {
@@ -224,7 +224,7 @@
               "type" : "text"
             },
             {
-              "code" : "a",
+              "code" : "$a$",
               "type" : "codeVoice"
             },
             {
@@ -232,7 +232,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -240,7 +240,7 @@
               "type" : "text"
             },
             {
-              "code" : "a",
+              "code" : "$a$",
               "type" : "codeVoice"
             },
             {
@@ -248,7 +248,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -276,7 +276,7 @@
               "type" : "text"
             },
             {
-              "code" : "(α, β)",
+              "code" : "$(\\alpha, \\beta)$",
               "type" : "codeVoice"
             },
             {
@@ -306,7 +306,7 @@
               "type" : "text"
             },
             {
-              "code" : "(c, 0)",
+              "code" : "$(c, 0)$",
               "type" : "codeVoice"
             },
             {
@@ -314,7 +314,7 @@
               "type" : "text"
             },
             {
-              "code" : "(-c, 0)",
+              "code" : "$(-c, 0)$",
               "type" : "codeVoice"
             },
             {
@@ -330,7 +330,7 @@
               "type" : "text"
             },
             {
-              "code" : "2c",
+              "code" : "$2c$",
               "type" : "codeVoice"
             },
             {
@@ -338,7 +338,7 @@
               "type" : "text"
             },
             {
-              "code" : "P",
+              "code" : "$P$",
               "type" : "codeVoice"
             },
             {
@@ -354,7 +354,7 @@
               "type" : "text"
             },
             {
-              "code" : "P",
+              "code" : "$P$",
               "type" : "codeVoice"
             },
             {
@@ -362,7 +362,7 @@
               "type" : "text"
             },
             {
-              "code" : "2a",
+              "code" : "$2a$",
               "type" : "codeVoice"
             },
             {
@@ -400,8 +400,8 @@
         },
         {
           "code" : [
-            "\\overline{PB}^2 = R_1^2 = y^2 + (x + c)^2",
-            "\\overline{PA}^2 = R_2^2 = y^2 + (x - c)^2",
+            "|PB|^2 = R_1^2 = y^2 + (x + c)^2",
+            "|PA|^2 = R_2^2 = y^2 + (x - c)^2",
             "R_1 + R_2 = 2a \\quad \\textrm{(1)}"
           ],
           "syntax" : "math",
@@ -414,7 +414,7 @@
               "type" : "text"
             },
             {
-              "code" : "R_1",
+              "code" : "$R_1$",
               "type" : "codeVoice"
             },
             {
@@ -422,7 +422,7 @@
               "type" : "text"
             },
             {
-              "code" : "R_2",
+              "code" : "$R_2$",
               "type" : "codeVoice"
             },
             {
@@ -438,7 +438,7 @@
               "type" : "text"
             },
             {
-              "code" : "R_1",
+              "code" : "$R_1$",
               "type" : "codeVoice"
             },
             {
@@ -446,7 +446,7 @@
               "type" : "text"
             },
             {
-              "code" : "R_2",
+              "code" : "$R_2$",
               "type" : "codeVoice"
             }
           ],
@@ -482,7 +482,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "We can hence calculate R_1 - R_2:",
+              "text" : "We can hence calculate ",
+              "type" : "text"
+            },
+            {
+              "code" : "$R_1 - R_2$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ":",
               "type" : "text"
             }
           ],
@@ -498,11 +506,27 @@
         {
           "inlineContent" : [
             {
-              "text" : "Then sum the two equations (1) and (3) to obtain a value for ",
+              "text" : "Then sum the two equations ",
               "type" : "text"
             },
             {
-              "code" : "R_1",
+              "code" : "(1)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "(3)",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to obtain a value for ",
+              "type" : "text"
+            },
+            {
+              "code" : "$R_1$",
               "type" : "codeVoice"
             },
             {
@@ -524,7 +548,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "We can use the value of R_1 to obtain an equation",
+              "text" : "We can use the value of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$R_1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to obtain an equation",
               "type" : "text"
             }
           ],
@@ -570,7 +602,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -578,7 +610,7 @@
               "type" : "text"
             },
             {
-              "code" : "a^2 - c^2",
+              "code" : "$a^2 - c^2$",
               "type" : "codeVoice"
             },
             {
@@ -602,7 +634,7 @@
               "type" : "text"
             },
             {
-              "code" : "a",
+              "code" : "$a$",
               "type" : "codeVoice"
             },
             {
@@ -610,7 +642,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -633,7 +665,7 @@
               "type" : "text"
             },
             {
-              "code" : "a",
+              "code" : "$a$",
               "type" : "codeVoice"
             },
             {
@@ -641,7 +673,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -653,7 +685,7 @@
               "type" : "text"
             },
             {
-              "code" : "b",
+              "code" : "$b$",
               "type" : "codeVoice"
             },
             {
@@ -661,7 +693,7 @@
               "type" : "text"
             },
             {
-              "code" : "a",
+              "code" : "$a$",
               "type" : "codeVoice"
             },
             {
@@ -722,7 +754,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "a > b",
+                      "code" : "$a > b$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -757,7 +789,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "b > a",
+                      "code" : "$b > a$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -792,7 +824,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "a = b",
+                      "code" : "$a = b$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -873,7 +905,7 @@
                       "type" : "text"
                     },
                     {
-                      "code" : "(0, b)",
+                      "code" : "$(0, b)$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -890,7 +922,7 @@
                       "type" : "text"
                     },
                     {
-                      "code" : "(0, -b)",
+                      "code" : "$(0, -b)$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -907,7 +939,7 @@
                       "type" : "text"
                     },
                     {
-                      "code" : "(-a, 0)",
+                      "code" : "$(-a, 0)$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -924,7 +956,7 @@
                       "type" : "text"
                     },
                     {
-                      "code" : "(a, 0)",
+                      "code" : "$(a, 0)$",
                       "type" : "codeVoice"
                     }
                   ],
@@ -964,7 +996,7 @@
               "type" : "text"
             },
             {
-              "code" : "e",
+              "code" : "$e$",
               "type" : "codeVoice"
             },
             {

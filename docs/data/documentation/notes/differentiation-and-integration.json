@@ -1125,7 +1125,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "a",
+                      "code" : "$a$",
                       "type" : "codeVoice"
                     },
                     {

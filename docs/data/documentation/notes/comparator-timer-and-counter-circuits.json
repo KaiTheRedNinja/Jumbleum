@@ -863,7 +863,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "T",
+                      "code" : "$T$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1086,7 +1086,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "T",
+                      "code" : "$T$",
                       "type" : "codeVoice"
                     },
                     {

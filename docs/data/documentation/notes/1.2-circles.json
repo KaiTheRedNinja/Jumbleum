@@ -146,7 +146,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "r",
+                      "code" : "$r$",
                       "type" : "codeVoice"
                     },
                     {
@@ -271,7 +271,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "r",
+                      "code" : "$r$",
                       "type" : "codeVoice"
                     },
                     {
@@ -288,7 +288,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "p",
+                      "code" : "$p$",
                       "type" : "codeVoice"
                     },
                     {
@@ -309,7 +309,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "q",
+                      "code" : "$q$",
                       "type" : "codeVoice"
                     },
                     {
@@ -330,7 +330,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "c",
+                      "code" : "$c$",
                       "type" : "codeVoice"
                     },
                     {
@@ -351,7 +351,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "r",
+                      "code" : "$r$",
                       "type" : "codeVoice"
                     },
                     {
@@ -760,7 +760,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "R",
+                      "code" : "$R$",
                       "type" : "codeVoice"
                     },
                     {
@@ -777,7 +777,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "r",
+                      "code" : "$r$",
                       "type" : "codeVoice"
                     },
                     {

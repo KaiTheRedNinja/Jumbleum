@@ -85,8 +85,8 @@ KE = \frac{1}{2} m v^2
 ```
 where
 - `KE` is the kinetic energy in Joules (J)
-- `m` is the mass of the object in kilograms (kg)
-- `v` is the velocity of the object in meters per second (m/s)
+- `$m$` is the mass of the object in kilograms (kg)
+- `$v$` is the velocity of the object in meters per second (m/s)
 
 Note that because v is squared, velocity has a much larger effect on kinetic energy than mass.
 This also means that to double the velocity, you need four times the energy.
@@ -101,9 +101,9 @@ GPE = m g h
 ```
 where
 - `GPE` is the gravitational potential energy in Joules (J)
-- `m` is the mass of the object in kilograms (kg)
-- `g` is the acceleration due to gravity in meters per second squared (m/s²)
-- `h` is the height of the object above the ground in meters (m)
+- `$m$` is the mass of the object in kilograms (kg)
+- `$g$` is the acceleration due to gravity in meters per second squared (m/s²)
+- `$h$` is the height of the object above the ground in meters (m)
 
 The reason why the object must be close to the Earth's surface is because the acceleration due to
 gravity is not constant throughout the Earth, especially at high altitudes like at the ISS.
@@ -122,8 +122,8 @@ WD = F d
 ```
 where
 - `WD` is the work done in Joules (J)
-- `F` is the force applied in Newtons (N)
-- `d` is the distance moved in meters (m)
+- `$F$` is the force applied in Newtons (N)
+- `$d$` is the distance moved in meters (m)
 
 A common example of WD in questions is friction, such as if the question requires you to calculate
 the final velocity of a block given the initial velocity, distance, and frictional force.
@@ -146,10 +146,10 @@ Power can be calculated by:
 P = \frac{E}{t} = \frac{WD}{t}
 ```
 where
-- `P` is the power in Watts (W)
-- `E` is the energy transferred in Joules (J)
+- `$P$` is the power in Watts (W)
+- `$E$` is the energy transferred in Joules (J)
 - `WD` is the work done in Joules (J)
-- `t` is the time taken in seconds (s)
+- `$t$` is the time taken in seconds (s)
 
 ### Efficiency
 

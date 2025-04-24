@@ -30,8 +30,8 @@ y - y_1 = m(x - x_1)
 ```
 
 Where:
-- `m` is the slope of the line
-- `c` is the y-intercept of the line
+- `$m$` is the slope of the line
+- `$c$` is the y-intercept of the line
 - `(x_1, y_1)` is a point on the line
 
 ### Parallel and Perpendicular Lines
@@ -147,11 +147,11 @@ x^2 + y^2 + 2px + 2qy + c = 0
 
 Where:
 - `(a, b)` is the center of the circle
-- `r` is the radius of the circle
-- `p` = `-a`
-- `q` = `-b`
-- `c` = `a^2 + b^2 - r^2`
-- `r` = `sqrt(p^2 + q^2 - c)`
+- `$r$` is the radius of the circle
+- `$p$` = `-a`
+- `$q$` = `-b`
+- `$c$` = `a^2 + b^2 - r^2`
+- `$r$` = `sqrt(p^2 + q^2 - c)`
 
 There are certain properties about the circle that you can determine quite easily.
 

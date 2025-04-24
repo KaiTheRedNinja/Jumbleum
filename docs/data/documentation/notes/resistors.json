@@ -134,7 +134,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "R",
+                      "code" : "$R$",
                       "type" : "codeVoice"
                     },
                     {
@@ -151,7 +151,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "ρ",
+                      "code" : "$ρ$",
                       "type" : "codeVoice"
                     },
                     {
@@ -168,7 +168,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "l",
+                      "code" : "$l$",
                       "type" : "codeVoice"
                     },
                     {
@@ -185,7 +185,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "A",
+                      "code" : "$A$",
                       "type" : "codeVoice"
                     },
                     {

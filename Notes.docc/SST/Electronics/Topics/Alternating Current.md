@@ -65,9 +65,9 @@ D = \frac{t_{on}}{T} * 100\%
 ```
 
 Where:
-- `D` is the duty cycle
+- `$D$` is the duty cycle
 - `t_on` is the time the signal is high
-- `T` is the total time period
+- `$T$` is the total time period
 
 The effective voltage of a rectangular wave is the average voltage of the signal. This is calculated by multiplying the duty
 cycle by the amplitude.

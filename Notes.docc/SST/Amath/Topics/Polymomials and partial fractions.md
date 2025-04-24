@@ -25,7 +25,7 @@ P(x) = a_nx^n + a_{n-1}x^{n-1} + ... + a_1x + a_0
 
 Where:
 - `a_n`, `a_n-1`, etc, are the coefficients of the x^n, x^{n-1}, etc terms
-- `n` is the degree of the polynomial
+- `$n$` is the degree of the polynomial
 - `a_0` is the constant term, because x^0 = 1
 
 ### Multiplication of Polynomials

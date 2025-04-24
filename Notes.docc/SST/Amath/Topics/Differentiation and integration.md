@@ -192,7 +192,7 @@ where `F(x)` is the antiderivative (integral) of `f(x)`.
 
 Note that:
 - The `+C` goes away, because they cancel out when subtracting.
-- `a` is usually larger than `b`, aka further along the x-axis. Inverting this may result in a negative area.
+- `$a$` is usually larger than `b`, aka further along the x-axis. Inverting this may result in a negative area.
 - This measures area "under" the graph. When the graph is below the x-axis, the area is negative.
 - A definite integral of 0 does not mean the function is 0. It means the area under the curve is 0, which could
 mean the function is symmetrical, such as `y = sin(x)`.

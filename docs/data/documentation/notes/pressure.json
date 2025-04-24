@@ -133,7 +133,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "p",
+                      "code" : "$p$",
                       "type" : "codeVoice"
                     },
                     {
@@ -150,7 +150,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "F",
+                      "code" : "$F$",
                       "type" : "codeVoice"
                     },
                     {
@@ -167,7 +167,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "A",
+                      "code" : "$A$",
                       "type" : "codeVoice"
                     },
                     {
@@ -471,7 +471,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "p",
+                      "code" : "$p$",
                       "type" : "codeVoice"
                     },
                     {
@@ -488,7 +488,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "ρ",
+                      "code" : "$ρ$",
                       "type" : "codeVoice"
                     },
                     {
@@ -505,7 +505,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "g",
+                      "code" : "$g$",
                       "type" : "codeVoice"
                     },
                     {

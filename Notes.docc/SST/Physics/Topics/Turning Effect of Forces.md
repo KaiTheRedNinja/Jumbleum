@@ -30,7 +30,7 @@ perpendicular distance d⟂ from the pivot to the line of action of the force.
 ```
 
 where
-- `F` is the force in newtons (N)
+- `$F$` is the force in newtons (N)
 - `d⟂` is the perpendicular distance in metres (m)
 
 Note that the unit for moments, Nm, can also be used to describe energy and work done. However, it

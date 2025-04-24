@@ -53,9 +53,9 @@ The formula for capacitance is:
 C = \frac{Q}{V}
 ```
 Where:
-- `C` is the capacitance in Farads
-- `Q` is the charge in Coulombs
-- `V` is the voltage in Volts
+- `$C$` is the capacitance in Farads
+- `$Q$` is the charge in Coulombs
+- `$V$` is the voltage in Volts
 
 Note that because C is usually very small, Q is similarly small.
 
@@ -93,9 +93,9 @@ The constant T is the time constant of the capacitor, and is given by:
 T = R * C
 ```
 Where:
-- `T` is the time constant in seconds
-- `R` is the resistance in Ohms
-- `C` is the capacitance in Farads
+- `$T$` is the time constant in seconds
+- `$R$` is the resistance in Ohms
+- `$C$` is the capacitance in Farads
 
 When charging, the capacitor is at 2/3 Vcc at time T, and effectively at Vcc at time 5T.
 

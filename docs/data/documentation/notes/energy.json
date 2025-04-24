@@ -888,7 +888,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "m",
+                      "code" : "$m$",
                       "type" : "codeVoice"
                     },
                     {
@@ -905,7 +905,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "v",
+                      "code" : "$v$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1008,7 +1008,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "m",
+                      "code" : "$m$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1025,7 +1025,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "g",
+                      "code" : "$g$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1042,7 +1042,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "h",
+                      "code" : "$h$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1206,7 +1206,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "F",
+                      "code" : "$F$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1223,7 +1223,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "d",
+                      "code" : "$d$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1387,7 +1387,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "P",
+                      "code" : "$P$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1404,7 +1404,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "E",
+                      "code" : "$E$",
                       "type" : "codeVoice"
                     },
                     {
@@ -1438,7 +1438,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "t",
+                      "code" : "$t$",
                       "type" : "codeVoice"
                     },
                     {

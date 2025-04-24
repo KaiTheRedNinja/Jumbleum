@@ -47,8 +47,8 @@ mathematically defined as:
 Q=C\Delta \theta
 ```
 where
-- `Q` is the energy transferred to the object
-- `C` is the heat capacity
+- `$Q$` is the energy transferred to the object
+- `$C$` is the heat capacity
 - `Δθ` is the change in temperature
 
 Note that heat capacity refers to an OBJECT, not a material. It is a measure of how much energy is
@@ -69,9 +69,9 @@ It is mathematically defined as:
 Q=mc\Delta \theta
 ```
 where
-- `Q` is the energy transferred to the object
-- `m` is the mass of the object
-- `c` is the specific heat capacity
+- `$Q$` is the energy transferred to the object
+- `$m$` is the mass of the object
+- `$c$` is the specific heat capacity
 - `Δθ` is the change in temperature
 
 ## Change of State
@@ -128,9 +128,9 @@ It is represented by the symbol lowercase `l`, and its unit is J/kg. It is mathe
 Q=ml
 ```
 where
-- `Q` is the energy transferred to the object
-- `m` is the mass of the object
-- `l` is the specific latent heat
+- `$Q$` is the energy transferred to the object
+- `$m$` is the mass of the object
+- `$l$` is the specific latent heat
 
 ## Boiling vs Evaporation
 

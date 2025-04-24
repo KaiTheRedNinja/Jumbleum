@@ -133,9 +133,9 @@ n = \frac{c}{v}
 ```
 
 Where:
-- `n` is the refractive index
-- `c` is the speed of light in a vacuum
-- `v` is the speed of light in the medium
+- `$n$` is the refractive index
+- `$c$` is the speed of light in a vacuum
+- `$v$` is the speed of light in the medium
 
 n is always >= 1. Common examples include:
 
@@ -159,8 +159,8 @@ sin{i}n_i = sin{r}n_r
 ```
 
 Where:
-- `i` is the angle of incidence
-- `r` is the angle of refraction
+- `$i$` is the angle of incidence
+- `$r$` is the angle of refraction
 - `v_i` is the speed of light in the first medium
 - `v_r` is the speed of light in the second medium
 - `n_i` is the refractive index of the first medium
@@ -203,8 +203,8 @@ n = 1/sin{c}
 ```
 
 Where:
-- `n` is the refractive index of the optically denser medium, assuming the less dense medium is air or vacuum
-- `c` is the critical angle
+- `$n$` is the refractive index of the optically denser medium, assuming the less dense medium is air or vacuum
+- `$c$` is the critical angle
 
 ### Optical Fibre
 

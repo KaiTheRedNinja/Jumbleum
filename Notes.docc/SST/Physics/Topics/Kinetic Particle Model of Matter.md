@@ -107,11 +107,11 @@ pV = nRT
 ```
 
 where
-- `p` is the pressure of the gas in Pascals (Pa)
-- `V` is the volume of the gas in cubic meters (m³)
-- `T` is the temperature of the gas in Kelvin (K)
-- `n` is the number of moles of the gas
-- `R` is the ideal gas constant, 8.31 J mol⁻¹ K⁻¹
+- `$p$` is the pressure of the gas in Pascals (Pa)
+- `$V$` is the volume of the gas in cubic meters (m³)
+- `$T$` is the temperature of the gas in Kelvin (K)
+- `$n$` is the number of moles of the gas
+- `$R$` is the ideal gas constant, 8.31 J mol⁻¹ K⁻¹
 
 Basically, when no other factors are changed:
 ```math

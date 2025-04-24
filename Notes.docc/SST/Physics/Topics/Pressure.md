@@ -22,9 +22,9 @@ Pressure is a scalar quantity, and is measured in pascals (Pa). It is given by t
 ```
 
 where
-- `p` is the pressure in pascals (Pa)
-- `F` is the force in newtons (N)
-- `A` is the area in square metres (m²)
+- `$p$` is the pressure in pascals (Pa)
+- `$F$` is the force in newtons (N)
+- `$A$` is the area in square metres (m²)
 
 1 Pa = 1 N/m²
 
@@ -84,9 +84,9 @@ p = \rho g h
 ```
 
 where
-- `p` is the pressure in pascals (Pa)
-- `ρ` is the density of the liquid in kg/m³
-- `g` is the acceleration due to gravity in m/s²
+- `$p$` is the pressure in pascals (Pa)
+- `$ρ$` is the density of the liquid in kg/m³
+- `$g$` is the acceleration due to gravity in m/s²
 
 What this means is that pressure exerted at a constant depth and density of liquid is:
 - Independent of the shape of the container (even if it goes sideways or whatever)

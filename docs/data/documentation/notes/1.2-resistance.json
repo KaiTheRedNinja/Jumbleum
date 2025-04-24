@@ -274,7 +274,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "α",
+                      "code" : "$α$",
                       "type" : "codeVoice"
                     },
                     {
@@ -384,7 +384,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "G",
+                      "code" : "$G$",
                       "type" : "codeVoice"
                     },
                     {
@@ -401,7 +401,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "R",
+                      "code" : "$R$",
                       "type" : "codeVoice"
                     },
                     {

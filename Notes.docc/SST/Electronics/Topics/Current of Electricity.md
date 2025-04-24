@@ -35,9 +35,9 @@ Mathematically, charge, time, and current are connected by
 I = \frac{Q}{t}
 ```
 where
-- `I` is the current in amperes (A)
-- `Q` is the charge in coulombs (C)
-- `t` is the time in seconds (s)
+- `$I$` is the current in amperes (A)
+- `$Q$` is the charge in coulombs (C)
+- `$t$` is the time in seconds (s)
 
 Current, measured in Ampere, is an SI base unit.
 
@@ -68,9 +68,9 @@ Mathematically, voltage, energy, and charge are connected by
 V = \frac{W}{Q}
 ```
 where
-- `V` is the voltage in volts (V)
-- `W` is the energy in joules (J)
-- `Q` is the charge in coulombs (C)
+- `$V$` is the voltage in volts (V)
+- `$W$` is the energy in joules (J)
+- `$Q$` is the charge in coulombs (C)
 
 1 volt is equal to 1 joule per coulomb.
 
@@ -99,9 +99,9 @@ Mathematically,
 V = \frac{W}{Q}
 ```
 where
-- `V` is the potential difference in volts (V)
-- `W` is the energy in joules (J)
-- `Q` is the charge in coulombs (C)
+- `$V$` is the potential difference in volts (V)
+- `$W$` is the energy in joules (J)
+- `$Q$` is the charge in coulombs (C)
 
 A voltmeter is used to measure potential difference. It is connected in parallel with the component that you want to measure
 the potential difference across. Voltmeters have a very high resistance so that they do not affect the circuit, and ideally
@@ -120,9 +120,9 @@ Resistance is defined as the ratio of PD across it to the current flowing throug
 R = \frac{V}{I}
 ```
 where
-- `R` is the resistance in ohms (Ω)
-- `V` is the potential difference in volts (V)
-- `I` is the current in amperes (A)
+- `$R$` is the resistance in ohms (Ω)
+- `$V$` is the potential difference in volts (V)
+- `$I$` is the current in amperes (A)
 
 1 ohm is equal to 1 volt per ampere.
 
@@ -161,9 +161,9 @@ the rate of doing work. Mathematically,
 P = \frac{W}{t}
 ```
 where
-- `P` is the power in watts (W)
-- `W` is the energy in joules (J)
-- `t` is the time in seconds (s)
+- `$P$` is the power in watts (W)
+- `$W$` is the energy in joules (J)
+- `$t$` is the time in seconds (s)
 
 For information about energy efficiency, see <doc:Energy#Efficiency> in Physics.
 
@@ -177,10 +177,10 @@ P = I^2 R
 P = \frac{V^2}{R}
 ```
 where
-- `P` is the power in watts (W)
-- `I` is the current in amperes (A)
-- `V` is the voltage in volts (V)
-- `R` is the resistance in ohms (Ω)
+- `$P$` is the power in watts (W)
+- `$I$` is the current in amperes (A)
+- `$V$` is the voltage in volts (V)
+- `$R$` is the resistance in ohms (Ω)
 
 ### Power Rating
 
