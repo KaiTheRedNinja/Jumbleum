@@ -789,6 +789,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Programming",
+        "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
         "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
       ],
       "title" : "Year 1 Semester 1"
@@ -831,6 +832,20 @@
   "title" : "Applied Mathematics 1",
   "type" : "topic",
   "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Career-and-Professional-Preparation": {
+  "abstract" : [
+    {
+      "text" : "Showcase your professional brand and plan for your future career and education paths",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Career and Professional Preparation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/career-and-professional-preparation"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [

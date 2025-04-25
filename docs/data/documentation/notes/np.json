@@ -475,6 +475,39 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "A module that starts with ",
+              "type" : "text"
+            },
+            {
+              "code" : "93",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " are modules that are unique to Engineering Science. A module that starts with ",
+              "type" : "text"
+            },
+            {
+              "code" : "38",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : "",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is a module shared across the School of Engineering.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "PoliteMall",
           "level" : 3,
           "text" : "PoliteMall",
@@ -483,16 +516,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "Usually lesson materials will be made available through MS Teams or ",
+              "text" : "Also known as Brightspace. Usually lesson materials will be made available through MS Teams or [PoliteMall]",
               "type" : "text"
             },
             {
-              "identifier" : "https:\/\/nplms.polite.edu.sg\/d2l\/home",
-              "isActive" : true,
-              "type" : "reference"
+              "text" : " ",
+              "type" : "text"
             },
             {
-              "text" : ". PoliteMall will also be where assignments and quizzes are submitted.",
+              "text" : "(https:\/\/nplms.polite.edu.sg\/d2l\/home). PoliteMall will also be where assignments and quizzes are submitted.",
               "type" : "text"
             }
           ],
@@ -518,6 +550,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Programming",
+        "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
         "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
         "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
       ],
@@ -553,6 +586,20 @@
   "title" : "Applied Mathematics 1",
   "type" : "topic",
   "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Career-and-Professional-Preparation": {
+  "abstract" : [
+    {
+      "text" : "Showcase your professional brand and plan for your future career and education paths",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Career and Professional Preparation",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/career-and-professional-preparation"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
@@ -623,18 +670,6 @@
   "title" : "Programming",
   "type" : "topic",
   "url" : "\/documentation\/notes\/programming"
-},
-"https://nplms.polite.edu.sg/d2l/home": {
-  "identifier" : "https:\/\/nplms.polite.edu.sg\/d2l\/home",
-  "title" : "PoliteMall",
-  "titleInlineContent" : [
-    {
-      "text" : "PoliteMall",
-      "type" : "text"
-    }
-  ],
-  "type" : "link",
-  "url" : "https:\/\/nplms.polite.edu.sg\/d2l\/home"
 }
 }
 }

@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Mathematics, but specifically for engineering.",
+      "text" : "Showcase your professional brand and plan for your future career and education paths",
       "type" : "text"
     }
   ],
@@ -15,12 +15,12 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "collectionGroup",
-    "title" : "Applied Mathematics 1"
+    "title" : "Career and Professional Preparation"
   },
   "primaryContentSections" : [
     {
@@ -34,7 +34,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "4 Credit Units",
+              "text" : "3 Credit Units",
               "type" : "text"
             }
           ],
@@ -43,24 +43,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Additional content is available in ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : ".",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "APM1 will cover up to Chapter 4 of this book - it is FURTHER LEARNING.",
+              "text" : "CPP1 will equip you with tools and resources that can be used to showcase your professional brand and plan for your future career and education paths.",
               "type" : "text"
             }
           ],
@@ -69,11 +52,68 @@
         {
           "inlineContent" : [
             {
-              "text" : "Chapter 4-6 is covered after the term break.",
+              "text" : "You have to submit the following for CPP1:",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "LinkedIn digital portfolio",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Design Your Life (DYL) worksheet",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ESAF safety project and certification",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Service learning project",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         },
         {
           "anchor" : "Marks-Allotment",
@@ -113,55 +153,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Classwork",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "20%",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Written Test",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "15%",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Common Test",
+                      "text" : "Project",
                       "type" : "text"
                     }
                   ],
@@ -185,7 +177,55 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Exam",
+                      "text" : "Classwork",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "15%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Test",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "20%",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assignment",
                       "type" : "text"
                     }
                   ],
@@ -210,7 +250,56 @@
         {
           "inlineContent" : [
             {
-              "text" : "“Classwork” includes Online Quiz 1 and 2, Written Quiz, and attendance.",
+              "text" : "“Project” entails the LinkedIn digital portfolio assignment, RIASEC profiling results and DYL worksheet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "“Classwork” entails the ESAF revision quizzes are taken by students after they complete the respective",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ESAF chapters",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "“Assignment” is the service learning project.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "The-Go-Home-Clause",
+          "level" : 2,
+          "text" : "The Go Home Clause",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "(Note: Not an actual clause. Its actually just a name I made up.) My lecturer allows us to go home (after he",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "covers non-online content) if we finish the classwork before class.",
               "type" : "text"
             }
           ],
@@ -233,10 +322,10 @@
       "anchor" : "Year-1-Semester-1",
       "generated" : true,
       "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
         "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
         "doc:\/\/Notes\/documentation\/Notes\/Programming",
-        "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
         "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
         "doc:\/\/Notes\/documentation\/Notes\/Health-and-Wellness"
       ],
@@ -245,13 +334,13 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Chapter-1-Plane-Analytic-Geometry",
+      "anchor" : "Term-1",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
-        "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections"
+        "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test",
+        "doc:\/\/Notes\/documentation\/Notes\/NP-Values",
+        "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio"
       ],
-      "title" : "Chapter 1: Plane Analytic Geometry"
+      "title" : "Term 1"
     }
   ]
 , 
@@ -270,61 +359,19 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
-"doc://Notes/documentation/Notes/1.1-The-Straight-Line": {
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
     {
-      "text" : "Straight lines, aka linear functions or linear graphs",
+      "text" : "Mathematics, but specifically for engineering.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "The Straight Line",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.1-the-straight-line"
-},
-"doc://Notes/documentation/Notes/1.2-Circles": {
-  "abstract" : [
-    {
-      "text" : "Basic coordinate geometry of a circle",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Circles",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.2-circles"
-},
-"doc://Notes/documentation/Notes/1.3-Conic-Sections": {
-  "abstract" : [
-    {
-      "text" : "Circles, ellipses, parabolas, and hyperbolas are all conic sections.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Conic Sections",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.3-conic-sections"
-},
-"doc://Notes/documentation/Notes/Career-and-Professional-Preparation": {
-  "abstract" : [
-    {
-      "text" : "Showcase your professional brand and plan for your future career and education paths",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Career-and-Professional-Preparation",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
   "kind" : "article",
   "role" : "collectionGroup",
-  "title" : "Career and Professional Preparation",
+  "title" : "Applied Mathematics 1",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/career-and-professional-preparation"
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
@@ -368,6 +415,20 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/health-and-wellness"
 },
+"doc://Notes/documentation/Notes/LinkedIn-Digital-Portfolio": {
+  "abstract" : [
+    {
+      "text" : "Presenting your knowledge, skills, abilities and credentials on LinkedIn",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Linkedin Digital Portfolio",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/linkedin-digital-portfolio"
+},
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
     {
@@ -396,6 +457,20 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
 },
+"doc://Notes/documentation/Notes/NP-Values": {
+  "abstract" : [
+    {
+      "text" : "What NP expects from its students, during their time in NP and after",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP-Values",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "NP Values",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np-values"
+},
 "doc://Notes/documentation/Notes/Programming": {
   "abstract" : [
     {
@@ -410,17 +485,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/programming"
 },
-"https://nplms.polite.edu.sg/content/enforced/663095-25S1-93APM1_012724/Calculus_Volume%201%20-%20WEB.pdf": {
-  "identifier" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf",
-  "title" : "this OpenStax Calculus 1 book",
-  "titleInlineContent" : [
+"doc://Notes/documentation/Notes/RIASEC-Test": {
+  "abstract" : [
     {
-      "text" : "this OpenStax Calculus 1 book",
+      "text" : "A personality test by the Singapore Government’s MySkillsFuture website.",
       "type" : "text"
     }
   ],
-  "type" : "link",
-  "url" : "https:\/\/nplms.polite.edu.sg\/content\/enforced\/663095-25S1-93APM1_012724\/Calculus_Volume%201%20-%20WEB.pdf"
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "RIASEC Test",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/riasec-test"
 }
 }
 }

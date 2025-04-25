@@ -609,6 +609,33 @@
           "type" : "codeListing"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "One funny feature of C is that you can put two string literals side by side, and the compiler will automatically",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "concatenate them:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "printf(",
+            "    \"Hello,\\n\"",
+            "    \"world!\"",
+            "); \/\/ prints \"Hello,[NEWLINE]world!\" and moves to the next line"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
           "anchor" : "Symbolic-Syntax",
           "level" : 3,
           "text" : "Symbolic Syntax",

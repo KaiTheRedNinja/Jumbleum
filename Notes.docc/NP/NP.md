@@ -46,9 +46,13 @@ prior week.
 
 Tutorial assignments are generally not handed in nor graded - however, you should still do them.
 
+A module that starts with `93` are modules that are unique to Engineering Science. A module that starts with `38` 
+is a module shared across the School of Engineering.
+
 ### PoliteMall
 
-Usually lesson materials will be made available through MS Teams or [PoliteMall](https://nplms.polite.edu.sg/d2l/home). PoliteMall will also be where assignments and quizzes are submitted.
+Also known as Brightspace. Usually lesson materials will be made available through MS Teams or [PoliteMall]
+(https://nplms.polite.edu.sg/d2l/home). PoliteMall will also be where assignments and quizzes are submitted.
 
 ## Topics
 
@@ -57,5 +61,6 @@ Usually lesson materials will be made available through MS Teams or [PoliteMall]
 - <doc:Electrical-Engineering-Fundamentals>
 - <doc:Mechanical-Engineering-Fundamentals>
 - <doc:Programming>
+- <doc:Career-and-Professional-Preparation>
 - <doc:Find-Your-Voice>
 - <doc:Health-and-Wellness>

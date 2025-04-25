@@ -119,6 +119,32 @@
               {
                 "children" : [
                   {
+                    "title" : "Term 1",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/riasec-test",
+                    "title" : "RIASEC Test",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/np-values",
+                    "title" : "NP Values",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/linkedin-digital-portfolio",
+                    "title" : "Linkedin Digital Portfolio",
+                    "type" : "article"
+                  }
+                ],
+                "path" : "\/documentation\/notes\/career-and-professional-preparation",
+                "title" : "Career and Professional Preparation",
+                "type" : "symbol"
+              },
+              {
+                "children" : [
+                  {
                     "path" : "\/documentation\/notes\/voice-framework",
                     "title" : "VOICE Framework",
                     "type" : "article"
