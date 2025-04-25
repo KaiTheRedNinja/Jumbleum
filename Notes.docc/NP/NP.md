@@ -31,9 +31,15 @@ graded modules, "Pass" for pass/fail modules).
 
 > Definition: HBL: Home-Based Learning
 
+> Definition: TBL: Team-Based Learning
+
 > Definition: OAL: Online Asynchronous Learning
 
 > Definition: OSL: Online Synchronous Learning (conducted online and live)
+
+> Definition: iRAT: Individual Readiness Assurance Test
+
+> Definition: tRAT: Team Readiness Assuruance Test
 
 OAL lessons should be done on the HBL day BEFORE the week's IPL lesson. The HBL lesson may be in the 
 prior week.

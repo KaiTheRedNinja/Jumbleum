@@ -373,6 +373,22 @@
             {
               "inlineContent" : [
                 {
+                  "text" : "TBL: Team-Based Learning",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
                   "text" : "OAL: Online Asynchronous Learning",
                   "type" : "text"
                 }
@@ -390,6 +406,38 @@
               "inlineContent" : [
                 {
                   "text" : "OSL: Online Synchronous Learning (conducted online and live)",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "iRAT: Individual Readiness Assurance Test",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "tRAT: Team Readiness Assuruance Test",
                   "type" : "text"
                 }
               ],

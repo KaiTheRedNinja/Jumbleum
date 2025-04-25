@@ -225,7 +225,7 @@
               "type" : "text"
             },
             {
-              "text" : "library,",
+              "text" : "library (STanDard Input Output -> stdio),",
               "type" : "text"
             }
           ],
@@ -261,6 +261,72 @@
           ],
           "syntax" : "c",
           "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Eventually we’ll get to the difference between ",
+              "type" : "text"
+            },
+            {
+              "code" : ".h",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " (header files) and ",
+              "type" : "text"
+            },
+            {
+              "code" : ".c",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " (source files).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For header files defined by the system, such as ",
+              "type" : "text"
+            },
+            {
+              "code" : "stdio.h",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", use angle brackets ",
+              "type" : "text"
+            },
+            {
+              "code" : "<>",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". For local files, we",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "use double quotes ",
+              "type" : "text"
+            },
+            {
+              "code" : "\"\"",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Functions-and-Main",
