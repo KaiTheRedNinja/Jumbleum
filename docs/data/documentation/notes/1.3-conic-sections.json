@@ -653,6 +653,238 @@
           "type" : "paragraph"
         },
         {
+          "anchor" : "Obtaining-a-Circle-from-Three-Points",
+          "level" : 4,
+          "text" : "Obtaining a Circle from Three Points",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.desmos.com\/calculator\/v9r0dzgj0c",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", which demonstrates how to obtain a circle",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "from three points. The steps are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define three points, ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_2$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_3$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define two lines, ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$L_1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " connecting ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_2$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$L_2$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " connecting ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_2$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$P_3$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Define the perpendicular bisector of ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$L_1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$L_2$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B_1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B_2$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Obtain the intersect ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$(x_c,y_c)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " of the two lines, which is the center of the circle",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Obtain the distance ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$R$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " from the center to one of the points, which is the radius of the circle.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Put the center and radius into the standard form of a circle",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I’m not bothered to write them out here in latex.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Axes",
           "level" : 3,
           "text" : "Axes",
@@ -1207,6 +1439,18 @@
   "title" : "NP",
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
+},
+"https://www.desmos.com/calculator/v9r0dzgj0c": {
+  "identifier" : "https:\/\/www.desmos.com\/calculator\/v9r0dzgj0c",
+  "title" : "this graph",
+  "titleInlineContent" : [
+    {
+      "text" : "this graph",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.desmos.com\/calculator\/v9r0dzgj0c"
 }
 }
 }
