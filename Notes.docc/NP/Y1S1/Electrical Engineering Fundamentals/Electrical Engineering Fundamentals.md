@@ -30,6 +30,8 @@ There are no "definition" questions in EEFD, according to my teacher.
 | Lab Test | 15% |
 | Exam | 40% |
 
+I think OAL includes online tutorials.
+
 ## Topics
 
 ### Chapter 1: Fundamentals of Electricity

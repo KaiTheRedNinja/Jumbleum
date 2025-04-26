@@ -327,6 +327,15 @@
             ]
           ],
           "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "I think OAL includes online tutorials.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"

@@ -1050,6 +1050,15 @@
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/2.1-right-angled-triangles",
+            "title" : "Right Angled Triangles",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",
