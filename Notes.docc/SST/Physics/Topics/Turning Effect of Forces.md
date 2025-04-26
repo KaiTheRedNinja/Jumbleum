@@ -31,7 +31,7 @@ perpendicular distance d⟂ from the pivot to the line of action of the force.
 
 where
 - `$F$` is the force in newtons (N)
-- `d⟂` is the perpendicular distance in metres (m)
+- `$d\perp$` is the perpendicular distance in metres (m)
 
 Note that the unit for moments, Nm, can also be used to describe energy and work done. However, it
 is used in a different context here. In moments, the `m` component is the distance from the pivot
@@ -42,6 +42,10 @@ moved by the force.
 
 The perpendicular distance is the shortest distance between the pivot and the line of action of the 
 force. In the examples above, that would be the 15m line and the 4m line respectively.
+
+The geometry of the object that connects the force to the pivot DOES NOT AFFECT the moment of the force. A
+force acting on the end of a 1mm vs 1km rod will have the same moment if their forces are both along the 
+same line of action.
 
 ## Centre of Gravity
 

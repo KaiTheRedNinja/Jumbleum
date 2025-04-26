@@ -1,0 +1,762 @@
+{
+  "abstract" : [
+    {
+      "text" : "Moments with a hint of vectors",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Moment of Forces and Couples"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the moment of a given force about a pivot point (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces#Moment-of-a-Force",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ").",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the sign convention of the moment vector.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Combine the moments of several forces to find the resultant moment.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Identify the moments of couples and combine them with the moments of forces.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Sign-Convention",
+          "level" : 2,
+          "text" : "Sign Convention",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Moments in 2d are either clockwise or counterclockwise. A clockwise moment would be negative",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "from an anticlockwise frame of reference, and vice versa.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "It is a good idea to just draw a little ↺ or ↻ on the vector to indicate the direction of rotation.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Combining-Moments",
+          "level" : 2,
+          "text" : "Combining Moments",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Choose a frame of reference: clockwise or counterclockwise.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the moment of each force about the pivot point, and whether it is clockwise or counterclockwise.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Assign the signs to the moments based on the chosen frame of reference.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Add the moments together to find the resultant moment.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "anchor" : "Varignons-Theorem",
+          "level" : 3,
+          "text" : "Varignon’s Theorem",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If you consider a force acting on the end of some complex shape, it may be difficult to determine",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the perpendicular distance between the line of action of the force and the pivot, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$d\\perp$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Varignons Theorem",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In such cases, you can use Varignon’s Theorem. To apply it, you need to:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Resolve the force into its x and y components.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the resultant moment created by these resolved forces",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "As forces can be resolved into their components, a moment can be resolved into its components as well.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "The coordinate systems you should use are ones which align with the information you have available about",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the object, such as in the diagram above.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In the diagram above, you can apply the sum of moments as you normally would:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "M_{R} = \\sum_{i=1}^{n} F_{i} \\cdot d_{i}",
+            "= +(F_{x} \\cdot d_{x}) + (F_y \\cdot d_{y})"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In the example above, both components are positive as they align with our chosen frame of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "reference (anticlockwise).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Moments-of-Couples",
+          "level" : 2,
+          "text" : "Moments of Couples",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A couple (",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\tau$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ") is a pair of equal and opposite forces acting on an object, separated by a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "distance ",
+              "type" : "text"
+            },
+            {
+              "code" : "$d\\perp$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The equation to calculate the moment of a couple is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\tau = F \\cdot d\\perp"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\tau$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the moment of the couple",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$F$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the magnitude of one of the forces",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$d\\perp$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the perpendicular distance between the lines of action of the forces",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The special property of couples is that the moment they create is ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "independent",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " of the pivot",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "point. This means that the moment around ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "any point",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " in the plane of the couple (ie, in 2d) is the same.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Proof-of-Pivot-Agnosticity",
+          "level" : 3,
+          "text" : "Proof of Pivot Agnosticity",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "(In English: Proof that the moment of a couple is independent of where the pivot point is)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Consider a stick with points A and B, which are distance ",
+              "type" : "text"
+            },
+            {
+              "code" : "$d$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " apart. On point A, there is a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "downward force ",
+              "type" : "text"
+            },
+            {
+              "code" : "$F$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", and on point B, there is an upward force ",
+              "type" : "text"
+            },
+            {
+              "code" : "$F$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". There is also point X,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which is a distance ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " from point A.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To calculate the moment of the couple about point X, we can sum the moments of the two forces:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "M_{X} = F \\cdot (d_{A} + x) - F \\cdot (x)",
+            "= F \\cdot d_{A} + F \\cdot x - F \\cdot x",
+            "= F \\cdot d_{A} = \\tau"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that because the forces act in opposite directions, we can cancel out the ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " terms, making",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the moment of the couple independent of the pivot point.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+        "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces"
+      ]
+    }
+  ]
+, 
+"references": {
+"Diagram_Varignons Theorem": {
+  "alt" : "Diagram of Viagrons Theorem",
+  "identifier" : "Diagram_Varignons Theorem",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Varignons%20Theorem.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: How physical quantities are measured and represented",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physical Quantities and Units",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
+},
+"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vector Quantities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-vector-quantities"
+},
+"doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
+  "abstract" : [
+    {
+      "text" : "Ch 2: The study of motion in one dimension",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics of Linear Motion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
+},
+"doc://Notes/documentation/Notes/3-Resultant-Forces": {
+  "abstract" : [
+    {
+      "text" : "What happens when you combine multiple forces acting on a single body",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resultant Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3-resultant-forces"
+},
+"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Mechanical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Turning-Effect-of-Forces#Moment-of-a-Force": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Turning-Effect-of-Forces#Moment-of-a-Force",
+  "kind" : "section",
+  "title" : "Moment of a Force",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/turning-effect-of-forces#Moment-of-a-Force"
+}
+}
+}

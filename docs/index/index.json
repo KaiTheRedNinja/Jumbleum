@@ -36,6 +36,11 @@
                     "path" : "\/documentation\/notes\/1.3-conic-sections",
                     "title" : "Conic Sections",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2.1-right-angled-triangles",
+                    "title" : "Right Angled Triangles",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/applied-mathematics-1",
@@ -93,6 +98,11 @@
                   {
                     "path" : "\/documentation\/notes\/3-resultant-forces",
                     "title" : "Resultant Forces",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples",
+                    "title" : "Moment of Forces and Couples",
                     "type" : "article"
                   }
                 ],
@@ -1050,15 +1060,6 @@
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
-          },
-          {
-            "title" : "Articles",
-            "type" : "groupMarker"
-          },
-          {
-            "path" : "\/documentation\/notes\/2.1-right-angled-triangles",
-            "title" : "Right Angled Triangles",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

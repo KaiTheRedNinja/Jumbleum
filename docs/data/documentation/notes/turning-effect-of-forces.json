@@ -243,7 +243,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "d⟂",
+                      "code" : "$d\\perp$",
                       "type" : "codeVoice"
                     },
                     {
@@ -328,6 +328,31 @@
             },
             {
               "text" : "force. In the examples above, that would be the 15m line and the 4m line respectively.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The geometry of the object that connects the force to the pivot DOES NOT AFFECT the moment of the force. A",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "force acting on the end of a 1mm vs 1km rod will have the same moment if their forces are both along the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "same line of action.",
               "type" : "text"
             }
           ],

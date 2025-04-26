@@ -451,32 +451,10 @@
         "doc:\/\/Notes\/documentation\/Notes\/SST"
       ],
       "title" : "Secondary School"
-    },
-    {
-      "anchor" : "Articles",
-      "generated" : true,
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles"
-      ],
-      "title" : "Articles"
     }
   ]
 , 
 "references": {
-"doc://Notes/documentation/Notes/2.1-Right-Angled-Triangles": {
-  "abstract" : [
-    {
-      "text" : "An introduction to trigonometry via right-angled triangles, its simplest application",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Right Angled Triangles",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
-},
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [
     {

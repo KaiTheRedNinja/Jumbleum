@@ -258,7 +258,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
-        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion"
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+        "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples"
       ]
     }
   ]
@@ -319,6 +320,20 @@
   "title" : "Kinematics of Linear Motion",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
+},
+"doc://Notes/documentation/Notes/4.1-Moment-of-Forces-and-Couples": {
+  "abstract" : [
+    {
+      "text" : "Moments with a hint of vectors",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Moment of Forces and Couples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples"
 },
 "doc://Notes/documentation/Notes/Dynamics#2D-Force-Resolution": {
   "abstract" : [
