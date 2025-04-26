@@ -36,3 +36,4 @@ There are no "definition" questions in EEFD, according to my teacher.
 - <doc:1.1-Current-and-Voltage>
 - <doc:1.2-Resistance>
 - <doc:1.3-Ohms-Law-Power-and-Energy>
+- <doc:1.4-Series-Circuits>

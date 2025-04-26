@@ -1,0 +1,910 @@
+{
+  "abstract" : [
+    {
+      "text" : "Circuits where components are connected end-to-end, forming a single path for current flow.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.4-Series-Circuits"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Series Circuits"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Calculate the effective resistance of elements and the power dissipated in a series circuit",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors#Effective-Resistance",
+                              "isActive" : true,
+                              "type" : "reference"
+                            },
+                            {
+                              "text" : " for more information about effective resistance",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Series-Circuits",
+                              "isActive" : true,
+                              "type" : "reference"
+                            },
+                            {
+                              "text" : " for information about current in series circuits",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
+                              "isActive" : true,
+                              "type" : "reference"
+                            },
+                            {
+                              "text" : " for more information about power",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "State Kirchhoff’s voltage law and apply it to series circuits (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories#Kirchoffs-Voltage-Law",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use the voltage divider rule to find voltages across resistive components in series (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Potential-Dividers",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Describe the single and double subscript notation for potentials",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw the circuit representing a practical voltage source",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "How-to-Identify-a-Series-Circuit",
+          "level" : 2,
+          "text" : "How to Identify a Series Circuit",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If a component’s terminal is connected to (and ONLY to) the terminal of one other component, then the two",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "components are in series. Note that in larger circuits, a “component” may be, say, a parallel circuit. The",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "“component” would then be in series with other components, but other components would not be in series with",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the “component”’s components.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Power-in-a-Series-Circuit",
+          "level" : 2,
+          "text" : "Power in a Series Circuit",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The power dissipated in a series circuit is the sum of the power dissipated in each component. Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "P = P_1 + P_2 + \\ldots + P_n",
+            "= \\sum_{i=1}^{n} I^2 R_i"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$P$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the total power",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$I$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the current through the circuit (assumed to be the same for all components in series)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$P_i$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the power dissipated in component ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$i$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$R_i$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resistance of component ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$i$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Kirchhoffs-Voltage-Law-Application",
+          "level" : 2,
+          "text" : "Kirchhoff’s Voltage Law Application",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Kirchhoff’s voltage law states that the sum of the potential differences across all components in a closed",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "loop is equal to 0. A series circuit is a closed loop, so the sum of the potential differences across all",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "components in a series circuit is equal to the voltage supplied by the source.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note about the application of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V=IR$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to do with KVL: If you have a voltage ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V_{AB}$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " from point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ":",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If current flows from ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$A$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " to ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", then ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_{AB}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is positive (ie ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_A>V_B$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "If current flows from ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " to ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$A$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", then ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_{AB}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is negative (ie ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_A<V_B$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When applyind KVL, you need to be very careful about the signs of the voltages.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Voltage-Notation",
+          "level" : 2,
+          "text" : "Voltage Notation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A single subscript notation is used to indicate the potential at a point in the circuit. For example,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V_A$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " indicates the potential at point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A double subscript notation is used to indicate the potential difference between two points in the circuit. For example,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V_{AB}$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " indicates the potential difference between points ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". It is also defined as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "V_{AB} = V_A - V_B"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V_{AB}$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is positive, point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is at a higher potential than point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Voltage-Symbols",
+          "level" : 2,
+          "text" : "Voltage Symbols",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A “ground component” represents a 0V potential. All grounds in a circuit are taken to be connected - a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "series circuit where the battery’s negative terminal is connected to ground and the component’s negative",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "terminal is connected to ground is equivalent to a series circuit where the battery’s negative terminal is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "connected to the component’s negative terminal.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A battery symbol represents a voltage source. The positive terminal (voltage is usually referred to as ",
+              "type" : "text"
+            },
+            {
+              "code" : "$V_ {CC}$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ") of the battery is connected to the longer line of the symbol, and the negative terminal (voltage is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "usually 0) is connected to the shorter line of the symbol. You can imagine it like charge “flowing” from the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "longer line to the shorter line.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There is a component known as a “DC voltage source”. They are a circle with a “+” and “-” sign inside, so",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "its quite obvious which side is which.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "An “ideal voltage source” has a constant voltage level, and no resistance. Most batteries are not ideal",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "because they lose voltage as they discharge, and have a small internal resistance.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-Electricity",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy"
+      ],
+      "title" : "Chapter 1: Fundamentals of Electricity"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Current-and-Voltage": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: Current and Voltage basics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Current and Voltage",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
+"doc://Notes/documentation/Notes/1.2-Resistance": {
+  "abstract" : [
+    {
+      "text" : "Resistors, but a bit more advanced than secondary school",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-resistance"
+},
+"doc://Notes/documentation/Notes/1.3-Ohms-Law-Power-and-Energy": {
+  "abstract" : [
+    {
+      "text" : "Some basic formulae",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ohm’s Law, Power, and Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-ohms-law-power-and-energy"
+},
+"doc://Notes/documentation/Notes/Circuit-Theories#Kirchoffs-Voltage-Law": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories#Kirchoffs-Voltage-Law",
+  "kind" : "section",
+  "title" : "Kirchoff’s Voltage Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/circuit-theories#Kirchoffs-Voltage-Law"
+},
+"doc://Notes/documentation/Notes/Current-of-Electricity#Power": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
+  "kind" : "section",
+  "title" : "Power",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/current-of-electricity#Power"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits#Potential-Dividers": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Potential-Dividers",
+  "kind" : "section",
+  "title" : "Potential Dividers",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits#Potential-Dividers"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits#Series-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Series-Circuits",
+  "kind" : "section",
+  "title" : "Series Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits#Series-Circuits"
+},
+"doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electrical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Resistors#Effective-Resistance": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors#Effective-Resistance",
+  "kind" : "section",
+  "title" : "Effective Resistance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/resistors#Effective-Resistance"
+}
+}
+}
