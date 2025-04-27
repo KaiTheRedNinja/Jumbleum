@@ -1,0 +1,699 @@
+{
+  "abstract" : [
+    {
+      "text" : "Variables store data in a program",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Programming"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Variables"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Explain the concept of variables and assignment operator =",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use variables and assignment operator",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Solve syntax errors related to assignment operator",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write simple C program to perform simple arithmetic operation using variables and to display them",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "What-are-variables",
+          "level" : 2,
+          "text" : "What are variables",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Variables store data in a program, which may change during the program execution. They are used to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hold values that can be referenced and manipulated in a program.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In C, the variable life cycle goes as follows:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The variable and its type is declared",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The variable is assigned a value",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The variable is used in the program",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The variable is destroyed when it goes out of scope (eg. when the function\/logic branch ends)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example, in the following code:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "int main() {",
+            "    int a = 5;",
+            "    int b = 10;",
+            "",
+            "    int c = a;",
+            "    a = b;",
+            "    b = c;",
+            "    printf(\"a: %d, b: %d\\n\", a, b);",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The variables ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " are declared as integers, and assigned values of 5 and 10 respectively. The",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "variable ",
+              "type" : "text"
+            },
+            {
+              "code" : "c",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is used to swap the values of ",
+              "type" : "text"
+            },
+            {
+              "code" : "a",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "b",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", demonstrating that variables can be rewritten.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Declaring a variable (and its type) assigns it a memory location. The variable name is a reference to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the value in that memory location.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Data-Types",
+          "level" : 3,
+          "text" : "Data Types",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Data types define how the data stored in memory is interpreted. The most common data types in C are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "int",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Integer numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "float",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Floating point numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "char",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Characters",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "double",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Double precision floating point numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "bool",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Boolean values (true\/false)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A varaible defined as an ",
+              "type" : "text"
+            },
+            {
+              "code" : "int",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", for example, can only store integer values. If you try to assign a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "floating point number to an ",
+              "type" : "text"
+            },
+            {
+              "code" : "int",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " variable, it will result in a compile-time error.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Uninitialized-Variables",
+          "level" : 3,
+          "text" : "Uninitialized Variables",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When a variable is declared but not initialized, it contains a ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "garbage value",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ". The bits assigned to the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "variable in memory might contain any value, which is likely to be meaningless. Even if the bit values are zero,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the data type that it is read as may interpret it as a different value.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Printing",
+          "level" : 2,
+          "text" : "Printing",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Printing is done using the ",
+              "type" : "text"
+            },
+            {
+              "code" : "printf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " function, and outputs a value to the console. The format of the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "printf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " function is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "printf(\"format string\", value);"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The format string contains the text to be printed, and can include format specifiers that are replaced",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "by the values of the variables. For example, to print an integer value, you can use the ",
+              "type" : "text"
+            },
+            {
+              "code" : "%d",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " format specifier:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "printf(\"The value of a is: %d\\n\", a);"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The ",
+              "type" : "text"
+            },
+            {
+              "code" : "\\n",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " at the end of the string is a newline character, which moves the cursor to the next line after",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "printing.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The format string may contain multiple format specifiers, and the values will be printed in the order they are",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "passed to the ",
+              "type" : "text"
+            },
+            {
+              "code" : "printf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " function. Passing extra\/fewer variables than specified results in a runtime error. For",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "example:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "printf(\"The value of a is: %d, and b is: %d\\n\", a, b); \/\/ works",
+            "printf(\"The value of a is: %d, and b is: %d\\n\", a); \/\/ runtime error",
+            "printf(\"The value of a is: %d, and b is: %d\\n\", a, b, c); \/\/ runtime error"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-C",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors"
+      ],
+      "title" : "Chapter 1: Fundamentals of C"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Fundamental-C": {
+  "abstract" : [
+    {
+      "text" : "Why is a programming language?",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Fundamental C",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-fundamental-c"
+},
+"doc://Notes/documentation/Notes/1.2-Syntax-Errors": {
+  "abstract" : [
+    {
+      "text" : "When you don’t follow a language’s syntax rules and the compiler tells you “i dont know what this means”",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Syntax Errors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-syntax-errors"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Programming": {
+  "abstract" : [
+    {
+      "text" : "Programming, mostly in C",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Programming",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/programming"
+}
+}
+}

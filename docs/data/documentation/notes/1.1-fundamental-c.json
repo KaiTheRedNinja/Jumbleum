@@ -928,7 +928,8 @@
       "anchor" : "Chapter-1-Fundamentals-of-C",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors"
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -962,6 +963,20 @@
   "title" : "Syntax Errors",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-syntax-errors"
+},
+"doc://Notes/documentation/Notes/1.3-Variables": {
+  "abstract" : [
+    {
+      "text" : "Variables store data in a program",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Variables",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-variables"
 },
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [
