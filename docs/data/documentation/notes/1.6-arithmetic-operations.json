@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "These symbols MEAN something!",
+      "text" : "Basic mathematical operations",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "ASCII, Keywords, and Constants"
+    "title" : "Arithmetic Operations"
   },
   "primaryContentSections" : [
     {
@@ -40,7 +40,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Explain the concept of ASCII codes",
+                      "text" : "Explain the concept of Arithmetic operation",
                       "type" : "text"
                     }
                   ],
@@ -53,7 +53,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Explain the concepts of Identifiers and Symbolic constants",
+                      "text" : "Describe Logic errors",
                       "type" : "text"
                     }
                   ],
@@ -66,7 +66,20 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Write simple C program to get inputs of different data types",
+                      "text" : "Describe debugging strategy",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write simple C program to solve arithmetic problems",
                       "type" : "text"
                     }
                   ],
@@ -78,32 +91,15 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "ASCII-Codes",
+          "anchor" : "Operations",
           "level" : 2,
-          "text" : "ASCII Codes",
+          "text" : "Operations",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "ASCII is a way to represent characters as integer values. For example, lowercase ‘a’ is represented by 97,",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "uppercase ‘A’ is represented by 65, and so on.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "To represent special characters like newline and tab in string literals, we can use escape sequences.",
+              "text" : "There are five basic arithmetic operations in C:",
               "type" : "text"
             }
           ],
@@ -116,11 +112,136 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "\\n",
+                      "text" : "Addition ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "+",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Subtraction ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "-",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Multiplication ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "*",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Division ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "\/",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Modulus ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "%",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These operations follow the standard order of operations (PEMDAS\/BODMAS).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Type-Issues",
+          "level" : 3,
+          "text" : "Type Issues",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Integer division: When both operands are integers, the result is also an integer. For example, ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "5 \/ 2",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " for newline",
+                      "text" : " results",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "in ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "2",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
                       "type" : "text"
                     }
                   ],
@@ -133,62 +254,23 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "\\t",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " for tab",
+                      "text" : "Floating-point modulus: The modulus operator ",
                       "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
+                    },
                     {
-                      "code" : "\\\\",
+                      "code" : "%",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " for backslash",
+                      "text" : " does not work with floating-point numbers, as its division",
                       "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "\\'",
-                      "type" : "codeVoice"
                     },
                     {
-                      "text" : " for single quote",
+                      "text" : " ",
                       "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "\\\"",
-                      "type" : "codeVoice"
                     },
                     {
-                      "text" : " for double quote",
+                      "text" : "produces fractional results and no remainder",
                       "type" : "text"
                     }
                   ],
@@ -200,15 +282,15 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Identifiers-and-Keywords",
+          "anchor" : "Logic-Errors",
           "level" : 2,
-          "text" : "Identifiers and Keywords",
+          "text" : "Logic Errors",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "Identifiers are names given to variables, functions, types, and other entities in a program. They must",
+              "text" : "Logic errors occur when the program runs without crashing but produces incorrect results. These can be caused by:",
               "type" : "text"
             }
           ],
@@ -221,7 +303,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "start with a letter or underscore, but NOT a digit",
+                      "text" : "Incorrect operator usage",
                       "type" : "text"
                     }
                   ],
@@ -234,7 +316,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "can contain letters, digits, and underscores",
+                      "text" : "Wrong order of operations",
                       "type" : "text"
                     }
                   ],
@@ -247,7 +329,33 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "cannot be a keyword",
+                      "text" : "Incorrect variable types",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Missing parentheses",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Incorrect logic",
                       "type" : "text"
                     }
                   ],
@@ -261,11 +369,17 @@
         {
           "inlineContent" : [
             {
-              "text" : "Keywords are reserved words in C that have special meaning and cannot be used as identifiers. Examples include:",
+              "text" : "They can be difficult to solve, especially in large programs.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Debugging-Strategy",
+          "level" : 3,
+          "text" : "Debugging Strategy",
+          "type" : "heading"
         },
         {
           "items" : [
@@ -274,8 +388,8 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "if",
-                      "type" : "codeVoice"
+                      "text" : "Where is the error apparent",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -287,8 +401,8 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "else",
-                      "type" : "codeVoice"
+                      "text" : "Backtrack to find the source of the error",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -300,34 +414,8 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "while",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "for",
-                      "type" : "codeVoice"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "return",
-                      "type" : "codeVoice"
+                      "text" : "Use print statements to confirm values",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -335,90 +423,7 @@
               ]
             }
           ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Types like ",
-              "type" : "text"
-            },
-            {
-              "code" : "int",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : ", ",
-              "type" : "text"
-            },
-            {
-              "code" : "float",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : ", and ",
-              "type" : "text"
-            },
-            {
-              "code" : "char",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " are considered keywords as well.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Symbolic-Constants",
-          "level" : 2,
-          "text" : "Symbolic Constants",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Symbolic constants are identifiers that represent fixed values. They are defined using the ",
-              "type" : "text"
-            },
-            {
-              "code" : "#define",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : "",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "preprocessor directive. The compiler replaces the symbolic constant with its value during preprocessing.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "For example:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "#define PI 3.14",
-            "",
-            "float area = PI * radius * radius;",
-            "\/\/ area is now replaced with 3.14 * radius * radius"
-          ],
-          "syntax" : "c",
-          "type" : "codeListing"
+          "type" : "orderedList"
         }
       ],
       "kind" : "content"
@@ -441,7 +446,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
         "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
         "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types",
-        "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations"
+        "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -518,19 +523,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.4-scanf-and-data-types"
 },
-"doc://Notes/documentation/Notes/1.6-Arithmetic-Operations": {
+"doc://Notes/documentation/Notes/1.5-ASCII-Keywords-Constants": {
   "abstract" : [
     {
-      "text" : "Basic mathematical operations",
+      "text" : "These symbols MEAN something!",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants",
   "kind" : "article",
   "role" : "article",
-  "title" : "Arithmetic Operations",
+  "title" : "ASCII, Keywords, and Constants",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/1.6-arithmetic-operations"
+  "url" : "\/documentation\/notes\/1.5-ascii-keywords-constants"
 },
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [

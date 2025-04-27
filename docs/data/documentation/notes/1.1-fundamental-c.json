@@ -931,7 +931,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
         "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
         "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types",
-        "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants"
+        "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants",
+        "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -1007,6 +1008,20 @@
   "title" : "ASCII, Keywords, and Constants",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.5-ascii-keywords-constants"
+},
+"doc://Notes/documentation/Notes/1.6-Arithmetic-Operations": {
+  "abstract" : [
+    {
+      "text" : "Basic mathematical operations",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Arithmetic Operations",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.6-arithmetic-operations"
 },
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [
