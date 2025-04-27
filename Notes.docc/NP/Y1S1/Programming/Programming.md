@@ -39,3 +39,4 @@ AllyLocal is our module's "IDE" (it is not deserving of that name). It is window
 - <doc:1.1-Fundamental-C>
 - <doc:1.2-Syntax-Errors>
 - <doc:1.3-Variables>
+- <doc:1.4-scanf-and-Data-Types>

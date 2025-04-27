@@ -271,129 +271,16 @@
               "type" : "text"
             },
             {
-              "text" : "the value in that memory location.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Data-Types",
-          "level" : 3,
-          "text" : "Data Types",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Data types define how the data stored in memory is interpreted. The most common data types in C are:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "int",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": Integer numbers",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "float",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": Floating point numbers",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "char",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": Characters",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "double",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": Double precision floating point numbers",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "bool",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ": Boolean values (true\/false)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "A varaible defined as an ",
+              "text" : "the value in that memory location. See ",
               "type" : "text"
             },
             {
-              "code" : "int",
-              "type" : "codeVoice"
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types#Data-Types",
+              "isActive" : true,
+              "type" : "reference"
             },
             {
-              "text" : ", for example, can only store integer values. If you try to assign a",
+              "text" : " for more information on data",
               "type" : "text"
             },
             {
@@ -401,15 +288,7 @@
               "type" : "text"
             },
             {
-              "text" : "floating point number to an ",
-              "type" : "text"
-            },
-            {
-              "code" : "int",
-              "type" : "codeVoice"
-            },
-            {
-              "text" : " variable, it will result in a compile-time error.",
+              "text" : "types.",
               "type" : "text"
             }
           ],
@@ -599,6 +478,119 @@
           ],
           "syntax" : "c",
           "type" : "codeListing"
+        },
+        {
+          "anchor" : "Format-Specifiers",
+          "level" : 3,
+          "text" : "Format Specifiers",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The format specifiers are used to specify the type of data being printed. The most common format",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "specifiers are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%d",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Integer",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%f",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Floating point number",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%c",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Character",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%s",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": String",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%.2f",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Floating point number with 2 decimal places (replace 2 with the desired number of decimal places)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -618,7 +610,8 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
-        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors"
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+        "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -666,6 +659,30 @@
   "title" : "Syntax Errors",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-syntax-errors"
+},
+"doc://Notes/documentation/Notes/1.4-scanf-and-Data-Types": {
+  "abstract" : [
+    {
+      "text" : "How users input data and how data is stored in memory",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "scanf and Data Types",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.4-scanf-and-data-types"
+},
+"doc://Notes/documentation/Notes/1.4-scanf-and-Data-Types#Data-Types": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types#Data-Types",
+  "kind" : "section",
+  "title" : "Data Types",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.4-scanf-and-data-types#Data-Types"
 },
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [

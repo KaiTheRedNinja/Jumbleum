@@ -1,0 +1,800 @@
+{
+  "abstract" : [
+    {
+      "text" : "How users input data and how data is stored in memory",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Programming"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "scanf and Data Types"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Explain how ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "scanf()",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " reads user input",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Describe the characteristic of different data types",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Write simple C program to get user inputs",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "scanf",
+          "level" : 2,
+          "text" : "scanf",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "code" : "scanf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is a function used to read formatted input from the standard input (console). It is similar to ",
+              "type" : "text"
+            },
+            {
+              "code" : "printf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ",",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "but the format specifier is used to specify the type of data being read.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "#include <stdio.h>",
+            "int main() {",
+            "    int num;",
+            "    printf(\"Enter an integer: \");",
+            "    scanf(\"%d\", &num);",
+            "    printf(\"You entered: %d\\n\", num);",
+            "    return 0;",
+            "}"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In the example above, ",
+              "type" : "text"
+            },
+            {
+              "code" : "num",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is passed to ",
+              "type" : "text"
+            },
+            {
+              "code" : "scanf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " using the address operator ",
+              "type" : "text"
+            },
+            {
+              "code" : "&",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". This is because ",
+              "type" : "text"
+            },
+            {
+              "code" : "scanf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " needs",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "to know ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "where",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " to store the input, and the ",
+              "type" : "text"
+            },
+            {
+              "code" : "&",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " operator gives the address of the variable. Conceptually, the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "&",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " operator grants its consumer write access to the variable.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Data Type",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Usage",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Example",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Format Specifier",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Notes",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "int",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Integer numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "42",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%d",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "float",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Floating point numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "3.14",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%f",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Use ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "%.nf",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " to output to n decimal places",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "char",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Characters",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "'A'",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%c",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "When reading via ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "scanf",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", use ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "\" %c\"",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " with a leading space to avoid reading the previous newline",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "string",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Strings",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "\"Hello\"",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "%s",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Strings have fixed lengths, you must define them large enough",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "code" : "scanf",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " technically allows you to read multiple values at once, with each format specifier separated by a space.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "scanf(\"%d %f %c\", &age, &height, &initial);"
+          ],
+          "syntax" : "c",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Data-Types",
+          "level" : 2,
+          "text" : "Data Types",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Data types define how the data stored in memory is interpreted. The most common data types in C are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "int",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Integer numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "float",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Floating point numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "char",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Characters",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "double",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Double precision floating point numbers",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "bool",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Boolean values (true\/false)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A varaible defined as an ",
+              "type" : "text"
+            },
+            {
+              "code" : "int",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", for example, can only store integer values. If you try to assign a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "floating point number to an ",
+              "type" : "text"
+            },
+            {
+              "code" : "int",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " variable, it will result in a compile-time error.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Fundamentals-of-C",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables"
+      ],
+      "title" : "Chapter 1: Fundamentals of C"
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Fundamental-C": {
+  "abstract" : [
+    {
+      "text" : "Why is a programming language?",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Fundamental C",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-fundamental-c"
+},
+"doc://Notes/documentation/Notes/1.2-Syntax-Errors": {
+  "abstract" : [
+    {
+      "text" : "When you don’t follow a language’s syntax rules and the compiler tells you “i dont know what this means”",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Syntax Errors",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-syntax-errors"
+},
+"doc://Notes/documentation/Notes/1.3-Variables": {
+  "abstract" : [
+    {
+      "text" : "Variables store data in a program",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Variables",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-variables"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Programming": {
+  "abstract" : [
+    {
+      "text" : "Programming, mostly in C",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Programming",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Programming",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/programming"
+}
+}
+}

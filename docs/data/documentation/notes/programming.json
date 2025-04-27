@@ -339,7 +339,8 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
-        "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables"
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
+        "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -401,6 +402,20 @@
   "title" : "Variables",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.3-variables"
+},
+"doc://Notes/documentation/Notes/1.4-scanf-and-Data-Types": {
+  "abstract" : [
+    {
+      "text" : "How users input data and how data is stored in memory",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "scanf and Data Types",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.4-scanf-and-data-types"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
