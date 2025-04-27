@@ -135,6 +135,11 @@
                     "path" : "\/documentation\/notes\/1.4-scanf-and-data-types",
                     "title" : "scanf and Data Types",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.5-ascii-keywords-constants",
+                    "title" : "ASCII, Keywords, and Constants",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/programming",

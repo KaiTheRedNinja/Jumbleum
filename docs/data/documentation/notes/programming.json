@@ -340,7 +340,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Fundamental-C",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Syntax-Errors",
         "doc:\/\/Notes\/documentation\/Notes\/1.3-Variables",
-        "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types"
+        "doc:\/\/Notes\/documentation\/Notes\/1.4-scanf-and-Data-Types",
+        "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants"
       ],
       "title" : "Chapter 1: Fundamentals of C"
     }
@@ -416,6 +417,20 @@
   "title" : "scanf and Data Types",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.4-scanf-and-data-types"
+},
+"doc://Notes/documentation/Notes/1.5-ASCII-Keywords-Constants": {
+  "abstract" : [
+    {
+      "text" : "These symbols MEAN something!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.5-ASCII-Keywords-Constants",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "ASCII, Keywords, and Constants",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.5-ascii-keywords-constants"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
