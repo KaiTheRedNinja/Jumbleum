@@ -799,7 +799,8 @@
     {
       "anchor" : "Topics",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework"
+        "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework",
+        "doc:\/\/Notes\/documentation\/Notes\/Engaging-your-Audience"
       ]
     }
   ]
@@ -860,6 +861,20 @@
   "title" : "Electrical Engineering Fundamentals",
   "type" : "topic",
   "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/Engaging-your-Audience": {
+  "abstract" : [
+    {
+      "text" : "Verbal, non-verbal, and vocal techniques",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Engaging-your-Audience",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Engaging your Audience",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/engaging-your-audience"
 },
 "doc://Notes/documentation/Notes/Health-and-Wellness": {
   "abstract" : [
