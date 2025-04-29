@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Resistors, but a bit more advanced than secondary school",
+      "text" : "Circuits where components are connected across the same two points, forming multiple paths for current flow.",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Resistance"
+    "title" : "Parallel Circuits"
   },
   "primaryContentSections" : [
     {
@@ -34,31 +34,75 @@
           "type" : "heading"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for the following:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
           "items" : [
             {
               "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "General info",
+                      "text" : "Calculate the conductance and effective resistance of elements connected in parallel",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors#Effective-Resistance",
+                              "isActive" : true,
+                              "type" : "reference"
+                            },
+                            {
+                              "text" : " for more information about effective resistance",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Parallel-Circuits",
+                              "isActive" : true,
+                              "type" : "reference"
+                            },
+                            {
+                              "text" : " for information about current in parallel circuits",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Explain how current is divided in parallel circuits",
                       "type" : "text"
                     }
                   ],
@@ -71,11 +115,34 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Resistivity",
+                      "text" : "State Kirchhoff’s Current Law (KCL) and apply it to parallel circuits",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "See ",
+                              "type" : "text"
+                            },
+                            {
+                              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories#Kirchoffs-Current-Law",
+                              "isActive" : true,
+                              "type" : "reference"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
                 }
               ]
             },
@@ -84,33 +151,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Types of resistors",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Colour code",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Effective resistance (across series and parallel circuits)",
+                      "text" : "Define open and short circuits",
                       "type" : "text"
                     }
                   ],
@@ -122,80 +163,15 @@
           "type" : "unorderedList"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "This document will instead focus on NP-specific topics, such as:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Temperature coefficient",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Conductance",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "anchor" : "Temperature-Coefficient",
+          "anchor" : "How-Current-is-Split",
           "level" : 2,
-          "text" : "Temperature Coefficient",
+          "text" : "How Current is Split",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "For conductors, the resistance increases with temperature. This is because the atoms in the conductor",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "vibrate more at higher temperatures, making it harder for electrons to flow through.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "We generally aproximate this as a linear relationship, where the resistance at a given temperature is",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "equal to the resistance at 20°C",
+              "text" : "In a parallel circuit, the voltage across each “path” is the same. Therefore, we can calculate the current in each path using Ohm’s Law:",
               "type" : "text"
             }
           ],
@@ -203,7 +179,9 @@
         },
         {
           "code" : [
-            "R_2 = R_1 (1 + \\alpha (t_2 - t_1))"
+            "I_{i} = \\frac{V}{R_{i}}",
+            "",
+            "I = \\sum_{i} I_{i}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -211,7 +189,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "where:",
+              "text" : "Where:",
               "type" : "text"
             }
           ],
@@ -224,19 +202,11 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "R_1",
+                      "code" : "$I$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " is the resistance at temperature ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "t_1",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : ", in ohms",
+                      "text" : " is the total current flowing into the parallel circuit",
                       "type" : "text"
                     }
                   ],
@@ -249,19 +219,19 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "R_2",
+                      "code" : "$I_{i}$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " is the resistance at temperature ",
+                      "text" : " is the current flowing through the ",
                       "type" : "text"
                     },
                     {
-                      "code" : "t_2",
+                      "code" : "$i$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : ", in ohms",
+                      "text" : "th branch",
                       "type" : "text"
                     }
                   ],
@@ -274,19 +244,11 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "$α$",
+                      "code" : "$V$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " is the temperature coefficient of resistance, which is a measure of how much the resistance",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "changes with temperature, in ohms per degree Celsius (Ω\/°C) or per Kelvin (Ω\/K)",
+                      "text" : " is the voltage across the parallel circuit",
                       "type" : "text"
                     }
                   ],
@@ -299,28 +261,19 @@
                 {
                   "inlineContent" : [
                     {
-                      "code" : "t_1",
+                      "code" : "$R_{i}$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " is the reference temperature (usually 20°C)",
+                      "text" : " is the resistance of the ",
                       "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
+                    },
                     {
-                      "code" : "t_2",
+                      "code" : "$i$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : " is the temperature at which we want to find the resistance",
+                      "text" : "th branch",
                       "type" : "text"
                     }
                   ],
@@ -332,9 +285,36 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Conductance",
+          "inlineContent" : [
+            {
+              "text" : "If we know the resistances of each branch but not the voltage, we can use the following equation to find the current of branch ",
+              "type" : "text"
+            },
+            {
+              "code" : "$i$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ":",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "V = I * R_{eff}",
+            "",
+            "I_{i} = \\frac{V}{R_{i}}",
+            "= I * \\frac{R_{eff}}{R_{i}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Open-vs-Short-Circuits",
           "level" : 2,
-          "text" : "Conductance",
+          "text" : "Open vs Short Circuits",
           "type" : "heading"
         },
         {
@@ -342,7 +322,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "The ability of a material to conduct electricity, measured in siemens (S). It is the",
+                  "text" : "Open Circuit: A break in the circuit that prevents current from flowing. The resistance is",
                   "type" : "text"
                 },
                 {
@@ -350,71 +330,48 @@
                   "type" : "text"
                 },
                 {
-                  "text" : "reciprocal of resistance.",
+                  "text" : "infinite, and the current is zero. The voltage across the open circuit is equal to the supply voltage.",
                   "type" : "text"
                 }
               ],
               "type" : "paragraph"
             }
           ],
-          "name" : "Conductance",
+          "name" : "Definition",
           "style" : "note",
           "type" : "aside"
         },
         {
-          "code" : [
-            "G = \\frac{1}{R}"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "inlineContent" : [
+          "content" : [
             {
-              "text" : "where:",
-              "type" : "text"
+              "inlineContent" : [
+                {
+                  "text" : "Short Circuit: A connection that allows current to flow with little or no resistance. The voltage",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "across the short circuit is zero, and the current is limited only by the supply voltage and the internal",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "resistance of the source.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
             }
           ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "$G$",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " is the conductance, in siemens (S)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "code" : "$R$",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " is the resistance, in ohms (Ω)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
         }
       ],
       "kind" : "content"
@@ -434,9 +391,9 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
         "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
         "doc:\/\/Notes\/documentation\/Notes\/1.4-Series-Circuits",
-        "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits",
         "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits"
       ],
       "title" : "Chapter 1: Fundamentals of Electricity"
@@ -444,20 +401,6 @@
   ]
 , 
 "references": {
-"Checkmark.png": {
-  "alt" : "Checkmark",
-  "identifier" : "Checkmark.png",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/Checkmark.png"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -485,6 +428,20 @@
   "title" : "Current and Voltage",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.1-current-and-voltage"
+},
+"doc://Notes/documentation/Notes/1.2-Resistance": {
+  "abstract" : [
+    {
+      "text" : "Resistors, but a bit more advanced than secondary school",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resistance",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-resistance"
 },
 "doc://Notes/documentation/Notes/1.3-Ohms-Law-Power-and-Energy": {
   "abstract" : [
@@ -514,20 +471,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.4-series-circuits"
 },
-"doc://Notes/documentation/Notes/1.5-Parallel-Circuits": {
-  "abstract" : [
-    {
-      "text" : "Circuits where components are connected across the same two points, forming multiple paths for current flow.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Parallel Circuits",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.5-parallel-circuits"
-},
 "doc://Notes/documentation/Notes/1.6-Mixed-Circuits": {
   "abstract" : [
     {
@@ -541,6 +484,26 @@
   "title" : "Mixed Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.6-mixed-circuits"
+},
+"doc://Notes/documentation/Notes/Circuit-Theories#Kirchoffs-Current-Law": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Circuit-Theories#Kirchoffs-Current-Law",
+  "kind" : "section",
+  "title" : "Kirchoff’s Current Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/circuit-theories#Kirchoffs-Current-Law"
+},
+"doc://Notes/documentation/Notes/D.C.-Circuits#Parallel-Circuits": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/D.C.-Circuits#Parallel-Circuits",
+  "kind" : "section",
+  "title" : "Parallel Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/d.c.-circuits#Parallel-Circuits"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
@@ -570,25 +533,15 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
 },
-"doc://Notes/documentation/Notes/Resistors": {
+"doc://Notes/documentation/Notes/Resistors#Effective-Resistance": {
   "abstract" : [
-    {
-      "text" : "Resistance is futile, except in electronics. You sorta need them to prevent your components from frying themselves.",
-      "type" : "text"
-    }
+
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors",
-  "images" : [
-    {
-      "identifier" : "Checkmark.png",
-      "type" : "icon"
-    }
-  ],
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Resistors",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Resistors#Effective-Resistance",
+  "kind" : "section",
+  "title" : "Effective Resistance",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/resistors"
+  "url" : "\/documentation\/notes\/resistors#Effective-Resistance"
 }
 }
 }

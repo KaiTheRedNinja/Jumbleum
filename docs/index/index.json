@@ -72,6 +72,16 @@
                     "path" : "\/documentation\/notes\/1.4-series-circuits",
                     "title" : "Series Circuits",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.5-parallel-circuits",
+                    "title" : "Parallel Circuits",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/1.6-mixed-circuits",
+                    "title" : "Mixed Circuits",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/electrical-engineering-fundamentals",

@@ -39,3 +39,5 @@ I think OAL includes online tutorials.
 - <doc:1.2-Resistance>
 - <doc:1.3-Ohms-Law-Power-and-Energy>
 - <doc:1.4-Series-Circuits>
+- <doc:1.5-Parallel-Circuits>
+- <doc:1.6-Mixed-Circuits>

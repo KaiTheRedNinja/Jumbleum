@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Some basic formulae",
+      "text" : "When you mix series and parallel circuits",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Ohm’s Law, Power, and Energy"
+    "title" : "Mixed Circuits"
   },
   "primaryContentSections" : [
     {
@@ -34,18 +34,77 @@
           "type" : "heading"
         },
         {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Calculate the effective resistance of series-parallel networks",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Calculate current, PD, and power in series-parallel circuits",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Effective-Resistance",
+          "level" : 2,
+          "text" : "Effective Resistance",
+          "type" : "heading"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "See ",
+              "text" : "Basically just work from the inside-out. If you see a series\/parallel circuit, replace it with a resistor",
               "type" : "text"
             },
             {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Ohms-Law",
-              "isActive" : true,
-              "type" : "reference"
+              "text" : " ",
+              "type" : "text"
             },
             {
-              "text" : " for Ohm’s law. In summary, it relates resistance, current, and voltage:",
+              "text" : "with an equivalent effective resistance, until you end up with a single resistor.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Current-PD-and-Power",
+          "level" : 2,
+          "text" : "Current, PD, and Power",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You just need to be good at doing multiple current\/voltage dividers, and know all the power formulas. As a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "refresher, they are:",
               "type" : "text"
             }
           ],
@@ -53,48 +112,7 @@
         },
         {
           "code" : [
-            "V = I*R"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for power. In summary, it is a measure of energy used per second",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "P = V*I = I^2*R = \\frac{V^2}{R} = \\frac{W}{t} = \\frac{Q*V}{t}"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Energy is simply power multiplied by time:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "E = P*t"
+            "P = I * V = I^2 * R = \\frac{V^2}{R}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -118,9 +136,9 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Current-and-Voltage",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
         "doc:\/\/Notes\/documentation\/Notes\/1.4-Series-Circuits",
-        "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits",
-        "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits"
+        "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits"
       ],
       "title" : "Chapter 1: Fundamentals of Electricity"
     }
@@ -169,6 +187,20 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-resistance"
 },
+"doc://Notes/documentation/Notes/1.3-Ohms-Law-Power-and-Energy": {
+  "abstract" : [
+    {
+      "text" : "Some basic formulae",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Ohm’s Law, Power, and Energy",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-ohms-law-power-and-energy"
+},
 "doc://Notes/documentation/Notes/1.4-Series-Circuits": {
   "abstract" : [
     {
@@ -196,40 +228,6 @@
   "title" : "Parallel Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.5-parallel-circuits"
-},
-"doc://Notes/documentation/Notes/1.6-Mixed-Circuits": {
-  "abstract" : [
-    {
-      "text" : "When you mix series and parallel circuits",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Mixed Circuits",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/1.6-mixed-circuits"
-},
-"doc://Notes/documentation/Notes/Current-of-Electricity#Ohms-Law": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Ohms-Law",
-  "kind" : "section",
-  "title" : "Ohm’s Law",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/current-of-electricity#Ohms-Law"
-},
-"doc://Notes/documentation/Notes/Current-of-Electricity#Power": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Current-of-Electricity#Power",
-  "kind" : "section",
-  "title" : "Power",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/current-of-electricity#Power"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [

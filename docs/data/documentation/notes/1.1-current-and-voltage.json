@@ -441,7 +441,9 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Resistance",
         "doc:\/\/Notes\/documentation\/Notes\/1.3-Ohms-Law-Power-and-Energy",
-        "doc:\/\/Notes\/documentation\/Notes\/1.4-Series-Circuits"
+        "doc:\/\/Notes\/documentation\/Notes\/1.4-Series-Circuits",
+        "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits",
+        "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits"
       ],
       "title" : "Chapter 1: Fundamentals of Electricity"
     }
@@ -531,6 +533,34 @@
   "title" : "Series Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.4-series-circuits"
+},
+"doc://Notes/documentation/Notes/1.5-Parallel-Circuits": {
+  "abstract" : [
+    {
+      "text" : "Circuits where components are connected across the same two points, forming multiple paths for current flow.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.5-Parallel-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Parallel Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.5-parallel-circuits"
+},
+"doc://Notes/documentation/Notes/1.6-Mixed-Circuits": {
+  "abstract" : [
+    {
+      "text" : "When you mix series and parallel circuits",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Mixed Circuits",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.6-mixed-circuits"
 },
 "doc://Notes/documentation/Notes/Current-of-Electricity#Current": {
   "abstract" : [
