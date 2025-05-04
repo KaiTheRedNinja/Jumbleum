@@ -259,7 +259,9 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
         "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
-        "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples"
+        "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
+        "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
+        "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
       ]
     }
   ]
@@ -362,6 +364,34 @@
   "title" : "Moment of Forces and Couples",
   "type" : "topic",
   "url" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples"
+},
+"doc://Notes/documentation/Notes/4.2-Force-Couple-Equivalents": {
+  "abstract" : [
+    {
+      "text" : "All forces and couples acting on a body can be replaced by a single force and a single couple",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Force Couple Equivalents",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/4.2-force-couple-equivalents"
+},
+"doc://Notes/documentation/Notes/5-Newtons-Third-Law": {
+  "abstract" : [
+    {
+      "text" : "Newton’s third law and also free body diagrams",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Newton’s Third Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/5-newtons-third-law"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

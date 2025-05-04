@@ -123,6 +123,16 @@
                     "path" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples",
                     "title" : "Moment of Forces and Couples",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/4.2-force-couple-equivalents",
+                    "title" : "Force Couple Equivalents",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/5-newtons-third-law",
+                    "title" : "Newton’s Third Law",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",

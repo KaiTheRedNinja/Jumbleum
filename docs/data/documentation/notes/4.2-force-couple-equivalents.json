@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "text" : "All forces and couples acting on a body can be replaced by a single force and a single couple",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Vector Quantities"
+    "title" : "Force Couple Equivalents"
   },
   "primaryContentSections" : [
     {
@@ -40,56 +40,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Vector and scalar quantities (see ",
+                      "text" : "All forces, moments and couples acting on an object can be simplified into one force and one moment (or couple). This",
                       "type" : "text"
                     },
                     {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Scalar-vs-Vector",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                },
-                {
-                  "items" : [
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Use the properties of vector quantities appropriately.",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    }
-                  ],
-                  "type" : "unorderedList"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Basic trigonometric functions for right-angled triangles (see ",
+                      "text" : " ",
                       "type" : "text"
                     },
                     {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
+                      "text" : "force-couple pair is called a force-couple equivalent.",
                       "type" : "text"
                     }
                   ],
@@ -102,64 +61,24 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Resolving and combining vectors (see ",
-                      "type" : "text"
-                    },
-                    {
-                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
-                      "isActive" : true,
-                      "type" : "reference"
-                    },
-                    {
-                      "text" : ")",
+                      "text" : "The singular force is equal to the resultant force of all the force vectors.",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
-                },
+                }
+              ]
+            },
+            {
+              "content" : [
                 {
-                  "items" : [
+                  "inlineContent" : [
                     {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Resolve a vector into 2 perpendicular components.",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Combine 2 perpendicular component vectors.",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
-                    },
-                    {
-                      "content" : [
-                        {
-                          "inlineContent" : [
-                            {
-                              "text" : "Combine vectors to find the resultant vector.",
-                              "type" : "text"
-                            }
-                          ],
-                          "type" : "paragraph"
-                        }
-                      ]
+                      "text" : "The single couple is equal to the combination of all moments from forces and couples about a chosen pivot point",
+                      "type" : "text"
                     }
                   ],
-                  "type" : "unorderedList"
+                  "type" : "paragraph"
                 }
               ]
             }
@@ -167,50 +86,15 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Resolving-and-Combining-Vectors",
+          "anchor" : "Calculating-the-Force-Couple-Equivalent",
           "level" : 2,
-          "text" : "Resolving and Combining Vectors",
+          "text" : "Calculating the Force-Couple Equivalent",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "identifier" : "Diagram_Vector Resolution",
-              "type" : "image"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "where",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "code" : [
-            "Ax = A \\cos(\\theta)",
-            "Ay = A \\sin(\\theta)"
-          ],
-          "syntax" : "math",
-          "type" : "codeListing"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for a starting explanation. To combine vectors, just",
+              "text" : "The force couple equivalent is actually two values:",
               "type" : "text"
             }
           ],
@@ -223,7 +107,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Add the x-components of each vector to get the x-component of the resultant vector.",
+                      "text" : "The resultant force vector",
                       "type" : "text"
                     }
                   ],
@@ -236,7 +120,80 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Add the y-components of each vector to get the y-component of the resultant vector.",
+                      "text" : "The resultant moment couple",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "However, the resultant force is represented as a vector, with magnitude ",
+              "type" : "text"
+            },
+            {
+              "code" : "$F$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and direction ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " (anticlockwise from the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "positive X axis, in radians). Mathematically, this is represented as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "R = sqrt{R_{x}^2 + R_{y}^2}",
+            "\\theta = \\tan^{-1}(\\frac{R_{y}}{R_{x}})",
+            "M_{a} = \\sum_{i=1}^{n} F_{i} \\cdot d_{i}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$R$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the resultant force vector",
                       "type" : "text"
                     }
                   ],
@@ -249,7 +206,11 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Use the Pythagorean theorem to find the magnitude of the resultant vector.",
+                      "code" : "$R_{x}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the x component of the resultant force vector",
                       "type" : "text"
                     }
                   ],
@@ -262,7 +223,79 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Use the inverse tangent function to find the angle of the resultant vector.",
+                      "code" : "$R_{y}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the y component of the resultant force vector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\theta$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the angle of the resultant force vector",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$M_{a}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the moment about point A",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$F_{i}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the force vector of the i-th force",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$d_{i}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the perpendicular distance from the pivot point to the line of action of the i-th force",
                       "type" : "text"
                     }
                   ],
@@ -274,24 +307,37 @@
           "type" : "unorderedList"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "Make sure you apply the sin\/cos\/tan properly",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
+          "anchor" : "Some-things-Im-unsure-about",
+          "level" : 2,
+          "text" : "Some things I’m unsure about",
+          "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "You can use my Desmos tool for vector sums ",
+              "text" : "A single force N acting d away from the center of mass ",
               "type" : "text"
             },
             {
-              "identifier" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c",
-              "isActive" : true,
-              "type" : "reference"
+              "inlineContent" : [
+                {
+                  "text" : "certainly",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " can’t exert both N newtons of acceleration and N*d newton-meters",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "of torque. I’ll replace this section once I figure this part out.",
+              "type" : "text"
             }
           ],
           "type" : "paragraph"
@@ -313,30 +359,16 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
         "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
-        "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
         "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
       ]
     }
   ]
 , 
 "references": {
-"Diagram_Vector Resolution": {
-  "alt" : "Vector resolution diagram",
-  "identifier" : "Diagram_Vector Resolution",
-  "type" : "image",
-  "variants" : [
-    {
-      "traits" : [
-        "1x",
-        "light"
-      ],
-      "url" : "\/images\/Notes\/Diagram_Vector%20Resolution.jpg"
-    }
-  ]
-},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -364,6 +396,20 @@
   "title" : "Physical Quantities and Units",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
+},
+"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vector Quantities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-vector-quantities"
 },
 "doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
   "abstract" : [
@@ -407,20 +453,6 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples"
 },
-"doc://Notes/documentation/Notes/4.2-Force-Couple-Equivalents": {
-  "abstract" : [
-    {
-      "text" : "All forces and couples acting on a body can be replaced by a single force and a single couple",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Force Couple Equivalents",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/4.2-force-couple-equivalents"
-},
 "doc://Notes/documentation/Notes/5-Newtons-Third-Law": {
   "abstract" : [
     {
@@ -434,16 +466,6 @@
   "title" : "Newton’s Third Law",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5-newtons-third-law"
-},
-"doc://Notes/documentation/Notes/Dynamics#2D-Force-Resolution": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
-  "kind" : "section",
-  "title" : "2D Force Resolution",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/dynamics#2D-Force-Resolution"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
@@ -472,28 +494,6 @@
   "title" : "NP",
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
-},
-"doc://Notes/documentation/Notes/Physical-Quantities-Units-and-Measurement#Scalar-vs-Vector": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Physical-Quantities-Units-and-Measurement#Scalar-vs-Vector",
-  "kind" : "section",
-  "title" : "Scalar vs Vector",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/physical-quantities-units-and-measurement#Scalar-vs-Vector"
-},
-"https://www.desmos.com/calculator/q5egv7ly5c": {
-  "identifier" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c",
-  "title" : "here",
-  "titleInlineContent" : [
-    {
-      "text" : "here",
-      "type" : "text"
-    }
-  ],
-  "type" : "link",
-  "url" : "https:\/\/www.desmos.com\/calculator\/q5egv7ly5c"
 }
 }
 }

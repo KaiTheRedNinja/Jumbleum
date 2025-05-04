@@ -1,0 +1,707 @@
+{
+  "abstract" : [
+    {
+      "text" : "Newton’s third law and also free body diagrams",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Newton’s Third Law"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Apply Newton’s Third Law of Motion",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Identify action-reaction force pairs between objects.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw free body diagrams.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Replace supports with appropriate reaction forces.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#Newtons-Third-Law",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for some starter information.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "Newton’s Third Law: When two objects interact, every action force exerted by object A",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "on object B will cause object A to experience a reaction force",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "from object B that is equal and opposite to the action force that",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "object A exerted.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Definition",
+          "style" : "note",
+          "type" : "aside"
+        },
+        {
+          "anchor" : "Free-Body-Diagrams",
+          "level" : 2,
+          "text" : "Free Body Diagrams",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A free body diagram is drawn for an object of interest, WITHOUT including its supports and shows all forces acting on ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "the object",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The requirements are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Shows only ONE object",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Shows all forces acting on the object",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Forces within the object (eg. air pressure within a balloon) are not shown. Forces that the object exerts on other objects are not",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "shown (eg. the force of a block on a table).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Supports",
+          "level" : 2,
+          "text" : "Supports",
+          "type" : "heading"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Type",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Reaction Force Count",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Bars",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Tension cables and diagonal rods",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sliding attachments",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Hinges",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Fixed supports",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "3",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Pulleys",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Varies",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "anchor" : "Bars",
+          "level" : 3,
+          "text" : "Bars",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Bars directly connect one object to another, with the only reaction force being exerted by the bottom surface onto the bar, vertically",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "upwards.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Tension-cables-and-Diagonal-Rods",
+          "level" : 3,
+          "text" : "Tension cables and Diagonal Rods",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Bars that exert force sideways (eg. into a wall) or tension cables (eg. on a bridge) have one reaction force, exerted by the wall or other connection point onto the support, at a known angle.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Sliding-Attachments",
+          "level" : 3,
+          "text" : "Sliding Attachments",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A collar on a frictionless rod and a frictionless pin in a slot are both sliding attachments. The only reaction force is perpendicular to the rod or slot.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Hinges",
+          "level" : 3,
+          "text" : "Hinges",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Hinges are like diagonal rods, however they exert a non-vertical force on the ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "ground",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ". A bar on a rough surface is similar to a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hinge. Examples include bridge supports. The two reaction forces are upwards and sideways, exerted by the ground onto the hinge.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Fixed-Supports",
+          "level" : 3,
+          "text" : "Fixed Supports",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Fixed supports are like hinges, but they cannot rotate. Therefore, we have to consider the moment about the fixed support. The three reaction forces are upwards, sideways, and a moment, exerted by the attachment surface onto the support.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Pulleys",
+          "level" : 3,
+          "text" : "Pulleys",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Pulleys are the most complex support, since the number of reaction forces depends on the number of cables. Generally, the number of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "reaction forces is equal to the number of cables supporting the pulley’s weight (eg. “downwards” cables won’t).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+        "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+        "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
+        "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
+        "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents"
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-Physical-Quantities-and-Units": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.1: How physical quantities are measured and represented",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Physical Quantities and Units",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-physical-quantities-and-units"
+},
+"doc://Notes/documentation/Notes/1.2-Vector-Quantities": {
+  "abstract" : [
+    {
+      "text" : "Ch 1.2: Vector quantities and how to manipulate them",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Vector Quantities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-vector-quantities"
+},
+"doc://Notes/documentation/Notes/2-Kinematics-of-Linear-Motion": {
+  "abstract" : [
+    {
+      "text" : "Ch 2: The study of motion in one dimension",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Kinematics of Linear Motion",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
+},
+"doc://Notes/documentation/Notes/3-Resultant-Forces": {
+  "abstract" : [
+    {
+      "text" : "What happens when you combine multiple forces acting on a single body",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resultant Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3-resultant-forces"
+},
+"doc://Notes/documentation/Notes/4.1-Moment-of-Forces-and-Couples": {
+  "abstract" : [
+    {
+      "text" : "Moments with a hint of vectors",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Moment of Forces and Couples",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/4.1-moment-of-forces-and-couples"
+},
+"doc://Notes/documentation/Notes/4.2-Force-Couple-Equivalents": {
+  "abstract" : [
+    {
+      "text" : "All forces and couples acting on a body can be replaced by a single force and a single couple",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Force Couple Equivalents",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/4.2-force-couple-equivalents"
+},
+"doc://Notes/documentation/Notes/Dynamics#Newtons-Third-Law": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#Newtons-Third-Law",
+  "kind" : "section",
+  "title" : "Newton’s Third Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/dynamics#Newtons-Third-Law"
+},
+"doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Concepts and fundamental principles in engineering mechanics",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Mechanical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Mechanical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/mechanical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}
