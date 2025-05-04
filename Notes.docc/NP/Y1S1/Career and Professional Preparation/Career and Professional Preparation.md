@@ -41,3 +41,4 @@ covers non-online content) if we finish the classwork before class.
 - <doc:RIASEC-Test>
 - <doc:NP-Values>
 - <doc:LinkedIn-Digital-Portfolio>
+- <doc:Design-Your-Life>

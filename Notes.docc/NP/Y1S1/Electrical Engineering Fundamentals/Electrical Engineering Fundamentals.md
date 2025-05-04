@@ -41,3 +41,6 @@ I think OAL includes online tutorials.
 - <doc:1.4-Series-Circuits>
 - <doc:1.5-Parallel-Circuits>
 - <doc:1.6-Mixed-Circuits>
+
+### Chapter 2: DC Network Theorems
+- <doc:2.1-Thevenins-Theorem>

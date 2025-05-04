@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "A personality test by the Singapore Government’s MySkillsFuture website.",
+      "text" : "Applying the design thinking framework to your life and career",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/Design-Your-Life"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "RIASEC Test"
+    "title" : "Design Your Life"
   },
   "primaryContentSections" : [
     {
@@ -36,7 +36,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "RIASEC stands for:",
+              "text" : "It basically mirrors the design thinking process:",
               "type" : "text"
             }
           ],
@@ -49,7 +49,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Realistic\/Doer",
+                      "text" : "Empathize (understand yourself, your values, your interests)",
                       "type" : "text"
                     }
                   ],
@@ -62,7 +62,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Investigative\/Thinker",
+                      "text" : "Define (define your goals, what you want to achieve)",
                       "type" : "text"
                     }
                   ],
@@ -75,7 +75,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Artistic\/Creator",
+                      "text" : "Ideate (brainstorm ideas, potential paths)",
                       "type" : "text"
                     }
                   ],
@@ -88,7 +88,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Social\/Helper",
+                      "text" : "Prototype (try out different options, eg. internships, projects)",
                       "type" : "text"
                     }
                   ],
@@ -101,7 +101,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Enterprising\/Persuader",
+                      "text" : "Test (reflect on your experiences, iterate on your goals)",
                       "type" : "text"
                     }
                   ],
@@ -114,7 +114,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Conventional\/Organizer",
+                      "text" : "Repeat steps 1-5 until you find a path that works for you",
                       "type" : "text"
                     }
                   ],
@@ -123,60 +123,7 @@
               ]
             }
           ],
-          "type" : "unorderedList"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "There are three RIASEC tests:",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Career Interests (What you like)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Skills Confidence (What you are good at)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Work Values (What you value)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
+          "type" : "orderedList"
         }
       ],
       "kind" : "content"
@@ -195,9 +142,9 @@
       "anchor" : "Term-1",
       "generated" : true,
       "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test",
         "doc:\/\/Notes\/documentation\/Notes\/NP-Values",
-        "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio",
-        "doc:\/\/Notes\/documentation\/Notes\/Design-Your-Life"
+        "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio"
       ],
       "title" : "Term 1"
     }
@@ -231,20 +178,6 @@
   "title" : "Career and Professional Preparation",
   "type" : "topic",
   "url" : "\/documentation\/notes\/career-and-professional-preparation"
-},
-"doc://Notes/documentation/Notes/Design-Your-Life": {
-  "abstract" : [
-    {
-      "text" : "Applying the design thinking framework to your life and career",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Design-Your-Life",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Design Your Life",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/design-your-life"
 },
 "doc://Notes/documentation/Notes/LinkedIn-Digital-Portfolio": {
   "abstract" : [
@@ -287,6 +220,20 @@
   "title" : "NP Values",
   "type" : "topic",
   "url" : "\/documentation\/notes\/np-values"
+},
+"doc://Notes/documentation/Notes/RIASEC-Test": {
+  "abstract" : [
+    {
+      "text" : "A personality test by the Singapore Government’s MySkillsFuture website.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "RIASEC Test",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/riasec-test"
 }
 }
 }

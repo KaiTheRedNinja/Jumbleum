@@ -345,7 +345,8 @@
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/RIASEC-Test",
-        "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio"
+        "doc:\/\/Notes\/documentation\/Notes\/LinkedIn-Digital-Portfolio",
+        "doc:\/\/Notes\/documentation\/Notes\/Design-Your-Life"
       ],
       "title" : "Term 1"
     }
@@ -379,6 +380,20 @@
   "title" : "Career and Professional Preparation",
   "type" : "topic",
   "url" : "\/documentation\/notes\/career-and-professional-preparation"
+},
+"doc://Notes/documentation/Notes/Design-Your-Life": {
+  "abstract" : [
+    {
+      "text" : "Applying the design thinking framework to your life and career",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Design-Your-Life",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Design Your Life",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/design-your-life"
 },
 "doc://Notes/documentation/Notes/LinkedIn-Digital-Portfolio": {
   "abstract" : [

@@ -376,6 +376,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.6-Mixed-Circuits"
       ],
       "title" : "Chapter 1: Fundamentals of Electricity"
+    },
+    {
+      "anchor" : "Chapter-2-DC-Network-Theorems",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem"
+      ],
+      "title" : "Chapter 2: DC Network Theorems"
     }
   ]
 , 
@@ -491,6 +498,20 @@
   "title" : "Mixed Circuits",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.6-mixed-circuits"
+},
+"doc://Notes/documentation/Notes/2.1-Thevenins-Theorem": {
+  "abstract" : [
+    {
+      "text" : "DC networks can be reduced to a voltage source and a resistor",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thevenin’s Theorem",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-thevenins-theorem"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

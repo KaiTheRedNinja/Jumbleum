@@ -82,6 +82,15 @@
                     "path" : "\/documentation\/notes\/1.6-mixed-circuits",
                     "title" : "Mixed Circuits",
                     "type" : "article"
+                  },
+                  {
+                    "title" : "Chapter 2: DC Network Theorems",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2.1-thevenins-theorem",
+                    "title" : "Thevenin’s Theorem",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/electrical-engineering-fundamentals",
@@ -180,6 +189,11 @@
                   {
                     "path" : "\/documentation\/notes\/linkedin-digital-portfolio",
                     "title" : "Linkedin Digital Portfolio",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/design-your-life",
+                    "title" : "Design Your Life",
                     "type" : "article"
                   }
                 ],
