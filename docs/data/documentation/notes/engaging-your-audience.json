@@ -554,10 +554,12 @@
   ],
   "seeAlsoSections" : [
     {
+      "anchor" : "Lessons",
       "generated" : true,
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework"
-      ]
+      ],
+      "title" : "Lessons"
     }
   ]
 , 

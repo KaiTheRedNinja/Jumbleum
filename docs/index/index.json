@@ -219,6 +219,10 @@
               {
                 "children" : [
                   {
+                    "title" : "Lessons",
+                    "type" : "groupMarker"
+                  },
+                  {
                     "path" : "\/documentation\/notes\/voice-framework",
                     "title" : "VOICE Framework",
                     "type" : "article"
@@ -226,6 +230,15 @@
                   {
                     "path" : "\/documentation\/notes\/engaging-your-audience",
                     "title" : "Engaging your Audience",
+                    "type" : "article"
+                  },
+                  {
+                    "title" : "Assignments",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/asg1-the-tale",
+                    "title" : "The Tale",
                     "type" : "article"
                   }
                 ],

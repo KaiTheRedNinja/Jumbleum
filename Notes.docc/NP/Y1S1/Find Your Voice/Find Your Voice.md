@@ -50,5 +50,9 @@ Note: Some of these dates are VERY close to each other. Do them AS SOON AS POSSI
 
 ## Topics
 
+### Lessons
 - <doc:VOICE-Framework>
 - <doc:Engaging-your-Audience>
+
+### Assignments
+- <doc:ASG1-The-Tale>

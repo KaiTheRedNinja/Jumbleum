@@ -797,11 +797,19 @@
   ],
   "topicSections" : [
     {
-      "anchor" : "Topics",
+      "anchor" : "Lessons",
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/VOICE-Framework",
         "doc:\/\/Notes\/documentation\/Notes\/Engaging-your-Audience"
-      ]
+      ],
+      "title" : "Lessons"
+    },
+    {
+      "anchor" : "Assignments",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale"
+      ],
+      "title" : "Assignments"
     }
   ]
 , 
@@ -819,6 +827,20 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/ASG1-The-Tale": {
+  "abstract" : [
+    {
+      "text" : "Assessment 1: The Tale (20%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Tale",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg1-the-tale"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
