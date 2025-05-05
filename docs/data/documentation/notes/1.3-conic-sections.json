@@ -1295,7 +1295,7 @@
         },
         {
           "code" : [
-            "e^2 = 1 - \\begin{cases} \\frac{b^2}{a^2} & \\text{if } b < a \\\\ \\frac{a^2}{b^2} & \\text{if } a < b \\end{cases}"
+            "e^2 = 1 - \\begin{cases} \\frac{b^2}{a^2} & \\text{if } a < b \\\\ \\frac{a^2}{b^2} & \\text{if } b < a \\end{cases}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -1316,6 +1316,432 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Parabolas",
+          "level" : 2,
+          "text" : "Parabolas",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Parabola",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Imagine them like the twin of quadratic functions. The equation is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y^2 = 4ax"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the x-coordinate of the focus.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Light rays parallel to the x-axis will reflect off the parabola and converge at the focus. That is, for point ",
+              "type" : "text"
+            },
+            {
+              "code" : "$P$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " on the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "parabola, the angle between the tangent line at ",
+              "type" : "text"
+            },
+            {
+              "code" : "$P$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and the line from ",
+              "type" : "text"
+            },
+            {
+              "code" : "$P$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to the focus is equal to the angle between the tangent",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "line at ",
+              "type" : "text"
+            },
+            {
+              "code" : "$P$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and a line from ",
+              "type" : "text"
+            },
+            {
+              "code" : "$P$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " parallel to the x-axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In a conic section, the plane intersects the cone at the same gradient as the cone. This means that the plane never “closes” (like an",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "ellipse), but also doesn’t “flip” (like a hyperbola).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The eccentricity of a parabola is defined as 1, and hence is always 1.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "There’s… not much else in the notes.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Hyperbolas",
+          "level" : 2,
+          "text" : "Hyperbolas",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Hyperbola",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The standard form of a hyperbola is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$a$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the horizontal distance from the center to the vertices (touching each side of the hyperbola)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$b$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the vertical distance from the center to the vertices (… see the diagram im not describing this)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The eccentricity of a hyperbola is defined as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "e^2 = 1 + \\frac{b^2}{a^2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The following lines are asymptotes of the hyperbola:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = \\pm \\frac{b}{a}x"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Asymptotes are lines that the hyperbola approache as x tends to infinity, but never touches.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note the ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "flipped sign",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " in the hyperbola’s standard form, which also results in a flipped eccentricity formula.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Light emmitted from one focus follow the same path as light emitted from the other focus, but reflected off the hyperbola.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "They’re apparently not super useful in our course.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "General-Conics",
+          "level" : 2,
+          "text" : "General Conics",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The following is the general form of ANY conic section:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where A, B, C, D, E, and F are constants.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If A, B, and C are all equal to 0, the equation is a line. If not, the equation is",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "an ellipse if ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B^2 - 4AC$ < 0",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "a circle if ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$A = C$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "a parabola if ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B^2 - 4AC$ = 0",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "a hyperbola if ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$B^2 - 4AC$ > 0",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -1368,6 +1794,34 @@
         "light"
       ],
       "url" : "\/images\/Notes\/Graph_Ellipse%20Derivation.png"
+    }
+  ]
+},
+"Graph_Hyperbola": {
+  "alt" : "Hyperbola",
+  "identifier" : "Graph_Hyperbola",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Hyperbola.png"
+    }
+  ]
+},
+"Graph_Parabola": {
+  "alt" : "Parabola",
+  "identifier" : "Graph_Parabola",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Parabola.png"
     }
   ]
 },
