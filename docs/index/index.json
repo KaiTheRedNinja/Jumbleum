@@ -133,6 +133,11 @@
                     "path" : "\/documentation\/notes\/5-newtons-third-law",
                     "title" : "Newton’s Third Law",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/5.3-friction",
+                    "title" : "Friction",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",

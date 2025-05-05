@@ -31,3 +31,4 @@ You can repeat Online Assignments as many times as you want, but only the highes
 - <doc:4.1-Moment-of-Forces-and-Couples>
 - <doc:4.2-Force-Couple-Equivalents>
 - <doc:5-Newtons-Third-Law>
+- <doc:5.3-Friction>

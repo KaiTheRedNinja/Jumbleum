@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Newton’s third law and also free body diagrams",
+      "text" : "The contact resistance to motion",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Newton’s Third Law"
+    "title" : "Friction"
   },
   "primaryContentSections" : [
     {
@@ -40,7 +40,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Apply Newton’s Third Law of Motion",
+                      "text" : "Draw free body diagrams for objects subjected to friction forces.",
                       "type" : "text"
                     }
                   ],
@@ -53,7 +53,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Identify action-reaction force pairs between objects.",
+                      "text" : "Tell the difference between static friction and kinetic friction.",
                       "type" : "text"
                     }
                   ],
@@ -66,7 +66,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Draw free body diagrams.",
+                      "text" : "Apply the equation for static friction force ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$F_{s} = \\mu_{s} \\cdot R_{N}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
                       "type" : "text"
                     }
                   ],
@@ -79,7 +87,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Replace supports with appropriate reaction forces.",
+                      "text" : "Apply the equation for kinetic friction force ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$F_{k} = \\mu_{k} \\cdot R_{N}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
                       "type" : "text"
                     }
                   ],
@@ -91,86 +107,23 @@
           "type" : "unorderedList"
         },
         {
-          "inlineContent" : [
-            {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#Newtons-Third-Law",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for some starter information.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "content" : [
-            {
-              "inlineContent" : [
-                {
-                  "text" : "Newton’s Third Law: When two objects interact, every action force exerted by object A",
-                  "type" : "text"
-                },
-                {
-                  "text" : " ",
-                  "type" : "text"
-                },
-                {
-                  "text" : "on object B will cause object A to experience a reaction force",
-                  "type" : "text"
-                },
-                {
-                  "text" : " ",
-                  "type" : "text"
-                },
-                {
-                  "text" : "from object B that is equal and opposite to the action force that",
-                  "type" : "text"
-                },
-                {
-                  "text" : " ",
-                  "type" : "text"
-                },
-                {
-                  "text" : "object A exerted.",
-                  "type" : "text"
-                }
-              ],
-              "type" : "paragraph"
-            }
-          ],
-          "name" : "Definition",
-          "style" : "note",
-          "type" : "aside"
-        },
-        {
-          "anchor" : "Free-Body-Diagrams",
+          "anchor" : "Dry-Friction",
           "level" : 2,
-          "text" : "Free Body Diagrams",
+          "text" : "Dry Friction",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "A free body diagram is drawn for an object of interest, WITHOUT including its supports and shows all forces acting on ",
+              "text" : "Friction may be defined as the contact resistance exerted by one body upon a second body when the second body slides or tends to slide",
               "type" : "text"
             },
             {
-              "inlineContent" : [
-                {
-                  "text" : "the object",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
+              "text" : " ",
+              "type" : "text"
             },
             {
-              "text" : ".",
+              "text" : "past the first body.",
               "type" : "text"
             }
           ],
@@ -179,7 +132,31 @@
         {
           "inlineContent" : [
             {
-              "text" : "The requirements are:",
+              "text" : "Friction is a retarding force that always acts opposite to the motion or the tendency to move.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Dry friction happens when unlubricated surfaces of two solids are in contact and sliding.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Magnitude-of-Friction",
+          "level" : 3,
+          "text" : "Magnitude of Friction",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Friction’s magnitude is dependent on two things:",
               "type" : "text"
             }
           ],
@@ -192,7 +169,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Shows only ONE object",
+                      "text" : "The nature of the surfaces in contact (rough surfaces have more friction than smooth surfaces).",
                       "type" : "text"
                     }
                   ],
@@ -205,7 +182,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Shows all forces acting on the object",
+                      "text" : "The normal force pressing the two surfaces together (the more force, the more friction).",
                       "type" : "text"
                     }
                   ],
@@ -217,212 +194,264 @@
           "type" : "orderedList"
         },
         {
+          "anchor" : "Nature-of-Surfaces-in-Contact",
+          "level" : 3,
+          "text" : "Nature of Surfaces in Contact",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The nature of the surfaces in contact that affects the amount of frictional force between them is represented by values called",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "coefficient of friction ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\mu$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ".",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "There is a friction coefficent between every pair of surfaces in contact.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The frictoin coefficent may be different when surfaces are in motion than when they are at rest.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "In rest, the value is called the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "static friction coefficent",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "emphasis"
+                            },
+                            {
+                              "text" : ", ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$\\mu_{s}$",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : ".",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "In motion, the value is called the ",
+                              "type" : "text"
+                            },
+                            {
+                              "inlineContent" : [
+                                {
+                                  "text" : "kinetic friction coefficent",
+                                  "type" : "text"
+                                }
+                              ],
+                              "type" : "emphasis"
+                            },
+                            {
+                              "text" : ", ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$\\mu_{k}$",
+                              "type" : "codeVoice"
+                            },
+                            {
+                              "text" : ".",
+                              "type" : "text"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "inlineContent" : [
             {
-              "text" : "Forces within the object (eg. air pressure within a balloon) are not shown. Forces that the object exerts on other objects are not",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "shown (eg. the force of a block on a table).",
+              "text" : "The coefficients do NOT have any units.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "anchor" : "Supports",
+          "anchor" : "Static-Friction-vs-Kinetic-Friction",
           "level" : 2,
-          "text" : "Supports",
+          "text" : "Static Friction vs Kinetic Friction",
           "type" : "heading"
         },
         {
-          "header" : "row",
-          "rows" : [
-            [
-              [
+          "columns" : [
+            {
+              "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Type",
+                      "text" : "When the object is stationary:",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "F_{f} < \\mu_{s} \\cdot R_{N}"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
                 }
               ],
-              [
+              "size" : 1
+            },
+            {
+              "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Reaction Force Count",
+                      "text" : "When the object is stationary but about to move (impending motion):",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
+                },
                 {
-                  "inlineContent" : [
-                    {
-                      "text" : "Bars",
-                      "type" : "text"
-                    }
+                  "code" : [
+                    "F_{f} = \\mu_{s} \\cdot R_{N}"
                   ],
-                  "type" : "paragraph"
+                  "syntax" : "math",
+                  "type" : "codeListing"
                 }
               ],
-              [
+              "size" : 1
+            },
+            {
+              "content" : [
                 {
                   "inlineContent" : [
                     {
-                      "text" : "1",
+                      "text" : "When the object is in motion:",
                       "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
+                },
                 {
-                  "inlineContent" : [
-                    {
-                      "text" : "Tension cables and diagonal rods",
-                      "type" : "text"
-                    }
+                  "code" : [
+                    "F_{f} = \\mu_{k} \\cdot R_{N}"
                   ],
-                  "type" : "paragraph"
+                  "syntax" : "math",
+                  "type" : "codeListing"
                 }
               ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "1",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Sliding attachments",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "1",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Hinges",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "2",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Fixed supports",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "3",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ],
-            [
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Pulleys",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ],
-              [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "Varies",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            ]
+              "size" : 1
+            }
           ],
-          "type" : "table"
+          "numberOfColumns" : 3,
+          "type" : "row"
         },
         {
-          "anchor" : "Bars",
-          "level" : 3,
-          "text" : "Bars",
+          "inlineContent" : [
+            {
+              "text" : "Where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$R_{N}$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the normal force acting on the object.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Friction-in-a-Free-Body-Diagram",
+          "level" : 2,
+          "text" : "Friction in a Free Body Diagram",
           "type" : "heading"
         },
         {
           "inlineContent" : [
             {
-              "text" : "Bars directly connect one object to another, with the only reaction force being exerted by the bottom surface onto the bar, vertically",
+              "text" : "In stationary objects, the direction of the frictional force opposes the tendency to move or impending motion of the object.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If the resultant force of the object parallel to the surface is in the positive direction, then the frictional force will be in the",
               "type" : "text"
             },
             {
@@ -430,111 +459,16 @@
               "type" : "text"
             },
             {
-              "text" : "upwards.",
+              "text" : "negative direction.",
               "type" : "text"
             }
           ],
           "type" : "paragraph"
         },
         {
-          "anchor" : "Tension-cables-and-Diagonal-Rods",
-          "level" : 3,
-          "text" : "Tension cables and Diagonal Rods",
-          "type" : "heading"
-        },
-        {
           "inlineContent" : [
             {
-              "text" : "Bars that exert force sideways (eg. into a wall) or tension cables (eg. on a bridge) have one reaction force, exerted by the wall or other connection point onto the support, at a known angle.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Sliding-Attachments",
-          "level" : 3,
-          "text" : "Sliding Attachments",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "A collar on a frictionless rod and a frictionless pin in a slot are both sliding attachments. The only reaction force is perpendicular to the rod or slot.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Hinges",
-          "level" : 3,
-          "text" : "Hinges",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Hinges are like diagonal rods, however they exert a non-vertical force on the ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "ground",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
-            },
-            {
-              "text" : ". A bar on a rough surface is similar to a",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "hinge. Examples include bridge supports. The two reaction forces are upwards and sideways, exerted by the ground onto the hinge.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Fixed-Supports",
-          "level" : 3,
-          "text" : "Fixed Supports",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Fixed supports are like hinges, but they cannot rotate. Therefore, we have to consider the moment about the fixed support. The three reaction forces are upwards, sideways, and a moment, exerted by the attachment surface onto the support.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Pulleys",
-          "level" : 3,
-          "text" : "Pulleys",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "Pulleys are the most complex support, since the number of reaction forces depends on the number of cables. Generally, the number of",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "reaction forces is equal to the number of cables supporting the pulley’s weight (eg. “downwards” cables won’t).",
+              "text" : "If the object does not move, the frictional force will be equal to the resultant force parallel to the surface.",
               "type" : "text"
             }
           ],
@@ -562,7 +496,7 @@
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
-        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
+        "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
       ]
     }
   ]
@@ -666,29 +600,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/4.2-force-couple-equivalents"
 },
-"doc://Notes/documentation/Notes/5.3-Friction": {
+"doc://Notes/documentation/Notes/5-Newtons-Third-Law": {
   "abstract" : [
     {
-      "text" : "The contact resistance to motion",
+      "text" : "Newton’s third law and also free body diagrams",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
   "kind" : "article",
   "role" : "article",
-  "title" : "Friction",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/5.3-friction"
-},
-"doc://Notes/documentation/Notes/Dynamics#Newtons-Third-Law": {
-  "abstract" : [
-
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#Newtons-Third-Law",
-  "kind" : "section",
   "title" : "Newton’s Third Law",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/dynamics#Newtons-Third-Law"
+  "url" : "\/documentation\/notes\/5-newtons-third-law"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [

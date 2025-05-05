@@ -317,7 +317,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
-        "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law"
+        "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
+        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
       ]
     }
   ]
@@ -434,6 +435,20 @@
   "title" : "Newton’s Third Law",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5-newtons-third-law"
+},
+"doc://Notes/documentation/Notes/5.3-Friction": {
+  "abstract" : [
+    {
+      "text" : "The contact resistance to motion",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Friction",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/5.3-friction"
 },
 "doc://Notes/documentation/Notes/Dynamics#2D-Force-Resolution": {
   "abstract" : [
