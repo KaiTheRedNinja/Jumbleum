@@ -451,32 +451,10 @@
         "doc:\/\/Notes\/documentation\/Notes\/SST"
       ],
       "title" : "Secondary School"
-    },
-    {
-      "anchor" : "Articles",
-      "generated" : true,
-      "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.2-Mesh-Analysis"
-      ],
-      "title" : "Articles"
     }
   ]
 , 
 "references": {
-"doc://Notes/documentation/Notes/2.2-Mesh-Analysis": {
-  "abstract" : [
-    {
-      "text" : "Applying KVL and simultaneous equations to solve for unknown currents in a circuit.",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Mesh-Analysis",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Mesh Analysis",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/2.2-mesh-analysis"
-},
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [
     {

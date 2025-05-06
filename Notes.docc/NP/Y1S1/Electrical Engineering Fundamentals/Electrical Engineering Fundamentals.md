@@ -62,3 +62,5 @@ Remember to
 
 ### Chapter 2: DC Network Theorems
 - <doc:2.1-Thevenins-Theorem>
+- <doc:2.2-Mesh-Analysis>
+- <doc:2.3-Superposition-Theorem>

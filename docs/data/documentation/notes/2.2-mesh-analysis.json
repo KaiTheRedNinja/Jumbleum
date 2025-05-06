@@ -8,7 +8,9 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals"
       ]
     ]
   },
@@ -275,6 +277,17 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-2-DC-Network-Theorems",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem",
+        "doc:\/\/Notes\/documentation\/Notes\/2.3-Superposition-Theorem"
+      ],
+      "title" : "Chapter 2: DC Network Theorems"
+    }
   ]
 , 
 "references": {
@@ -305,6 +318,62 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/2.1-Thevenins-Theorem": {
+  "abstract" : [
+    {
+      "text" : "DC networks can be reduced to a voltage source and a resistor",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thevenin’s Theorem",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-thevenins-theorem"
+},
+"doc://Notes/documentation/Notes/2.3-Superposition-Theorem": {
+  "abstract" : [
+    {
+      "text" : "A circuit is exactly the sum of its parts",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.3-Superposition-Theorem",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Superposition Theorem",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.3-superposition-theorem"
+},
+"doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
+  "abstract" : [
+    {
+      "text" : "Lay the foundation in electrical engineering to prepare us for more specialized modules",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Electrical-Engineering-Fundamentals",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Electrical Engineering Fundamentals",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/electrical-engineering-fundamentals"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
 }
 }
 }

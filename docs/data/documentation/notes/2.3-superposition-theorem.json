@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "DC networks can be reduced to a voltage source and a resistor",
+      "text" : "A circuit is exactly the sum of its parts",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/2.3-Superposition-Theorem"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Thevenin’s Theorem"
+    "title" : "Superposition Theorem"
   },
   "primaryContentSections" : [
     {
@@ -34,59 +34,58 @@
           "type" : "heading"
         },
         {
-          "items" : [
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "To be able to determine the values of Thevenin equivalent resistance ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "$R_{Th}$",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " and Thevenin equivalent voltage ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "$V_{Th}$",
-                      "type" : "codeVoice"
-                    },
-                    {
-                      "text" : " for a",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "given network",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            }
-          ],
-          "type" : "unorderedList"
-        },
-        {
-          "anchor" : "Thevenins-Theorem",
-          "level" : 2,
-          "text" : "Thevenin’s Theorem",
-          "type" : "heading"
-        },
-        {
           "content" : [
             {
               "inlineContent" : [
                 {
-                  "text" : "Thevenin’s Theorem: Any two-terminal, linear bilateral DC network can be replaced by an equivalent circuit consisting of a voltage source and a series resistor.",
+                  "text" : "Superposition Theorem: In a linear, multisource network, the ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "current through",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "emphasis"
+                },
+                {
+                  "text" : " or the ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "voltage across",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "emphasis"
+                },
+                {
+                  "text" : " a network element",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "is equal to the ",
+                  "type" : "text"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "algebraic sum",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "emphasis"
+                },
+                {
+                  "text" : " of tme currents or voltages produced by each source acting alone",
                   "type" : "text"
                 }
               ],
@@ -96,6 +95,12 @@
           "name" : "Definition",
           "style" : "note",
           "type" : "aside"
+        },
+        {
+          "anchor" : "Superposition-Theorem",
+          "level" : 2,
+          "text" : "Superposition Theorem",
+          "type" : "heading"
         },
         {
           "inlineContent" : [
@@ -115,29 +120,7 @@
                     {
                       "inlineContent" : [
                         {
-                          "text" : "Two-terminal",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : ": The network has two terminals (input and output)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "Linear",
+                          "text" : "linear",
                           "type" : "text"
                         }
                       ],
@@ -159,36 +142,14 @@
                     {
                       "inlineContent" : [
                         {
-                          "text" : "Bilateral",
+                          "text" : "multisource",
                           "type" : "text"
                         }
                       ],
                       "type" : "strong"
                     },
                     {
-                      "text" : ": The network behaves the same in both directions (ie. no diodes or transistors)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "DC",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : ": The network is powered by a DC source (not AC)",
+                      "text" : ": The network has more than one source",
                       "type" : "text"
                     }
                   ],
@@ -200,10 +161,30 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Steps-to-Find-Thevenin-Equivalent",
-          "level" : 2,
-          "text" : "Steps to Find Thevenin Equivalent",
-          "type" : "heading"
+          "inlineContent" : [
+            {
+              "text" : "Mathematically,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "I_{T} = \\sum_{i=1}^{n} I_{i}",
+            "V_{T} = \\sum_{i=1}^{n} V_{i}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "items" : [
@@ -212,88 +193,11 @@
                 {
                   "inlineContent" : [
                     {
-                      "inlineContent" : [
-                        {
-                          "text" : "Remove the load",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : ": Remove the part of the circuit between the two terminals, outside the DC network. This should result in an",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "open circuit between the two terminals.",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "Label the terminals",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : ": Label the terminals of the circuit as A and B.",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "Find the open circuit voltage",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "strong"
-                    },
-                    {
-                      "text" : ": Find the voltage across the terminals A and B. This is the Thevenin equivalent voltage",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "$V_{Th}$",
+                      "code" : "$I_{T}$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : ". It is easiest to imagine this as calculating the voltage across the open part of the circuit, since it almost always",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "reduces to a voltage divider.",
+                      "text" : ": Total current through the element of interest",
                       "type" : "text"
                     }
                   ],
@@ -306,32 +210,186 @@
                 {
                   "inlineContent" : [
                     {
+                      "code" : "$V_{T}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Total voltage across the element of interest",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$I_{i}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Current through the element of interest due to source ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$i$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$V_{i}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": Voltage across the element of interest due to source ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$i$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Using-Superposition-Theorem",
+          "level" : 2,
+          "text" : "Using Superposition Theorem",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The steps involved are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Disable all sources except ",
+                      "type" : "text"
+                    },
+                    {
                       "inlineContent" : [
                         {
-                          "text" : "Find the total resistance",
+                          "text" : "source 1",
                           "type" : "text"
                         }
                       ],
                       "type" : "strong"
                     },
                     {
-                      "text" : ": Replace all the voltage sources with a short circuit, the effective resistance between the",
+                      "text" : " (disable means to replace the source with a short circuit)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Redraw the network, analyse it to find the current ",
                       "type" : "text"
                     },
                     {
-                      "text" : " ",
-                      "type" : "text"
-                    },
-                    {
-                      "text" : "terminals A and B is the Thevenin equivalent resistance ",
-                      "type" : "text"
-                    },
-                    {
-                      "code" : "$R_{Th}$",
+                      "code" : "$I_{1}$",
                       "type" : "codeVoice"
                     },
                     {
-                      "text" : ".",
+                      "text" : " or voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_{1}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " across the element of interest",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Repeat steps 1 and 2 for each source in the network to obtain ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$I_{2}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_{2}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", etc.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Sum the results from each source to obtain the total current ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$I_{T}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or voltage ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$V_{T}$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " across the element of interest",
                       "type" : "text"
                     }
                   ],
@@ -341,6 +399,15 @@
             }
           ],
           "type" : "orderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This theorem is rather simple so I don’t think I need to give an example.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         }
       ],
       "kind" : "content"
@@ -359,8 +426,8 @@
       "anchor" : "Chapter-2-DC-Network-Theorems",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.2-Mesh-Analysis",
-        "doc:\/\/Notes\/documentation\/Notes\/2.3-Superposition-Theorem"
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem",
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Mesh-Analysis"
       ],
       "title" : "Chapter 2: DC Network Theorems"
     }
@@ -381,6 +448,20 @@
   "type" : "topic",
   "url" : "\/documentation\/home"
 },
+"doc://Notes/documentation/Notes/2.1-Thevenins-Theorem": {
+  "abstract" : [
+    {
+      "text" : "DC networks can be reduced to a voltage source and a resistor",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Thevenins-Theorem",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Thevenin’s Theorem",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-thevenins-theorem"
+},
 "doc://Notes/documentation/Notes/2.2-Mesh-Analysis": {
   "abstract" : [
     {
@@ -394,20 +475,6 @@
   "title" : "Mesh Analysis",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2.2-mesh-analysis"
-},
-"doc://Notes/documentation/Notes/2.3-Superposition-Theorem": {
-  "abstract" : [
-    {
-      "text" : "A circuit is exactly the sum of its parts",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.3-Superposition-Theorem",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Superposition Theorem",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/2.3-superposition-theorem"
 },
 "doc://Notes/documentation/Notes/Electrical-Engineering-Fundamentals": {
   "abstract" : [
