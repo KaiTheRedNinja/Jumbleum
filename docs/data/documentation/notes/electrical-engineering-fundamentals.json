@@ -336,6 +336,151 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Equipment",
+          "level" : 2,
+          "text" : "Equipment",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Multimeter",
+          "level" : 3,
+          "text" : "Multimeter",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Measures voltage, current, resistance, continuity (if the circuit is closed), and a few others.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The black lead should always be on the COM port. The red lead should be on the",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "mA",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " port when measuring current less than 600mA",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "A",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " port when measuring current between 600mA and 10A (do NOT measure more than 10A on a multimeter)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "VΩ",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " port when measuring anything else",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Power-Supply",
+          "level" : 3,
+          "text" : "Power Supply",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Remember to",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "ONLY use channel 1 (to avoid getting confused)",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Make sure the channel is on",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Turn off the power supply before connecting or disconnecting wires",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"

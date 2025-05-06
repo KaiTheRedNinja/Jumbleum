@@ -1137,6 +1137,15 @@
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/2.2-mesh-analysis",
+            "title" : "Mesh Analysis",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

@@ -32,6 +32,24 @@ There are no "definition" questions in EEFD, according to my teacher.
 
 I think OAL includes online tutorials.
 
+## Equipment
+
+### Multimeter
+
+Measures voltage, current, resistance, continuity (if the circuit is closed), and a few others.
+
+The black lead should always be on the COM port. The red lead should be on the 
+- `mA` port when measuring current less than 600mA
+- `A` port when measuring current between 600mA and 10A (do NOT measure more than 10A on a multimeter)
+- `VΩ` port when measuring anything else
+
+### Power Supply
+
+Remember to
+- ONLY use channel 1 (to avoid getting confused)
+- Make sure the channel is on
+- Turn off the power supply before connecting or disconnecting wires
+
 ## Topics
 
 ### Chapter 1: Fundamentals of Electricity
