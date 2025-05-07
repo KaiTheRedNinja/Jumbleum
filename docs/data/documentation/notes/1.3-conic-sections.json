@@ -1368,6 +1368,39 @@
         {
           "inlineContent" : [
             {
+              "text" : "If you want to translate the parabola horizontally, you can use the following equation:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y^2 = 4a(x - \\alpha)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$(a + \\alpha, 0)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the focus of the parabola.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Light rays parallel to the x-axis will reflect off the parabola and converge at the focus. That is, for point ",
               "type" : "text"
             },
@@ -1433,7 +1466,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "In a conic section, the plane intersects the cone at the same gradient as the cone. This means that the plane never “closes” (like an",
+              "text" : "In a conic section, the plane intersects the cone at the same gradient as the cone. This means that the plane never",
               "type" : "text"
             },
             {
@@ -1441,7 +1474,7 @@
               "type" : "text"
             },
             {
-              "text" : "ellipse), but also doesn’t “flip” (like a hyperbola).",
+              "text" : "“closes” (like an ellipse), but also doesn’t “flip” (like a hyperbola).",
               "type" : "text"
             }
           ],
@@ -1459,7 +1492,24 @@
         {
           "inlineContent" : [
             {
-              "text" : "There’s… not much else in the notes.",
+              "text" : "A parabola is defined as the set of points in a plane that are equidistant from a point (the focus) and a line (the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "directrix). See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.desmos.com\/calculator\/c86hym1uuj",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for a visual.",
               "type" : "text"
             }
           ],
@@ -1547,6 +1597,73 @@
         {
           "inlineContent" : [
             {
+              "text" : "The foci are located at ",
+              "type" : "text"
+            },
+            {
+              "code" : "$(\\pm ae, 0)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$e$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the eccentricity of the hyperbola. Note that this is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "identical to the ellipse, since they’re basically the same thing.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The diretrices (plural of directrix) are located at",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "x = \\pm \\frac{a}{e}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Basically, a is how far apart each half of the hyperbola is, and b is how steep the hyperbola is.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If x and y are flipped, the hyperbola is rotated 90 degrees and the foci are vertical.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "The eccentricity of a hyperbola is defined as:",
               "type" : "text"
             }
@@ -1559,6 +1676,15 @@
           ],
           "syntax" : "math",
           "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The eccentricity of a hyperbola is always greater than 1, since squared things are always positive.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "inlineContent" : [
@@ -1619,7 +1745,25 @@
         {
           "inlineContent" : [
             {
-              "text" : "They’re apparently not super useful in our course.",
+              "text" : "They’re apparently not super useful in our course, though marine navigation uses them.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "https:\/\/www.desmos.com\/calculator\/znlge8jt3s",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for a visual.",
               "type" : "text"
             }
           ],
@@ -1762,7 +1906,7 @@
       "identifiers" : [
         "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
-        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles"
+        "doc:\/\/Notes\/documentation\/Notes\/1.4-Polar-Coordinates"
       ],
       "title" : "Chapter 1: Plane Analytic Geometry"
     }
@@ -1867,19 +2011,19 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.2-circles"
 },
-"doc://Notes/documentation/Notes/2.1-Right-Angled-Triangles": {
+"doc://Notes/documentation/Notes/1.4-Polar-Coordinates": {
   "abstract" : [
     {
-      "text" : "An introduction to trigonometry via right-angled triangles, its simplest application",
+      "text" : "Instead of (x, y), we use [r, θ] for distance from the origin and anticlockwise angle from the x-axis.",
       "type" : "text"
     }
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.4-Polar-Coordinates",
   "kind" : "article",
   "role" : "article",
-  "title" : "Right Angled Triangles",
+  "title" : "Polar Coordinates",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+  "url" : "\/documentation\/notes\/1.4-polar-coordinates"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
@@ -1909,6 +2053,18 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
 },
+"https://www.desmos.com/calculator/c86hym1uuj": {
+  "identifier" : "https:\/\/www.desmos.com\/calculator\/c86hym1uuj",
+  "title" : "this graph",
+  "titleInlineContent" : [
+    {
+      "text" : "this graph",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.desmos.com\/calculator\/c86hym1uuj"
+},
 "https://www.desmos.com/calculator/v9r0dzgj0c": {
   "identifier" : "https:\/\/www.desmos.com\/calculator\/v9r0dzgj0c",
   "title" : "this graph",
@@ -1920,6 +2076,18 @@
   ],
   "type" : "link",
   "url" : "https:\/\/www.desmos.com\/calculator\/v9r0dzgj0c"
+},
+"https://www.desmos.com/calculator/znlge8jt3s": {
+  "identifier" : "https:\/\/www.desmos.com\/calculator\/znlge8jt3s",
+  "title" : "this graph",
+  "titleInlineContent" : [
+    {
+      "text" : "this graph",
+      "type" : "text"
+    }
+  ],
+  "type" : "link",
+  "url" : "https:\/\/www.desmos.com\/calculator\/znlge8jt3s"
 }
 }
 }

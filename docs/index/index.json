@@ -38,6 +38,15 @@
                     "type" : "article"
                   },
                   {
+                    "path" : "\/documentation\/notes\/1.4-polar-coordinates",
+                    "title" : "Polar Coordinates",
+                    "type" : "article"
+                  },
+                  {
+                    "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities",
+                    "type" : "groupMarker"
+                  },
+                  {
                     "path" : "\/documentation\/notes\/2.1-right-angled-triangles",
                     "title" : "Right Angled Triangles",
                     "type" : "article"

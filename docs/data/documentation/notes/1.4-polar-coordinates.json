@@ -1,0 +1,943 @@
+{
+  "abstract" : [
+    {
+      "text" : "Instead of (x, y), we use [r, θ] for distance from the origin and anticlockwise angle from the x-axis.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/1.4-Polar-Coordinates"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Polar Coordinates"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Understand how Cartesian coordinates and polar coordinates are related",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Find the polar form of a curve given in Cartesian form",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Recognise some conics given in polar form",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Polar-Coordinates",
+          "level" : 2,
+          "text" : "Polar Coordinates",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In polar coordinates, a point is represented by the ordered pair [r, θ]. Note the square brackets, to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "distinguish from the Cartesian coordinates (x, y).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These forms can be converted to each other using the following equations:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = +\\sqrt{x^2 + y^2}",
+            "\\tan(\\theta) = \\frac{y}{x}",
+            "",
+            "x = r \\cos(\\theta)",
+            "y = r \\sin(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The angle θ is measured anticlockwise from the positive x-axis, typically in radians. The distance r is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the distance from the origin to the point and is positive.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that the fact that ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\tan(\\theta) = y\/x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " does NOT mean that ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta = \\tan^{-1}(y\/x)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "This is because the tangent function is periodic, and this would make it seem like theta only",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "lies in the 1st and 4th quadrants (to the right of the y-axis).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The line from (x, y) to the origin will make an angle of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\tan^{-1}(y\/x)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " with the x-axis, but",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "it may not be accurate to which ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "direction",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " in the line the point is. For example, the point (-1, 1)",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is in the 2nd quadrant (top-left), but ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\tan^{-1}(1\/-1)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is in the 4th quadrant (bottom-right).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We use polar coordinates because some problems are easier to solve in polar coordinates than in Cartesian",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "coordinates, especially circles - its literally just ",
+              "type" : "text"
+            },
+            {
+              "code" : "$r=a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " for a circle with radius ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Finding-Polar-Coordinate-Forms",
+          "level" : 2,
+          "text" : "Finding Polar Coordinate Forms",
+          "type" : "heading"
+        },
+        {
+          "anchor" : "Circle-Example",
+          "level" : 3,
+          "text" : "Circle Example",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To find the polar coordinate form of a circle:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "x^2 + y^2 = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We then substitute ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$y$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " with their polar equivalents:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(r \\cos(\\theta))^2 + (r \\sin(\\theta))^2 = 1",
+            "r^2 (\\cos^2(\\theta) + \\sin^2(\\theta)) = 1",
+            "r^2 = 1"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Which makes sense because its a circle with radius 1.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Parabola-Example",
+          "level" : 3,
+          "text" : "Parabola Example",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To find the polar coordinate form of a parabola:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y=2x^2"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note: This is an upwards parabola, not a sideways one. ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " here is ",
+              "type" : "text"
+            },
+            {
+              "code" : "$1\/8$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", not ",
+              "type" : "text"
+            },
+            {
+              "code" : "$1\/2$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We substitute and get:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r \\sin(\\theta) = 2(r \\cos(\\theta)^2)^2",
+            "r \\sin(\\theta) - 2r^2\\cos(\\theta)^2 = 0",
+            "r(\\sin(\\theta) - 2r\\cos(\\theta)^2) = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Either ",
+              "type" : "text"
+            },
+            {
+              "code" : "$r = 0$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", which is obviously false as that would be a point, not a parabola, or:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(\\theta) - 2r\\cos(\\theta)^2 = 0",
+            "2r\\cos(\\theta)^2 = -\\sin(\\theta)",
+            "r = \\frac{1}{2} \\tan(\\theta) \\sec(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A slightly more complicated example is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y^2 = 1 + 2x"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Unlike the previous example, this does not start at the origin. Substituting gives:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(r \\sin(\\theta))^2 = 1 + 2(r \\cos(\\theta))",
+            "r^2 \\sin^2(\\theta) - 2r \\cos(\\theta) - 1 =",
+            "r^2 \\sin^2(\\theta) + r(-2\\cos(\\theta)) - 1 = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can then use the quadratic formula to solve for r: (we only consider the positive root, as the parabola is on the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "positive side of the y-axis)",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = \\frac{2\\cos(\\theta) + \\sqrt{(-2\\cos(\\theta))^2 - 4(\\sin^2(\\theta))(-1)}}{2\\sin^2(\\theta)}",
+            "",
+            "= \\frac{2\\cos(\\theta) + \\sqrt{4\\cos^2(\\theta) + 4\\sin^2(\\theta)}}{2\\sin^2(\\theta)}",
+            "",
+            "= \\frac{2\\cos(\\theta) + 2}{{2\\sin^2(\\theta)}}",
+            "",
+            "= \\frac{\\cos(\\theta) + 1}{\\sin^2(\\theta)}",
+            "",
+            "= \\frac{\\cos(\\theta) + 1}{1 - \\cos^2(\\theta)}",
+            "",
+            "= \\frac{\\cos(\\theta) + 1}{(1 - \\cos(\\theta))(1 + \\cos(\\theta))}",
+            "",
+            "= \\frac{1}{1 - \\cos(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Line-Example",
+          "level" : 3,
+          "text" : "Line Example",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For a line which passes through the origin, we can use the polar form:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = mx",
+            "\\theta = \\tan^{-1}(m)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "But for a line which does not pass through the origin, it is a bit more complicated:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = mx + c",
+            "r \\sin(\\theta) = m(r \\cos(\\theta)) + c",
+            "r \\sin(\\theta) - mr \\cos(\\theta) = c",
+            "r(\\sin(\\theta) - m \\cos(\\theta)) = c",
+            "r = \\frac{c}{\\sin(\\theta) - m \\cos(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Finding-Cartesian-Forms",
+          "level" : 2,
+          "text" : "Finding Cartesian Forms",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = \\cos(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can multiply both sides by r to get:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r^2 = r \\cos(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Notice that ",
+              "type" : "text"
+            },
+            {
+              "code" : "$r \\cos(\\theta) = x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". We can then substitute:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r^2 = x",
+            "sqrt(x^2 + y^2)^2 = x",
+            "x^2 + y^2 = x",
+            "x^2 - x + y^2 = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Completing the square gives:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "(x - \\frac{1}{2})^2 - (\\frac{1}{2})^2 + y^2 = 0",
+            "(x - \\frac{1}{2})^2 + y^2 = (\\frac{1}{2})^2 = \\frac{1}{4}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "So we get a circle with center ",
+              "type" : "text"
+            },
+            {
+              "code" : "$(1\/2, 0)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and radius ",
+              "type" : "text"
+            },
+            {
+              "code" : "$1\/2$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Generic-Conics-with-Polar-Coordinates",
+          "level" : 2,
+          "text" : "Generic Conics with Polar Coordinates",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A conic is defined as the set of points on a plane such that the ratio of the distance from a point to a focus and",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the distance from the point to a directrix is the eccentricity ",
+              "type" : "text"
+            },
+            {
+              "code" : "$e$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " of the conic. That is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{\\textrm{distance from point to focus}}{\\textrm{perpendicular distance from point to directrix}} = e"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In particular, if",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$e<1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", it is an ellipse",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$e=1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", it is a parabola",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$e>1$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", it is a hyperbola",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Conic Section Polar Derivation",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can derive the polar form of a conic from this definition:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\frac{\\textrm{distance from point to focus}}{\\textrm{perpendicular distance from point to directrix}} = e",
+            "",
+            "\\frac{r}{d+r\\cos(\\theta)} = e",
+            "",
+            "r = e(d + r\\cos(\\theta))"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Solving for r gives:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = ed + re\\cos(\\theta)",
+            "r - re\\cos(\\theta) = ed",
+            "r(1 - e\\cos(\\theta)) = ed",
+            "r = \\frac{ed}{1 - e\\cos(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "By definition, one of the foci is at the origin.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-1-Plane-Analytic-Geometry",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+        "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+        "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections"
+      ],
+      "title" : "Chapter 1: Plane Analytic Geometry"
+    }
+  ]
+, 
+"references": {
+"Graph_Conic Section Polar Derivation": {
+  "alt" : "Conic",
+  "identifier" : "Graph_Conic Section Polar Derivation",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Conic%20Section%20Polar%20Derivation.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/1.1-The-Straight-Line": {
+  "abstract" : [
+    {
+      "text" : "Straight lines, aka linear functions or linear graphs",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.1-The-Straight-Line",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Straight Line",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.1-the-straight-line"
+},
+"doc://Notes/documentation/Notes/1.2-Circles": {
+  "abstract" : [
+    {
+      "text" : "Basic coordinate geometry of a circle",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.2-Circles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Circles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.2-circles"
+},
+"doc://Notes/documentation/Notes/1.3-Conic-Sections": {
+  "abstract" : [
+    {
+      "text" : "Circles, ellipses, parabolas, and hyperbolas are all conic sections.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/1.3-Conic-Sections",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Conic Sections",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/1.3-conic-sections"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

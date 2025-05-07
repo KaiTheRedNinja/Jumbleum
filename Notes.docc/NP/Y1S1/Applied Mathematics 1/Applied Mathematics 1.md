@@ -28,9 +28,10 @@ Chapter 4-6 is covered after the term break.
 - <doc:1.1-The-Straight-Line>
 - <doc:1.2-Circles>
 - <doc:1.3-Conic-Sections>
-- <doc:2.1-Right-Angled-Triangles>
+- <doc:1.4-Polar-Coordinates>
 
 ### Chapter 2: Trigonometrical Functions, Graphs and Identities
+- <doc:2.1-Right-Angled-Triangles>
 
 ### Chapter 3: Exponential and Logarithmic Functions
 
