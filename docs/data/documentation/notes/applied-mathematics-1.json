@@ -257,7 +257,8 @@
     {
       "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles"
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions"
       ],
       "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
     }
@@ -347,6 +348,20 @@
   "title" : "Right Angled Triangles",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+},
+"doc://Notes/documentation/Notes/2.2-Trigonometric-Functions": {
+  "abstract" : [
+    {
+      "text" : "Trigo in general conditions, not just in triangles",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.2-trigonometric-functions"
 },
 "doc://Notes/documentation/Notes/Career-and-Professional-Preparation": {
   "abstract" : [

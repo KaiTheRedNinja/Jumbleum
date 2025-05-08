@@ -1,0 +1,1281 @@
+{
+  "abstract" : [
+    {
+      "text" : "Trigo in general conditions, not just in triangles",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Trigonometric Functions"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Express angles in radians",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "define trigonometric functions generally",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "sketch the graphs of the three main trigonometric functions: ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\sin$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\cos$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ", ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\tan$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Radians",
+          "level" : 2,
+          "text" : "Radians",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Diagram_Radians",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Radians are a unit for angles, but it is dimensionless (ie. no unit) because it is defined as a ratio.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "The angle in radians is defined as the ratio of the length of the arc to the radius of the circle:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\theta = \\frac{\\textrm{length of arc AB}}{\\textrm{radius}} = \\frac{l}{r}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "One full rotation is ",
+              "type" : "text"
+            },
+            {
+              "code" : "$2\\pi$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " radians, which is equivalent to ",
+              "type" : "text"
+            },
+            {
+              "code" : "$360^\\circ$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". To convert from degrees to",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "radians and vice versa, we can use the following formula:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\text{radians} = \\text{degrees} \\times \\frac{\\pi}{180}",
+            "\\text{degrees} = \\text{radians} \\times \\frac{180}{\\pi}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Special-angles",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for a table of special angles (angles",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "that the trig functions produce for certain inputs) in radians and degrees. Here’s a copy:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "θ in deg",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "30",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "45",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "60",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "90",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "θ in rad",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "π\/6",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "π\/4",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "π\/3",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "π\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "sin θ",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√0\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√1\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√2\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√3\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√4\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "cos θ",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√4\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√3\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√2\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√1\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√0\/2",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "tan θ",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "0",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1\/√3",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "√3",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "undefined",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Remember it this way: People sin more and they have less cos (cause) over time.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "General-Definitions-of-Trig-Functions",
+          "level" : 2,
+          "text" : "General Definitions of Trig Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Consider a unit circle (a circle with radius 1) centered at the origin, in a polar coordinate system.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Trig Circle Definition",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The value of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$cos(\\theta)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the x-coordinate of the point on the unit circle at angle ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ",",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "and the value of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$sin(\\theta)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the y-coordinate of that point. Tangent is just the ratio sin\/cos.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In other words:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$cos(\\theta)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the projection of line OR on the positive x-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$sin(\\theta)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the projection of line OR on the positive y-axis",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can also use this definition to reason about the sign of a given trig function’s output. For example,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "All points in Quadrant 1 (top-right) have positive x and y coordinates, so cos and sin are positive.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "In Quadrant 2 (top-left), x is negative but y is positive, so cos is negative and sin is positive.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "In Quadrant 3 (bottom-left), both x and y are negative, so cos and sin are negative.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "In Quadrant 4 (bottom-right), x is positive and y is negative, so cos is positive and sin is negative.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "And the tangent is just the ratio, so it is positive when the signs align (quadrants 1 and 3).",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This also shows why trig functions repeat - its just going round the circle again.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Flipping-About-an-Axis",
+          "level" : 2,
+          "text" : "Flipping About an Axis",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When you subtract an angle from 180 degrees, you simply flip the line across the y-axis. This would flip",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the x-coordinate (cos) but not the y-coordinate (sin), so:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(180^\\circ - \\theta) = \\sin(\\theta)",
+            "\\cos(180^\\circ - \\theta) = -\\cos(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When you add an angle to 180 degrees, you flip the line across both the x and y axes. This would flip",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "the x-coordinate (cos) and the y-coordinate (sin), so:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(180^\\circ + \\theta) = -\\sin(\\theta)",
+            "\\cos(180^\\circ + \\theta) = -\\cos(\\theta)",
+            "\\tan(180^\\circ + \\theta) = \\tan(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Tangent stays the same because the inverted signs cancel out.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When you add an angle to 360 degrees or a multiple therof, you just go around the circle again, so:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(360n^\\circ + \\theta) = \\sin(\\theta)",
+            "\\cos(360n^\\circ + \\theta) = \\cos(\\theta)",
+            "\\tan(360n^\\circ + \\theta) = \\tan(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Useful-Relationships",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for an almost-full list of these",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "relationships.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "At-Very-Small-X",
+          "level" : 2,
+          "text" : "At Very Small X",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When x is very small, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$sin(x) \\approx x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\cos(x) \\approx 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". I’ll try to explain it without",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "limits, since I haven’t learned that yet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "If you imagine the unit circle again - for an angle of ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the length of the arc is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "$r\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". Since the radius is 1, the length of the arc is just ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "At small angles, the x component of the arc is practically nonexistent. Therefore, the arc can be",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "aproximated as a straight line of length ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\theta$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "You can imagine the same thing for cosine, except its closer to 1.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Reciprocal-Functions",
+          "level" : 2,
+          "text" : "Reciprocal Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The reciprocal functions are just the inverse of the original trig functions. They are defined as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sec(\\theta) = \\frac{1}{\\cos(\\theta)}",
+            "\\csc(\\theta) = \\frac{1}{\\sin(\\theta)}",
+            "\\cot(\\theta) = \\frac{1}{\\tan(\\theta)} = \\frac{\\cos(\\theta)}{\\sin(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For the functions ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\sec$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\csc$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", they have no defined values for y-values within -1 and 1. This",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "is because of how reciprocals work - ",
+              "type" : "text"
+            },
+            {
+              "code" : "$1\/x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x > 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is a number larger than 1, vice versa for",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "negative. Since sine and cosine are always between -1 and 1, the secant and cosecant functions are never",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "between -1 and 1.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "All of the reciprocal functions have vertical asymptotes at the points where the original functions",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "are 0, as it results in division by 0.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Sketching-the-Graphs",
+          "level" : 2,
+          "text" : "Sketching the Graphs",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Just get a few important points, like",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "x-intercepts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "y=1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "y=-1",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "and yolo it from there.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles"
+      ],
+      "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
+    }
+  ]
+, 
+"references": {
+"Diagram_Radians": {
+  "alt" : "Diagram of Radians",
+  "identifier" : "Diagram_Radians",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Diagram_Radians.png"
+    }
+  ]
+},
+"Graph_Trig Circle Definition": {
+  "alt" : "Graph of Trig Circle Definition",
+  "identifier" : "Graph_Trig Circle Definition",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Trig%20Circle%20Definition.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/2.1-Right-Angled-Triangles": {
+  "abstract" : [
+    {
+      "text" : "An introduction to trigonometry via right-angled triangles, its simplest application",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Right Angled Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Trig-functions-identities-and-equations#Special-angles": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Special-angles",
+  "kind" : "section",
+  "title" : "Special angles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/trig-functions-identities-and-equations#Special-angles"
+},
+"doc://Notes/documentation/Notes/Trig-functions-identities-and-equations#Useful-Relationships": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Useful-Relationships",
+  "kind" : "section",
+  "title" : "Useful Relationships",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/trig-functions-identities-and-equations#Useful-Relationships"
+}
+}
+}

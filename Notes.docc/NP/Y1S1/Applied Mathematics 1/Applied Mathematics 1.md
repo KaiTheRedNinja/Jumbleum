@@ -32,6 +32,7 @@ Chapter 4-6 is covered after the term break.
 
 ### Chapter 2: Trigonometrical Functions, Graphs and Identities
 - <doc:2.1-Right-Angled-Triangles>
+- <doc:2.2-Trigonometric-Functions>
 
 ### Chapter 3: Exponential and Logarithmic Functions
 

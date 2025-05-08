@@ -301,6 +301,16 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions"
+      ],
+      "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
+    }
   ]
 , 
 "references": {
@@ -345,6 +355,20 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/2.2-Trigonometric-Functions": {
+  "abstract" : [
+    {
+      "text" : "Trigo in general conditions, not just in triangles",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.2-trigonometric-functions"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

@@ -809,7 +809,107 @@
         {
           "inlineContent" : [
             {
-              "text" : "By definition, one of the foci is at the origin.",
+              "text" : "By definition, one of the foci is at the origin. Note that the foci will be horizontal, since",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\cos(y)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the same for a point P and its reflection across the y-axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Inspecting-the-Conic",
+          "level" : 3,
+          "text" : "Inspecting the Conic",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We know that when ",
+              "type" : "text"
+            },
+            {
+              "code" : "$e = 0$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the conic is a circle. You can see this from the polar form:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = \\frac{0}{1 - 0\\cos(\\theta)} = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "This is a point at the origin, which is a circle with radius 0.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "When ",
+              "type" : "text"
+            },
+            {
+              "code" : "$0 < e < 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", the conic is an ellipse. Inspecting the polar form:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "r = \\frac{ed}{1 - e\\cos(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In this case, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$1 - e\\cos(\\theta) > 0$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " since ",
+              "type" : "text"
+            },
+            {
+              "code" : "$e\\cos(\\theta) < 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
               "type" : "text"
             }
           ],
