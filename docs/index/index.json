@@ -203,6 +203,15 @@
                     "path" : "\/documentation\/notes\/1.6-arithmetic-operations",
                     "title" : "Arithmetic Operations",
                     "type" : "article"
+                  },
+                  {
+                    "title" : "Chapter 2: Branching",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2-if-statements",
+                    "title" : "If Statements",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/programming",

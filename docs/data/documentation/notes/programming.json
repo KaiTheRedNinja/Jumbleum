@@ -345,6 +345,13 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.6-Arithmetic-Operations"
       ],
       "title" : "Chapter 1: Fundamentals of C"
+    },
+    {
+      "anchor" : "Chapter-2-Branching",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2-If-Statements"
+      ],
+      "title" : "Chapter 2: Branching"
     }
   ]
 , 
@@ -446,6 +453,20 @@
   "title" : "Arithmetic Operations",
   "type" : "topic",
   "url" : "\/documentation\/notes\/1.6-arithmetic-operations"
+},
+"doc://Notes/documentation/Notes/2-If-Statements": {
+  "abstract" : [
+    {
+      "text" : "I am groot. (Branches… get it???)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2-If-Statements",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "If Statements",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2-if-statements"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

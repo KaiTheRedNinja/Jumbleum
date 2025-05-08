@@ -42,3 +42,6 @@ AllyLocal is our module's "IDE" (it is not deserving of that name). It is window
 - <doc:1.4-scanf-and-Data-Types>
 - <doc:1.5-ASCII-Keywords-Constants>
 - <doc:1.6-Arithmetic-Operations>
+
+### Chapter 2: Branching
+- <doc:2-If-Statements>
