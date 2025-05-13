@@ -17,7 +17,7 @@ See <doc:Kinematics#SUVAT-equations-for-constant-acceleration> for the equations
 Generally when you are solving for a linear movement question using SUVAT, you should identify which values are known and which you want to determine. Using those, you can choose the correct SUVAT 
 equation, as each allows you to ignore one value.
 
-> Warning: The second suvat equation, the one which doesn't include acceleration and looks like the area of trapezium formula, SHOULD BE USED in MEFD. Instead, find a way to form a simultaneous equation so that acceleration cancels out. (Reason: The Almighty Module Leader said so.)
+> Warning: The second suvat equation, the one which doesn't include acceleration and looks like the area of trapezium formula, SHOULD NOT BE USED in MEFD. Instead, find a way to form a simultaneous equation so that acceleration cancels out. (Reason: The Almighty Module Leader said so.)
 
 > Important: State the SUVAT equation that you are using before applying them. If your acceleration is 0, you still should state the "a" component of the equation, for completion.
 

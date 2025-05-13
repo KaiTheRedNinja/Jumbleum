@@ -562,7 +562,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
-        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
+        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law"
       ]
     }
   ]
@@ -693,6 +694,20 @@
   "title" : "Friction",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5.3-friction"
+},
+"doc://Notes/documentation/Notes/6.1-Newtons-First-Law": {
+  "abstract" : [
+    {
+      "text" : "Newton’s First Law, and a bit more on how it applies to friction",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Newton’s First Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/6.1-newtons-first-law"
 },
 "doc://Notes/documentation/Notes/Dynamics#Newtons-Third-Law": {
   "abstract" : [

@@ -180,7 +180,7 @@
             {
               "inlineContent" : [
                 {
-                  "text" : "The second suvat equation, the one which doesn’t include acceleration and looks like the area of trapezium formula, SHOULD BE USED in MEFD. Instead, find a way to form a simultaneous equation so that acceleration cancels out. (Reason: The Almighty Module Leader said so.)",
+                  "text" : "The second suvat equation, the one which doesn’t include acceleration and looks like the area of trapezium formula, SHOULD NOT BE USED in MEFD. Instead, find a way to form a simultaneous equation so that acceleration cancels out. (Reason: The Almighty Module Leader said so.)",
                   "type" : "text"
                 }
               ],
@@ -253,7 +253,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
         "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
-        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
+        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law"
       ]
     }
   ]
@@ -384,6 +385,20 @@
   "title" : "Friction",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5.3-friction"
+},
+"doc://Notes/documentation/Notes/6.1-Newtons-First-Law": {
+  "abstract" : [
+    {
+      "text" : "Newton’s First Law, and a bit more on how it applies to friction",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Newton’s First Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/6.1-newtons-first-law"
 },
 "doc://Notes/documentation/Notes/Kinematics#Free-fall": {
   "abstract" : [

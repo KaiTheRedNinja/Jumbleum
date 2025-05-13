@@ -341,6 +341,86 @@
             }
           ],
           "type" : "paragraph"
+        },
+        {
+          "anchor" : "Presenting-the-Solution",
+          "level" : 2,
+          "text" : "Presenting the Solution",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The solution is a diagram, containing:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "An arrow with the resultant force magnitude",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "An angle, which should be from the arrow to one of the axes, representing the direction of the",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "resultant force",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "A couple symbol (↺ or ↻), indicating the direction of the couple equivalent",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "The couple equivalent about the pivot point",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
         }
       ],
       "kind" : "content"
@@ -364,7 +444,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
-        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
+        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law"
       ]
     }
   ]
@@ -495,6 +576,20 @@
   "title" : "Friction",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5.3-friction"
+},
+"doc://Notes/documentation/Notes/6.1-Newtons-First-Law": {
+  "abstract" : [
+    {
+      "text" : "Newton’s First Law, and a bit more on how it applies to friction",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Newton’s First Law",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/6.1-newtons-first-law"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [
