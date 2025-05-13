@@ -1,5 +1,9 @@
 # SAT Math
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 SAT Mathematics
 
 ## Overview

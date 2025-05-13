@@ -455,6 +455,48 @@
   ]
 , 
 "references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"Logo_SAT.png": {
+  "alt" : "SAT Logo",
+  "identifier" : "Logo_SAT.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SAT.png"
+    }
+  ]
+},
+"Logo_SST.png": {
+  "alt" : "SST Logo",
+  "identifier" : "Logo_SST.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SST.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Notes/NP": {
   "abstract" : [
     {
@@ -463,6 +505,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "NP",
@@ -477,6 +525,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT",
+  "images" : [
+    {
+      "identifier" : "Logo_SAT.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "SAT",
@@ -491,6 +545,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SST",
+  "images" : [
+    {
+      "identifier" : "Logo_SST.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "SST",

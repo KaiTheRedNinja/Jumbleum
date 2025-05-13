@@ -453,6 +453,20 @@
   ]
 , 
 "references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -545,6 +559,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "NP",

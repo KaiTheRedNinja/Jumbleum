@@ -2379,6 +2379,20 @@
     }
   ]
 },
+"Logo_SST.png": {
+  "alt" : "SST Logo",
+  "identifier" : "Logo_SST.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SST.png"
+    }
+  ]
+},
 "Minimal.jpg": {
   "alt" : "Minimally Complete",
   "identifier" : "Minimal.jpg",
@@ -2469,6 +2483,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SST",
+  "images" : [
+    {
+      "identifier" : "Logo_SST.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "SST",

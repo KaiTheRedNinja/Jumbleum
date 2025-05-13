@@ -786,6 +786,20 @@
     }
   ]
 },
+"Logo_SST.png": {
+  "alt" : "SST Logo",
+  "identifier" : "Logo_SST.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SST.png"
+    }
+  ]
+},
 "Subject_Computing.png": {
   "alt" : "Computing Icon",
   "identifier" : "Subject_Computing.png",
@@ -930,6 +944,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SST",
+  "images" : [
+    {
+      "identifier" : "Logo_SST.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "SST",

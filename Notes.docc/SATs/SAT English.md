@@ -1,5 +1,9 @@
 # SAT English
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Checkmark", alt: "Checkmark")
+}
+
 SAT English
 
 ## Overview

@@ -1,5 +1,9 @@
 # SAT
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Logo_SAT", alt: "SAT Logo")
+}
+
 The American Standardized Test (SAT) is a test that is used for college admissions in the United States
 
 ## Overview

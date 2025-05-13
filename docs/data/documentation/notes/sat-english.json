@@ -19,6 +19,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Checkmark.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "article",
     "roleHeading" : "Article",
     "title" : "SAT English"
@@ -949,6 +955,34 @@
   ]
 , 
 "references": {
+"Checkmark.png": {
+  "alt" : "Checkmark",
+  "identifier" : "Checkmark.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Checkmark.png"
+    }
+  ]
+},
+"Logo_SAT.png": {
+  "alt" : "SAT Logo",
+  "identifier" : "Logo_SAT.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SAT.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -971,6 +1005,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT",
+  "images" : [
+    {
+      "identifier" : "Logo_SAT.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "collectionGroup",
   "title" : "SAT",
@@ -985,6 +1025,12 @@
     }
   ],
   "identifier" : "doc:\/\/Notes\/documentation\/Notes\/SAT-Math",
+  "images" : [
+    {
+      "identifier" : "Checkmark.png",
+      "type" : "icon"
+    }
+  ],
   "kind" : "article",
   "role" : "article",
   "title" : "SAT Math",

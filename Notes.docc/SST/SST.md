@@ -1,5 +1,9 @@
 # SST
 
+@Metadata {
+    @PageImage(purpose: icon, source: "Logo_SST", alt: "SST Logo")
+}
+
 Secondary school content for the School of Science and Technology: Engineering 2024
 
 ## Overview

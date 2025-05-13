@@ -285,6 +285,7 @@
                 "type" : "article"
               }
             ],
+            "icon" : "Logo_NP.png",
             "path" : "\/documentation\/notes\/np",
             "title" : "NP",
             "type" : "symbol"
@@ -296,16 +297,19 @@
           {
             "children" : [
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/sat-english",
                 "title" : "SAT English",
                 "type" : "article"
               },
               {
+                "icon" : "Checkmark.png",
                 "path" : "\/documentation\/notes\/sat-math",
                 "title" : "SAT Math",
                 "type" : "article"
               }
             ],
+            "icon" : "Logo_SAT.png",
             "path" : "\/documentation\/notes\/sat",
             "title" : "SAT",
             "type" : "symbol"
@@ -1167,6 +1171,7 @@
                 "type" : "symbol"
               }
             ],
+            "icon" : "Logo_SST.png",
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
@@ -1190,6 +1195,48 @@
             "light"
           ],
           "url" : "\/images\/Notes\/Checkmark.png"
+        }
+      ]
+    },
+    "Logo_NP.png" : {
+      "alt" : null,
+      "identifier" : "Logo_NP.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Logo_NP.png"
+        }
+      ]
+    },
+    "Logo_SAT.png" : {
+      "alt" : null,
+      "identifier" : "Logo_SAT.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Logo_SAT.png"
+        }
+      ]
+    },
+    "Logo_SST.png" : {
+      "alt" : null,
+      "identifier" : "Logo_SST.png",
+      "type" : "image",
+      "variants" : [
+        {
+          "traits" : [
+            "1x",
+            "light"
+          ],
+          "url" : "\/images\/Notes\/Logo_SST.png"
         }
       ]
     },

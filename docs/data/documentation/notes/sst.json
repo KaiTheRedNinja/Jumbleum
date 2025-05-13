@@ -18,6 +18,12 @@
   },
   "kind" : "article",
   "metadata" : {
+    "images" : [
+      {
+        "identifier" : "Logo_SST.png",
+        "type" : "icon"
+      }
+    ],
     "role" : "collectionGroup",
     "title" : "SST"
   },
@@ -119,6 +125,20 @@
   ]
 , 
 "references": {
+"Logo_SST.png": {
+  "alt" : null,
+  "identifier" : "Logo_SST.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_SST.png"
+    }
+  ]
+},
 "Subject_A Math.png": {
   "alt" : "A Math Icon",
   "identifier" : "Subject_A Math.png",
