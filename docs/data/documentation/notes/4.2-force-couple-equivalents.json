@@ -86,6 +86,30 @@
           "type" : "unorderedList"
         },
         {
+          "content" : [
+            {
+              "inlineContent" : [
+                {
+                  "text" : "The force-couple equivalent is ONLY valid for a rigid body in static equilibrium.",
+                  "type" : "text"
+                },
+                {
+                  "text" : " ",
+                  "type" : "text"
+                },
+                {
+                  "text" : "That is, the object does not move, and has neither translation nor rotation.",
+                  "type" : "text"
+                }
+              ],
+              "type" : "paragraph"
+            }
+          ],
+          "name" : "Important",
+          "style" : "important",
+          "type" : "aside"
+        },
+        {
           "anchor" : "Calculating-the-Force-Couple-Equivalent",
           "level" : 2,
           "text" : "Calculating the Force-Couple Equivalent",
@@ -305,42 +329,6 @@
             }
           ],
           "type" : "unorderedList"
-        },
-        {
-          "anchor" : "Some-things-Im-unsure-about",
-          "level" : 2,
-          "text" : "Some things I’m unsure about",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "A single force N acting d away from the center of mass ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "certainly",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
-            },
-            {
-              "text" : " can’t exert both N newtons of acceleration and N*d newton-meters",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "of torque. I’ll replace this section once I figure this part out.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
         },
         {
           "anchor" : "Presenting-the-Solution",
