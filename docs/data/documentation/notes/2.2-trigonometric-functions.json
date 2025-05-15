@@ -1090,6 +1090,15 @@
         {
           "inlineContent" : [
             {
+              "text" : "This is topic 2.3a and 2.3b in the syllabus. It’s short so I’m putting it here.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Just get a few important points, like",
               "type" : "text"
             }
@@ -1143,7 +1152,15 @@
         {
           "inlineContent" : [
             {
-              "text" : "and yolo it from there.",
+              "text" : "and yolo it from there. Generally you should also find asymptotes for functions that have them, like",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "reciprocal functions or tangent.",
               "type" : "text"
             }
           ],
@@ -1166,7 +1183,10 @@
       "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles"
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+        "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+        "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+        "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles"
       ],
       "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
     }
@@ -1242,6 +1262,48 @@
   "title" : "Right Angled Triangles",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+},
+"doc://Notes/documentation/Notes/2.4-Trigonometric-Identities": {
+  "abstract" : [
+    {
+      "text" : "When two trigonometric functions are equal for all values of variables",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Identities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.4-trigonometric-identities"
+},
+"doc://Notes/documentation/Notes/2.5-Transformations-of-Sine": {
+  "abstract" : [
+    {
+      "text" : "Modifying the base sine function",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Transformations of Sine",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.5-transformations-of-sine"
+},
+"doc://Notes/documentation/Notes/2.6-Applications-of-Trig-for-Triangles": {
+  "abstract" : [
+    {
+      "text" : "We’re coming full circle!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Applications of Trigonometry for Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

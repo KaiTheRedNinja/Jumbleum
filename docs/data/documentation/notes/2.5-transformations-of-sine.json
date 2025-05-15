@@ -1,0 +1,728 @@
+{
+  "abstract" : [
+    {
+      "text" : "Modifying the base sine function",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Transformations of Sine"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A sine function can be transformed in four ways:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Vertical translation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": moving the graph up or down",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Horizontal translation",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": moving the graph left or right",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Amplitude stretch",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": stretching or compressing the graph vertically",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "inlineContent" : [
+                        {
+                          "text" : "Period stretch",
+                          "type" : "text"
+                        }
+                      ],
+                      "type" : "strong"
+                    },
+                    {
+                      "text" : ": stretching or compressing the graph horizontally",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Reflections can be accomplished by using negative values for the amplitude or period.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Generic-Transformation",
+          "level" : 2,
+          "text" : "Generic Transformation",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The generic transformation of a sine function is given by the formula:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "y = \\textrm{amplitude} \\sin(\\textrm{frequency}(x - \\textrm{xoffset})) + \\textrm{yoffset}",
+            "",
+            "\\textrm{or}",
+            "",
+            "y = a \\sin(b(x - c)) + d"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$amplitude$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$a$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the vertical stretch, where the resultant graph has an amplitude of ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$|a|$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : "",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "and vertical range of ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$2|a|$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$frequency$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$b$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the horizontal stretch, where the period of the graph is given by",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\frac{2\\pi}{|b|}$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$xoffset$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$c$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the horizontal translation, where the graph is moved to the right by ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$c$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " units",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$yoffset$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " or ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$d$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the vertical translation, where the graph is moved up by ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$d$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " units",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Drawing-Transformed-Sine-Graphs",
+          "level" : 2,
+          "text" : "Drawing Transformed Sine Graphs",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "My procedure is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the y-offset of the graph",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw a dotted line at the y-offset",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the amplitude of the graph, and therefore the maximum and minimum y values",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw two dotted lines at the maximum and minimum y values",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the x-offset of the graph, and therefore where the graph starts",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw the first point at ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$(xoffset, 0)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " (for a sine graph. For cosine, draw it at ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$(xoffset, amplitude)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Determine the period of the graph",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw points every ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$period\/4$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " units along the x-axis.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "items" : [
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The first point is at ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$(xoffset, 0)$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The second point is at ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$(xoffset + period\/4, amplitude)$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The third point is at ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$(xoffset + period\/2, 0)$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The fourth point is at ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$(xoffset + 3*period\/4, -amplitude)$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    },
+                    {
+                      "content" : [
+                        {
+                          "inlineContent" : [
+                            {
+                              "text" : "The fifth point is at ",
+                              "type" : "text"
+                            },
+                            {
+                              "code" : "$(xoffset + period, 0)$",
+                              "type" : "codeVoice"
+                            }
+                          ],
+                          "type" : "paragraph"
+                        }
+                      ]
+                    }
+                  ],
+                  "type" : "unorderedList"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw through the points",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "orderedList"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+        "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+        "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles"
+      ],
+      "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
+    }
+  ]
+, 
+"references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/2.1-Right-Angled-Triangles": {
+  "abstract" : [
+    {
+      "text" : "An introduction to trigonometry via right-angled triangles, its simplest application",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Right Angled Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+},
+"doc://Notes/documentation/Notes/2.2-Trigonometric-Functions": {
+  "abstract" : [
+    {
+      "text" : "Trigo in general conditions, not just in triangles",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.2-trigonometric-functions"
+},
+"doc://Notes/documentation/Notes/2.4-Trigonometric-Identities": {
+  "abstract" : [
+    {
+      "text" : "When two trigonometric functions are equal for all values of variables",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Identities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.4-trigonometric-identities"
+},
+"doc://Notes/documentation/Notes/2.6-Applications-of-Trig-for-Triangles": {
+  "abstract" : [
+    {
+      "text" : "We’re coming full circle!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Applications of Trigonometry for Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

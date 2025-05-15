@@ -307,7 +307,10 @@
       "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions"
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+        "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+        "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+        "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles"
       ],
       "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
     }
@@ -383,6 +386,48 @@
   "title" : "Trigonometric Functions",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2.2-trigonometric-functions"
+},
+"doc://Notes/documentation/Notes/2.4-Trigonometric-Identities": {
+  "abstract" : [
+    {
+      "text" : "When two trigonometric functions are equal for all values of variables",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Identities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.4-trigonometric-identities"
+},
+"doc://Notes/documentation/Notes/2.5-Transformations-of-Sine": {
+  "abstract" : [
+    {
+      "text" : "Modifying the base sine function",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Transformations of Sine",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.5-transformations-of-sine"
+},
+"doc://Notes/documentation/Notes/2.6-Applications-of-Trig-for-Triangles": {
+  "abstract" : [
+    {
+      "text" : "We’re coming full circle!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Applications of Trigonometry for Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [

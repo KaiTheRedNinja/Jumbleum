@@ -55,6 +55,21 @@
                     "path" : "\/documentation\/notes\/2.2-trigonometric-functions",
                     "title" : "Trigonometric Functions",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2.4-trigonometric-identities",
+                    "title" : "Trigonometric Identities",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2.5-transformations-of-sine",
+                    "title" : "Transformations of Sine",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles",
+                    "title" : "Applications of Trigonometry for Triangles",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/applied-mathematics-1",

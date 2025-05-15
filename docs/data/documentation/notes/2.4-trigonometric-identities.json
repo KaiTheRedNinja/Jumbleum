@@ -1,0 +1,370 @@
+{
+  "abstract" : [
+    {
+      "text" : "When two trigonometric functions are equal for all values of variables",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/2.4-Trigonometric-Identities"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Trigonometric Identities"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "use the main trigonometric identities",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "use trigonometric identities to combine trigonometric functions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "All the important trigo identities are in the formula sheet.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Identities",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for a list of all the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "trigonometric identities.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note that you CANNOT prove a trigonometric identity by substituting values for the variables, since that",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "only proves that the functions are equal for those specific values. You must prove it for all values, by",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "manipulating one side to become the other.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Using-Identities",
+          "level" : 2,
+          "text" : "Using Identities",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Identities are used to either",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Simplify expressions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Prove that two expressions are equal, by manipulating one side to become the other",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We use the triple-equals sign ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\equiv$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to denote that two expressions are equal for all values of the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "variables. Note that it is valid to say that, when ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A \\equiv B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", that ",
+              "type" : "text"
+            },
+            {
+              "code" : "$A = B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ". DO NOT do the opposite.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-2-Trigonometrical-Functions-Graphs-and-Identities",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+        "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+        "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+        "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles"
+      ],
+      "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
+    }
+  ]
+, 
+"references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/2.1-Right-Angled-Triangles": {
+  "abstract" : [
+    {
+      "text" : "An introduction to trigonometry via right-angled triangles, its simplest application",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.1-Right-Angled-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Right Angled Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.1-right-angled-triangles"
+},
+"doc://Notes/documentation/Notes/2.2-Trigonometric-Functions": {
+  "abstract" : [
+    {
+      "text" : "Trigo in general conditions, not just in triangles",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.2-Trigonometric-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Trigonometric Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.2-trigonometric-functions"
+},
+"doc://Notes/documentation/Notes/2.5-Transformations-of-Sine": {
+  "abstract" : [
+    {
+      "text" : "Modifying the base sine function",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.5-Transformations-of-Sine",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Transformations of Sine",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.5-transformations-of-sine"
+},
+"doc://Notes/documentation/Notes/2.6-Applications-of-Trig-for-Triangles": {
+  "abstract" : [
+    {
+      "text" : "We’re coming full circle!",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Applications of Trigonometry for Triangles",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/Trig-functions-identities-and-equations#Identities": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Identities",
+  "kind" : "section",
+  "title" : "Identities",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/trig-functions-identities-and-equations#Identities"
+}
+}
+}
