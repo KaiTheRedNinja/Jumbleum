@@ -1099,6 +1099,102 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Note that the length of the horizontal axis is ",
+              "type" : "text"
+            },
+            {
+              "code" : "$2a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", NOT ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", and vice versa for the vertical axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "semi-major axis",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " is ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " when x is the major axis, and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " when y is the major axis. The",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "semi-minor axis",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " is ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " when x is the major axis, and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " when y is the major axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Vertices",
           "level" : 3,
           "text" : "Vertices",

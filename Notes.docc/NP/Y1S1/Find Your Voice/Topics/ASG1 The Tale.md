@@ -89,3 +89,29 @@ Literally just the "plot mountain".
     - How do they change as compared to the beginning?
 
 The goal is to persuade the audience to take action based on your story
+
+## Reflection
+
+My performance was on 19th May 2025. My chosen theme was *Memorable Adventures*.
+
+> Theme: *Memorable Adventures*: Can you recount a particularly memorable adventure or journey you 
+> embarked upon? What made it so significant, and how did it impact your outlook on life?
+
+### What Went Well
+
+- Good attention getter + strong energy at the start
+- Appropriate pacing (slower at the start, faster in the middle, slower at the conclusion)
+- Good use of pauses for dramatic effect
+- Good use of body language (gestures, eye contact, posture)
+- Good use of vocal variety (volume, pitch, tone)
+- Several vivid details about the environment
+- Strong message
+
+### What I Could Improve
+
+- Emotional connection is not very apparent
+- Vivid details are not relevant to the main story
+- Extremely nervous throughout (shaking legs)
+- Went too fast at the start, had to adjust by slowing down afterwards
+- Could have used more humour
+- Looked at the script too much
