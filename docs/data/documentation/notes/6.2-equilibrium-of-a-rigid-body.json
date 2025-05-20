@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "What happens when you combine multiple forces acting on a single body",
+      "text" : "Newton’s first law for non-particle problems",
       "type" : "text"
     }
   ],
@@ -16,13 +16,13 @@
   },
   "identifier" : {
     "interfaceLanguage" : "swift",
-    "url" : "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces"
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body"
   },
   "kind" : "article",
   "metadata" : {
     "role" : "article",
     "roleHeading" : "Article",
-    "title" : "Resultant Forces"
+    "title" : "Equilibrium of a Rigid Body"
   },
   "primaryContentSections" : [
     {
@@ -40,7 +40,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Determine the appropriate axes to be used during the resolution of forces.",
+                      "text" : "Distinguish between equilibrium of a particle and equilibrium of a rigid body.",
                       "type" : "text"
                     }
                   ],
@@ -53,7 +53,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Apply the appropriate sign conventions to indicate the directions of the force components.",
+                      "text" : "Draw free body diagrams of rigid bodies in equilibrium.",
                       "type" : "text"
                     }
                   ],
@@ -66,7 +66,15 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Present the mathematical and graphical workings for solving problems involving resultant force vectors.",
+                      "text" : "Apply the equations of equilibrium for a rigid body to solve static and dynamic equilibrium problems in",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "engineering mechanics.",
                       "type" : "text"
                     }
                   ],
@@ -78,10 +86,34 @@
           "type" : "unorderedList"
         },
         {
-          "anchor" : "Deciding-the-Axes-to-Use",
+          "anchor" : "Non-Particle-Problems",
           "level" : 2,
-          "text" : "Deciding the Axes to Use",
+          "text" : "Non-Particle Problems",
           "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "So long as the forces do not all act on a single point, the problem is non-particle.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Different-Equilibriums",
+          "level" : 2,
+          "text" : "Different Equilibriums",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For a non-particle problem, it is in equilibrium when:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "items" : [
@@ -90,7 +122,159 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "The X and Y axes are perpendicular to each other",
+                      "code" : "$\\sum F_x = 0$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\sum F_y = 0$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\sum M = 0$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "These conditions are identical to ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law#Equilibrium-of-Concurrent-Forces",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ", but the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "difference is that we can have moments in non-particle problems.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "In a particle problem, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\sum M = 0$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " refers to there being ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "no moments",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : ", since it is not possible to have",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "a moment on a particle. In a rigid body problem, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\sum M = 0$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " refers to the ",
+              "type" : "text"
+            },
+            {
+              "inlineContent" : [
+                {
+                  "text" : "net moment",
+                  "type" : "text"
+                }
+              ],
+              "type" : "emphasis"
+            },
+            {
+              "text" : " being zero,",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "which means there may be moments acting on the body, but they cancel each other out.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Applying-the-Equations-for-Non-Particle-Equilibrium",
+          "level" : 2,
+          "text" : "Applying the Equations for Non-Particle Equilibrium",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Basically just follow these steps:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Draw the free-body diagram, if one is not provided",
                       "type" : "text"
                     }
                   ],
@@ -103,54 +287,77 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "The X and Y components of the resultant force is non-negative (makes calculations easier)",
-                      "type" : "text"
-                    }
-                  ],
-                  "type" : "paragraph"
-                },
-                {
-                  "content" : [
-                    {
-                      "inlineContent" : [
-                        {
-                          "text" : "If two forces are similar in magnitude and opposite in direction, use the cartesian",
-                          "type" : "text"
-                        },
-                        {
-                          "text" : " ",
-                          "type" : "text"
-                        },
-                        {
-                          "text" : "plane where positive Y is 90 degrees anticlockwise from the positive X axis",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "paragraph"
-                    }
-                  ],
-                  "name" : "Exception",
-                  "style" : "note",
-                  "type" : "aside"
-                }
-              ]
-            },
-            {
-              "content" : [
-                {
-                  "inlineContent" : [
-                    {
-                      "text" : "One of the axes is parallel with the ground, ",
+                      "text" : "Identify the unknown forces. Refer to ",
                       "type" : "text"
                     },
                     {
-                      "inlineContent" : [
-                        {
-                          "text" : "if the ground is sloped",
-                          "type" : "text"
-                        }
-                      ],
-                      "type" : "emphasis"
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law#Supports",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : " for the forces acting on",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "certain types of mechanical supports.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "For unknown forces that are not on an axis, resolve them into their x and y components",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Equate the forces in the x and y directions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Equate the moments about a point",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Solve the equations simultaneously to find the unknown forces",
+                      "type" : "text"
                     }
                   ],
                   "type" : "paragraph"
@@ -163,7 +370,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "The goal of choosing the correct axes are to avoid careless mistakes that arise from forgetting",
+              "text" : "If there are a lot of unknown forces from supports (eg. pivots), consider setting one of them as the pivot",
               "type" : "text"
             },
             {
@@ -171,70 +378,7 @@
               "type" : "text"
             },
             {
-              "text" : "negative signs or miscalculating angles.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Sign-Conventions",
-          "level" : 2,
-          "text" : "Sign Conventions",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "For an axis (eg. x-axis), forces which have a positive component in (ie. go in the same direction as)",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "the direction of the axis are positive numbers, and forces which have a negative component in (ie. go",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "in the opposite direction to) the direction of the axis are negative.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "anchor" : "Mathematical-and-Graphical-Workings",
-          "level" : 2,
-          "text" : "Mathematical and Graphical Workings",
-          "type" : "heading"
-        },
-        {
-          "inlineContent" : [
-            {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for how to resolve forces into their components, and what",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "workings to use.",
+              "text" : "and calculate forces as moments about that point.",
               "type" : "text"
             }
           ],
@@ -259,12 +403,12 @@
         "doc:\/\/Notes\/documentation\/Notes\/1.1-Physical-Quantities-and-Units",
         "doc:\/\/Notes\/documentation\/Notes\/1.2-Vector-Quantities",
         "doc:\/\/Notes\/documentation\/Notes\/2-Kinematics-of-Linear-Motion",
+        "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
         "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
         "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
-        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law",
-        "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body"
+        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law"
       ]
     }
   ]
@@ -340,6 +484,20 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/2-kinematics-of-linear-motion"
 },
+"doc://Notes/documentation/Notes/3-Resultant-Forces": {
+  "abstract" : [
+    {
+      "text" : "What happens when you combine multiple forces acting on a single body",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3-Resultant-Forces",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Resultant Forces",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3-resultant-forces"
+},
 "doc://Notes/documentation/Notes/4.1-Moment-of-Forces-and-Couples": {
   "abstract" : [
     {
@@ -382,6 +540,16 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/5-newtons-third-law"
 },
+"doc://Notes/documentation/Notes/5-Newtons-Third-Law#Supports": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law#Supports",
+  "kind" : "section",
+  "title" : "Supports",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/5-newtons-third-law#Supports"
+},
 "doc://Notes/documentation/Notes/5.3-Friction": {
   "abstract" : [
     {
@@ -410,29 +578,15 @@
   "type" : "topic",
   "url" : "\/documentation\/notes\/6.1-newtons-first-law"
 },
-"doc://Notes/documentation/Notes/6.2-Equilibrium-of-a-Rigid-Body": {
-  "abstract" : [
-    {
-      "text" : "Newton’s first law for non-particle problems",
-      "type" : "text"
-    }
-  ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body",
-  "kind" : "article",
-  "role" : "article",
-  "title" : "Equilibrium of a Rigid Body",
-  "type" : "topic",
-  "url" : "\/documentation\/notes\/6.2-equilibrium-of-a-rigid-body"
-},
-"doc://Notes/documentation/Notes/Dynamics#2D-Force-Resolution": {
+"doc://Notes/documentation/Notes/6.1-Newtons-First-Law#Equilibrium-of-Concurrent-Forces": {
   "abstract" : [
 
   ],
-  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Dynamics#2D-Force-Resolution",
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law#Equilibrium-of-Concurrent-Forces",
   "kind" : "section",
-  "title" : "2D Force Resolution",
+  "title" : "Equilibrium of Concurrent Forces",
   "type" : "topic",
-  "url" : "\/documentation\/notes\/dynamics#2D-Force-Resolution"
+  "url" : "\/documentation\/notes\/6.1-newtons-first-law#Equilibrium-of-Concurrent-Forces"
 },
 "doc://Notes/documentation/Notes/Mechanical-Engineering-Fundamentals": {
   "abstract" : [

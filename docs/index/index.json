@@ -182,6 +182,11 @@
                     "path" : "\/documentation\/notes\/6.1-newtons-first-law",
                     "title" : "Newton’s First Law",
                     "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/6.2-equilibrium-of-a-rigid-body",
+                    "title" : "Equilibrium of a Rigid Body",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/mechanical-engineering-fundamentals",

@@ -33,3 +33,4 @@ You can repeat Online Assignments as many times as you want, but only the highes
 - <doc:5-Newtons-Third-Law>
 - <doc:5.3-Friction>
 - <doc:6.1-Newtons-First-Law>
+- <doc:6.2-Equilibrium-of-a-Rigid-Body>

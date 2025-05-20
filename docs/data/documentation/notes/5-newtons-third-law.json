@@ -402,7 +402,7 @@
                 {
                   "inlineContent" : [
                     {
-                      "text" : "Varies",
+                      "text" : "Number of attached cables",
                       "type" : "text"
                     }
                   ],
@@ -412,6 +412,15 @@
             ]
           ],
           "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Generally, if a support can freely move in a given axis, it will not have a reaction force in that axis.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
         },
         {
           "anchor" : "Bars",
@@ -475,20 +484,7 @@
         {
           "inlineContent" : [
             {
-              "text" : "Hinges are like diagonal rods, however they exert a non-vertical force on the ",
-              "type" : "text"
-            },
-            {
-              "inlineContent" : [
-                {
-                  "text" : "ground",
-                  "type" : "text"
-                }
-              ],
-              "type" : "emphasis"
-            },
-            {
-              "text" : ". A bar on a rough surface is similar to a",
+              "text" : "Hinges are like diagonal rods, however they exert a non-vertical force that is at a less obvious angle. A",
               "type" : "text"
             },
             {
@@ -496,7 +492,15 @@
               "type" : "text"
             },
             {
-              "text" : "hinge. Examples include bridge supports. The two reaction forces are upwards and sideways, exerted by the ground onto the hinge.",
+              "text" : "bar on a rough surface is similar to a hinge. Examples include bridge supports. The two reaction forces",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "are upwards and sideways, exerted by the ground onto the hinge.",
               "type" : "text"
             }
           ],
@@ -563,7 +567,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
         "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
-        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law"
+        "doc:\/\/Notes\/documentation\/Notes\/6.1-Newtons-First-Law",
+        "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body"
       ]
     }
   ]
@@ -708,6 +713,20 @@
   "title" : "Newton’s First Law",
   "type" : "topic",
   "url" : "\/documentation\/notes\/6.1-newtons-first-law"
+},
+"doc://Notes/documentation/Notes/6.2-Equilibrium-of-a-Rigid-Body": {
+  "abstract" : [
+    {
+      "text" : "Newton’s first law for non-particle problems",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Equilibrium of a Rigid Body",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/6.2-equilibrium-of-a-rigid-body"
 },
 "doc://Notes/documentation/Notes/Dynamics#Newtons-Third-Law": {
   "abstract" : [

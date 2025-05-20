@@ -638,7 +638,8 @@
         "doc:\/\/Notes\/documentation\/Notes\/4.1-Moment-of-Forces-and-Couples",
         "doc:\/\/Notes\/documentation\/Notes\/4.2-Force-Couple-Equivalents",
         "doc:\/\/Notes\/documentation\/Notes\/5-Newtons-Third-Law",
-        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction"
+        "doc:\/\/Notes\/documentation\/Notes\/5.3-Friction",
+        "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body"
       ]
     }
   ]
@@ -797,6 +798,20 @@
   "title" : "Friction",
   "type" : "topic",
   "url" : "\/documentation\/notes\/5.3-friction"
+},
+"doc://Notes/documentation/Notes/6.2-Equilibrium-of-a-Rigid-Body": {
+  "abstract" : [
+    {
+      "text" : "Newton’s first law for non-particle problems",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/6.2-Equilibrium-of-a-Rigid-Body",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Equilibrium of a Rigid Body",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/6.2-equilibrium-of-a-rigid-body"
 },
 "doc://Notes/documentation/Notes/Dynamics#Newtons-First-Law": {
   "abstract" : [

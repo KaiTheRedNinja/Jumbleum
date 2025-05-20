@@ -36,7 +36,9 @@ shown (eg. the force of a block on a table).
 | Sliding attachments | 1 |
 | Hinges | 2 |
 | Fixed supports | 3 |
-| Pulleys | Varies |
+| Pulleys | Number of attached cables |
+
+Generally, if a support can freely move in a given axis, it will not have a reaction force in that axis.
 
 ### Bars
 
@@ -53,8 +55,9 @@ A collar on a frictionless rod and a frictionless pin in a slot are both sliding
 
 ### Hinges
 
-Hinges are like diagonal rods, however they exert a non-vertical force on the *ground*. A bar on a rough surface is similar to a 
-hinge. Examples include bridge supports. The two reaction forces are upwards and sideways, exerted by the ground onto the hinge.
+Hinges are like diagonal rods, however they exert a non-vertical force that is at a less obvious angle. A 
+bar on a rough surface is similar to a hinge. Examples include bridge supports. The two reaction forces 
+are upwards and sideways, exerted by the ground onto the hinge.
 
 ### Fixed Supports
 
