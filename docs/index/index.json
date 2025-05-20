@@ -1195,6 +1195,20 @@
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
+          },
+          {
+            "title" : "Articles",
+            "type" : "groupMarker"
+          },
+          {
+            "path" : "\/documentation\/notes\/asg2-the-quest",
+            "title" : "The Quest",
+            "type" : "article"
+          },
+          {
+            "path" : "\/documentation\/notes\/asg3-the-inventory",
+            "title" : "The Inventory",
+            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",
@@ -1205,7 +1219,7 @@
   },
   "references" : {
     "Checkmark.png" : {
-      "alt" : null,
+      "alt" : "Checkmark",
       "identifier" : "Checkmark.png",
       "type" : "image",
       "variants" : [
