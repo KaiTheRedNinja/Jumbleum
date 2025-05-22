@@ -264,6 +264,15 @@
         "doc:\/\/Notes\/documentation\/Notes\/2.6-Applications-of-Trig-for-Triangles"
       ],
       "title" : "Chapter 2: Trigonometrical Functions, Graphs and Identities"
+    },
+    {
+      "anchor" : "Chapter-3-Exponential-and-Logarithmic-Functions",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+        "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms",
+        "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions"
+      ],
+      "title" : "Chapter 3: Exponential and Logarithmic Functions"
     }
   ]
 , 
@@ -421,6 +430,52 @@
   "title" : "Applications of Trigonometry for Triangles",
   "type" : "topic",
   "url" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles"
+},
+"doc://Notes/documentation/Notes/3.1-Exponential-Function": {
+  "abstract" : [
+    {
+      "text" : "Basically ",
+      "type" : "text"
+    },
+    {
+      "code" : "$a^x$",
+      "type" : "codeVoice"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Exponential Function",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.1-exponential-function"
+},
+"doc://Notes/documentation/Notes/3.2-Logarithms": {
+  "abstract" : [
+    {
+      "text" : "The opposite of the exponential function.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Logarithms",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.2-logarithms"
+},
+"doc://Notes/documentation/Notes/3.3-Hyperbolic-Functions": {
+  "abstract" : [
+    {
+      "text" : "They act similar to trig functions, but are not periodic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Hyperbolic Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.3-hyperbolic-functions"
 },
 "doc://Notes/documentation/Notes/Career-and-Professional-Preparation": {
   "abstract" : [

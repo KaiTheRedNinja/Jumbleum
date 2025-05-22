@@ -70,6 +70,25 @@
                     "path" : "\/documentation\/notes\/2.6-applications-of-trig-for-triangles",
                     "title" : "Applications of Trigonometry for Triangles",
                     "type" : "article"
+                  },
+                  {
+                    "title" : "Chapter 3: Exponential and Logarithmic Functions",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/3.1-exponential-function",
+                    "title" : "The Exponential Function",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/3.2-logarithms",
+                    "title" : "Logarithms",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/3.3-hyperbolic-functions",
+                    "title" : "Hyperbolic Functions",
+                    "type" : "article"
                   }
                 ],
                 "path" : "\/documentation\/notes\/applied-mathematics-1",

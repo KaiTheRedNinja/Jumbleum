@@ -38,6 +38,9 @@ Chapter 4-6 is covered after the term break.
 - <doc:2.6-Applications-of-Trig-for-Triangles>
 
 ### Chapter 3: Exponential and Logarithmic Functions
+- <doc:3.1-Exponential-Function>
+- <doc:3.2-Logarithms>
+- <doc:3.3-Hyperbolic-Functions>
 
 ### Chapter 4: Complex Numbers and Applications
 

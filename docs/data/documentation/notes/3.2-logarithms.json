@@ -1,0 +1,475 @@
+{
+  "abstract" : [
+    {
+      "text" : "The opposite of the exponential function.",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Logarithms"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "invert ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$b = a^n$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " using logarithms",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "simplify expressions involving logarithms (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions#Basic-Logarithm-Laws",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "change bases in logarithms (see ",
+                      "type" : "text"
+                    },
+                    {
+                      "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions#Basic-Logarithm-Laws",
+                      "isActive" : true,
+                      "type" : "reference"
+                    },
+                    {
+                      "text" : ")",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Definition",
+          "level" : 2,
+          "text" : "Definition",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The logarithm ",
+              "type" : "text"
+            },
+            {
+              "code" : "$log_a b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is defined as the exponent ",
+              "type" : "text"
+            },
+            {
+              "code" : "$n$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " to which the base ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " must be raised to obtain",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "b = a^n \\implies n = log_a b"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the base, ",
+              "type" : "text"
+            },
+            {
+              "code" : "$n$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the power, and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is the result of the exponentiation.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Changing-Bases",
+          "level" : 2,
+          "text" : "Changing Bases",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The change of base formula is:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "log_a{b} = \\frac{log_x{b}}{log_x{a}}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the new base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$a$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the old base",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$b$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the result of the exponentiation",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "To derive this formula, we start with the definition of logarithms:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "b = a^n \\implies n = log_a b"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Given another base ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", we can write:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "log_x b = log_x a^n",
+            "= n \\cdot log_x a",
+            "",
+            "log_x b = n \\cdot log_x a"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Rearranging gives us:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "n = \\frac{log_x b}{log_x a}",
+            "",
+            "log_a b = \\frac{log_x b}{log_x a}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-3-Exponential-and-Logarithmic-Functions",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+        "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions"
+      ],
+      "title" : "Chapter 3: Exponential and Logarithmic Functions"
+    }
+  ]
+, 
+"references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/3.1-Exponential-Function": {
+  "abstract" : [
+    {
+      "text" : "Basically ",
+      "type" : "text"
+    },
+    {
+      "code" : "$a^x$",
+      "type" : "codeVoice"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Exponential Function",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.1-exponential-function"
+},
+"doc://Notes/documentation/Notes/3.3-Hyperbolic-Functions": {
+  "abstract" : [
+    {
+      "text" : "They act similar to trig functions, but are not periodic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Hyperbolic Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.3-hyperbolic-functions"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Exponential-and-Logarithmic-functions#Basic-Logarithm-Laws": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions#Basic-Logarithm-Laws",
+  "kind" : "section",
+  "title" : "Basic Logarithm Laws",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exponential-and-logarithmic-functions#Basic-Logarithm-Laws"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

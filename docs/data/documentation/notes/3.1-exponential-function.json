@@ -1,0 +1,504 @@
+{
+  "abstract" : [
+    {
+      "text" : "Basically ",
+      "type" : "text"
+    },
+    {
+      "code" : "$a^x$",
+      "type" : "codeVoice"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "The Exponential Function"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "approximate ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$a^x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " when x is irrational",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "describe the behaviour of ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$a^x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : ": in particular the exponential function ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$e^x$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "understand the terms exponential growth and exponential decay",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions#Basic-Indices-Laws",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for the basic arithmetic laws of indices.",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "Follow those laws to simplify expressions involving powers of the same base.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Aproximating-Exponential-Functions",
+          "level" : 2,
+          "text" : "Aproximating Exponential Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Non-integer powers are defined only for the real numbers, and looks like:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^{\\frac{n}{m}} = \\sqrt[m]{a^n}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where both ",
+              "type" : "text"
+            },
+            {
+              "code" : "$m$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$n$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " are any integer.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Since all irrational numbers can be approximated by rational numbers, a sufficiently precise ",
+              "type" : "text"
+            },
+            {
+              "code" : "$n\/m$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "sufficient to approximate ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a^x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " for any real number ",
+              "type" : "text"
+            },
+            {
+              "code" : "$x$",
+              "type" : "codeVoice"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Behaviour-of-Exponential-Functions",
+          "level" : 2,
+          "text" : "Behaviour of Exponential Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Given two values ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a > b$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", three conditions hold:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "a^x > b^x \\text{ where } x > 0",
+            "\\text{and}",
+            "a^x < b^x \\text{ where } x < 0",
+            "\\text{and}",
+            "a^x = b^x = 1 \\text{ where } x = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Exponential-Growth-and-Decay",
+          "level" : 2,
+          "text" : "Exponential Growth and Decay",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Exponential growth is defined as ",
+              "type" : "text"
+            },
+            {
+              "code" : "$y = a \\cdot b^x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " where all numbers are positive and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$b > 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Exponential decay is defined as ",
+              "type" : "text"
+            },
+            {
+              "code" : "$y = a \\cdot b^x$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " where all numbers are positive and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$0 < b < 1$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ".",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Both of these functions will “grow”\/“decay” faster than any polynomial function. That is,",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\lim_{x \\to \\infty} \\frac{a^x}{x^K} = \\infty",
+            "\\lim_{x \\to -\\infty} x^K a^{-x} = 0"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "For any ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$K$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " where ",
+              "type" : "text"
+            },
+            {
+              "code" : "$K$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is a positive integer and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$a$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is a real number larger than 0.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-3-Exponential-and-Logarithmic-Functions",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms",
+        "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions"
+      ],
+      "title" : "Chapter 3: Exponential and Logarithmic Functions"
+    }
+  ]
+, 
+"references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/3.2-Logarithms": {
+  "abstract" : [
+    {
+      "text" : "The opposite of the exponential function.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Logarithms",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.2-logarithms"
+},
+"doc://Notes/documentation/Notes/3.3-Hyperbolic-Functions": {
+  "abstract" : [
+    {
+      "text" : "They act similar to trig functions, but are not periodic",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Hyperbolic Functions",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.3-hyperbolic-functions"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/Exponential-and-Logarithmic-functions#Basic-Indices-Laws": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Exponential-and-Logarithmic-functions#Basic-Indices-Laws",
+  "kind" : "section",
+  "title" : "Basic Indices Laws",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/exponential-and-logarithmic-functions#Basic-Indices-Laws"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}

@@ -1,0 +1,752 @@
+{
+  "abstract" : [
+    {
+      "text" : "They act similar to trig functions, but are not periodic",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/Notes\/documentation\/Notes\/3.3-Hyperbolic-Functions"
+  },
+  "kind" : "article",
+  "metadata" : {
+    "role" : "article",
+    "roleHeading" : "Article",
+    "title" : "Hyperbolic Functions"
+  },
+  "primaryContentSections" : [
+    {
+      "content" : [
+        {
+          "anchor" : "Overview",
+          "level" : 2,
+          "text" : "Overview",
+          "type" : "heading"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "even and odd functions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "explain how hyperbolic functions are defined in terms of exponential functions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "obtain and use hyperbolic function identities",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "manipulate expressions involving hyperbolic functions",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "anchor" : "Even-and-Odd-Functions",
+          "level" : 2,
+          "text" : "Even and Odd Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "A given function ",
+              "type" : "text"
+            },
+            {
+              "code" : "$f(x)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " can be split into an even and odd part:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "f(x) = \\frac{1}{2} \\left( f(x) + f(-x) \\right) + \\frac{1}{2} \\left( f(x) - f(-x) \\right)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "where",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "the first part is even",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "the second part is odd",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Each of these parts have their own properties:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "columns" : [
+            {
+              "content" : [
+                {
+                  "anchor" : "Even-Functions",
+                  "level" : 3,
+                  "text" : "Even Functions",
+                  "type" : "heading"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Even functions are symmetric about the y-axis. They satisfy the property:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "g(x) = g(-x)"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "where ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$g(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the even function.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "This is because when ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is replaced with ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "-$x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " in the standard form, the function remains",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : " ",
+                      "type" : "text"
+                    },
+                    {
+                      "text" : "unchanged:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "\\frac{1}{2} \\left( f(x) + f(-x) \\right) = \\frac{1}{2} \\left( f(-x) + f(x) \\right)"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            },
+            {
+              "content" : [
+                {
+                  "anchor" : "Odd-Functions",
+                  "level" : 3,
+                  "text" : "Odd Functions",
+                  "type" : "heading"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Odd functions are symmetric about the origin. They satisfy the property:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "g(x) = -g(-x)"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "where ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$g(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is the odd function.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "This is because when ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " is replaced with ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "-$x$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " in the standard form, the function changes sign:",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                },
+                {
+                  "code" : [
+                    "\\frac{1}{2} \\left( f(x) - f(-x) \\right) = -\\frac{1}{2} \\left( f(-x) - f(x) \\right)"
+                  ],
+                  "syntax" : "math",
+                  "type" : "codeListing"
+                }
+              ],
+              "size" : 1
+            }
+          ],
+          "numberOfColumns" : 2,
+          "type" : "row"
+        },
+        {
+          "anchor" : "Hyperbolic-Function-Definitions",
+          "level" : 2,
+          "text" : "Hyperbolic Function Definitions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The hyperbolic functions ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\cosh(x)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$\\sinh(x)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " are defined in terms of the exponential function:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "e^x = \\frac{1}{2} \\left( e^x + e^{-x} \\right) + \\frac{1}{2} \\left( e^x - e^{-x} \\right)",
+            "",
+            "\\cosh(x) = \\frac{1}{2} \\left( e^x + e^{-x} \\right)",
+            "",
+            "\\sinh(x) = \\frac{1}{2} \\left( e^x - e^{-x} \\right)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "By definition, when these functions are added or subracted, they yield the following:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\cosh(x) + \\sinh(x) \\equiv e^x",
+            "\\cosh(x) - \\sinh(x) \\equiv e^{-x}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "They look like this:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "identifier" : "Graph_Hyperbolic Functions",
+              "type" : "image"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Hyperbolic-Function-Identities",
+          "level" : 2,
+          "text" : "Hyperbolic Function Identities",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Hyperbolic functions have similar (but not identical) identities to trigonometric functions. This is",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "because of their underlying definitions, which are very similar to each other:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\cosh(x) = \\frac{e^x + e^{-x}}{2}",
+            "\\sinh(x) = \\frac{e^x - e^{-x}}{2}",
+            "",
+            "\\sin(x) = \\frac{e^{ix} - e^{-ix}}{2i}",
+            "\\cos(x) = \\frac{e^{ix} + e^{-ix}}{2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The main identities are:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "header" : "row",
+          "rows" : [
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Trig Identity",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "text" : "Hyperbolic Counterpart",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\cos^2(x) + \\sin^2(x) = 1$ ",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\cosh^2(x) - \\sinh^2(x) = 1$ ",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\tan^2(x) + 1 = \\sec^2(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\tanh^2(x) + 1 = \\text{sech}^2(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\sin(2x) = 2\\sin(x)\\cos(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\sinh(2x) = 2\\sinh(x)\\cosh(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\cos(2x) = \\cos^2(x) - \\sin^2(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\cosh(2x) = \\cosh^2(x) + \\sinh^2(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ]
+          ],
+          "type" : "table"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Note the sign change in the first identity.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Other-Hyperbolic-Functions",
+          "level" : 2,
+          "text" : "Other Hyperbolic Functions",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The other hyperbolic functions are defined in terms of the basic ones:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\tanh(x) = \\frac{\\sinh(x)}{\\cosh(x)}",
+            "\\text{csch}(x) = \\frac{1}{\\sinh(x)}",
+            "\\text{sech}(x) = \\frac{1}{\\cosh(x)}",
+            "\\text{coth}(x) = \\frac{\\cosh(x)}{\\sinh(x)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        }
+      ],
+      "kind" : "content"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Chapter-3-Exponential-and-Logarithmic-Functions",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+        "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms"
+      ],
+      "title" : "Chapter 3: Exponential and Logarithmic Functions"
+    }
+  ]
+, 
+"references": {
+"Graph_Hyperbolic Functions": {
+  "alt" : "Graph of Hyperbolic Functions",
+  "identifier" : "Graph_Hyperbolic Functions",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Graph_Hyperbolic%20Functions.png"
+    }
+  ]
+},
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
+"doc://Notes/documentation/Home": {
+  "abstract" : [
+    {
+      "text" : "Notes. A lot of them. A jumble colosseum of notes. Jumbleum.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Home",
+  "kind" : "article",
+  "role" : "collection",
+  "title" : "Jumbleum",
+  "type" : "topic",
+  "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/3.1-Exponential-Function": {
+  "abstract" : [
+    {
+      "text" : "Basically ",
+      "type" : "text"
+    },
+    {
+      "code" : "$a^x$",
+      "type" : "codeVoice"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.1-Exponential-Function",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Exponential Function",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.1-exponential-function"
+},
+"doc://Notes/documentation/Notes/3.2-Logarithms": {
+  "abstract" : [
+    {
+      "text" : "The opposite of the exponential function.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/3.2-Logarithms",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Logarithms",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/3.2-logarithms"
+},
+"doc://Notes/documentation/Notes/Applied-Mathematics-1": {
+  "abstract" : [
+    {
+      "text" : "Mathematics, but specifically for engineering.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Applied-Mathematics-1",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Applied Mathematics 1",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/applied-mathematics-1"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
+}
+}
+}
