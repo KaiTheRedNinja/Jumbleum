@@ -76,32 +76,6 @@
         {
           "inlineContent" : [
             {
-              "text" : "See ",
-              "type" : "text"
-            },
-            {
-              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Identities",
-              "isActive" : true,
-              "type" : "reference"
-            },
-            {
-              "text" : " for a list of all the",
-              "type" : "text"
-            },
-            {
-              "text" : " ",
-              "type" : "text"
-            },
-            {
-              "text" : "trigonometric identities.",
-              "type" : "text"
-            }
-          ],
-          "type" : "paragraph"
-        },
-        {
-          "inlineContent" : [
-            {
               "text" : "Note that you CANNOT prove a trigonometric identity by substituting values for the variables, since that",
               "type" : "text"
             },
@@ -119,6 +93,289 @@
             },
             {
               "text" : "manipulating one side to become the other.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "anchor" : "Identities",
+          "level" : 2,
+          "text" : "Identities",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Repeating the identities from ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Identities",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : ":",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Quotient identity:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\tan(\\theta) \\equiv \\frac{sin(\\theta)}{cos(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Reciprocal identities:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\cosec(\\theta) \\equiv \\frac{1}{\\sin(\\theta)}",
+            "\\sec(\\theta) \\equiv \\frac{1}{\\cos(\\theta)}",
+            "\\cot(\\theta) \\equiv \\frac{1}{\\tan(\\theta)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Pythagoras identity:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin^2(\\theta) + \\cos^2(\\theta) \\equiv 1",
+            "\\tan^2(\\theta) + 1 \\equiv \\sec^2(\\theta)",
+            "1 + \\cot^2(\\theta) \\equiv \\cosec^2(\\theta)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Addition formulae:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(A \\pm B) = \\sin(A)\\cos(B) \\pm \\cos(A)\\sin(B)",
+            "\\cos(A \\pm B) = \\cos(A)\\cos(B) \\mp \\sin(A)\\sin(B)",
+            "",
+            "\\tan(A \\pm B) = \\frac{\\tan(A) \\pm \\tan(B)}{1 \\mp \\tan(A)\\tan(B)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Double angle formulae:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(2A) = 2 \\sin(A)\\cos(A)",
+            "\\cos(2A) = \\cos^2(A) - \\sin^2(A) ",
+            "\\quad = 2\\cos^2(A) - 1 ",
+            "\\quad = 1 - 2\\sin^2(A)",
+            "",
+            "\\tan(2A) = \\frac{2\\tan(A)}{1 - \\tan^2(A)}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Triple angle formulae:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\cos3A = 4 \\cos^3 A - 3\\cos A",
+            "\\sin 3A = 3\\sin A - 4\\sin^3 A",
+            "",
+            "\\tan3A = \\dfrac{3\\tan A - 3\\cos A}{1-3\\tan^2 A}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "See ",
+              "type" : "text"
+            },
+            {
+              "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Useful-Relationships",
+              "isActive" : true,
+              "type" : "reference"
+            },
+            {
+              "text" : " for relationships like ",
+              "type" : "text"
+            },
+            {
+              "code" : "$sin(90 - \\theta)$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " etc.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Theres also the sum of sines\/cosines formula.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(A) + \\sin(B) = 2\\sin\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)",
+            "",
+            "\\cos(A) + \\cos(B) = 2\\cos\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "anchor" : "Deriving-Sum-of-Sines-and-Cosines-Formula",
+          "level" : 3,
+          "text" : "Deriving Sum of Sines and Cosines Formula",
+          "type" : "heading"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Given these two identities:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(A + B) = \\sin(A)\\cos(B) + \\cos(A)\\sin(B)",
+            "\\sin(A - B) = \\sin(A)\\cos(B) - \\cos(A)\\sin(B)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Adding them gives:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(A + B) + \\sin(A - B) = 2\\sin(A)\\cos(B)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "We can now define ",
+              "type" : "text"
+            },
+            {
+              "code" : "$C = A + B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " and ",
+              "type" : "text"
+            },
+            {
+              "code" : "$D = A - B$",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : ", so that",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "A = \\frac{C + D}{2} \\quad \\textrm{and} \\quad B = \\frac{C - D}{2}"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "Hence, we can write the sum of two sines as:",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "code" : [
+            "\\sin(A) + \\sin(B) = 2\\sin\\left(\\frac{A+B}{2}\\right)\\cos\\left(\\frac{A-B}{2}\\right)"
+          ],
+          "syntax" : "math",
+          "type" : "codeListing"
+        },
+        {
+          "inlineContent" : [
+            {
+              "text" : "The derivation for subtraction of sines and addition\/subtraction of cosines is pretty similar, with",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "different things canceling out.",
               "type" : "text"
             }
           ],
@@ -365,6 +622,16 @@
   "title" : "Identities",
   "type" : "topic",
   "url" : "\/documentation\/notes\/trig-functions-identities-and-equations#Identities"
+},
+"doc://Notes/documentation/Notes/Trig-functions-identities-and-equations#Useful-Relationships": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Trig-functions-identities-and-equations#Useful-Relationships",
+  "kind" : "section",
+  "title" : "Useful Relationships",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/trig-functions-identities-and-equations#Useful-Relationships"
 }
 }
 }
