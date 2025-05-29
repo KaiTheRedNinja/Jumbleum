@@ -1296,6 +1296,23 @@
           "type" : "unorderedList"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Note that vertices are POINTS. They lie on lines, but they are not the lines themselves. They are the",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "points of intersection of those lines with the conic section.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Foci",
           "level" : 3,
           "text" : "Foci",

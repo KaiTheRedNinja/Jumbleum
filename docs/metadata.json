@@ -1,6 +1,6 @@
 {
   "bundleDisplayName" : "Notes",
-  "bundleIdentifier" : "Notes",
+  "bundleID" : "Notes",
   "schemaVersion" : {
     "major" : 0,
     "minor" : 1,

@@ -8,7 +8,9 @@
   "hierarchy" : {
     "paths" : [
       [
-        "doc:\/\/Notes\/documentation\/Home"
+        "doc:\/\/Notes\/documentation\/Home",
+        "doc:\/\/Notes\/documentation\/Notes\/NP",
+        "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice"
       ]
     ]
   },
@@ -575,9 +577,34 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Assignments",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale",
+        "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory"
+      ],
+      "title" : "Assignments"
+    }
   ]
 , 
 "references": {
+"Logo_NP.png": {
+  "alt" : "NP Logo",
+  "identifier" : "Logo_NP.png",
+  "type" : "image",
+  "variants" : [
+    {
+      "traits" : [
+        "1x",
+        "light"
+      ],
+      "url" : "\/images\/Notes\/Logo_NP.png"
+    }
+  ]
+},
 "doc://Notes/documentation/Home": {
   "abstract" : [
     {
@@ -591,6 +618,68 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/ASG1-The-Tale": {
+  "abstract" : [
+    {
+      "text" : "Assessment 1: The Tale (20%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Tale",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg1-the-tale"
+},
+"doc://Notes/documentation/Notes/ASG3-The-Inventory": {
+  "abstract" : [
+    {
+      "text" : "Assessment 3: The Inventory (20%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Inventory",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg3-the-inventory"
+},
+"doc://Notes/documentation/Notes/Find-Your-Voice": {
+  "abstract" : [
+    {
+      "text" : "Also called Confident Communication. I think this is a confidence\/speaking class? Not quite sure rn",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/Find-Your-Voice",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "Find Your Voice",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/find-your-voice"
+},
+"doc://Notes/documentation/Notes/NP": {
+  "abstract" : [
+    {
+      "text" : "Polytechnic content for Ngee Ann Polytechnic: Engineering Science 2025-2028",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/NP",
+  "images" : [
+    {
+      "identifier" : "Logo_NP.png",
+      "type" : "icon"
+    }
+  ],
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "NP",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/np"
 }
 }
 }

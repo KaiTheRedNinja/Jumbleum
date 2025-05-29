@@ -54,5 +54,10 @@ Note: Some of these dates are VERY close to each other. Do them AS SOON AS POSSI
 - <doc:VOICE-Framework>
 - <doc:Engaging-your-Audience>
 
+### Workshops
+- <doc:WS1-Whats-Wrong-with-Whatsapp>
+
 ### Assignments
 - <doc:ASG1-The-Tale>
+- <doc:ASG2-The-Quest>
+- <doc:ASG3-The-Inventory>

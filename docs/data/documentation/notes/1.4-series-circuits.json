@@ -529,6 +529,23 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Also, KVL does not need to be follow the wires\/components in a circuit, it is true for any closed loop of",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "voltages.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
           "anchor" : "Voltage-Notation",
           "level" : 2,
           "text" : "Voltage Notation",

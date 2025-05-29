@@ -310,12 +310,31 @@
                     "type" : "article"
                   },
                   {
+                    "title" : "Workshops",
+                    "type" : "groupMarker"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/ws1-whats-wrong-with-whatsapp",
+                    "title" : "Workshop 1 What’s Wrong with Whatsapp",
+                    "type" : "article"
+                  },
+                  {
                     "title" : "Assignments",
                     "type" : "groupMarker"
                   },
                   {
                     "path" : "\/documentation\/notes\/asg1-the-tale",
                     "title" : "The Tale",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/asg2-the-quest",
+                    "title" : "The Quest",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/asg3-the-inventory",
+                    "title" : "The Inventory",
                     "type" : "article"
                   }
                 ],
@@ -1219,20 +1238,6 @@
             "path" : "\/documentation\/notes\/sst",
             "title" : "SST",
             "type" : "symbol"
-          },
-          {
-            "title" : "Articles",
-            "type" : "groupMarker"
-          },
-          {
-            "path" : "\/documentation\/notes\/asg2-the-quest",
-            "title" : "The Quest",
-            "type" : "article"
-          },
-          {
-            "path" : "\/documentation\/notes\/asg3-the-inventory",
-            "title" : "The Inventory",
-            "type" : "article"
           }
         ],
         "path" : "\/documentation\/home",

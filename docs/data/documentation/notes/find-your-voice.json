@@ -805,9 +805,18 @@
       "title" : "Lessons"
     },
     {
+      "anchor" : "Workshops",
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/WS1-Whats-Wrong-with-Whatsapp"
+      ],
+      "title" : "Workshops"
+    },
+    {
       "anchor" : "Assignments",
       "identifiers" : [
-        "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale"
+        "doc:\/\/Notes\/documentation\/Notes\/ASG1-The-Tale",
+        "doc:\/\/Notes\/documentation\/Notes\/ASG2-The-Quest",
+        "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory"
       ],
       "title" : "Assignments"
     }
@@ -855,6 +864,34 @@
   "title" : "The Tale",
   "type" : "topic",
   "url" : "\/documentation\/notes\/asg1-the-tale"
+},
+"doc://Notes/documentation/Notes/ASG2-The-Quest": {
+  "abstract" : [
+    {
+      "text" : "Assessment 2: The Quest (40%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG2-The-Quest",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Quest",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg2-the-quest"
+},
+"doc://Notes/documentation/Notes/ASG3-The-Inventory": {
+  "abstract" : [
+    {
+      "text" : "Assessment 3: The Inventory (20%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Inventory",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg3-the-inventory"
 },
 "doc://Notes/documentation/Notes/Applied-Mathematics-1": {
   "abstract" : [
@@ -987,6 +1024,20 @@
   "title" : "VOICE Framework",
   "type" : "topic",
   "url" : "\/documentation\/notes\/voice-framework"
+},
+"doc://Notes/documentation/Notes/WS1-Whats-Wrong-with-Whatsapp": {
+  "abstract" : [
+    {
+      "text" : "Communicating online",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/WS1-Whats-Wrong-with-Whatsapp",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Workshop 1 What’s Wrong with Whatsapp",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ws1-whats-wrong-with-whatsapp"
 }
 }
 }

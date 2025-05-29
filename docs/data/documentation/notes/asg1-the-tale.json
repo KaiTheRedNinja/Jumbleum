@@ -1345,6 +1345,17 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Assignments",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/ASG2-The-Quest",
+        "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory"
+      ],
+      "title" : "Assignments"
+    }
   ]
 , 
 "references": {
@@ -1375,6 +1386,34 @@
   "title" : "Jumbleum",
   "type" : "topic",
   "url" : "\/documentation\/home"
+},
+"doc://Notes/documentation/Notes/ASG2-The-Quest": {
+  "abstract" : [
+    {
+      "text" : "Assessment 2: The Quest (40%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG2-The-Quest",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Quest",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg2-the-quest"
+},
+"doc://Notes/documentation/Notes/ASG3-The-Inventory": {
+  "abstract" : [
+    {
+      "text" : "Assessment 3: The Inventory (20%)",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/ASG3-The-Inventory",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "The Inventory",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/asg3-the-inventory"
 },
 "doc://Notes/documentation/Notes/Engaging-your-Audience#The-Hamburger-Structure": {
   "abstract" : [

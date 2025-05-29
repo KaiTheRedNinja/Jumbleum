@@ -140,6 +140,39 @@
         {
           "inlineContent" : [
             {
+              "text" : "Note that when ",
+              "type" : "text"
+            },
+            {
+              "code" : "r",
+              "type" : "codeVoice"
+            },
+            {
+              "text" : " is negative, the point is in the opposite direction of the angle θ. HOWEVER, if you see",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "this when dealing with conic sections, treat it as an invalid point. The polar coordinate form of a",
+              "type" : "text"
+            },
+            {
+              "text" : " ",
+              "type" : "text"
+            },
+            {
+              "text" : "hyperbola HAS NO “other” SIDE.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "inlineContent" : [
+            {
               "text" : "Note that the fact that ",
               "type" : "text"
             },
