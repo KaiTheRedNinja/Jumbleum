@@ -319,6 +319,16 @@
                     "type" : "article"
                   },
                   {
+                    "path" : "\/documentation\/notes\/ws2-so-dramatic",
+                    "title" : "Workshop 2 So Dramatic",
+                    "type" : "article"
+                  },
+                  {
+                    "path" : "\/documentation\/notes\/ws3-we-live-in-a-society",
+                    "title" : "Workshop 3 We Live in a Society",
+                    "type" : "article"
+                  },
+                  {
                     "title" : "Assignments",
                     "type" : "groupMarker"
                   },

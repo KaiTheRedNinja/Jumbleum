@@ -56,6 +56,8 @@ Note: Some of these dates are VERY close to each other. Do them AS SOON AS POSSI
 
 ### Workshops
 - <doc:WS1-Whats-Wrong-with-Whatsapp>
+- <doc:WS2-So-Dramatic>
+- <doc:WS3-We-Live-in-a-Society>
 
 ### Assignments
 - <doc:ASG1-The-Tale>

@@ -1,6 +1,6 @@
 # Workshop 1 What's Wrong with Whatsapp
 
-Communicating online
+(In-Person) Communicating online
 
 ## Overview
 

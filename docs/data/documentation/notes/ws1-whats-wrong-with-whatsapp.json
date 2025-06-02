@@ -1,7 +1,7 @@
 {
   "abstract" : [
     {
-      "text" : "Communicating online",
+      "text" : "(In-Person) Communicating online",
       "type" : "text"
     }
   ],
@@ -820,6 +820,17 @@
   },
   "sections" : [
 
+  ],
+  "seeAlsoSections" : [
+    {
+      "anchor" : "Workshops",
+      "generated" : true,
+      "identifiers" : [
+        "doc:\/\/Notes\/documentation\/Notes\/WS2-So-Dramatic",
+        "doc:\/\/Notes\/documentation\/Notes\/WS3-We-Live-in-a-Society"
+      ],
+      "title" : "Workshops"
+    }
   ]
 , 
 "references": {
@@ -884,6 +895,34 @@
   "title" : "NP",
   "type" : "topic",
   "url" : "\/documentation\/notes\/np"
+},
+"doc://Notes/documentation/Notes/WS2-So-Dramatic": {
+  "abstract" : [
+    {
+      "text" : "(In-Person) Using drama techniques to make yourself more confident",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/WS2-So-Dramatic",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Workshop 2 So Dramatic",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ws2-so-dramatic"
+},
+"doc://Notes/documentation/Notes/WS3-We-Live-in-a-Society": {
+  "abstract" : [
+    {
+      "text" : "Social media etiquette",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/Notes\/documentation\/Notes\/WS3-We-Live-in-a-Society",
+  "kind" : "article",
+  "role" : "article",
+  "title" : "Workshop 3 We Live in a Society",
+  "type" : "topic",
+  "url" : "\/documentation\/notes\/ws3-we-live-in-a-society"
 }
 }
 }
