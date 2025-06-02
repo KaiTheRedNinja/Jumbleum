@@ -413,6 +413,95 @@
           "type" : "paragraph"
         },
         {
+          "inlineContent" : [
+            {
+              "text" : "Interestingly, their symmetries stay the same.",
+              "type" : "text"
+            }
+          ],
+          "type" : "paragraph"
+        },
+        {
+          "items" : [
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\cosh(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\cos(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are symmetric about the y-axis (even functions).",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\sinh(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\sin(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are (rotationally) symmetric about the origin (odd functions).",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            },
+            {
+              "content" : [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$\\tanh(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " and ",
+                      "type" : "text"
+                    },
+                    {
+                      "code" : "$\\tan(x)$",
+                      "type" : "codeVoice"
+                    },
+                    {
+                      "text" : " are also odd functions.",
+                      "type" : "text"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            }
+          ],
+          "type" : "unorderedList"
+        },
+        {
           "anchor" : "Hyperbolic-Function-Identities",
           "level" : 2,
           "text" : "Hyperbolic Function Identities",
@@ -439,9 +528,11 @@
           "code" : [
             "\\cosh(x) = \\frac{e^x + e^{-x}}{2}",
             "\\sinh(x) = \\frac{e^x - e^{-x}}{2}",
+            "\\tanh(x) = \\frac{e^x - e^{-x}}{e^x + e^{-x}} = \\frac{\\sinh(x)}{\\cosh(x)}",
             "",
             "\\sin(x) = \\frac{e^{ix} - e^{-ix}}{2i}",
-            "\\cos(x) = \\frac{e^{ix} + e^{-ix}}{2}"
+            "\\cos(x) = \\frac{e^{ix} + e^{-ix}}{2}",
+            "\\tan(x) = \\frac{e^{ix} - e^{-ix}}{e^{ix} + e^{-ix}} = \\frac{\\sin(x)}{\\cos(x)}"
           ],
           "syntax" : "math",
           "type" : "codeListing"
@@ -571,6 +662,54 @@
                   "inlineContent" : [
                     {
                       "code" : "$\\cosh(2x) = \\cosh^2(x) + \\sinh^2(x)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$sin(x+y) = \\sin(x)\\cos(y) + \\cos(x)\\sin(y)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$sinh(x+y) = \\sinh(x)\\cosh(y) + \\cosh(x)\\sinh(y)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$cos(x+y) = \\cos(x)\\cos(y) - \\sin(x)\\sin(y)$",
+                      "type" : "codeVoice"
+                    }
+                  ],
+                  "type" : "paragraph"
+                }
+              ],
+              [
+                {
+                  "inlineContent" : [
+                    {
+                      "code" : "$cosh(x+y) = \\cosh(x)\\cosh(y) + \\sinh(x)\\sinh(y)$",
                       "type" : "codeVoice"
                     }
                   ],
